@@ -1,0 +1,2983 @@
+{
+  "practice": [
+    {
+      "data": [
+        {
+          "text": "a structure surrounding the heart",
+          "answer": "pericardium",
+          "type": 0
+        },
+        {
+          "text": "treatment by using cold temperature",
+          "answer": "cryotherapy",
+          "type": 0
+        },
+        {
+          "text": "difficulty in swallowing",
+          "answer": "dysphagia",
+          "type": 0
+        },
+        {
+          "text": "bone cells",
+          "answer": "osteocyte",
+          "type": 0
+        },
+        {
+          "text": "glands that secrete substances to the outside of the body (through ducts)",
+          "answer": "exocrine",
+          "type": 0
+        }
+      ],
+      "name": "Practice10"
+    },
+    {
+      "data": [
+        {
+          "text": "instrument for recording many physiologic responses simultaneously",
+          "answer": "polygraph",
+          "type": 0
+        },
+        {
+          "text": "visual examination of the abdominal cavity",
+          "answer": "celioscopy",
+          "type": 0
+        },
+        {
+          "text": "instrument for examining very small objects",
+          "answer": "microscope",
+          "type": 0
+        },
+        {
+          "text": "measurement of hearing",
+          "answer": "audiometry",
+          "type": 0
+        },
+        {
+          "text": "instrument for measuring the caloric energy of food",
+          "answer": "calorimeter",
+          "type": 0
+        },
+        {
+          "text": "record of the brain’s electrical activity",
+          "answer": "electroencephalogram",
+          "type": 0
+        },
+        {
+          "text": "recording data obtained by ultrasound",
+          "answer": "echography",
+          "type": 0
+        }
+      ],
+      "name": "Practice2"
+    },
+    {
+      "data": [
+        {
+          "text": "increase in red cells in the blood",
+          "answer": "erythremia",
+          "type": 0
+        },
+        {
+          "text": "deficiency of cells in the blood",
+          "answer": "cytopenia",
+          "type": 0
+        },
+        {
+          "text": "production of blood cells",
+          "answer": "hemopoiesis",
+          "type": 0
+        },
+        {
+          "text": "decrease of calcium in the blood",
+          "answer": "calcipenia",
+          "type": 0
+        },
+        {
+          "text": "deficiency of white blood cells",
+          "answer": "leukopenia",
+          "type": 0
+        },
+        {
+          "text": "formation of blood vessels",
+          "answer": "angiopoiesis",
+          "type": 0
+        },
+        {
+          "text": "congestion of the liver",
+          "answer": "hepatohemia",
+          "type": 0
+        }
+      ],
+      "name": "Practice3"
+    },
+    {
+      "data": [
+        {
+          "text": "incision into the liver",
+          "answer": "hepatotomy",
+          "type": 0
+        },
+        {
+          "text": "surgical repair of the liver",
+          "answer": "hepatorrhaphy",
+          "type": 0
+        },
+        {
+          "text": "surgical fixation of the liver",
+          "answer": "hepatopexy",
+          "type": 0
+        },
+        {
+          "text": "excision of liver tissue",
+          "answer": "hepatectomy",
+          "type": 0
+        },
+        {
+          "text": "hernia of the liver",
+          "answer": "hepatocele",
+          "type": 0
+        },
+        {
+          "text": "downward displacement of the liver",
+          "answer": "hepatoptosis",
+          "type": 0
+        }
+      ],
+      "name": "Practice4"
+    },
+    {
+      "data": [
+        {
+          "text": "fear of being in a public place",
+          "answer": "agoraphobia",
+          "type": 0
+        },
+        {
+          "text": "paralysis of the heart",
+          "answer": "cardioplegia",
+          "type": 0
+        },
+        {
+          "text": "uttering words that are different from those intended",
+          "answer": "heterophasia",
+          "type": 0
+        },
+        {
+          "text": "compulsive use of obscene words",
+          "answer": "coprolalia",
+          "type": 0
+        },
+        {
+          "text": "the irresistible urge to start a fire",
+          "answer": "pyromania",
+          "type": 0
+        }
+      ],
+      "name": "Practice6"
+    },
+    {
+      "data": [
+        {
+          "text": "normal breathing",
+          "answer": "eupnea",
+          "type": 0
+        },
+        {
+          "text": "normal level of carbon dioxide",
+          "answer": "normocapnia",
+          "type": 0
+        }
+      ],
+      "name": "Practice7"
+    },
+    {
+      "data": [
+        {
+          "text": "having watery stool through the rectum",
+          "answer": "diarrhea",
+          "type": 0
+        },
+        {
+          "text": "tumor of fat cells",
+          "answer": "lipoma",
+          "type": 0
+        },
+        {
+          "text": "hernia of the stomach",
+          "answer": "gastrocele",
+          "type": 0
+        },
+        {
+          "text": "condition of having pain in a nerve",
+          "answer": "neuralgia",
+          "type": 0
+        },
+        {
+          "text": "breaking of a nucleus",
+          "answer": "karyoclasis",
+          "type": 0
+        },
+        {
+          "text": "disease of the heart muscle",
+          "answer": "cardiomyopathy",
+          "type": 0
+        },
+        {
+          "text": "enlargement of the liver",
+          "answer": "hepatomegaly",
+          "type": 0
+        },
+        {
+          "text": "inflammation of the urinary bladder",
+          "answer": "cystitis",
+          "type": 0
+        },
+        {
+          "text": "pain in a gland",
+          "answer": "adenodynia",
+          "type": 0
+        },
+        {
+          "text": "splitting of the retina",
+          "answer": "retinoschisis",
+          "type": 0
+        },
+        {
+          "text": "rupture of the amniotic sac",
+          "answer": "amniorrhexis",
+          "type": 0
+        }
+      ],
+      "name": "Practice8"
+    },
+    {
+      "data": [
+        {
+          "text": "hardening of an artery",
+          "answer": "arteriosclerosis",
+          "type": 0
+        },
+        {
+          "text": "narrowing of an artery",
+          "answer": "arteriostenosis",
+          "type": 0
+        },
+        {
+          "text": "sudden contraction of an artery",
+          "answer": "arteriospasm",
+          "type": 0
+        },
+        {
+          "text": "softening of an artery",
+          "answer": "arteriomalacia",
+          "type": 0
+        }
+      ],
+      "name": "Practice9"
+    }
+  ],
+  "review": [
+    {
+      "data": [
+        {
+          "text": "Inflammation of the brain is",
+          "choices": [
+            "rhinitis",
+            "pleuritis",
+            "encephalitis",
+            "bronchitis"
+          ],
+          "answer": "encephalitis",
+          "type": 1
+        },
+        {
+          "text": "The separation of substances into their component parts is:",
+          "choices": [
+            "dialysis",
+            "analysis",
+            "hemolysis",
+            "paralysis"
+          ],
+          "answer": "dialysis",
+          "type": 1
+        },
+        {
+          "text": "A benign tumor of muscle is a (an)",
+          "choices": [
+            "myoma",
+            "myeloma",
+            "myosarcoma",
+            "myocardial infarction"
+          ],
+          "answer": "myoma",
+          "type": 1
+        },
+        {
+          "text": "Enlargement of the liver is",
+          "choices": [
+            "hepatoma",
+            "hepatomegaly",
+            "hepatitis",
+            "hepatorraphy"
+          ],
+          "answer": "hepatomegaly",
+          "type": 1
+        },
+        {
+          "text": "An instrument to visually examine the gallbladder is called a(an)",
+          "choices": [
+            "cystoscope",
+            "arthroscopy",
+            "cholecystoscope",
+            "gastroscope"
+          ],
+          "answer": "cholecystoscope",
+          "type": 1
+        },
+        {
+          "text": "A suffix meaning a condition of hardening is",
+          "choices": [
+            "–centesis",
+            "-stomy",
+            "-plasty",
+            "–sclerosis"
+          ],
+          "answer": "–sclerosis",
+          "type": 1
+        },
+        {
+          "text": "Disease of many nerves is called",
+          "choices": [
+            "polyneuropathy",
+            "neuropolypathy",
+            "pathypolyneuro",
+            "polypathy"
+          ],
+          "answer": "polyneuropathy",
+          "type": 1
+        },
+        {
+          "text": "Surgical repair of breast tissue is",
+          "choices": [
+            "mastectomy",
+            "mastitis",
+            "mammography",
+            "mammoplasty"
+          ],
+          "answer": "mastectomy",
+          "type": 1
+        },
+        {
+          "text": "Visual examination of the abdomen by making a small incision near the navel is called",
+          "choices": [
+            "laparoscope",
+            "laparotomy",
+            "mediastinoscopy",
+            "laparoscopy"
+          ],
+          "answer": "laparotomy",
+          "type": 1
+        },
+        {
+          "text": "Resection of the uterus is termed",
+          "choices": [
+            "oophorectomy",
+            "hysterectomy",
+            "urethrectomy",
+            "salpingectomy"
+          ],
+          "answer": "hysterectomy",
+          "type": 1
+        },
+        {
+          "text": "The voice box is the",
+          "choices": [
+            "lynex",
+            "larynx",
+            "lyrenx",
+            "leyrnx"
+          ],
+          "answer": "larynx",
+          "type": 1
+        },
+        {
+          "text": "Ven/o and phleb/o both mean",
+          "choices": [
+            "liver",
+            "blood",
+            "kidney",
+            "vein"
+          ],
+          "answer": "blood",
+          "type": 1
+        },
+        {
+          "text": "Prediction about the outcome of treatment is",
+          "choices": [
+            "diagnosis",
+            "thrombosis",
+            "prognosis",
+            "psychosis"
+          ],
+          "answer": "prognosis",
+          "type": 1
+        },
+        {
+          "text": "The endocrine gland located at the base of the brain is the",
+          "choices": [
+            "adrenal gland",
+            "thyroid gland",
+            "prostate gland",
+            "pituitary gland"
+          ],
+          "answer": "pituitary gland",
+          "type": 1
+        },
+        {
+          "text": "Flexible connective tissue found between bones at joints is",
+          "choices": [
+            "skin",
+            "muscle tissue",
+            "nervous tissue",
+            "cartilage"
+          ],
+          "answer": "cartilage",
+          "type": 1
+        },
+        {
+          "text": "A vague feeling of bodily discomfort is termed",
+          "choices": [
+            "anorexia",
+            "antispesis",
+            "anesthesia",
+            "malaise"
+          ],
+          "answer": "malaise",
+          "type": 1
+        },
+        {
+          "text": "An early symptom of an illness is called",
+          "choices": [
+            "syndrome",
+            "remission",
+            "prodrome",
+            "realpse"
+          ],
+          "answer": "prodrome",
+          "type": 1
+        },
+        {
+          "text": "Which term is not spelled correctly?",
+          "choices": [
+            "retinopathy",
+            "neuralgia",
+            "electrencephalo-",
+            "vasculitis"
+          ],
+          "answer": "electrencephalo-",
+          "type": 1
+        },
+        {
+          "text": "Surgical repair of the eardrum is called",
+          "choices": [
+            "otoplasty",
+            "auroplasty",
+            "somoplasty",
+            "tympanoplasty"
+          ],
+          "answer": "tympanoplasty",
+          "type": 1
+        },
+        {
+          "text": "Eating foods high in cholesterol and fats can cause a collection of fatty plaque in arteries. This condition is known as",
+          "choices": [
+            "atelectasis",
+            "atherosclerosis",
+            "otosclerosis",
+            "nephrosis"
+          ],
+          "answer": "atherosclerosis",
+          "type": 1
+        },
+        {
+          "text": "Surgical repair of the eyelid is termed",
+          "choices": [
+            "valvuloplasty",
+            "acetabuloplasty",
+            "blepharoplasty",
+            "tympanoplasty"
+          ],
+          "answer": "blepharoplasty",
+          "type": 1
+        },
+        {
+          "text": "A specialist in the study of tumors is",
+          "choices": [
+            "oncologist",
+            "gynecologist",
+            "pathologist",
+            "gastroenterologist"
+          ],
+          "answer": "oncologist",
+          "type": 1
+        },
+        {
+          "text": "What is the combining form for the word 'head'?",
+          "choices": [
+            "psycho/o",
+            "cerebr/o",
+            "opthalm/o",
+            "cephal/o"
+          ],
+          "answer": "cephal/o",
+          "type": 1
+        },
+        {
+          "text": "A condition in which blood is held back from an organ is",
+          "choices": [
+            "ischemia",
+            "uremia",
+            "hematuria",
+            "leukemia"
+          ],
+          "answer": "ischemia",
+          "type": 1
+        },
+        {
+          "text": "Condition of having urea in the blood is",
+          "choices": [
+            "leukemia",
+            "ischemia",
+            "menorrhea",
+            "uremia"
+          ],
+          "answer": "uremia",
+          "type": 1
+        },
+        {
+          "text": "Excessive bleeding during menstruation is",
+          "choices": [
+            "hematology",
+            "hematuria",
+            "menorrhagia",
+            "uremia"
+          ],
+          "answer": "menorrhagia",
+          "type": 1
+        },
+        {
+          "text": "A condition that lasts for a long time is called",
+          "choices": [
+            "acute",
+            "chronic",
+            "lateral",
+            "septic"
+          ],
+          "answer": "chronic",
+          "type": 1
+        },
+        {
+          "text": "Surgical puncture to remove the fluid from the chest is called",
+          "choices": [
+            "hysterotomy",
+            "thoracocentesis",
+            "oophorectomy",
+            "salpingectomy"
+          ],
+          "answer": "thoracocentesis",
+          "type": 1
+        },
+        {
+          "text": "Creation of a new opening from the windpipe to the outside of the body is",
+          "choices": [
+            "colostomy",
+            "pharyngotomy",
+            "tracheostomy",
+            "laparoscopy"
+          ],
+          "answer": "tracheostomy",
+          "type": 1
+        },
+        {
+          "text": "Pertaining to the new development or growth of abnormal tissue is",
+          "choices": [
+            "neoplastic",
+            "dysplasia",
+            "hypoplasia",
+            "hypertrophy"
+          ],
+          "answer": "neoplastic",
+          "type": 1
+        }
+      ],
+      "name": "ReviewA"
+    },
+    {
+      "data": [
+        {
+          "text": "A new connection between two previously unconnected portions of the colon is called colocolostomy.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Death of cells is termed as necrosis.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Subtotal hysterectomy refers to the complete resection of the uterus.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Osteomyelitis is the inflammation of the bone and bone marrow.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Paralysis of four limbs is paraplegia.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Treatment by chemicals is radiotherapy.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Pertaining to under the cartilages of the ribs is hypochondriac.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Uremia is the abnormal condition of blood in the urine.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Inflammation of the urinary bladder is cholecystitis.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Acute appendicitis necessitates appendectomy.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "A specialist in the disease of females is called gynecology.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Incision of a vein to withdraw blood is called phlebotomy.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "A malignant tumor of epithelial tissues in the body is called adenosarcoma.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Pertaining to the armpit is called axillary.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "A specialist in the administration of agents that cause loss of sensation is termed anesthesiologist.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Visual examination of what is within an organ is called endoscope.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "An opening in the windpipe is termed pharyngostomy.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Treatment using chemicals is called chemotherapy.",
+          "answer": true,
+          "type": 2
+        }
+      ],
+      "name": "ReviewB"
+    },
+    {
+      "data": [
+        {
+          "text": "Surgical puncture to remove fluid from the sac surrounding the embryo is",
+          "answer": "amniocentesis",
+          "type": 0
+        },
+        {
+          "text": "Incision of a vein to withdraw blood is",
+          "answer": "phlebotomy",
+          "type": 0
+        },
+        {
+          "text": "Inflammation of the windpipe is called",
+          "answer": "tracheitis",
+          "type": 0
+        },
+        {
+          "text": "Related to the tailbone of the spinal column is",
+          "answer": "coccygeal",
+          "type": 0
+        },
+        {
+          "text": "Paralysis of the lower half of the body is",
+          "answer": "paraplegia",
+          "type": 0
+        },
+        {
+          "text": "A specialist who examines biopsies and dead bodies is called a",
+          "answer": "pathologist",
+          "type": 0
+        },
+        {
+          "text": "Abnormal condition of blood clotting is",
+          "answer": "thrombosis",
+          "type": 0
+        },
+        {
+          "text": "Any disease of a kidney is",
+          "answer": "nephropathy",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to a blood vessel is",
+          "answer": "vascular",
+          "type": 0
+        },
+        {
+          "text": "Record of the spinal cord is",
+          "answer": "myelogram",
+          "type": 0
+        }
+      ],
+      "name": "ReviewC"
+    },
+    {
+      "data": [
+        {
+          "text": "inflammation of the skin",
+          "answer": "dermatitis",
+          "type": 0
+        },
+        {
+          "text": "abnormal condition of the mind",
+          "answer": "psychosis",
+          "type": 0
+        },
+        {
+          "text": "instrument used to visually examine body cavity",
+          "answer": "endoscope",
+          "type": 0
+        },
+        {
+          "text": "hardening of fatty plaque in the lining of the arteries",
+          "answer": "atherosclerosis",
+          "type": 0
+        },
+        {
+          "text": "incision into the head",
+          "answer": "cephalotomy",
+          "type": 0
+        },
+        {
+          "text": "complete separation of wastes from the blood",
+          "answer": "dialysis",
+          "type": 0
+        },
+        {
+          "text": "pertaining to the sac surrounding the developing fetus",
+          "answer": "amniotic",
+          "type": 0
+        },
+        {
+          "text": "complete state of knowledge",
+          "answer": "diagnosis",
+          "type": 0
+        },
+        {
+          "text": "surgical puncture to drain fluid from the chest",
+          "answer": "thoracentesis",
+          "type": 0
+        },
+        {
+          "text": "record of the electrical activity in the brain",
+          "answer": "electroencephalogram",
+          "type": 0
+        }
+      ],
+      "name": "ReviewD"
+    },
+    {
+      "data": [
+        {
+          "text": "inflammation of the bronchial tubes",
+          "answer": "bronchitis",
+          "type": 0
+        },
+        {
+          "text": "disease of the brain",
+          "answer": "encephalopathy",
+          "type": 0
+        },
+        {
+          "text": "drooping of the eyelid",
+          "answer": "blepharoptosis",
+          "type": 0
+        },
+        {
+          "text": "plastic repair of the eardrum",
+          "answer": "tympanoplasty",
+          "type": 0
+        },
+        {
+          "text": "death of cells",
+          "answer": "necrosis",
+          "type": 0
+        },
+        {
+          "text": "excision of the uterus",
+          "answer": "hysterectomy",
+          "type": 0
+        },
+        {
+          "text": "visual examination of the colon",
+          "answer": "colonoscopy",
+          "type": 0
+        },
+        {
+          "text": "condition of having nerve pain",
+          "answer": "neuralgia",
+          "type": 0
+        },
+        {
+          "text": "pertaining to abdominal cavity",
+          "answer": "celiac",
+          "type": 0
+        },
+        {
+          "text": "incision into the skull",
+          "answer": "craniotomy",
+          "type": 0
+        },
+        {
+          "text": "pertaining to the lower layer of the skin composed of fatty tissue",
+          "answer": "subcutaneous",
+          "type": 0
+        },
+        {
+          "text": "communication between the second and third parts of the small intestine",
+          "answer": "jejunoileostomy",
+          "type": 0
+        },
+        {
+          "text": "instrument to examine the chest (AKA stethoscope)",
+          "answer": "phonoscope",
+          "type": 0
+        },
+        {
+          "text": "instrument to examine the chest",
+          "answer": "ultrasonography",
+          "type": 0
+        },
+        {
+          "text": "specialist in the study of skin diseases",
+          "answer": "dermatologist",
+          "type": 0
+        }
+      ],
+      "name": "ReviewE"
+    },
+    {
+      "data": [
+        {
+          "text": "The suffix in the word insomnia is",
+          "choices": [
+            "in",
+            "nia",
+            "a",
+            "ia"
+          ],
+          "answer": "ia",
+          "type": 1
+        },
+        {
+          "text": "The suffix in sclerosis is",
+          "choices": [
+            "osis",
+            "ros",
+            "scler",
+            "is"
+          ],
+          "answer": "osis",
+          "type": 1
+        },
+        {
+          "text": "The adjective suffix in febrile is",
+          "choices": [
+            "e",
+            "le",
+            "ile",
+            "brile"
+          ],
+          "answer": "ile",
+          "type": 1
+        },
+        {
+          "text": "Cytogenesis is",
+          "choices": [
+            "formation of cells",
+            "division of the nucleus",
+            "formation of proteins",
+            "formation of fibers"
+          ],
+          "answer": "formation of cells",
+          "type": 1
+        },
+        {
+          "text": "A megakaryocyte is a cell with a large",
+          "choices": [
+            "membrane",
+            "nucleus",
+            "cytoplasm",
+            "wall"
+          ],
+          "answer": "nucleus",
+          "type": 1
+        },
+        {
+          "text": "A histologist studies",
+          "choices": [
+            "genetics",
+            "surgery",
+            "chemistry",
+            "tissues"
+          ],
+          "answer": "tissues",
+          "type": 1
+        },
+        {
+          "text": "A fibroadenoma is a fibrous tumor of a(n).",
+          "choices": [
+            "muscle",
+            "gland",
+            "heart",
+            "skull"
+          ],
+          "answer": "gland",
+          "type": 1
+        },
+        {
+          "text": "In adiposuria, the urine contains",
+          "choices": [
+            "sugar",
+            "carbohydrate",
+            "protein",
+            "fat"
+          ],
+          "answer": "fat",
+          "type": 1
+        },
+        {
+          "text": "Macrosomia refers to a large",
+          "choices": [
+            "tooth",
+            "gland",
+            "body",
+            "nucleus"
+          ],
+          "answer": "body",
+          "type": 1
+        },
+        {
+          "text": "The suffix –ase indicates a(n).",
+          "choices": [
+            "sugar",
+            "starch",
+            "cell",
+            "enzyme"
+          ],
+          "answer": "enzyme",
+          "type": 1
+        },
+        {
+          "text": "A lipase is",
+          "choices": [
+            "a carbohydrate that digests fat",
+            "a fat that digests carbohydrates",
+            "an enzyme that digests fats",
+            "a protein that digests cartilage"
+          ],
+          "answer": "an enzyme that digests fats",
+          "type": 1
+        },
+        {
+          "text": "Death of tissue is termed",
+          "choices": [
+            "bruising",
+            "bleeding",
+            "rupture",
+            "necrosis"
+          ],
+          "answer": "necrosis",
+          "type": 1
+        },
+        {
+          "text": "A toxin is a(n).",
+          "choices": [
+            "fever",
+            "drug",
+            "poison",
+            "test"
+          ],
+          "answer": "poison",
+          "type": 1
+        },
+        {
+          "text": "A cancer of muscle or connective tissue is termed a(n).",
+          "choices": [
+            "epithelioma",
+            "carcinoma",
+            "leukemia",
+            "sarcoma"
+          ],
+          "answer": "sarcoma",
+          "type": 1
+        },
+        {
+          "text": "A hernia is",
+          "choices": [
+            "death of an organ",
+            "protrusion of an organ through an abnormal opening",
+            "constriction of a vessel or organ",
+            "twisting of a channel"
+          ],
+          "answer": "protrusion of an organ through an abnormal opening",
+          "type": 1
+        },
+        {
+          "text": "Sepsis is caused by",
+          "choices": [
+            "fever",
+            "inflammation",
+            "bleeding",
+            "microorganisms"
+          ],
+          "answer": "microorganisms",
+          "type": 1
+        },
+        {
+          "text": "Adenopathy is",
+          "choices": [
+            "inflammation of a muscle",
+            "any disease of the lungs",
+            "enlargement of a gland",
+            "any disease of a gland"
+          ],
+          "answer": "enlargement of a gland",
+          "type": 1
+        },
+        {
+          "text": "Arteriosclerosis is",
+          "choices": [
+            "softening of the arteries",
+            "widening of the veins",
+            "hardening of the arteries",
+            "narrowing of the vessels"
+          ],
+          "answer": "hardening of the arteries",
+          "type": 1
+        },
+        {
+          "text": "Pain in the stomach is",
+          "choices": [
+            "gastrostenosis",
+            "gastropyretic",
+            "gastrolithiasis",
+            "gastralgia"
+          ],
+          "answer": "gastralgia",
+          "type": 1
+        },
+        {
+          "text": "In osteoclasis, a bone is",
+          "choices": [
+            "bent",
+            "arthritic",
+            "broken",
+            "disjointed"
+          ],
+          "answer": "disjointed",
+          "type": 1
+        },
+        {
+          "text": "The suffix –odynia means the same as",
+          "choices": [
+            "oma",
+            "itis",
+            "rhagia",
+            "algia"
+          ],
+          "answer": "algia",
+          "type": 1
+        },
+        {
+          "text": "The term hepatorrhexis describes",
+          "choices": [
+            "dropping of the liver",
+            "enlargement of the liver",
+            "softening of the liver",
+            "rupture of the liver"
+          ],
+          "answer": "rupture of the liver",
+          "type": 1
+        },
+        {
+          "text": "The suffix in seborrhea means",
+          "choices": [
+            "discharge",
+            "blockage",
+            "thinning",
+            "infection"
+          ],
+          "answer": "discharge",
+          "type": 1
+        },
+        {
+          "text": "In retinoschisis, the retina of the eye is",
+          "choices": [
+            "dislocated",
+            "split",
+            "healed",
+            "thickened"
+          ],
+          "answer": "split",
+          "type": 1
+        },
+        {
+          "text": "A word that means enlargement of the spleen is",
+          "choices": [
+            "splenomegaly",
+            "splenopathy",
+            "Splenitis",
+            "Splenorrhagia"
+          ],
+          "answer": "splenomegaly",
+          "type": 1
+        },
+        {
+          "text": "Hepatomalacia is",
+          "choices": [
+            "hardening of the liver",
+            "softening of the liver",
+            "rupture of the spleen",
+            "hemorrhage of the liver"
+          ],
+          "answer": "softening of the liver",
+          "type": 1
+        },
+        {
+          "text": "Tracheostenosis is",
+          "choices": [
+            "widening of the Trachea",
+            "rupture of the windpipe",
+            "narrowing of the throat",
+            "narrowing of the trachea"
+          ],
+          "answer": "narrowing of the trachea",
+          "type": 1
+        },
+        {
+          "text": "A word that means separation, dissolving, destruction is",
+          "choices": [
+            "ptosis",
+            "ectasia",
+            "stasis",
+            "lysis"
+          ],
+          "answer": "lysis",
+          "type": 1
+        },
+        {
+          "text": "A word for swelling caused by accumulation of fluid is",
+          "choices": [
+            "malacia",
+            "stenosis",
+            "edema",
+            "spasm"
+          ],
+          "answer": "edema",
+          "type": 1
+        },
+        {
+          "text": "A synonym for dilatation is",
+          "choices": [
+            "lithiasis",
+            "exacerbation",
+            "necrosis",
+            "ectasia"
+          ],
+          "answer": "ectasia",
+          "type": 1
+        },
+        {
+          "text": "In blepharoptosis, the eyelids",
+          "choices": [
+            "thin",
+            "separate",
+            "harden",
+            "droop"
+          ],
+          "answer": "droop",
+          "type": 1
+        },
+        {
+          "text": "The word stasis means",
+          "choices": [
+            "profuse flow",
+            "spasm",
+            "swelling",
+            "stoppage"
+          ],
+          "answer": "stoppage",
+          "type": 1
+        },
+        {
+          "text": "Cryotherapy is treatment with",
+          "choices": [
+            "drugs",
+            "heat",
+            "cold",
+            "radiation"
+          ],
+          "answer": "cold",
+          "type": 1
+        },
+        {
+          "text": "A phonostethograph",
+          "choices": [
+            "records heat waves",
+            "measures energy",
+            "releases air",
+            "records chest sounds"
+          ],
+          "answer": "records chest sounds",
+          "type": 1
+        },
+        {
+          "text": "A calorimeter",
+          "choices": [
+            "measure calories",
+            "generates heat",
+            "generates calories",
+            "is used to inspect internal organs"
+          ],
+          "answer": "is used to inspect internal organs",
+          "type": 1
+        },
+        {
+          "text": "A radiograph is made with",
+          "choices": [
+            "light",
+            "heat",
+            "sound",
+            "x-rays"
+          ],
+          "answer": "x-rays",
+          "type": 1
+        },
+        {
+          "text": "Laparoscopy is",
+          "choices": [
+            "suture of the abdomen",
+            "examination of the abdomen",
+            "recording of abdominal sounds",
+            "examination of the throat"
+          ],
+          "answer": "examination of the abdomen",
+          "type": 1
+        },
+        {
+          "text": "Binding of pleural membranes is called",
+          "choices": [
+            "Pleurodesis",
+            "pleurectomy",
+            "pleurometry",
+            "pleurocentesis"
+          ],
+          "answer": "Pleurodesis",
+          "type": 1
+        },
+        {
+          "text": "Lithotripsy is",
+          "choices": [
+            "measurement of calculi",
+            "surgical removal of a stone",
+            "crushing of a stone",
+            "removal of calculi"
+          ],
+          "answer": "crushing of a stone",
+          "type": 1
+        },
+        {
+          "text": "Arthroplasty is",
+          "choices": [
+            "measurement of a joint",
+            "fusion of a joint",
+            "surgery on the ear",
+            "plastic repair of a joint"
+          ],
+          "answer": "plastic repair of a joint",
+          "type": 1
+        },
+        {
+          "text": "In gastropexy, the stomach is",
+          "choices": [
+            "widened",
+            "surgically fixed",
+            "dilated",
+            "stapled for weight loss"
+          ],
+          "answer": "surgically fixed",
+          "type": 1
+        },
+        {
+          "text": "In a hepatorrhaphy, the liver is",
+          "choices": [
+            "divided",
+            "drained",
+            "stained",
+            "repaired"
+          ],
+          "answer": "repaired",
+          "type": 1
+        },
+        {
+          "text": "The ending in the word sympathomimetic means",
+          "choices": [
+            "enhancing",
+            "counteracting",
+            "simulating",
+            "ending"
+          ],
+          "answer": "simulating",
+          "type": 1
+        },
+        {
+          "text": "A hypnotic drug is one that",
+          "choices": [
+            "maintains wakefulness",
+            "reduces allergic responses",
+            "induces sleep",
+            "stimulates"
+          ],
+          "answer": "induces sleep",
+          "type": 1
+        },
+        {
+          "text": "Cardioptosis is",
+          "choices": [
+            "downward displacement of the heart",
+            "irregularity of the heartbeat",
+            "rupture of the heart",
+            "cardiomyopathy"
+          ],
+          "answer": "downward displacement of the heart",
+          "type": 1
+        },
+        {
+          "text": "A valvotome is a(n).",
+          "choices": [
+            "flap of a valve",
+            "instrument for incising a valve",
+            "instrument for measuring a valve",
+            "cusp of a valve"
+          ],
+          "answer": "instrument for incising a valve",
+          "type": 1
+        },
+        {
+          "text": "Phlebectasia is",
+          "choices": [
+            "constriction of a vein",
+            "spasm of a vein",
+            "dilatation of a capillary",
+            "dilatation of a vein"
+          ],
+          "answer": "dilatation of a vein",
+          "type": 1
+        },
+        {
+          "text": "Arteriostenosis is",
+          "choices": [
+            "widening of an artery",
+            "growth of an artery",
+            "shrinking of an arteriole",
+            "narrowing of an artery"
+          ],
+          "answer": "narrowing of an artery",
+          "type": 1
+        },
+        {
+          "text": "A lymphangioma is a(n).",
+          "choices": [
+            "tumor of lymph nodes",
+            "inflammation of lymphatic vessels",
+            "tumor of lymphatic vessels",
+            "removal of lymph nodes"
+          ],
+          "answer": "tumor of lymphatic vessels",
+          "type": 1
+        },
+        {
+          "text": "Cytopenia is a(n).",
+          "choices": [
+            "deficiency of cells",
+            "excess of cells",
+            "distorted shape of cells",
+            "enlargement of cells"
+          ],
+          "answer": "deficiency of cells",
+          "type": 1
+        },
+        {
+          "text": "Erythropoiesis is",
+          "choices": [
+            "formation of white cells",
+            "formation of red cells",
+            "destruction of red cells",
+            "formation of platelets"
+          ],
+          "answer": "formation of red cells",
+          "type": 1
+        },
+        {
+          "text": "The root in ischemia means",
+          "choices": [
+            "holding back",
+            "chemical",
+            "chemistry",
+            "lack of"
+          ],
+          "answer": "holding back",
+          "type": 1
+        },
+        {
+          "text": "Lymphopoiesis is",
+          "choices": [
+            "formation of lymph",
+            "formation of lymphocytes",
+            "destruction of lymphocytes",
+            "formation of macrophages"
+          ],
+          "answer": "formation of lymphocytes",
+          "type": 1
+        },
+        {
+          "text": "Thrombolysis is",
+          "choices": [
+            "destruction of a blood clot",
+            "measurement of clotting time",
+            "formation of a blood clot",
+            "formation of platelets"
+          ],
+          "answer": "destruction of a blood clot",
+          "type": 1
+        },
+        {
+          "text": "A cystocele is a(n).",
+          "choices": [
+            "dilatation of the bladder",
+            "shrinking of the bladder",
+            "dropping of the bladder",
+            "hernia of the bladder"
+          ],
+          "answer": "hernia of the bladder",
+          "type": 1
+        }
+      ],
+      "name": "ReviewG"
+    }
+  ],
+  "table": [
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-ian",
+            "meaning": "specialist in the field of study"
+          },
+          "example": {
+            "text": "optician",
+            "meaning": "One who makes and fits corrective lenses for the eye"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ist",
+            "meaning": "specialist in the field of study"
+          },
+          "example": {
+            "text": "anesthetist",
+            "meaning": "A medical specialist who administers anesthesia"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-iatrics",
+            "meaning": "medical specialty"
+          },
+          "example": {
+            "text": "pediatrics",
+            "meaning": "Care and treatment of children"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-iatry",
+            "meaning": "medical specialty"
+          },
+          "example": {
+            "text": "podiatry",
+            "meaning": "Study and treatment of the foot"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ics",
+            "meaning": "medical specialty"
+          },
+          "example": {
+            "text": "obstetrics",
+            "meaning": "Study and treatment of childbirth"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-logy",
+            "meaning": "study of"
+          },
+          "example": {
+            "text": "neurology",
+            "meaning": "Study of the nervous system"
+          }
+        }
+      ],
+      "name": "Table1"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-ase",
+            "meaning": "enzyme"
+          },
+          "example": {
+            "text": "amylase",
+            "meaning": "an enzyme that digests starch"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ose",
+            "meaning": "sugar"
+          },
+          "example": {
+            "text": "fructose",
+            "meaning": "fruit sugar"
+          }
+        }
+      ],
+      "name": "Table10"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-algia",
+            "meaning": "pain"
+          },
+          "example": {
+            "text": "myalgia",
+            "meaning": "pain in a muscle"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-algesia",
+            "meaning": "pain"
+          },
+          "example": {
+            "text": "analgesia",
+            "meaning": "having no sensation / pain"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-cele",
+            "meaning": "hernia, localized dilation"
+          },
+          "example": {
+            "text": "hydrocele",
+            "meaning": "local dilation containing fluid"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-clasis, -clasia",
+            "meaning": "breaking"
+          },
+          "example": {
+            "text": "osteoclasis",
+            "meaning": "breaking of a bone"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-itis",
+            "meaning": "inflammation"
+          },
+          "example": {
+            "text": "encephalitis",
+            "meaning": "inflammation of the brain"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-megaly",
+            "meaning": "enlargement"
+          },
+          "example": {
+            "text": "cardiomegaly",
+            "meaning": "enlargement of the heart"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-odynia",
+            "meaning": "pain"
+          },
+          "example": {
+            "text": "urodynia",
+            "meaning": "pain on urination"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-oma",
+            "meaning": "tumor"
+          },
+          "example": {
+            "text": "melanoma",
+            "meaning": "tumor of pigmented cells"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-pathy",
+            "meaning": "disease"
+          },
+          "example": {
+            "text": "nephropathy",
+            "meaning": "any disease of a kidney"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-rhage, -rhagia",
+            "meaning": "bursting forth, profuse flow"
+          },
+          "example": {
+            "text": "hemorrhage, menorrhagia",
+            "meaning": "bursting forth of blood, excessive bleeding during menstruation"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-rhea",
+            "meaning": "flow, discharge"
+          },
+          "example": {
+            "text": "pyorrhea",
+            "meaning": "discharge of pus"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-rhexis",
+            "meaning": "rupture"
+          },
+          "example": {
+            "text": "hepatorrhexis",
+            "meaning": "rupture of the liver"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-schisis",
+            "meaning": "splitting, fissure"
+          },
+          "example": {
+            "text": "thoracoschisis",
+            "meaning": "splitting of the chest"
+          }
+        }
+      ],
+      "name": "Table11"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-dilation",
+            "meaning": "expansion"
+          },
+          "example": {
+            "text": "vasodilation",
+            "meaning": "widening of the blood vessels"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ectasia",
+            "meaning": "distension, dilation"
+          },
+          "example": {
+            "text": "gastrectasia",
+            "meaning": "dilation of the stomach"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-edema",
+            "meaning": "swelling"
+          },
+          "example": {
+            "text": "cephaledema",
+            "meaning": "swelling of the head"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-lysis",
+            "meaning": "separation, destruction, dissolving, loosening"
+          },
+          "example": {
+            "text": "myolysis, hemolysis",
+            "meaning": "dissolving of muscle, destruction of blood cells"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-malacia",
+            "meaning": "softening"
+          },
+          "example": {
+            "text": "craniomalacia",
+            "meaning": "softening of the skull"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-necrosis",
+            "meaning": "death of tissue"
+          },
+          "example": {
+            "text": "cardionecrosis",
+            "meaning": "death of heart muscle"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ptosis",
+            "meaning": "drooping"
+          },
+          "example": {
+            "text": "splenoptosis",
+            "meaning": "prolapse of the spleen"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-sclerosis",
+            "meaning": "hardening"
+          },
+          "example": {
+            "text": "arteriosclerosis",
+            "meaning": "hardening of an artery"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-spasm",
+            "meaning": "sudden contraction"
+          },
+          "example": {
+            "text": "bronchospasm",
+            "meaning": "sudden contraction of the bronchial tubes"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-stasis",
+            "meaning": "stoppage, suppression"
+          },
+          "example": {
+            "text": "menostasis",
+            "meaning": "stoppage of the menstrual flow"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-stenosis",
+            "meaning": "narrowing, constriction"
+          },
+          "example": {
+            "text": "arteriostenosis",
+            "meaning": "narrowing of an artery"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-toxin",
+            "meaning": "poison"
+          },
+          "example": {
+            "text": "nephrotoxin",
+            "meaning": "substance harmful to the kidney"
+          }
+        }
+      ],
+      "name": "Table12"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-ad",
+            "meaning": "toward"
+          },
+          "example": {
+            "text": "cephalad",
+            "meaning": "toward the head"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-asthenia",
+            "meaning": "weakness"
+          },
+          "example": {
+            "text": "neurasthenia",
+            "meaning": "condition with vague symptoms"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-blast",
+            "meaning": "immature"
+          },
+          "example": {
+            "text": "astroblast",
+            "meaning": "immature cell"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-cidal",
+            "meaning": "destroying"
+          },
+          "example": {
+            "text": "suicidal",
+            "meaning": "likely to kill oneself"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-crine",
+            "meaning": "secreting"
+          },
+          "example": {
+            "text": "endocrine",
+            "meaning": "gland that secretes hormone into the bloodstream"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-crit",
+            "meaning": "separate"
+          },
+          "example": {
+            "text": "hematocrit",
+            "meaning": "percentage of volume of a blood sample that is composed of cells"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-cyte",
+            "meaning": "cells"
+          },
+          "example": {
+            "text": "thrombocyte",
+            "meaning": "blood platelet"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-dipsia",
+            "meaning": "thirst"
+          },
+          "example": {
+            "text": "polydipsia",
+            "meaning": "excessive thirst"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-emesis",
+            "meaning": "vomiting"
+          },
+          "example": {
+            "text": "hematemesis",
+            "meaning": "vomiting of blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-gen",
+            "meaning": "producing"
+          },
+          "example": {
+            "text": "carcinogen",
+            "meaning": "cancer-causing agent"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-globin",
+            "meaning": "protein"
+          },
+          "example": {
+            "text": "hemoglobin",
+            "meaning": "protein of red blood cells"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-kinesia",
+            "meaning": "movement"
+          },
+          "example": {
+            "text": "bradykinesia",
+            "meaning": "decrease in movement"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-lapse",
+            "meaning": "fall"
+          },
+          "example": {
+            "text": "prolapse",
+            "meaning": "falling forward"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-mission",
+            "meaning": "send"
+          },
+          "example": {
+            "text": "remission",
+            "meaning": "lessening of the symptoms of a disease"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-mortem",
+            "meaning": "death"
+          },
+          "example": {
+            "text": "postmortem",
+            "meaning": "after death"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-opsy",
+            "meaning": "viewing"
+          },
+          "example": {
+            "text": "biopsy",
+            "meaning": "cutting of living tissue to be viewed"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-para",
+            "meaning": "bearing"
+          },
+          "example": {
+            "text": "primipara",
+            "meaning": "woman who is giving birth for the first time"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-partum",
+            "meaning": "birth"
+          },
+          "example": {
+            "text": "antepartum",
+            "meaning": "before birth"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-pepsia",
+            "meaning": "digestion"
+          },
+          "example": {
+            "text": "dyspepsia",
+            "meaning": "impaired digestion"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phagia",
+            "meaning": "eating"
+          },
+          "example": {
+            "text": "polyphagia",
+            "meaning": "excessive eating"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phasia",
+            "meaning": "speech"
+          },
+          "example": {
+            "text": "aphasia",
+            "meaning": "lack of speech"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-pheresis",
+            "meaning": "removal"
+          },
+          "example": {
+            "text": "leukapheresis",
+            "meaning": "removal of leukocytes from drawn blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phil",
+            "meaning": "attraction"
+          },
+          "example": {
+            "text": "cyanophil",
+            "meaning": "element that turns blue after staining"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phoresis",
+            "meaning": "carrying"
+          },
+          "example": {
+            "text": "electrophoresis",
+            "meaning": "movement of particles into an electric field"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phoria",
+            "meaning": "feeling"
+          },
+          "example": {
+            "text": "euphoria",
+            "meaning": "feeling of well-being"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phrenia",
+            "meaning": "of the mind"
+          },
+          "example": {
+            "text": "schizophrenia",
+            "meaning": "common psychosis"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phylaxis",
+            "meaning": "protection"
+          },
+          "example": {
+            "text": "prophylaxis",
+            "meaning": "prevention of diseases"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-physis",
+            "meaning": "growing"
+          },
+          "example": {
+            "text": "epiphysis",
+            "meaning": "part of a long bone growing out of the shaft"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-plakia",
+            "meaning": "plaque"
+          },
+          "example": {
+            "text": "leukoplakia",
+            "meaning": "white patch in the mucous membrane"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-plasia",
+            "meaning": "formation"
+          },
+          "example": {
+            "text": "dysplasia",
+            "meaning": "abnormal tissue formation"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-porosis",
+            "meaning": "lessening in density"
+          },
+          "example": {
+            "text": "osteoporosis",
+            "meaning": "lessening of bone density"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-stalsis",
+            "meaning": "contraction"
+          },
+          "example": {
+            "text": "peristalsis",
+            "meaning": "movement of the intestine by contraction and relaxation of its tube"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-somnia",
+            "meaning": "sleep"
+          },
+          "example": {
+            "text": "insomnia",
+            "meaning": "lack of sleep"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-stat",
+            "meaning": "agent to maintain a state"
+          },
+          "example": {
+            "text": "bacteriostat",
+            "meaning": "agent that inhibits bacterial growth"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-tension",
+            "meaning": "pressure"
+          },
+          "example": {
+            "text": "hypertension",
+            "meaning": "high blood pressure"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-therapy",
+            "meaning": "treatment"
+          },
+          "example": {
+            "text": "radiotherapy",
+            "meaning": "treatment by using radiation"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-thesis",
+            "meaning": "Put, place"
+          },
+          "example": {
+            "text": "prosthesis",
+            "meaning": "artificial limbs added to the body"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-tic",
+            "meaning": "pertaining to"
+          },
+          "example": {
+            "text": "neoplastic",
+            "meaning": "pertaining to new formation"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-um",
+            "meaning": "structure"
+          },
+          "example": {
+            "text": "periosteum",
+            "meaning": "a structure surrounding a bone"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-uria",
+            "meaning": "urine condition"
+          },
+          "example": {
+            "text": "pyuria",
+            "meaning": "pus in the urine"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-version",
+            "meaning": "turning"
+          },
+          "example": {
+            "text": "retroversion",
+            "meaning": "a turning backward"
+          }
+        }
+      ],
+      "name": "Table13"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "appendectomy",
+          "meaning": "excision of the appendix"
+        },
+        {
+          "medical_term": "adenectomy",
+          "meaning": "excision of a gland"
+        },
+        {
+          "medical_term": "hepatectomy",
+          "meaning": "excision of the liver"
+        },
+        {
+          "medical_term": "cholecystectomy",
+          "meaning": "excision of the gallbladder"
+        },
+        {
+          "medical_term": "mastectomy",
+          "meaning": "excision of a breast"
+        },
+        {
+          "medical_term": "hysterectomy",
+          "meaning": "excision of the uterus"
+        },
+        {
+          "medical_term": "oophorectomy",
+          "meaning": "excision of the ovary"
+        },
+        {
+          "medical_term": "laryngectomy",
+          "meaning": "excision of the larynx"
+        },
+        {
+          "medical_term": "nephrectomy",
+          "meaning": "excision of a kidney"
+        },
+        {
+          "medical_term": "colectomy",
+          "meaning": "excision of the large intestine"
+        },
+        {
+          "medical_term": "tonsillectomy",
+          "meaning": "excision of tonsils"
+        }
+      ],
+      "name": "Table14"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "arthritis",
+          "meaning": "inflammation of a joint"
+        },
+        {
+          "medical_term": "neuritis",
+          "meaning": "inflammation of a nerve"
+        },
+        {
+          "medical_term": "esophagitis",
+          "meaning": "inflammation of the esophagus"
+        },
+        {
+          "medical_term": "encephalitis",
+          "meaning": "inflammation of the brain"
+        },
+        {
+          "medical_term": "osteitis",
+          "meaning": "inflammation of bones"
+        },
+        {
+          "medical_term": "dermatitis",
+          "meaning": "inflammation of skin"
+        },
+        {
+          "medical_term": "otitis",
+          "meaning": "inflammation of ears"
+        },
+        {
+          "medical_term": "rhinitis",
+          "meaning": "inflammation of the nose"
+        },
+        {
+          "medical_term": "bronchitis",
+          "meaning": "inflammation of the bronchial tubes"
+        },
+        {
+          "medical_term": "myositis",
+          "meaning": "inflammation of a muscle"
+        },
+        {
+          "medical_term": "phlebitis",
+          "meaning": "inflammation of veins"
+        },
+        {
+          "medical_term": "meningitis",
+          "meaning": "inflammation of the meninges"
+        },
+        {
+          "medical_term": "vasculitis",
+          "meaning": "inflammation of blood vessels"
+        }
+      ],
+      "name": "Table15"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "craniotomy",
+          "meaning": "incision into the skull"
+        },
+        {
+          "medical_term": "laparotomy",
+          "meaning": "incision into the abdomen"
+        },
+        {
+          "medical_term": "thoracotomy",
+          "meaning": "incision into the chest"
+        },
+        {
+          "medical_term": "phlebotomy",
+          "meaning": "incision into the vein"
+        }
+      ],
+      "name": "Table16"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "cryotherapy",
+          "meaning": "treatment using cold temperature"
+        },
+        {
+          "medical_term": "chemotherapy",
+          "meaning": "treatment using drugs"
+        },
+        {
+          "medical_term": "radiotherapy",
+          "meaning": "treatment using radiation"
+        }
+      ],
+      "name": "Table17"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "electrocardiography",
+          "meaning": "a procedure that records heart wave activity"
+        },
+        {
+          "medical_term": "electroencephalography",
+          "meaning": "a procedure that records brain wave activity"
+        },
+        {
+          "medical_term": "electromyography",
+          "meaning": "a procedure that records muscle activity"
+        },
+        {
+          "medical_term": "angiography",
+          "meaning": "a procedure that records blood vessels wave activity"
+        },
+        {
+          "medical_term": "mammography",
+          "meaning": "a procedure that records breast wave activity"
+        },
+        {
+          "medical_term": "electrocraniography",
+          "meaning": "a procedure that records skull wave activity"
+        }
+      ],
+      "name": "Table18"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "basal-cell carcinoma",
+          "meaning": "a slow-growing, locally invasive, but rarely metastasizing neoplasm of the skin derived from basal cells of the epidermis or hair follicles."
+        },
+        {
+          "medical_term": "cervical carcinoma",
+          "meaning": "cancer of the cervix (neck of the uterus)."
+        },
+        {
+          "medical_term": "chondrocarcinoma",
+          "meaning": "a malignant cartilaginous tumor of the epithelium."
+        },
+        {
+          "medical_term": "mammary carcinoma",
+          "meaning": "cancer of the breast."
+        },
+        {
+          "medical_term": "pancreatic carcinoma",
+          "meaning": "the presence of a malignant tumor in the pancreas."
+        },
+        {
+          "medical_term": "osteocarcinoma",
+          "meaning": "the presence of a malignant tumor in bones."
+        },
+        {
+          "medical_term": "colorectal carcinoma",
+          "meaning": "a malignant epithelial tumor arising from the colonic or rectal mucosa."
+        }
+      ],
+      "name": "Table19"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-graph",
+            "meaning": "instrument for recording data"
+          },
+          "example": {
+            "text": "electrocardiograph",
+            "meaning": "instrument used to record the electrical activity of the heart"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-graphy",
+            "meaning": "act of recording data"
+          },
+          "example": {
+            "text": "echography",
+            "meaning": "recording data obtained by ultrasound"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-gram",
+            "meaning": "a record of data"
+          },
+          "example": {
+            "text": "mammogram",
+            "meaning": "record of the breast"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-meter",
+            "meaning": "instrument for measuring"
+          },
+          "example": {
+            "text": "thermometer",
+            "meaning": "instrument for measuring temperature"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-metry",
+            "meaning": "measurement of"
+          },
+          "example": {
+            "text": "ergometry",
+            "meaning": "measurement of work done"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-scope",
+            "meaning": "instrument for visual examination"
+          },
+          "example": {
+            "text": "bronchoscope",
+            "meaning": "instrument for visually examining the bronchial tubes"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-scopy",
+            "meaning": "process of visually examining"
+          },
+          "example": {
+            "text": "esophagoscopy",
+            "meaning": "visual examination of the esophagus (food tube)"
+          }
+        }
+      ],
+      "name": "Table2"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "adenomyosarcoma",
+          "meaning": "malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass"
+        },
+        {
+          "medical_term": "cholangiosarcoma",
+          "meaning": "sarcoma of bile duct origin."
+        },
+        {
+          "medical_term": "esophageal osteosarcoma",
+          "meaning": "cancerous tumor of the esophagus"
+        },
+        {
+          "medical_term": "fibrosarcoma",
+          "meaning": "a form of malignant tumor derived from fibrous connective tissue"
+        },
+        {
+          "medical_term": "osteogenic sarcoma",
+          "meaning": "malignant bone tumor; most common in children and young adults where it tends to affect the femur"
+        },
+        {
+          "medical_term": "chondrosarcoma",
+          "meaning": "a malignant cartilaginous tumor that most frequently invades the long bones, pelvis, and the scapula."
+        },
+        {
+          "medical_term": "liposarcoma",
+          "meaning": "a cancerous growth of primitive fat cells"
+        },
+        {
+          "medical_term": "myosarcoma",
+          "meaning": "sarcoma of muscle tissue"
+        },
+        {
+          "medical_term": "Ewing’s sarcoma",
+          "meaning": "a malignant stem-cell bone tumor, usually occurring in the leg or pelvis of children and young adults,"
+        },
+        {
+          "medical_term": "alveolar Rhabdomyosarcoma",
+          "meaning": "a highly malignant neoplasm derived from striated muscle"
+        },
+        {
+          "medical_term": "lymphosarcoma",
+          "meaning": "a malignant disease of the lymphoid tissues characterized by proliferation of atypical lymphocytes and their localization in various parts of the body"
+        }
+      ],
+      "name": "Table20"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-esthesia",
+            "meaning": "sensation"
+          },
+          "example": {
+            "text": "dysesthesia",
+            "meaning": "any impairment of the senses"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-algesia",
+            "meaning": "pain"
+          },
+          "example": {
+            "text": "analgesia",
+            "meaning": "absence of the sense of pain"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-osmia",
+            "meaning": "sense of smell"
+          },
+          "example": {
+            "text": "parosmia",
+            "meaning": "a disorder of the sense of smell"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-geusia",
+            "meaning": "sense of taste"
+          },
+          "example": {
+            "text": "ageusia",
+            "meaning": "Loss of the sense of taste"
+          }
+        }
+      ],
+      "name": "Table3"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-emia",
+            "meaning": "condition of blood"
+          },
+          "example": {
+            "text": "hypoproteinemia",
+            "meaning": "decreased protein in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-emia",
+            "meaning": "condition of blood"
+          },
+          "example": {
+            "text": "polycythemia",
+            "meaning": "an abnormal increase in the number of red blood cells in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-penia",
+            "meaning": "decrease in"
+          },
+          "example": {
+            "text": "erythrocytopenia",
+            "meaning": "deficiency of the red blood cells in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-poiesis",
+            "meaning": "formation, production"
+          },
+          "example": {
+            "text": "erythropoiesis",
+            "meaning": "the production of red blood cells"
+          }
+        }
+      ],
+      "name": "Table4"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-emia",
+            "meaning": "condition of blood"
+          },
+          "example": {
+            "text": "hypoproteinemia",
+            "meaning": "decreased protein in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-emia",
+            "meaning": "condition of blood"
+          },
+          "example": {
+            "text": "polycythemia",
+            "meaning": "an abnormal increase in the number of red blood cells in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-penia",
+            "meaning": "decrease in"
+          },
+          "example": {
+            "text": "erythrocytopenia",
+            "meaning": "deficiency of the red blood cells in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-poiesis",
+            "meaning": "formation, production"
+          },
+          "example": {
+            "text": "erythropoiesis",
+            "meaning": "the production of red blood cells"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-rhaphy",
+            "meaning": "suture"
+          },
+          "example": {
+            "text": "arteriorrhaphy",
+            "meaning": "suture of an artery"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-stomy",
+            "meaning": "opening to the outside of the body, communication"
+          },
+          "example": {
+            "text": "tracheostomy, colocolostomy",
+            "meaning": "opening of the windpipe to the outside of the body, communication between two unconnected parts of the colon"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-tome",
+            "meaning": "instrument to incise"
+          },
+          "example": {
+            "text": "microtome",
+            "meaning": "instrument for cutting thin sections of tissue for microscopic study"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-tomy",
+            "meaning": "incision"
+          },
+          "example": {
+            "text": "cystotomy",
+            "meaning": "incision of the urinary bladder"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-tripsy",
+            "meaning": "crushing"
+          },
+          "example": {
+            "text": "lithotripsy",
+            "meaning": "crushing of stones"
+          }
+        }
+      ],
+      "name": "Table5"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-lytic",
+            "meaning": "dissolving, reducing"
+          },
+          "example": {
+            "text": "thrombolytic",
+            "meaning": "agent that dissolves a blood clot"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-mimetic",
+            "meaning": "simulating"
+          },
+          "example": {
+            "text": "sympathomimetic",
+            "meaning": "mimicking the effects of the sympathetic nervous system"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-tropic",
+            "meaning": "acting on"
+          },
+          "example": {
+            "text": "psychotropic",
+            "meaning": "acting on the mind"
+          }
+        }
+      ],
+      "name": "Table6"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-phasia",
+            "meaning": "speech"
+          },
+          "example": {
+            "text": "aphasia",
+            "meaning": "lack of speech"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-lalia",
+            "meaning": "speech"
+          },
+          "example": {
+            "text": "bradylalia",
+            "meaning": "slowness in speech"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-lexia",
+            "meaning": "reading"
+          },
+          "example": {
+            "text": "dyslexia",
+            "meaning": "difficulty in reading"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-plegia",
+            "meaning": "paralysis"
+          },
+          "example": {
+            "text": "quadriplegia",
+            "meaning": "paralysis of four limbs"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-paresis",
+            "meaning": "partial paralysis"
+          },
+          "example": {
+            "text": "myoparesis",
+            "meaning": "partial paralysis in muscle"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-lepsy",
+            "meaning": "seizure"
+          },
+          "example": {
+            "text": "narcolepsy",
+            "meaning": "condition marked by a sudden episode of sleep"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phobia",
+            "meaning": "irrational fear"
+          },
+          "example": {
+            "text": "photophobia",
+            "meaning": "fear of light"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-mania",
+            "meaning": "excited state, obsession"
+          },
+          "example": {
+            "text": "megalomania",
+            "meaning": "exaggerated self-importance"
+          }
+        }
+      ],
+      "name": "Table7"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-opsia",
+            "meaning": "vision"
+          },
+          "example": {
+            "text": "achromatopsia",
+            "meaning": "color blindness"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-opia",
+            "meaning": "vision"
+          },
+          "example": {
+            "text": "diplopia",
+            "meaning": "double vision"
+          }
+        }
+      ],
+      "name": "Table8"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-pnea",
+            "meaning": "breathing"
+          },
+          "example": {
+            "text": "dyspnea",
+            "meaning": "difficulty in breathing"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-oxia",
+            "meaning": "level of oxygen"
+          },
+          "example": {
+            "text": "anoxia",
+            "meaning": "lack of oxygen in the tissue"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-capnia",
+            "meaning": "level of carbon dioxide"
+          },
+          "example": {
+            "text": "eucapnia",
+            "meaning": "normal level of carbon dioxide in the tissue"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-phonia",
+            "meaning": "voice"
+          },
+          "example": {
+            "text": "aphonia",
+            "meaning": "lack of voice"
+          }
+        }
+      ],
+      "name": "Table9"
+    }
+  ]
+}

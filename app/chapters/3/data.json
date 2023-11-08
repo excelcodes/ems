@@ -1,2069 +1,1961 @@
 {
-  "CombiningForm": [
+  "practice": [
     {
-      "Cform": "an/o",
-      "Meaning": "anus",
-      "Example": "perianal"
+      "data": [
+        {
+          "text": "overproduction of a hormone",
+          "answer": "hypersecretion",
+          "type": 0
+        },
+        {
+          "text": "abnormally deep respiration",
+          "answer": "hyperventilation",
+          "type": 0
+        },
+        {
+          "text": "high increase of cells in size",
+          "answer": "hypertrophy",
+          "type": 0
+        },
+        {
+          "text": "high increase of cells in numbers",
+          "answer": "hyperplasia",
+          "type": 0
+        }
+      ],
+      "name": "Practice10"
     },
     {
-      "Cform": "carp/o",
-      "Meaning": "wrist bone",
-      "Example": "metacarpal"
+      "data": [
+        {
+          "text": "composed of different materials",
+          "answer": "heterogeneous",
+          "type": 0
+        },
+        {
+          "text": "composed of identical cells",
+          "answer": "isocellular",
+          "type": 0
+        },
+        {
+          "text": "false response",
+          "answer": "pseudoreaction",
+          "type": 0
+        },
+        {
+          "text": "correcting deformity",
+          "answer": "orthotic",
+          "type": 0
+        },
+        {
+          "text": "return of partly digested food from the stomach to the mouth/backward flow",
+          "answer": "regurgitation",
+          "type": 0
+        },
+        {
+          "text": "a state of balance",
+          "answer": "equilibrium",
+          "type": 0
+        },
+        {
+          "text": "normal production of thyroid hormone",
+          "answer": "euthyroidism",
+          "type": 0
+        },
+        {
+          "text": "large enough to be seen without a microscope",
+          "answer": "macroscopic",
+          "type": 0
+        },
+        {
+          "text": "tissue transplanted to another of the same species",
+          "answer": "homograft",
+          "type": 0
+        },
+        {
+          "text": "normal blood volume",
+          "answer": "normovolemia",
+          "type": 0
+        },
+        {
+          "text": "irregular condition of the skin",
+          "answer": "poikiloderma",
+          "type": 0
+        }
+      ],
+      "name": "Practice11"
     },
     {
-      "Cform": "cis/o",
-      "Meaning": "cutting",
-      "Example": "incision"
+      "data": [
+        {
+          "text": "an element that has one atom",
+          "answer": "monoatomic",
+          "type": 0
+        },
+        {
+          "text": "half solid",
+          "answer": "semisolid",
+          "type": 0
+        },
+        {
+          "text": "disease of many nerves",
+          "answer": "polyneuropathy",
+          "type": 0
+        },
+        {
+          "text": "make two or more in one parts",
+          "answer": "unify",
+          "type": 0
+        },
+        {
+          "text": "an organism that has two sets of chromosome",
+          "answer": "diploid",
+          "type": 0
+        }
+      ],
+      "name": "Practice2"
     },
     {
-      "Cform": "cost/o",
-      "Meaning": "ribs",
-      "Example": "subcostal"
+      "data": [
+        {
+          "text": "increase in malignant white blood cells in blood and bone marrow",
+          "answer": "leukemia",
+          "type": 0
+        },
+        {
+          "text": "yellow growth on the skin",
+          "answer": "xanthoma",
+          "type": 0
+        },
+        {
+          "text": "a mature melanin forming cell in the skin",
+          "answer": "melanocyte",
+          "type": 0
+        },
+        {
+          "text": "abnormal condition of having an increase in the total red blood cell mass",
+          "answer": "erythrocytosis",
+          "type": 0
+        }
+      ],
+      "name": "Practice3"
     },
     {
-      "Cform": "crani/o",
-      "Meaning": "skull",
-      "Example": "extracranial"
+      "data": [
+        {
+          "text": "throwing or extending toward",
+          "answer": "projectile",
+          "type": 0
+        },
+        {
+          "text": "before a fever (the time preceding the development of fever)",
+          "answer": "antefebrile",
+          "type": 0
+        },
+        {
+          "text": "after menopause, which is the cessation or stoppage of menstruation in women",
+          "answer": "postmenopause",
+          "type": 0
+        },
+        {
+          "text": "occurring before the proper time",
+          "answer": "premature",
+          "type": 0
+        }
+      ],
+      "name": "Practice4"
     },
     {
-      "Cform": "crin/o",
-      "Meaning": "secretion",
-      "Example": "endocrine"
+      "data": [
+        {
+          "text": "rapid heart rate",
+          "answer": "tachycardia",
+          "type": 0
+        },
+        {
+          "text": "rapid breathing",
+          "answer": "tachypnea",
+          "type": 0
+        },
+        {
+          "text": "extreme rapidity of speech",
+          "answer": "tachylalia",
+          "type": 0
+        },
+        {
+          "text": "abnormally rapid mental activity",
+          "answer": "tachyphrenia",
+          "type": 0
+        }
+      ],
+      "name": "Practice5"
     },
     {
-      "Cform": "dactyl/o",
-      "Meaning": "fingers or toes",
-      "Example": "polydactyly"
+      "data": [
+        {
+          "text": "Replace the prefix in \"circumoral\" with another one having the same meaning.",
+          "answer": "perioral",
+          "type": 0
+        },
+        {
+          "text": "Replace the prefix in \"subcostal\" with another one having the same meaning.",
+          "answer": "infracostal",
+          "type": 0
+        },
+        {
+          "text": "Replace the prefix in \"periorbital\" with another one having the same meaning.",
+          "answer": "circumorbital",
+          "type": 0
+        },
+        {
+          "text": "Replace the prefix in \"infrascapular\" with another one having the same meaning.",
+          "answer": "subscapular",
+          "type": 0
+        }
+      ],
+      "name": "Practice6"
     },
     {
-      "Cform": "dur/o",
-      "Meaning": "dura mater",
-      "Example": "subdural hematoma"
+      "data": [
+        {
+          "text": "Add a prefix to form the negative of \"contributory\"",
+          "answer": "noncontributory",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"coordinated\"",
+          "answer": "uncoordinated",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"calcify\"",
+          "answer": "decalcify",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"compatible\"",
+          "answer": "incompatible",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"dote\"",
+          "answer": "antidote",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"sect\"",
+          "answer": "dissect",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"ception\"",
+          "answer": "contraception",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"hydrous\"",
+          "answer": "anhydrous",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"mnesia\"",
+          "answer": "amnesia",
+          "type": 0
+        },
+        {
+          "text": "Add a prefix to form the negative of \"moral\"",
+          "answer": "immoral",
+          "type": 0
+        }
+      ],
+      "name": "Practice8"
     },
     {
-      "Cform": "gen/o",
-      "Meaning": "produce",
-      "Example": "congenital"
-    },
-    {
-      "Cform": "ign/o",
-      "Meaning": "fire",
-      "Example": "malignant"
-    },
-    {
-      "Cform": "later/o",
-      "Meaning": "side",
-      "Example": "bilateral"
-    },
-    {
-      "Cform": "lingu/o",
-      "Meaning": "tongue",
-      "Example": "sublingual"
-    },
-    {
-      "Cform": "nat/i",
-      "Meaning": "birth",
-      "Example": "postnatal"
-    },
-    {
-      "Cform": "norm/o",
-      "Meaning": "rule/order",
-      "Example": "abnormal"
-    },
-    {
-      "Cform": "peritone/o",
-      "Meaning": "peritoneum",
-      "Example": "retroperitoneal"
-    },
-    {
-      "Cform": "phag/o",
-      "Meaning": "appetite",
-      "Example": "polyphagia"
-    },
-    {
-      "Cform": "phas/o",
-      "Meaning": "speech",
-      "Example": "aphasia"
-    },
-    {
-      "Cform": "plas/o",
-      "Meaning": "formation",
-      "Example": "dysplasia"
-    },
-    {
-      "Cform": "pleg/o",
-      "Meaning": "paralysis",
-      "Example": "quadriplegia"
-    },
-    {
-      "Cform": "scapul/o",
-      "Meaning": "shoulder blades",
-      "Example": "subscapular"
-    },
-    {
-      "Cform": "sect/o",
-      "Meaning": "cutting",
-      "Example": "resection"
-    },
-    {
-      "Cform": "thyroid/o",
-      "Meaning": "thyroid hormone",
-      "Example": "hyperthyroidism"
-    },
-    {
-      "Cform": "top/o",
-      "Meaning": "to put/place",
-      "Example": "ectopic"
-    },
-    {
-      "Cform": "troph/o",
-      "Meaning": "development",
-      "Example": "atrophy"
-    },
-    {
-      "Cform": "urethr/o",
-      "Meaning": "urethra",
-      "Example": "transurethral"
-    },
-    {
-      "Cform": "uter/o",
-      "Meaning": "uterus",
-      "Example": "intrauterine"
-    },
-    {
-      "Cform": "ven/o",
-      "Meaning": "vein",
-      "Example": "intravenous"
-    },
-    {
-      "Cform": "vertebr/o",
-      "Meaning": "backbone",
-      "Example": "intervertebral"
+      "data": [
+        {
+          "text": "a harmful substance existing inside or within",
+          "answer": "endotoxin",
+          "type": 0
+        },
+        {
+          "text": "originating outside the body",
+          "answer": "exogenous",
+          "type": 0
+        },
+        {
+          "text": "if pertaining to the nervous system) pertaining to fight or flight response to stimuli (the word has other meanings)",
+          "answer": "sympathetic",
+          "type": 0
+        },
+        {
+          "text": "junction between two nerve cells",
+          "answer": "synapse",
+          "type": 0
+        }
+      ],
+      "name": "Practice9"
     }
   ],
-  "FirstTable": [
+  "review": [
     {
-      "keyword": "hypothyroidism",
-      "meaning": "abnormally low activity of the thyroid gland"
+      "data": [
+        {
+          "text": "A prefix that means the same as di- is",
+          "choices": [
+            "tri",
+            "uni",
+            "bi",
+            "mono"
+          ],
+          "answer": "bi",
+          "type": 1
+        },
+        {
+          "text": "The prefixes hemi- and semi- mean",
+          "choices": [
+            "whole",
+            "first",
+            "two",
+            "half"
+          ],
+          "answer": "half",
+          "type": 1
+        },
+        {
+          "text": "The prefix in binocular means",
+          "choices": [
+            "one",
+            "three",
+            "four",
+            "two"
+          ],
+          "answer": "two",
+          "type": 1
+        },
+        {
+          "text": "The prefix in nonexistent means",
+          "choices": [
+            "slow",
+            "complex",
+            "equal",
+            "not"
+          ],
+          "answer": "not",
+          "type": 1
+        },
+        {
+          "text": "A neonate is a(n)",
+          "choices": [
+            "teen",
+            "adult",
+            "preteen",
+            "newborn"
+          ],
+          "answer": "newborn",
+          "type": 1
+        },
+        {
+          "text": "The prefixes ante-, pre-, and pro- all mean",
+          "choices": [
+            "after",
+            "within",
+            "under",
+            "before"
+          ],
+          "answer": "before",
+          "type": 1
+        },
+        {
+          "text": "The prefix tel/o- means",
+          "choices": [
+            "together",
+            "middle",
+            "end",
+            "apart"
+          ],
+          "answer": "end",
+          "type": 1
+        },
+        {
+          "text": "The prefixes meta- and ultra- mean",
+          "choices": [
+            "whole",
+            "outside",
+            "inside",
+            "beyond"
+          ],
+          "answer": "beyond",
+          "type": 1
+        },
+        {
+          "text": "The prefix in analysis means",
+          "choices": [
+            "apart",
+            "not",
+            "separation",
+            "breaking"
+          ],
+          "answer": "not",
+          "type": 1
+        },
+        {
+          "text": "The prefix in pachycephaly means",
+          "choices": [
+            "slow",
+            "fast",
+            "equal",
+            "thickness"
+          ],
+          "answer": "thickness",
+          "type": 1
+        }
+      ],
+      "name": "ReviewA"
     },
     {
-      "keyword": "hyperthyroidism",
-      "meaning": "over activity of the thyroid gland"
+      "data": [
+        {
+          "text": "The prefix in leukocyte means “irregular.”",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The prefix in percutaneous means “on the skin.”",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The prefix in synthesis means “apart.”",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The last stage of cell division is prophase.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A prefix appears before a root and after a suffix.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A polysaccharide is composed of more sugar than a monosaccharide.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The prefix in dissect means “to separate.”",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "“Anti-” and “contra-” mean the same thing.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Right-handed people are dextromanual.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "A telomere is found in the middle of a chromosome.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The prefix in erythrocyte means “red.”",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The prefix in periosteum means “on the bone.”",
+          "answer": false,
+          "type": 2
+        }
+      ],
+      "name": "ReviewB"
     },
     {
-      "keyword": "apnea",
-      "meaning": "cessation of breathing"
+      "data": [
+        {
+          "text": "Hypoxia causes a bluish discoloration of the skin is termed.",
+          "answer": "Cyanosis",
+          "type": 0
+        },
+        {
+          "text": "The prefix in superciliary means above.",
+          "answer": "Above",
+          "type": 0
+        },
+        {
+          "text": "The prefix poikilo- means irregular.",
+          "answer": "Irregular",
+          "type": 0
+        },
+        {
+          "text": "The prefix in the word pachycephaly means thick.",
+          "answer": "Thick",
+          "type": 0
+        },
+        {
+          "text": "Total paralysis is.",
+          "answer": "Panplegia",
+          "type": 0
+        },
+        {
+          "text": "Composed of similar cells is.",
+          "answer": "Isocellular",
+          "type": 0
+        },
+        {
+          "text": "A group of four is.",
+          "answer": "Tetrad",
+          "type": 0
+        },
+        {
+          "text": "Describing a colony derived from one cell is.",
+          "answer": "Monocellular/unicellular",
+          "type": 0
+        },
+        {
+          "text": "To separate tissues for anatomical study is called.",
+          "answer": "Dissect",
+          "type": 0
+        },
+        {
+          "text": "A mass of blood above the membrane surrounding the brain is.",
+          "answer": "Subdural hematoma",
+          "type": 0
+        },
+        {
+          "text": "Surgical puncture to remove fluid from the membrane surrounding the fetus is.",
+          "answer": "Amniocentesis",
+          "type": 0
+        }
+      ],
+      "name": "ReviewC"
     },
     {
-      "keyword": "dyspnea",
-      "meaning": "difficulty in breathing"
+      "data": [
+        {
+          "text": "Pertaining to below the tongue",
+          "answer": "sublingual",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to behind the membrane that surrounds the abdominal cavity",
+          "answer": "retroperitoneal",
+          "type": 0
+        },
+        {
+          "text": "Lack of speech",
+          "answer": "aphasia",
+          "type": 0
+        },
+        {
+          "text": "Paralysis of the four limbs (arms and legs)",
+          "answer": "quadriplegia",
+          "type": 0
+        },
+        {
+          "text": "Between two or more vertebrae",
+          "answer": "intervertebral",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to one of the membranes that separates the thoracic cavity from the abdominal cavity",
+          "answer": "hypochondriac",
+          "type": 0
+        },
+        {
+          "text": "High blood pressure",
+          "answer": "hypertension",
+          "type": 0
+        },
+        {
+          "text": "Present at birth",
+          "answer": "congenital",
+          "type": 0
+        },
+        {
+          "text": "Bad development/usually used to refer to deteriorating muscle tissue",
+          "answer": "dystrophy",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to through the skin",
+          "answer": "transdermal",
+          "type": 0
+        },
+        {
+          "text": "Double vision",
+          "answer": "diplopia",
+          "type": 0
+        },
+        {
+          "text": "Excessively increased appetite",
+          "answer": "polyphagia",
+          "type": 0
+        },
+        {
+          "text": "After death",
+          "answer": "postmortem",
+          "type": 0
+        },
+        {
+          "text": "Fast heartbeat",
+          "answer": "tachycardia",
+          "type": 0
+        },
+        {
+          "text": "Left-handed",
+          "answer": "sinistromanual",
+          "type": 0
+        }
+      ],
+      "name": "ReviewH"
     },
     {
-      "keyword": "bilateral",
-      "meaning": "pertaining to two sides"
-    },
-    {
-      "keyword": "unilateral",
-      "meaning": "pertaining to one side"
+      "data": [
+        {
+          "text": "A prefix is found",
+          "choices": [
+            "at the beginning of a word",
+            "after the root",
+            "at the end of the word",
+            "before a hyphen"
+          ],
+          "answer": "at the beginning of a word",
+          "type": 1
+        },
+        {
+          "text": "The prefix multi- means",
+          "choices": [
+            "single",
+            "double",
+            "twice",
+            "many"
+          ],
+          "answer": "many",
+          "type": 1
+        },
+        {
+          "text": "Which of the following has four components?",
+          "choices": [
+            "unicycle",
+            "polysaccharide",
+            "bicuspid",
+            "tetralogy"
+          ],
+          "answer": "tetralogy",
+          "type": 1
+        },
+        {
+          "text": "Cyanosis refers to",
+          "choices": [
+            "dark coloration",
+            "blue coloration",
+            "thickness",
+            "shape"
+          ],
+          "answer": "blue coloration",
+          "type": 1
+        },
+        {
+          "text": "A xanthoma is",
+          "choices": [
+            "green",
+            "blue",
+            "dark",
+            "yellow"
+          ],
+          "answer": "yellow",
+          "type": 1
+        },
+        {
+          "text": "The prefix in disintegration means",
+          "choices": [
+            "movement",
+            "separation",
+            "few",
+            "decreased"
+          ],
+          "answer": "separation",
+          "type": 1
+        },
+        {
+          "text": "To detoxify means to",
+          "choices": [
+            "poison",
+            "confine",
+            "remove toxins",
+            "manufacture toxins"
+          ],
+          "answer": "remove toxins",
+          "type": 1
+        },
+        {
+          "text": "The prefixes dia-, per-, and trans- all mean",
+          "choices": [
+            "under",
+            "near",
+            "through",
+            "equal"
+          ],
+          "answer": "through",
+          "type": 1
+        },
+        {
+          "text": "The prefix pan- means",
+          "choices": [
+            "ever",
+            "before",
+            "excess",
+            "all"
+          ],
+          "answer": "all",
+          "type": 1
+        },
+        {
+          "text": "Which of the following means the same as equi-?",
+          "choices": [
+            "pseudo",
+            "megalo",
+            "ecto",
+            "iso"
+          ],
+          "answer": "iso",
+          "type": 1
+        },
+        {
+          "text": "The prefix pseudo- means",
+          "choices": [
+            "good",
+            "large",
+            "even",
+            "false"
+          ],
+          "answer": "false",
+          "type": 1
+        },
+        {
+          "text": "The opposite of dextro- is",
+          "choices": [
+            "telo",
+            "sym",
+            "megalo",
+            "sinistro"
+          ],
+          "answer": "sinistro",
+          "type": 1
+        },
+        {
+          "text": "The opposite of ectoderm is",
+          "choices": [
+            "endoderm",
+            "proderm",
+            "mesoderm",
+            "metroderm"
+          ],
+          "answer": "endoderm",
+          "type": 1
+        },
+        {
+          "text": "The mesencephalon is the",
+          "choices": [
+            "surface of the brain",
+            "underneath part of the brain",
+            "inner part of the brain",
+            "middle portion of the brain"
+          ],
+          "answer": "middle portion of the brain",
+          "type": 1
+        },
+        {
+          "text": "A word that describes organisms living together is",
+          "choices": [
+            "symbiosis",
+            "antibiosis",
+            "metabiosis",
+            "endobiosis"
+          ],
+          "answer": "symbiosis",
+          "type": 1
+        },
+        {
+          "text": "Interstitial fluid is found",
+          "choices": [
+            "inside cells",
+            "between cells",
+            "on the surface of the skin",
+            "under the brain"
+          ],
+          "answer": "between cells",
+          "type": 1
+        },
+        {
+          "text": "Metastasis is",
+          "choices": [
+            "a wasting of tissue",
+            "a form of anemia",
+            "a form of infection",
+            "spreading of cancer"
+          ],
+          "answer": "spreading of cancer",
+          "type": 1
+        },
+        {
+          "text": "An antipyretic is used to",
+          "choices": [
+            "increase body temperature",
+            "harden bones",
+            "reduce pain",
+            "reduce fever"
+          ],
+          "answer": "reduce fever",
+          "type": 1
+        },
+        {
+          "text": "An endotoxin is a",
+          "choices": [
+            "poison found within a cell",
+            "spreading cancer cell",
+            "substance produced by the immune system",
+            "poison secreted from a cell"
+          ],
+          "answer": "poison found within a cell",
+          "type": 1
+        },
+        {
+          "text": "The opposite of bradycardia is",
+          "choices": [
+            "dyscardia",
+            "xerocardia",
+            "cardiocele",
+            "tachycardia"
+          ],
+          "answer": "tachycardia",
+          "type": 1
+        },
+        {
+          "text": "In pachyemia the blood is",
+          "choices": [
+            "thin",
+            "light",
+            "deficient",
+            "thick"
+          ],
+          "answer": "thick",
+          "type": 1
+        },
+        {
+          "text": "The term hyperbaric refers to",
+          "choices": [
+            "increased temperature",
+            "increased pressure",
+            "treatment with chemicals",
+            "decreased pressure"
+          ],
+          "answer": "increased pressure",
+          "type": 1
+        },
+        {
+          "text": "When a drug is contraindicated it is",
+          "choices": [
+            "given in double dose",
+            "given at night",
+            "recommended for treatment",
+            "not recommended for treatment"
+          ],
+          "answer": "not recommended for treatment",
+          "type": 1
+        },
+        {
+          "text": "Polyarteritis is",
+          "choices": [
+            "constriction of two arteries",
+            "inflammation of many arteries",
+            "formation of tissue around arteries",
+            "removal of tissue from an artery"
+          ],
+          "answer": "inflammation of many arteries",
+          "type": 1
+        },
+        {
+          "text": "The scientific name for a “heart attack” is",
+          "choices": [
+            "myocardial infarction",
+            "endocarditis",
+            "pericardial occlusion",
+            "cardioversion"
+          ],
+          "answer": "myocardial infarction",
+          "type": 1
+        },
+        {
+          "text": "The epiglottis is the",
+          "choices": [
+            "lower end of the trachea",
+            "throat",
+            "cartilage around the bronchioles",
+            "cartilage that covers the trachea during swallowing"
+          ],
+          "answer": "cartilage that covers the trachea during swallowing",
+          "type": 1
+        },
+        {
+          "text": "Orthopnea is",
+          "choices": [
+            "a rapid rate of breathing",
+            "a shallow depth of breathing",
+            "irregular breathing",
+            "difficulty in breathing unless upright"
+          ],
+          "answer": "difficulty in breathing unless upright",
+          "type": 1
+        },
+        {
+          "text": "A decreased rate and depth of breathing is termed",
+          "choices": [
+            "hyperpnea",
+            "hypocapnia",
+            "hyperventilation",
+            "hypopnea"
+          ],
+          "answer": "hypopnea",
+          "type": 1
+        },
+        {
+          "text": "A temporary stoppage of breathing is",
+          "choices": [
+            "apnea",
+            "dyspnea",
+            "dysventilation",
+            "eupnea"
+          ],
+          "answer": "apnea",
+          "type": 1
+        },
+        {
+          "text": "The term perioral means",
+          "choices": [
+            "above the nose",
+            "within the sinuses",
+            "around the mouth",
+            "around the jaw"
+          ],
+          "answer": "around the mouth",
+          "type": 1
+        },
+        {
+          "text": "The term hemiglossal refers to",
+          "choices": [
+            "the salivary glands in the cheek",
+            "the position of the jaw",
+            "one half of the tongue",
+            "the upper part of the palate"
+          ],
+          "answer": "one half of the tongue",
+          "type": 1
+        },
+        {
+          "text": "Oliguria is",
+          "choices": [
+            "excretion of a decreased amount of urine",
+            "discoloration of the urine",
+            "infection of the bladder",
+            "narrowing of the ureter"
+          ],
+          "answer": "excretion of a decreased amount of urine",
+          "type": 1
+        },
+        {
+          "text": "Painful or difficult urination is",
+          "choices": [
+            "nocturia",
+            "pyuria",
+            "uremia",
+            "dysuria"
+          ],
+          "answer": "dysuria",
+          "type": 1
+        },
+        {
+          "text": "A retrouterine structure is located",
+          "choices": [
+            "under the uterus",
+            "behind the vagina",
+            "behind the uterus",
+            "within the uterus"
+          ],
+          "answer": "behind the uterus",
+          "type": 1
+        },
+        {
+          "text": "A congenital disorder",
+          "choices": [
+            "is caused by viral infection",
+            "is present at birth",
+            "appears during childhood",
+            "appears in a mother"
+          ],
+          "answer": "is present at birth",
+          "type": 1
+        }
+      ],
+      "name": "ReviewJ"
     }
   ],
-  "tables": [
-    [
-      {
-        "prefix": "ab-",
-        "preMeaning": "away from",
-        "example": "abduct",
-        "exMeaning": "to move away from the midline"
-      },
-      {
-        "prefix": "ad-",
-        "preMeaning": "toward",
-        "example": "adjacent",
-        "exMeaning": "being near or close"
-      },
-      {
-        "prefix": "dia-",
-        "preMeaning": "through",
-        "example": "diameter",
-        "exMeaning": "through measurement"
-      },
-      {
-        "prefix": "trans-",
-        "preMeaning": "through",
-        "example": "transdermal",
-        "exMeaning": "pertaining to through the skin"
-      },
-      {
-        "prefix": "per-",
-        "preMeaning": "through",
-        "example": "percutaneous",
-        "exMeaning": "capable of being penetrated by liquids or gases"
-      }
-    ],
-    [
-      {
-        "prefix": "prim/i-",
-        "preMeaning": "first",
-        "example": "primitive primary",
-        "exMeaning": "occurring first in time or sequence"
-      },
-      {
-        "prefix": "mon/o-",
-        "preMeaning": "one",
-        "example": "monocular",
-        "exMeaning": "a microscope with one lens"
-      },
-      {
-        "prefix": "uni-",
-        "preMeaning": "one",
-        "example": "unilateral",
-        "exMeaning": "one side"
-      },
-      {
-        "prefix": "hemi-",
-        "preMeaning": "half",
-        "example": "hemiplegia",
-        "exMeaning": "one side paralysis"
-      },
-      {
-        "prefix": "semi-",
-        "preMeaning": "half",
-        "example": "semilunar",
-        "exMeaning": "shaped like a half moon"
-      },
-      {
-        "prefix": "bi-",
-        "preMeaning": "two",
-        "example": "bipolar",
-        "exMeaning": "having two poles"
-      },
-      {
-        "prefix": "di-",
-        "preMeaning": "two",
-        "example": "diatomic",
-        "exMeaning": "having two atoms"
-      },
-      {
-        "prefix": "dipl/o-",
-        "preMeaning": "double",
-        "example": "diplopic",
-        "exMeaning": "pertaining to double vision"
-      },
-      {
-        "prefix": "tri-",
-        "preMeaning": "three",
-        "example": "tripod",
-        "exMeaning": "having three legs"
-      },
-      {
-        "prefix": "quadri-",
-        "preMeaning": "four",
-        "example": "quadriplegia",
-        "exMeaning": "paralysis of four limbs"
-      },
-      {
-        "prefix": "tetra-",
-        "preMeaning": "four",
-        "example": "tetrad",
-        "exMeaning": "four components"
-      },
-      {
-        "prefix": "multi-",
-        "preMeaning": "many",
-        "example": "multicellular",
-        "exMeaning": "consisting of many cells"
-      },
-      {
-        "prefix": "poly-",
-        "preMeaning": "many",
-        "example": "polyphagia",
-        "exMeaning": "excessive appetite"
-      }
-    ],
-    [
-      {
-        "prefix": "leuk/o-",
-        "preMeaning": "white",
-        "example": "leukoplakia",
-        "exMeaning": "having white patches in the mouth"
-      },
-      {
-        "prefix": "cyan/o-",
-        "preMeaning": "blue",
-        "example": "cyanosis",
-        "exMeaning": "bluish discoloration of the skin"
-      },
-      {
-        "prefix": "erythr/o-",
-        "preMeaning": "red",
-        "example": "erythrocyte",
-        "exMeaning": "red blood cell"
-      },
-      {
-        "prefix": "melan/o-",
-        "preMeaning": "Black, dark",
-        "example": "melanin",
-        "exMeaning": "the dark pigment that colors the hair and skin"
-      },
-      {
-        "prefix": "poli/o-",
-        "preMeaning": "grey",
-        "example": "poliomyelitis",
-        "exMeaning": "inflammation of the gray matter of the brain"
-      },
-      {
-        "prefix": "xanth/o-",
-        "preMeaning": "yellow",
-        "example": "xanthoderma",
-        "exMeaning": "yellow coloration of the skin"
-      },
-      {
-        "prefix": "cirrh/o-",
-        "preMeaning": "orange",
-        "example": "cirrhosis",
-        "exMeaning": "a disease of the liver"
-      },
-      {
-        "prefix": "chlor/o-",
-        "preMeaning": "green",
-        "example": "chlorophyll",
-        "exMeaning": "the green coloring matter of leaves and plants"
-      }
-    ],
-    [
-      {
-        "prefix": "ante-",
-        "preMeaning": "before",
-        "example": "antepartum",
-        "exMeaning": "before birth"
-      },
-      {
-        "prefix": "pre-",
-        "preMeaning": "before, in front of",
-        "example": "premenstrual",
-        "exMeaning": "period before menstruation"
-      },
-      {
-        "prefix": "pro-",
-        "preMeaning": "before, in front of",
-        "example": "prophase",
-        "exMeaning": "first stage of cell division"
-      },
-      {
-        "prefix": "Pros-",
-        "preMeaning": "before, forward",
-        "example": "prosthesis",
-        "exMeaning": "artificial limb added to the body"
-      },
-      {
-        "prefix": "post-",
-        "preMeaning": "after, behind",
-        "example": "postmortem",
-        "exMeaning": "after death"
-      }
-    ],
-    [
-      {
-        "prefix": "brady-",
-        "preMeaning": "slow",
-        "example": "bradygastria",
-        "exMeaning": "decreased rate of electrical pacemaker activity in the stomach"
-      },
-      {
-        "prefix": "tachy-",
-        "preMeaning": "fast",
-        "example": "tachycardia",
-        "exMeaning": "rapid heart rhythm"
-      },
-      {
-        "prefix": "pachy-",
-        "preMeaning": "thick",
-        "example": "pachydactyly",
-        "exMeaning": "abnormal thickness of the fingers"
-      },
-      {
-        "prefix": "mal-",
-        "preMeaning": "bad, poor",
-        "example": "malignant",
-        "exMeaning": "cancerous tumor that spreads like fire"
-      },
-      {
-        "prefix": "dys-",
-        "preMeaning": "abnormal, difficult, painful, bad/poor",
-        "example": "dysplasia, dyspnea, dysuria, dystrophy",
-        "exMeaning": " - abnormal development in numbers\n - difficulty in breathing\n - painful sensation upon urination\n - poor development"
-      },
-      {
-        "prefix": "xero-",
-        "preMeaning": "dry",
-        "example": "xeroma",
-        "exMeaning": "excessive dryness of the cornea and conjunctiva"
-      }
-    ]
-  ],
-  "Table6": [
-    {
-      "prefix": "staphyl/o-",
-      "preMeaning": "grapelike cluster",
-      "example": "staphylococcus",
-      "exMeaning": "round bacteria that form clusters"
-    },
-    {
-      "prefix": "strept/o-",
-      "preMeaning": "twisted chain",
-      "example": "streptobacillus",
-      "exMeaning": "a rod-shaped bacterium that forms chains"
-    }
-  ],
-  "Table7": [
-    {
-      "prefix": "circum-",
-      "preMeaning": "around",
-      "example": "circumcision",
-      "exMeaning": "circular cut"
-    },
-    {
-      "prefix": "peri-",
-      "preMeaning": "around",
-      "example": "peritoneal",
-      "exMeaning": "peritoneum"
-    },
-    {
-      "prefix": "intra-",
-      "preMeaning": "within",
-      "example": "intravenous",
-      "exMeaning": "within the vein"
-    },
-    {
-      "prefix": "extra-",
-      "preMeaning": "outside",
-      "example": "extrahepatic",
-      "exMeaning": "outside the liver"
-    },
-    {
-      "prefix": "epi-",
-      "preMeaning": "above",
-      "example": "epidermis",
-      "exMeaning": "above the skin"
-    },
-    {
-      "prefix": "supra-",
-      "preMeaning": "above",
-      "example": "supraabdominal",
-      "exMeaning": "above the abdomen"
-    },
-    {
-      "prefix": "infra-",
-      "preMeaning": "below",
-      "example": "infrascapular",
-      "exMeaning": "below the shoulder blades"
-    },
-    {
-      "prefix": "sub-",
-      "preMeaning": "below",
-      "example": "subpatellar",
-      "exMeaning": "below the kneecap"
-    },
-    {
-      "prefix": "juxta-",
-      "preMeaning": "near",
-      "example": "juxtaposition",
-      "exMeaning": "a location near another structure"
-    },
-    {
-      "prefix": "para-",
-      "preMeaning": "near",
-      "example": "parathyroid gland",
-      "exMeaning": "near the thyroid glands"
-    },
-    {
-      "prefix": "inter-",
-      "preMeaning": "between",
-      "example": "interstitial",
-      "exMeaning": "relating to or situated in the small, narrow spaces between tissues or parts of an organ"
-    },
-    {
-      "prefix": "retro-",
-      "preMeaning": "behind",
-      "example": "retrogastric",
-      "exMeaning": "behind the stomach"
-    }
-  ],
-  "Table8": [
-    {
-      "prefix": "in-, im-",
-      "preMeaning": "not",
-      "example": "Insignificant impermeable",
-      "exMeaning": "having no importance, not allowing fluid to pass through"
-    },
-    {
-      "prefix": "un-",
-      "preMeaning": "not",
-      "example": "unconscious",
-      "exMeaning": "not aware of one's surroundings"
-    },
-    {
-      "prefix": "non-",
-      "preMeaning": "not",
-      "example": "nonhuman",
-      "exMeaning": "not appropriate to human beings"
-    },
-    {
-      "prefix": "a-, an-",
-      "preMeaning": "not, lack, without",
-      "example": "apnea, anemia",
-      "exMeaning": "cessation of breathing, no blood"
-    },
-    {
-      "prefix": "anti-",
-      "preMeaning": "against",
-      "example": "antigen",
-      "exMeaning": "a substance that, when introduced into the body, stimulates the production of an antibody"
-    },
-    {
-      "prefix": "contra-",
-      "preMeaning": "against",
-      "example": "contraindicated",
-      "exMeaning": "against recommendation"
-    },
-    {
-      "prefix": "de-",
-      "preMeaning": "down, without, removal",
-      "example": "decongestant",
-      "exMeaning": "a medication or treatment that decreases congestion, as of the sinuses"
-    },
-    {
-      "prefix": "dis-",
-      "preMeaning": "removal, separation",
-      "example": "disinfect",
-      "exMeaning": "to cleanse so as to destroy or prevent the growth of disease-carrying microorganisms"
-    }
-  ],
-  "Table9": [
-    {
-      "prefix": "ecto-",
-      "preMeaning": "outside",
-      "example": "ectopic",
-      "exMeaning": "out of normal position"
-    },
-    {
-      "prefix": "ex/o-",
-      "preMeaning": "outside",
-      "example": "exophthalmos",
-      "exMeaning": "(Graves' disease) protrusion of the eyeball to the outside"
-    },
-    {
-      "prefix": "dextr/o-",
-      "preMeaning": "right",
-      "example": "dextrogastria",
-      "exMeaning": "displacement of the stomach to the right"
-    },
-    {
-      "prefix": "sinistr/o-",
-      "preMeaning": "left",
-      "example": "sinistromanual",
-      "exMeaning": "left-handed"
-    },
-    {
-      "prefix": "end/o-",
-      "preMeaning": "inside",
-      "example": "endometrial",
-      "exMeaning": "within the uterus"
-    },
-    {
-      "prefix": "mes/o-",
-      "preMeaning": "middle",
-      "example": "mesoderm",
-      "exMeaning": "middle layer of a developing embryo"
-    },
-    {
-      "prefix": "tel/o-, tel/e",
-      "preMeaning": "end",
-      "example": "telophase, telencephalon",
-      "exMeaning": "last stage of cell division, endbrain"
-    },
-    {
-      "prefix": "syn-, sym- con-",
-      "preMeaning": "together",
-      "example": "syndrome, symbiosis, congenital",
-      "exMeaning": "- group of signs and symptoms that occur together, - two dissimilar organisms living together, - present at birth"
-    }
-  ],
-  "Table11": [
-    {
-      "prefix": "oligo-",
-      "preMeaning": "few",
-      "example": "oligodontia",
-      "exMeaning": "less than the normal number of teeth"
-    },
-    {
-      "prefix": "pan-",
-      "preMeaning": "all",
-      "example": "panplegia",
-      "exMeaning": "total paralysis"
-    },
-    {
-      "prefix": "super-",
-      "preMeaning": "above, excess",
-      "example": "supernumerary, superscript",
-      "exMeaning": "in excess number, something written above"
-    },
-    {
-      "prefix": "hyper-",
-      "preMeaning": "abnormally high",
-      "example": "hypertension",
-      "exMeaning": "high blood pressure"
-    },
-    {
-      "prefix": "hypo-",
-      "preMeaning": "abnormally low",
-      "example": "hypoglycemia",
-      "exMeaning": "low blood sugar"
-    }
-  ],
-  "Table12": [
-    {
-      "prefix": "equi-",
-      "preMeaning": "equal, same",
-      "example": "equicaloric",
-      "exMeaning": "equal in terms of calories"
-    },
-    {
-      "prefix": "iso-",
-      "preMeaning": "equal, same",
-      "example": "isochromatic",
-      "exMeaning": "having the same color"
-    },
-    {
-      "prefix": "homo- homeo",
-      "preMeaning": "same, unchanging",
-      "example": "homosexual, homeostasis",
-      "exMeaning": "- having a sexual orientation to persons of the same sex. - a property of cells, tissues, and organisms that allows the maintenance and regulation of stability"
-    },
-    {
-      "prefix": "hetero-",
-      "preMeaning": "different, unequal",
-      "example": "heterosexual",
-      "exMeaning": "a person whose sexual orientation is toward people of the opposite sex."
-    },
-    {
-      "prefix": "macro-",
-      "preMeaning": "abnormally large",
-      "example": "macrodactyly",
-      "exMeaning": "a condition of abnormally large fingers or toes"
-    },
-    {
-      "prefix": "mega-, megalo-",
-      "preMeaning": "abnormally large",
-      "example": "megacephaly, megalomania",
-      "exMeaning": "- the condition of having an unusually large head or cranial capacity - a psychopathological condition characterized by delusional fantasies of wealth, power, or omnipotence"
-    },
-    {
-      "prefix": "micro-",
-      "preMeaning": "small",
-      "example": "microbiology",
-      "exMeaning": "the branch of biology that deals with microorganisms"
-    },
-    {
-      "prefix": "eu-",
-      "preMeaning": "true, good, easy",
-      "example": "eupnea",
-      "exMeaning": "normal breathing"
-    },
-    {
-      "prefix": "normo-",
-      "preMeaning": "normal",
-      "example": "normothermic",
-      "exMeaning": "having normal body temperature"
-    },
-    {
-      "prefix": "ortho-",
-      "preMeaning": "straight, correct",
-      "example": "orthognathism",
-      "exMeaning": "the condition of having straight jaws"
-    },
-    {
-      "prefix": "poikilo-",
-      "preMeaning": "irregular",
-      "example": "poikilothermic",
-      "exMeaning": "having different body temperature"
-    },
-    {
-      "prefix": "pseudo-",
-      "preMeaning": "false",
-      "example": "pseudogene",
-      "exMeaning": "a segment of DNA that resembles a gene but is not functional and usually not transcribed"
-    },
-    {
-      "prefix": "re-",
-      "preMeaning": "again, back",
-      "example": "resection",
-      "exMeaning": "cutting back and forth in a sense of removal"
-    },
-    {
-      "prefix": "neo-",
-      "preMeaning": "new",
-      "example": "neocortex",
-      "exMeaning": "the dorsal region of the cerebral cortex, especially large in primates, thought to have evolved more recently than other parts of the brain."
-    }
-  ],
-  "Table13": [
-    {
-      "Mterm": "syndactyly",
-      "meaning": "a congenital anomaly in humans marked by webbing or fusion of the fingers or toes"
-    },
-    {
-      "Mterm": "polydactyly",
-      "meaning": "a person or animal having more than the normal number of digits"
-    },
-    {
-      "Mterm": "oligodactyly",
-      "meaning": "congenital condition in which some fingers or toes are missing"
-    },
-    {
-      "Mterm": "tetradactyly",
-      "meaning": "having four digits on each extremity"
-    },
-    {
-      "Mterm": "monodactyly",
-      "meaning": "an animal having only one digit on each extremity"
-    },
-    {
-      "Mterm": "pachydactyly",
-      "meaning": "enlargement of the fingers or toes, especially extremities"
-    },
-    {
-      "Mterm": "microdactyly",
-      "meaning": "a condition of abnormal smallness of fingers or toes."
-    }
-  ],
-  "Practice2": [
-    {
-      "question": "an element that has one atom",
-      "answer": "monoatomic"
-    },
-    {
-      "question": "half solid",
-      "answer": "semisolid"
-    },
-    {
-      "question": "disease of many nerves",
-      "answer": "polyneuropathy"
-    },
-    {
-      "question": "make two or more in one parts",
-      "answer": "unify"
-    },
-    {
-      "question": "an organism that has two sets of chromosome",
-      "answer": "diploid"
-    }
-  ],
-  "Practice3": [
-    {
-      "question": "increase in malignant white blood cells in blood and bone marrow",
-      "answer": "leukemia"
-    },
-    {
-      "question": "yellow growth on the skin",
-      "answer": "xanthoma"
-    },
-    {
-      "question": "a mature melanin forming cell in the skin",
-      "answer": "melanocyte"
-    },
-    {
-      "question": "abnormal condition of having an increase in the total red blood cell mass",
-      "answer": "erythrocytosis"
-    }
-  ],
-  "Practice4": [
-    {
-      "question": "throwing or extending toward",
-      "answer": "projectile"
-    },
-    {
-      "question": "before a fever (the time preceding the development of fever)",
-      "answer": "antefebrile"
-    },
-    {
-      "question": "after menopause, which is the cessation or stoppage of menstruation in women",
-      "answer": "postmenopause"
-    },
-    {
-      "question": "occurring before the proper time",
-      "answer": "premature"
-    }
-  ],
-  "Practice5": [
-    {
-      "question": "rapid heart rate",
-      "answer": "tachycardia"
-    },
-    {
-      "question": "rapid breathing",
-      "answer": "tachypnea"
-    },
-    {
-      "question": "extreme rapidity of speech",
-      "answer": "tachylalia"
-    },
-    {
-      "question": "abnormally rapid mental activity",
-      "answer": "tachyphrenia"
-    }
-  ],
-  "Practice6": [
-    {
-      "question": "Replace the prefix in \"circumoral\" with another one having the same meaning.",
-      "answer": "perioral"
-    },
-    {
-      "question": "Replace the prefix in \"subcostal\" with another one having the same meaning.",
-      "answer": "infracostal"
-    },
-    {
-      "question": "Replace the prefix in \"periorbital\" with another one having the same meaning.",
-      "answer": "circumorbital"
-    },
-    {
-      "question": "Replace the prefix in \"infrascapular\" with another one having the same meaning.",
-      "answer": "subscapular"
-    }
-  ],
-  "Practice8": [
-    {
-      "question": "Add a prefix to form the negative of \"contributory\"",
-      "answer": "noncontributory"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"coordinated\"",
-      "answer": "uncoordinated"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"calcify\"",
-      "answer": "decalcify"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"compatible\"",
-      "answer": "incompatible"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"dote\"",
-      "answer": "antidote"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"sect\"",
-      "answer": "dissect"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"ception\"",
-      "answer": "contraception"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"hydrous\"",
-      "answer": "anhydrous"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"mnesia\"",
-      "answer": "amnesia"
-    },
-    {
-      "question": "Add a prefix to form the negative of \"moral\"",
-      "answer": "immoral"
-    }
-  ],
-  "Practice9": [
-    {
-      "question": "a harmful substance existing inside or within",
-      "answer": "endotoxin"
-    },
-    {
-      "question": "originating outside the body",
-      "answer": "exogenous"
-    },
-    {
-      "question": "if pertaining to the nervous system) pertaining to fight or flight response to stimuli (the word has other meanings)",
-      "answer": "sympathetic"
-    },
-    {
-      "question": "junction between two nerve cells",
-      "answer": "synapse"
-    }
-  ],
-  "Practice10": [
-    {
-      "question": "overproduction of a hormone",
-      "answer": "hypersecretion"
-    },
-    {
-      "question": "abnormally deep respiration",
-      "answer": "hyperventilation"
-    },
-    {
-      "question": "high increase of cells in size",
-      "answer": "hypertrophy"
-    },
-    {
-      "question": "high increase of cells in numbers",
-      "answer": "hyperplasia"
-    }
-  ],
-  "Practice11": [
-    {
-      "question": "composed of different materials",
-      "answer": "heterogeneous"
-    },
-    {
-      "question": "composed of identical cells",
-      "answer": "isocellular"
-    },
-    {
-      "question": "false response",
-      "answer": "pseudoreaction"
-    },
-    {
-      "question": "correcting deformity",
-      "answer": "orthotic"
-    },
-    {
-      "question": "return of partly digested food from the stomach to the mouth/backward flow",
-      "answer": "regurgitation"
-    },
-    {
-      "question": "a state of balance",
-      "answer": "equilibrium"
-    },
-    {
-      "question": "normal production of thyroid hormone",
-      "answer": "euthyroidism"
-    },
-    {
-      "question": "large enough to be seen without a microscope",
-      "answer": "macroscopic"
-    },
-    {
-      "question": "tissue transplanted to another of the same species",
-      "answer": "homograft"
-    },
-    {
-      "question": "normal blood volume",
-      "answer": "normovolemia"
-    },
-    {
-      "question": "irregular condition of the skin",
-      "answer": "poikiloderma"
-    }
-  ],
-  "ReviewA": {
-    "questions": [
-      {
-        "question": "A prefix that means the same as di- is",
-        "choices": [
-          {
-            "text": "tri",
-            "isTrue": false
+  "table": [
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "ab-",
+            "meaning": "away from"
           },
-          {
-            "text": "uni",
-            "isTrue": false
-          },
-          {
-            "text": "bi",
-            "isTrue": true
-          },
-          {
-            "text": "mono",
-            "isTrue": false
+          "example": {
+            "text": "abduct",
+            "meaning": "to move away from the midline"
           }
-        ]
-      },
-      {
-        "question": "The prefixes hemi- and semi- mean",
-        "choices": [
-          {
-            "text": "whole",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "ad-",
+            "meaning": "toward"
           },
-          {
-            "text": "first",
-            "isTrue": false
-          },
-          {
-            "text": "two",
-            "isTrue": false
-          },
-          {
-            "text": "half",
-            "isTrue": true
+          "example": {
+            "text": "adjacent",
+            "meaning": "being near or close"
           }
-        ]
-      },
-      {
-        "question": "The prefix in binocular means",
-        "choices": [
-          {
-            "text": "one",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "dia-",
+            "meaning": "through"
           },
-          {
-            "text": "three",
-            "isTrue": false
-          },
-          {
-            "text": "four",
-            "isTrue": false
-          },
-          {
-            "text": "two",
-            "isTrue": true
+          "example": {
+            "text": "diameter",
+            "meaning": "through measurement"
           }
-        ]
-      },
-      {
-        "question": "The prefix in nonexistent means",
-        "choices": [
-          {
-            "text": "slow",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "trans-",
+            "meaning": "through"
           },
-          {
-            "text": "complex",
-            "isTrue": false
-          },
-          {
-            "text": "equal",
-            "isTrue": false
-          },
-          {
-            "text": "not",
-            "isTrue": true
+          "example": {
+            "text": "transdermal",
+            "meaning": "pertaining to through the skin"
           }
-        ]
-      },
-      {
-        "question": "A neonate is a(n)",
-        "choices": [
-          {
-            "text": "teen",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "per-",
+            "meaning": "through"
           },
-          {
-            "text": "adult",
-            "isTrue": false
-          },
-          {
-            "text": "preteen",
-            "isTrue": false
-          },
-          {
-            "text": "newborn",
-            "isTrue": true
+          "example": {
+            "text": "percutaneous",
+            "meaning": "capable of being penetrated by liquids or gases"
           }
-        ]
-      },
-      {
-        "question": "The prefixes ante-, pre-, and pro- all mean",
-        "choices": [
-          {
-            "text": "after",
-            "isTrue": false
-          },
-          {
-            "text": "within",
-            "isTrue": false
-          },
-          {
-            "text": "under",
-            "isTrue": false
-          },
-          {
-            "text": "before",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "The prefix tel/o- means",
-        "choices": [
-          {
-            "text": "together",
-            "isTrue": false
-          },
-          {
-            "text": "middle",
-            "isTrue": false
-          },
-          {
-            "text": "end",
-            "isTrue": true
-          },
-          {
-            "text": "apart",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "The prefixes meta- and ultra- mean",
-        "choices": [
-          {
-            "text": "whole",
-            "isTrue": false
-          },
-          {
-            "text": "outside",
-            "isTrue": false
-          },
-          {
-            "text": "inside",
-            "isTrue": false
-          },
-          {
-            "text": "beyond",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "The prefix in analysis means",
-        "choices": [
-          {
-            "text": "apart",
-            "isTrue": false
-          },
-          {
-            "text": "not",
-            "isTrue": true
-          },
-          {
-            "text": "separation",
-            "isTrue": false
-          },
-          {
-            "text": "breaking",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "The prefix in pachycephaly means",
-        "choices": [
-          {
-            "text": "slow",
-            "isTrue": false
-          },
-          {
-            "text": "fast",
-            "isTrue": false
-          },
-          {
-            "text": "equal",
-            "isTrue": false
-          },
-          {
-            "text": "thickness",
-            "isTrue": true
-          }
-        ]
-      }
-    ]
-  },
-  "ReviewB": [
-    {
-      "question": "The prefix in leukocyte means “irregular.”",
-      "answer": false
+        }
+      ],
+      "name": "Table1"
     },
     {
-      "question": "The prefix in percutaneous means “on the skin.”",
-      "answer": false
-    },
-    {
-      "question": "The prefix in synthesis means “apart.”",
-      "answer": false
-    },
-    {
-      "question": "The last stage of cell division is prophase.",
-      "answer": false
-    },
-    {
-      "question": "A prefix appears before a root and after a suffix.",
-      "answer": false
-    },
-    {
-      "question": "A polysaccharide is composed of more sugar than a monosaccharide.",
-      "answer": true
-    },
-    {
-      "question": "The prefix in dissect means “to separate.”",
-      "answer": true
-    },
-    {
-      "question": "“Anti-” and “contra-” mean the same thing.",
-      "answer": true
-    },
-    {
-      "question": "Right-handed people are dextromanual.",
-      "answer": true
-    },
-    {
-      "question": "A telomere is found in the middle of a chromosome.",
-      "answer": false
-    },
-    {
-      "question": "The prefix in erythrocyte means “red.”",
-      "answer": true
-    },
-    {
-      "question": "The prefix in periosteum means “on the bone.”",
-      "answer": false
-    }
-  ],
-  "ReviewC": [
-    {
-      "question": "Hypoxia causes a bluish discoloration of the skin is termed.",
-      "answer": "Cyanosis"
-    },
-    {
-      "question": "The prefix in superciliary means above.",
-      "answer": "Above"
-    },
-    {
-      "question": "The prefix poikilo- means irregular.",
-      "answer": "Irregular"
-    },
-    {
-      "question": "The prefix in the word pachycephaly means thick.",
-      "answer": "Thick"
-    },
-    {
-      "question": "Total paralysis is.",
-      "answer": "Panplegia"
-    },
-    {
-      "question": "Composed of similar cells is.",
-      "answer": "Isocellular"
-    },
-    {
-      "question": "A group of four is.",
-      "answer": "Tetrad"
-    },
-    {
-      "question": "Describing a colony derived from one cell is.",
-      "answer": "Monocellular/unicellular"
-    },
-    {
-      "question": "To separate tissues for anatomical study is called.",
-      "answer": "Dissect"
-    },
-    {
-      "question": "A mass of blood above the membrane surrounding the brain is.",
-      "answer": "Subdural hematoma"
-    },
-    {
-      "question": "Surgical puncture to remove fluid from the membrane surrounding the fetus is.",
-      "answer": "Amniocentesis"
-    }
-  ],
-  "ReviewH": [
-    {
-      "question": "Pertaining to below the tongue",
-      "answer": "sublingual"
-    },
-    {
-      "question": "Pertaining to behind the membrane that surrounds the abdominal cavity",
-      "answer": "retroperitoneal"
-    },
-    {
-      "question": "Lack of speech",
-      "answer": "aphasia"
-    },
-    {
-      "question": "Paralysis of the four limbs (arms and legs)",
-      "answer": "quadriplegia"
-    },
-    {
-      "question": "Between two or more vertebrae",
-      "answer": "intervertebral"
-    },
-    {
-      "question": "Pertaining to one of the membranes that separates the thoracic cavity from the abdominal cavity",
-      "answer": "hypochondriac"
-    },
-    {
-      "question": "High blood pressure",
-      "answer": "hypertension"
-    },
-    {
-      "question": "Present at birth",
-      "answer": "congenital"
-    },
-    {
-      "question": "Bad development/usually used to refer to deteriorating muscle tissue",
-      "answer": "dystrophy"
-    },
-    {
-      "question": "Pertaining to through the skin",
-      "answer": "transdermal"
-    },
-    {
-      "question": "Double vision",
-      "answer": "diplopia"
-    },
-    {
-      "question": "Excessively increased appetite",
-      "answer": "polyphagia"
-    },
-    {
-      "question": "After death",
-      "answer": "postmortem"
-    },
-    {
-      "question": "Fast heartbeat",
-      "answer": "tachycardia"
-    },
-    {
-      "question": "Left-handed",
-      "answer": "sinistromanual"
-    }
-  ],
-  "ReivewJ": {
-    "questions": [
-      {
-        "question": "A prefix is found",
-        "choices": [
-          {
-            "text": "at the beginning of a word",
-            "isTrue": true
+      "data": [
+        {
+          "prefix": {
+            "text": "oligo-",
+            "meaning": "few"
           },
-          {
-            "text": "after the root",
-            "isTrue": false
-          },
-          {
-            "text": "at the end of the word",
-            "isTrue": false
-          },
-          {
-            "text": "before a hyphen",
-            "isTrue": false
+          "example": {
+            "text": "oligodontia",
+            "meaning": "less than the normal number of teeth"
           }
-        ]
-      },
-      {
-        "question": "The prefix multi- means",
-        "choices": [
-          {
-            "text": "single",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "pan-",
+            "meaning": "all"
           },
-          {
-            "text": "double",
-            "isTrue": false
-          },
-          {
-            "text": "twice",
-            "isTrue": false
-          },
-          {
-            "text": "many",
-            "isTrue": true
+          "example": {
+            "text": "panplegia",
+            "meaning": "total paralysis"
           }
-        ]
-      },
-      {
-        "question": "Which of the following has four components?",
-        "choices": [
-          {
-            "text": "unicycle",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "super-",
+            "meaning": "above, excess"
           },
-          {
-            "text": "polysaccharide",
-            "isTrue": false
-          },
-          {
-            "text": "bicuspid",
-            "isTrue": false
-          },
-          {
-            "text": "tetralogy",
-            "isTrue": true
+          "example": {
+            "text": "supernumerary, superscript",
+            "meaning": "in excess number, something written above"
           }
-        ]
-      },
-      {
-        "question": "Cyanosis refers to",
-        "choices": [
-          {
-            "text": "dark coloration",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "hyper-",
+            "meaning": "abnormally high"
           },
-          {
-            "text": "blue coloration",
-            "isTrue": true
-          },
-          {
-            "text": "thickness",
-            "isTrue": false
-          },
-          {
-            "text": "shape",
-            "isTrue": false
+          "example": {
+            "text": "hypertension",
+            "meaning": "high blood pressure"
           }
-        ]
-      },
-      {
-        "question": "A xanthoma is",
-        "choices": [
-          {
-            "text": "green",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "hypo-",
+            "meaning": "abnormally low"
           },
-          {
-            "text": "blue",
-            "isTrue": false
-          },
-          {
-            "text": "dark",
-            "isTrue": false
-          },
-          {
-            "text": "yellow",
-            "isTrue": true
+          "example": {
+            "text": "hypoglycemia",
+            "meaning": "low blood sugar"
           }
-        ]
-      },
-      {
-        "question": "The prefix in disintegration means",
-        "choices": [
-          {
-            "text": "movement",
-            "isTrue": false
+        }
+      ],
+      "name": "Table11"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "equi-",
+            "meaning": "equal, same"
           },
-          {
-            "text": "separation",
-            "isTrue": true
-          },
-          {
-            "text": "few",
-            "isTrue": false
-          },
-          {
-            "text": "decreased",
-            "isTrue": false
+          "example": {
+            "text": "equicaloric",
+            "meaning": "equal in terms of calories"
           }
-        ]
-      },
-      {
-        "question": "To detoxify means to",
-        "choices": [
-          {
-            "text": "poison",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "iso-",
+            "meaning": "equal, same"
           },
-          {
-            "text": "confine",
-            "isTrue": false
-          },
-          {
-            "text": "remove toxins",
-            "isTrue": true
-          },
-          {
-            "text": "manufacture toxins",
-            "isTrue": false
+          "example": {
+            "text": "isochromatic",
+            "meaning": "having the same color"
           }
-        ]
-      },
-      {
-        "question": "The prefixes dia-, per-, and trans- all mean",
-        "choices": [
-          {
-            "text": "under",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "homo- homeo",
+            "meaning": "same, unchanging"
           },
-          {
-            "text": "near",
-            "isTrue": false
-          },
-          {
-            "text": "through",
-            "isTrue": true
-          },
-          {
-            "text": "equal",
-            "isTrue": false
+          "example": {
+            "text": "homosexual, homeostasis",
+            "meaning": "- having a sexual orientation to persons of the same sex. - a property of cells, tissues, and organisms that allows the maintenance and regulation of stability"
           }
-        ]
-      },
-      {
-        "question": "The prefix pan- means",
-        "choices": [
-          {
-            "text": "ever",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "hetero-",
+            "meaning": "different, unequal"
           },
-          {
-            "text": "before",
-            "isTrue": false
-          },
-          {
-            "text": "excess",
-            "isTrue": false
-          },
-          {
-            "text": "all",
-            "isTrue": true
+          "example": {
+            "text": "heterosexual",
+            "meaning": "a person whose sexual orientation is toward people of the opposite sex."
           }
-        ]
-      },
-      {
-        "question": "Which of the following means the same as equi-?",
-        "choices": [
-          {
-            "text": "pseudo",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "macro-",
+            "meaning": "abnormally large"
           },
-          {
-            "text": "megalo",
-            "isTrue": false
-          },
-          {
-            "text": "ecto",
-            "isTrue": false
-          },
-          {
-            "text": "iso",
-            "isTrue": true
+          "example": {
+            "text": "macrodactyly",
+            "meaning": "a condition of abnormally large fingers or toes"
           }
-        ]
-      },
-      {
-        "question": "The prefix pseudo- means",
-        "choices": [
-          {
-            "text": "good",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "mega-, megalo-",
+            "meaning": "abnormally large"
           },
-          {
-            "text": "large",
-            "isTrue": false
-          },
-          {
-            "text": "even",
-            "isTrue": false
-          },
-          {
-            "text": "false",
-            "isTrue": true
+          "example": {
+            "text": "megacephaly, megalomania",
+            "meaning": "- the condition of having an unusually large head or cranial capacity - a psychopathological condition characterized by delusional fantasies of wealth, power, or omnipotence"
           }
-        ]
-      },
-      {
-        "question": "The opposite of dextro- is",
-        "choices": [
-          {
-            "text": "telo",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "micro-",
+            "meaning": "small"
           },
-          {
-            "text": "sym",
-            "isTrue": false
-          },
-          {
-            "text": "megalo",
-            "isTrue": false
-          },
-          {
-            "text": "sinistro",
-            "isTrue": true
+          "example": {
+            "text": "microbiology",
+            "meaning": "the branch of biology that deals with microorganisms"
           }
-        ]
-      },
-      {
-        "question": "The opposite of ectoderm is",
-        "choices": [
-          {
-            "text": "endoderm",
-            "isTrue": true
+        },
+        {
+          "prefix": {
+            "text": "eu-",
+            "meaning": "true, good, easy"
           },
-          {
-            "text": "proderm",
-            "isTrue": false
-          },
-          {
-            "text": "mesoderm",
-            "isTrue": false
-          },
-          {
-            "text": "metroderm",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "The mesencephalon is the",
-        "choices": [
-          {
-            "text": "surface of the brain",
-            "isTrue": false
-          },
-          {
-            "text": "underneath part of the brain",
-            "isTrue": false
-          },
-          {
-            "text": "inner part of the brain",
-            "isTrue": false
-          },
-          {
-            "text": "middle portion of the brain",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "A word that describes organisms living together is",
-        "choices": [
-          {
-            "text": "symbiosis",
-            "isTrue": true
-          },
-          {
-            "text": "antibiosis",
-            "isTrue": false
-          },
-          {
-            "text": "metabiosis",
-            "isTrue": false
-          },
-          {
-            "text": "endobiosis",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "Interstitial fluid is found",
-        "choices": [
-          {
-            "text": "inside cells",
-            "isTrue": false
-          },
-          {
-            "text": "between cells",
-            "isTrue": true
-          },
-          {
-            "text": "on the surface of the skin",
-            "isTrue": false
-          },
-          {
-            "text": "under the brain",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "Metastasis is",
-        "choices": [
-          {
-            "text": "a wasting of tissue",
-            "isTrue": false
-          },
-          {
-            "text": "a form of anemia",
-            "isTrue": false
-          },
-          {
-            "text": "a form of infection",
-            "isTrue": false
-          },
-          {
-            "text": "spreading of cancer",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "An antipyretic is used to",
-        "choices": [
-          {
-            "text": "increase body temperature",
-            "isTrue": false
-          },
-          {
-            "text": "harden bones",
-            "isTrue": false
-          },
-          {
-            "text": "reduce pain",
-            "isTrue": false
-          },
-          {
-            "text": "reduce fever",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "An endotoxin is a",
-        "choices": [
-          {
-            "text": "poison found within a cell",
-            "isTrue": true
-          },
-          {
-            "text": "spreading cancer cell",
-            "isTrue": false
-          },
-          {
-            "text": "substance produced by the immune system",
-            "isTrue": false
-          },
-          {
-            "text": "poison secreted from a cell",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "The opposite of bradycardia is",
-        "choices": [
-          {
-            "text": "dyscardia",
-            "isTrue": false
-          },
-          {
-            "text": "xerocardia",
-            "isTrue": false
-          },
-          {
-            "text": "cardiocele",
-            "isTrue": false
-          },
-          {
-            "text": "tachycardia",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "In pachyemia the blood is",
-        "choices": [
-          {
-            "text": "thin",
-            "isTrue": false
-          },
-          {
-            "text": "light",
-            "isTrue": false
-          },
-          {
-            "text": "deficient",
-            "isTrue": false
-          },
-          {
-            "text": "thick",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "The term hyperbaric refers to",
-        "choices": [
-          {
-            "text": "increased temperature",
-            "isTrue": false
-          },
-          {
-            "text": "increased pressure",
-            "isTrue": true
-          },
-          {
-            "text": "treatment with chemicals",
-            "isTrue": false
-          },
-          {
-            "text": "decreased pressure",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "When a drug is contraindicated it is",
-        "choices": [
-          {
-            "text": "given in double dose",
-            "isTrue": false
-          },
-          {
-            "text": "given at night",
-            "isTrue": false
-          },
-          {
-            "text": "recommended for treatment",
-            "isTrue": false
-          },
-          {
-            "text": "not recommended for treatment",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "Polyarteritis is",
-        "choices": [
-          {
-            "text": "constriction of two arteries",
-            "isTrue": false
-          },
-          {
-            "text": "inflammation of many arteries",
-            "isTrue": true
-          },
-          {
-            "text": "formation of tissue around arteries",
-            "isTrue": false
-          },
-          {
-            "text": "removal of tissue from an artery",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "The scientific name for a “heart attack” is",
-        "choices": [
-          {
-            "text": "myocardial infarction",
-            "isTrue": true
-          },
-          {
-            "text": "endocarditis",
-            "isTrue": false
-          },
-          {
-            "text": "pericardial occlusion",
-            "isTrue": false
-          },
-          {
-            "text": "cardioversion",
-            "isTrue": false
-          }
-        ]
-      },
-      {
-        "question": "The epiglottis is the",
-        "choices": [
-          {
-            "text": "lower end of the trachea",
-            "isTrue": false
-          },
-          {
-            "text": "throat",
-            "isTrue": false
-          },
-          {
-            "text": "cartilage around the bronchioles",
-            "isTrue": false
-          },
-          {
-            "text": "cartilage that covers the trachea during swallowing",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "Orthopnea is",
-        "choices": [
-          {
-            "text": "a rapid rate of breathing",
-            "isTrue": false
-          },
-          {
-            "text": "a shallow depth of breathing",
-            "isTrue": false
-          },
-          {
-            "text": "irregular breathing",
-            "isTrue": false
-          },
-          {
-            "text": "difficulty in breathing unless upright",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "A decreased rate and depth of breathing is termed",
-        "choices": [
-          {
-            "text": "hyperpnea",
-            "isTrue": false
-          },
-          {
-            "text": "hypocapnia",
-            "isTrue": false
-          },
-          {
-            "text": "hyperventilation",
-            "isTrue": false
-          },
-          {
-            "text": "hypopnea",
-            "isTrue": true
-          }
-        ]
-      },
-      {
-        "question": "A temporary stoppage of breathing is",
-        "choices": [
-          {
-            "text": "apnea",
-            "isTrue": true
-          },
-          {
-            "text": "dyspnea",
-            "isTrue": false
-          },
-          {
-            "text": "dysventilation",
-            "isTrue": false
-          },
-          {
+          "example": {
             "text": "eupnea",
-            "isTrue": false
+            "meaning": "normal breathing"
           }
-        ]
-      },
-      {
-        "question": "The term perioral means",
-        "choices": [
-          {
-            "text": "above the nose",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "normo-",
+            "meaning": "normal"
           },
-          {
-            "text": "within the sinuses",
-            "isTrue": false
-          },
-          {
-            "text": "around the mouth",
-            "isTrue": true
-          },
-          {
-            "text": "around the jaw",
-            "isTrue": false
+          "example": {
+            "text": "normothermic",
+            "meaning": "having normal body temperature"
           }
-        ]
-      },
-      {
-        "question": "The term hemiglossal refers to",
-        "choices": [
-          {
-            "text": "the salivary glands in the cheek",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "ortho-",
+            "meaning": "straight, correct"
           },
-          {
-            "text": "the position of the jaw",
-            "isTrue": false
-          },
-          {
-            "text": "one half of the tongue",
-            "isTrue": true
-          },
-          {
-            "text": "the upper part of the palate",
-            "isTrue": false
+          "example": {
+            "text": "orthognathism",
+            "meaning": "the condition of having straight jaws"
           }
-        ]
-      },
-      {
-        "question": "Oliguria is",
-        "choices": [
-          {
-            "text": "excretion of a decreased amount of urine",
-            "isTrue": true
+        },
+        {
+          "prefix": {
+            "text": "poikilo-",
+            "meaning": "irregular"
           },
-          {
-            "text": "discoloration of the urine",
-            "isTrue": false
-          },
-          {
-            "text": "infection of the bladder",
-            "isTrue": false
-          },
-          {
-            "text": "narrowing of the ureter",
-            "isTrue": false
+          "example": {
+            "text": "poikilothermic",
+            "meaning": "having different body temperature"
           }
-        ]
-      },
-      {
-        "question": "Painful or difficult urination is",
-        "choices": [
-          {
-            "text": "nocturia",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "pseudo-",
+            "meaning": "false"
           },
-          {
-            "text": "pyuria",
-            "isTrue": false
-          },
-          {
-            "text": "uremia",
-            "isTrue": false
-          },
-          {
-            "text": "dysuria",
-            "isTrue": true
+          "example": {
+            "text": "pseudogene",
+            "meaning": "a segment of DNA that resembles a gene but is not functional and usually not transcribed"
           }
-        ]
-      },
-      {
-        "question": "A retrouterine structure is located",
-        "choices": [
-          {
-            "text": "under the uterus",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "re-",
+            "meaning": "again, back"
           },
-          {
-            "text": "behind the vagina",
-            "isTrue": false
-          },
-          {
-            "text": "behind the uterus",
-            "isTrue": true
-          },
-          {
-            "text": "within the uterus",
-            "isTrue": false
+          "example": {
+            "text": "resection",
+            "meaning": "cutting back and forth in a sense of removal"
           }
-        ]
-      },
-      {
-        "question": "A congenital disorder",
-        "choices": [
-          {
-            "text": "is caused by viral infection",
-            "isTrue": false
+        },
+        {
+          "prefix": {
+            "text": "neo-",
+            "meaning": "new"
           },
-          {
-            "text": "is present at birth",
-            "isTrue": true
-          },
-          {
-            "text": "appears during childhood",
-            "isTrue": false
-          },
-          {
-            "text": "appears in a mother",
-            "isTrue": false
+          "example": {
+            "text": "neocortex",
+            "meaning": "the dorsal region of the cerebral cortex, especially large in primates, thought to have evolved more recently than other parts of the brain."
           }
-        ]
-      }
-    ]
-  }
+        }
+      ],
+      "name": "Table12"
+    },
+    {
+      "data": [
+        {
+          "MedicalTerm": "syndactyly",
+          "meaning": "a congenital anomaly in humans marked by webbing or fusion of the fingers or toes"
+        },
+        {
+          "MedicalTerm": "polydactyly",
+          "meaning": "a person or animal having more than the normal number of digits"
+        },
+        {
+          "MedicalTerm": "oligodactyly",
+          "meaning": "congenital condition in which some fingers or toes are missing"
+        },
+        {
+          "MedicalTerm": "tetradactyly",
+          "meaning": "having four digits on each extremity"
+        },
+        {
+          "MedicalTerm": "monodactyly",
+          "meaning": "an animal having only one digit on each extremity"
+        },
+        {
+          "MedicalTerm": "pachydactyly",
+          "meaning": "enlargement of the fingers or toes, especially extremities"
+        },
+        {
+          "MedicalTerm": "microdactyly",
+          "meaning": "a condition of abnormal smallness of fingers or toes."
+        }
+      ],
+      "name": "Table13"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "prim/i-",
+            "meaning": "first"
+          },
+          "example": {
+            "text": "primitive primary",
+            "meaning": "occurring first in time or sequence"
+          }
+        },
+        {
+          "prefix": {
+            "text": "mon/o-",
+            "meaning": "one"
+          },
+          "example": {
+            "text": "monocular",
+            "meaning": "a microscope with one lens"
+          }
+        },
+        {
+          "prefix": {
+            "text": "uni-",
+            "meaning": "one"
+          },
+          "example": {
+            "text": "unilateral",
+            "meaning": "one side"
+          }
+        },
+        {
+          "prefix": {
+            "text": "hemi-",
+            "meaning": "half"
+          },
+          "example": {
+            "text": "hemiplegia",
+            "meaning": "one side paralysis"
+          }
+        },
+        {
+          "prefix": {
+            "text": "semi-",
+            "meaning": "half"
+          },
+          "example": {
+            "text": "semilunar",
+            "meaning": "shaped like a half moon"
+          }
+        },
+        {
+          "prefix": {
+            "text": "bi-",
+            "meaning": "two"
+          },
+          "example": {
+            "text": "bipolar",
+            "meaning": "having two poles"
+          }
+        },
+        {
+          "prefix": {
+            "text": "di-",
+            "meaning": "two"
+          },
+          "example": {
+            "text": "diatomic",
+            "meaning": "having two atoms"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dipl/o-",
+            "meaning": "double"
+          },
+          "example": {
+            "text": "diplopic",
+            "meaning": "pertaining to double vision"
+          }
+        },
+        {
+          "prefix": {
+            "text": "tri-",
+            "meaning": "three"
+          },
+          "example": {
+            "text": "tripod",
+            "meaning": "having three legs"
+          }
+        },
+        {
+          "prefix": {
+            "text": "quadri-",
+            "meaning": "four"
+          },
+          "example": {
+            "text": "quadriplegia",
+            "meaning": "paralysis of four limbs"
+          }
+        },
+        {
+          "prefix": {
+            "text": "tetra-",
+            "meaning": "four"
+          },
+          "example": {
+            "text": "tetrad",
+            "meaning": "four components"
+          }
+        },
+        {
+          "prefix": {
+            "text": "multi-",
+            "meaning": "many"
+          },
+          "example": {
+            "text": "multicellular",
+            "meaning": "consisting of many cells"
+          }
+        },
+        {
+          "prefix": {
+            "text": "poly-",
+            "meaning": "many"
+          },
+          "example": {
+            "text": "polyphagia",
+            "meaning": "excessive appetite"
+          }
+        }
+      ],
+      "name": "Table2"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "leuk/o-",
+            "meaning": "white"
+          },
+          "example": {
+            "text": "leukoplakia",
+            "meaning": "having white patches in the mouth"
+          }
+        },
+        {
+          "prefix": {
+            "text": "cyan/o-",
+            "meaning": "blue"
+          },
+          "example": {
+            "text": "cyanosis",
+            "meaning": "bluish discoloration of the skin"
+          }
+        },
+        {
+          "prefix": {
+            "text": "erythr/o-",
+            "meaning": "red"
+          },
+          "example": {
+            "text": "erythrocyte",
+            "meaning": "red blood cell"
+          }
+        },
+        {
+          "prefix": {
+            "text": "melan/o-",
+            "meaning": "Black, dark"
+          },
+          "example": {
+            "text": "melanin",
+            "meaning": "the dark pigment that colors the hair and skin"
+          }
+        },
+        {
+          "prefix": {
+            "text": "poli/o-",
+            "meaning": "grey"
+          },
+          "example": {
+            "text": "poliomyelitis",
+            "meaning": "inflammation of the gray matter of the brain"
+          }
+        },
+        {
+          "prefix": {
+            "text": "xanth/o-",
+            "meaning": "yellow"
+          },
+          "example": {
+            "text": "xanthoderma",
+            "meaning": "yellow coloration of the skin"
+          }
+        },
+        {
+          "prefix": {
+            "text": "cirrh/o-",
+            "meaning": "orange"
+          },
+          "example": {
+            "text": "cirrhosis",
+            "meaning": "a disease of the liver"
+          }
+        },
+        {
+          "prefix": {
+            "text": "chlor/o-",
+            "meaning": "green"
+          },
+          "example": {
+            "text": "chlorophyll",
+            "meaning": "the green coloring matter of leaves and plants"
+          }
+        }
+      ],
+      "name": "Table3"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "ante-",
+            "meaning": "before"
+          },
+          "example": {
+            "text": "antepartum",
+            "meaning": "before birth"
+          }
+        },
+        {
+          "prefix": {
+            "text": "pre-",
+            "meaning": "before, in front of"
+          },
+          "example": {
+            "text": "premenstrual",
+            "meaning": "period before menstruation"
+          }
+        },
+        {
+          "prefix": {
+            "text": "pro-",
+            "meaning": "before, in front of"
+          },
+          "example": {
+            "text": "prophase",
+            "meaning": "first stage of cell division"
+          }
+        },
+        {
+          "prefix": {
+            "text": "Pros-",
+            "meaning": "before, forward"
+          },
+          "example": {
+            "text": "prosthesis",
+            "meaning": "artificial limb added to the body"
+          }
+        },
+        {
+          "prefix": {
+            "text": "post-",
+            "meaning": "after, behind"
+          },
+          "example": {
+            "text": "postmortem",
+            "meaning": "after death"
+          }
+        }
+      ],
+      "name": "Table4"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "brady-",
+            "meaning": "slow"
+          },
+          "example": {
+            "text": "bradygastria",
+            "meaning": "decreased rate of electrical pacemaker activity in the stomach"
+          }
+        },
+        {
+          "prefix": {
+            "text": "tachy-",
+            "meaning": "fast"
+          },
+          "example": {
+            "text": "tachycardia",
+            "meaning": "rapid heart rhythm"
+          }
+        },
+        {
+          "prefix": {
+            "text": "pachy-",
+            "meaning": "thick"
+          },
+          "example": {
+            "text": "pachydactyly",
+            "meaning": "abnormal thickness of the fingers"
+          }
+        },
+        {
+          "prefix": {
+            "text": "mal-",
+            "meaning": "bad, poor"
+          },
+          "example": {
+            "text": "malignant",
+            "meaning": "cancerous tumor that spreads like fire"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dys-",
+            "meaning": "abnormal, difficult, painful, bad/poor"
+          },
+          "example": {
+            "text": "dysplasia, dyspnea, dysuria, dystrophy",
+            "meaning": " - abnormal development in numbers\n - difficulty in breathing\n - painful sensation upon urination\n - poor development"
+          }
+        },
+        {
+          "prefix": {
+            "text": "xero-",
+            "meaning": "dry"
+          },
+          "example": {
+            "text": "xeroma",
+            "meaning": "excessive dryness of the cornea and conjunctiva"
+          }
+        }
+      ],
+      "name": "Table5"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "staphyl/o-",
+            "meaning": "grapelike cluster"
+          },
+          "example": {
+            "text": "staphylococcus",
+            "meaning": "round bacteria that form clusters"
+          }
+        },
+        {
+          "prefix": {
+            "text": "strept/o-",
+            "meaning": "twisted chain"
+          },
+          "example": {
+            "text": "streptobacillus",
+            "meaning": "a rod-shaped bacterium that forms chains"
+          }
+        }
+      ],
+      "name": "Table6"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "circum-",
+            "meaning": "around"
+          },
+          "example": {
+            "text": "circumcision",
+            "meaning": "circular cut"
+          }
+        },
+        {
+          "prefix": {
+            "text": "peri-",
+            "meaning": "around"
+          },
+          "example": {
+            "text": "peritoneal",
+            "meaning": "peritoneum"
+          }
+        },
+        {
+          "prefix": {
+            "text": "intra-",
+            "meaning": "within"
+          },
+          "example": {
+            "text": "intravenous",
+            "meaning": "within the vein"
+          }
+        },
+        {
+          "prefix": {
+            "text": "extra-",
+            "meaning": "outside"
+          },
+          "example": {
+            "text": "extrahepatic",
+            "meaning": "outside the liver"
+          }
+        },
+        {
+          "prefix": {
+            "text": "epi-",
+            "meaning": "above"
+          },
+          "example": {
+            "text": "epidermis",
+            "meaning": "above the skin"
+          }
+        },
+        {
+          "prefix": {
+            "text": "supra-",
+            "meaning": "above"
+          },
+          "example": {
+            "text": "supraabdominal",
+            "meaning": "above the abdomen"
+          }
+        },
+        {
+          "prefix": {
+            "text": "infra-",
+            "meaning": "below"
+          },
+          "example": {
+            "text": "infrascapular",
+            "meaning": "below the shoulder blades"
+          }
+        },
+        {
+          "prefix": {
+            "text": "sub-",
+            "meaning": "below"
+          },
+          "example": {
+            "text": "subpatellar",
+            "meaning": "below the kneecap"
+          }
+        },
+        {
+          "prefix": {
+            "text": "juxta-",
+            "meaning": "near"
+          },
+          "example": {
+            "text": "juxtaposition",
+            "meaning": "a location near another structure"
+          }
+        },
+        {
+          "prefix": {
+            "text": "para-",
+            "meaning": "near"
+          },
+          "example": {
+            "text": "parathyroid gland",
+            "meaning": "near the thyroid glands"
+          }
+        },
+        {
+          "prefix": {
+            "text": "inter-",
+            "meaning": "between"
+          },
+          "example": {
+            "text": "interstitial",
+            "meaning": "relating to or situated in the small, narrow spaces between tissues or parts of an organ"
+          }
+        },
+        {
+          "prefix": {
+            "text": "retro-",
+            "meaning": "behind"
+          },
+          "example": {
+            "text": "retrogastric",
+            "meaning": "behind the stomach"
+          }
+        }
+      ],
+      "name": "Table7"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "in-, im-",
+            "meaning": "not"
+          },
+          "example": {
+            "text": "Insignificant impermeable",
+            "meaning": "having no importance, not allowing fluid to pass through"
+          }
+        },
+        {
+          "prefix": {
+            "text": "un-",
+            "meaning": "not"
+          },
+          "example": {
+            "text": "unconscious",
+            "meaning": "not aware of one's surroundings"
+          }
+        },
+        {
+          "prefix": {
+            "text": "non-",
+            "meaning": "not"
+          },
+          "example": {
+            "text": "nonhuman",
+            "meaning": "not appropriate to human beings"
+          }
+        },
+        {
+          "prefix": {
+            "text": "a-, an-",
+            "meaning": "not, lack, without"
+          },
+          "example": {
+            "text": "apnea, anemia",
+            "meaning": "cessation of breathing, no blood"
+          }
+        },
+        {
+          "prefix": {
+            "text": "anti-",
+            "meaning": "against"
+          },
+          "example": {
+            "text": "antigen",
+            "meaning": "a substance that, when introduced into the body, stimulates the production of an antibody"
+          }
+        },
+        {
+          "prefix": {
+            "text": "contra-",
+            "meaning": "against"
+          },
+          "example": {
+            "text": "contraindicated",
+            "meaning": "against recommendation"
+          }
+        },
+        {
+          "prefix": {
+            "text": "de-",
+            "meaning": "down, without, removal"
+          },
+          "example": {
+            "text": "decongestant",
+            "meaning": "a medication or treatment that decreases congestion, as of the sinuses"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dis-",
+            "meaning": "removal, separation"
+          },
+          "example": {
+            "text": "disinfect",
+            "meaning": "to cleanse so as to destroy or prevent the growth of disease-carrying microorganisms"
+          }
+        }
+      ],
+      "name": "Table8"
+    },
+    {
+      "data": [
+        {
+          "prefix": {
+            "text": "ecto-",
+            "meaning": "outside"
+          },
+          "example": {
+            "text": "ectopic",
+            "meaning": "out of normal position"
+          }
+        },
+        {
+          "prefix": {
+            "text": "ex/o-",
+            "meaning": "outside"
+          },
+          "example": {
+            "text": "exophthalmos",
+            "meaning": "(Graves' disease) protrusion of the eyeball to the outside"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dextr/o-",
+            "meaning": "right"
+          },
+          "example": {
+            "text": "dextrogastria",
+            "meaning": "displacement of the stomach to the right"
+          }
+        },
+        {
+          "prefix": {
+            "text": "sinistr/o-",
+            "meaning": "left"
+          },
+          "example": {
+            "text": "sinistromanual",
+            "meaning": "left-handed"
+          }
+        },
+        {
+          "prefix": {
+            "text": "end/o-",
+            "meaning": "inside"
+          },
+          "example": {
+            "text": "endometrial",
+            "meaning": "within the uterus"
+          }
+        },
+        {
+          "prefix": {
+            "text": "mes/o-",
+            "meaning": "middle"
+          },
+          "example": {
+            "text": "mesoderm",
+            "meaning": "middle layer of a developing embryo"
+          }
+        },
+        {
+          "prefix": {
+            "text": "tel/o-, tel/e",
+            "meaning": "end"
+          },
+          "example": {
+            "text": "telophase, telencephalon",
+            "meaning": "last stage of cell division, endbrain"
+          }
+        },
+        {
+          "prefix": {
+            "text": "syn-, sym- con-",
+            "meaning": "together"
+          },
+          "example": {
+            "text": "syndrome, symbiosis, congenital",
+            "meaning": "- group of signs and symptoms that occur together, - two dissimilar organisms living together, - present at birth"
+          }
+        }
+      ],
+      "name": "Table9"
+    }
+  ]
 }

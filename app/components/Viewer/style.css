@@ -1,3 +1,10 @@
-table, th, td {
+table,
+th,
+td {
   border: 1px solid black;
+}
+
+.mcq {
+  margin-bottom: 5pt;
+  border: 1px solid gray;
 }
