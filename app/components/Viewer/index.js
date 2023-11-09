@@ -137,9 +137,9 @@ export default function Viewer({ data, color }) {
                 type="text"
                 value={textInput}
                 onInput={input => setTextInput(input.target.value)} />
-              <span onClick={() => setSpeedRun(speedRun => !speedRun)} style={{ cursor: "pointer" }}>
+              <div onClick={() => setSpeedRun(speedRun => !speedRun)} style={{ cursor: "pointer" }}>
                 <input checked={speedRun} readOnly={true} type="checkbox" style={{ cursor: "pointer" }} /> Speed Run
-              </span><br />
+              </div><br />
               <button className="component-button" type="submit">Check</button>
             </>}
             {currentQuestion?.type === 2 && <>
