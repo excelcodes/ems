@@ -254,7 +254,7 @@ export default function Viewer({ data, color }) {
               </tbody>
             </table>
             <button onClick={() => setStart(true)} className="component-button start-button">Start📝</button>&#160;&#160;&#160;
-            <button className="component-button start-button"><Link href="/">Homepage 🏠</Link></button>
+            <Link href="/"><button className="component-button start-button">Homepage 🏠</button></Link>
           </>)}
           {feedback && <div>{feedback}</div>}
         </>}
