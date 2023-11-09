@@ -10,6 +10,9 @@ table, th, td {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  margin: 10px;
+  font-size: 20px;
+
 }
 
 table {
@@ -49,6 +52,10 @@ table {
   max-height: 100%;
   overflow-y: auto;
   border-right: 1px solid gray;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  position: fixed;
   /* position: fixed; */
 }
 
@@ -75,12 +82,16 @@ table {
   flex: 1;
   padding: 20px;
   text-align: center;
+  margin-left: 220px;
 }
 
 @media (max-width: 768px) {
   .sidebar {
     width: 100%;
     display: none;
+  }
+  .main-content {
+    margin-left: 0;
   }
 }
 
@@ -100,8 +111,15 @@ table {
 
 
 .mcq {
+  cursor: pointer;
+  font-size: 25px;
   margin-bottom: 5pt;
   border: 1px solid gray;
+  padding: 10px 0;
+}
+
+.mcq:hover {
+  opacity: .8;
 }
 
 ::-webkit-scrollbar {

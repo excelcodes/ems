@@ -1,4 +1,6 @@
 import React from "react";
+import Swal from "sweetalert2";
+import withReactContent from "sweetalert2-react-content";
 import "./style.css";
 import Link from "next/link";
 
@@ -47,12 +49,24 @@ export default function Viewer({ data, color }) {
   const [speedRun, setSpeedRun] = React.useState(false);
   const [start, setStart] = React.useState(false);
   const currentQuestion = remakeQuestion({ ...set?.data?.[currentQuestionId] });
-
-  console.log(currentQuestion);
+  const Toast = withReactContent(Swal).mixin({
+    toast: true,
+    position: "top-end",
+    showConfirmButton: false,
+    timer: 2000,
+    didOpen: (toast) => {
+      toast.onmouseenter = withReactContent(Swal).stopTimer;
+      toast.onmouseleave = withReactContent(Swal).resumeTimer;
+    }
+  });
 
   React.useEffect(() => {
     if (speedRun && textInput.toLowerCase() === currentQuestion?.answer) {
-      setFeedback("Correct!");
+      
+      Toast.fire({
+        icon: "success",
+        title: "Correct!"
+      });
       setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
     }
   }, [textInput]);
@@ -69,14 +83,14 @@ export default function Viewer({ data, color }) {
 
   function randomize() {
     setSet(set => {
-      const shuffledArray = [...set];
+      const shuffledArray = [...set.data];
 
       for (let i = shuffledArray.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]];
       }
 
-      return shuffledArray;
+      return { ...set, data: shuffledArray };
     });
   }
 
@@ -106,9 +120,16 @@ export default function Viewer({ data, color }) {
           <form onSubmit={(form) => {
             form.preventDefault();
             if (textInput.toLowerCase() === currentQuestion?.answer) {
-              setFeedback("Correct!");
+              
+              Toast.fire({
+                icon: "success",
+                title: "Correct!"
+              });
               setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-            } else setFeedback("Wrong!");
+            } else Toast.fire({
+              icon: "error",
+              title: "Wrong!"
+            });
           }}>
             {currentQuestion?.type === 0 && <>
               <input
@@ -124,17 +145,31 @@ export default function Viewer({ data, color }) {
             {currentQuestion?.type === 2 && <>
               <div className="mcq" onClick={() => {
                 if (currentQuestion.answer === true) {
-                  setFeedback("Correct!");
+                  
+                  Toast.fire({
+                    icon: "success",
+                    title: "Correct!"
+                  });
                   setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-                } else setFeedback("Wrong!");
+                } else Toast.fire({
+                  icon: "error",
+                  title: "Wrong!"
+                });
               }} style={{ cursor: "pointer" }}>
                 True
               </div>
               <div className="mcq" onClick={() => {
                 if (currentQuestion.answer === false) {
-                  setFeedback("Correct!");
+                  
+                  Toast.fire({
+                    icon: "success",
+                    title: "Correct!"
+                  });
                   setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-                } else setFeedback("Wrong!");
+                } else Toast.fire({
+                  icon: "error",
+                  title: "Wrong!"
+                });
               }} style={{ cursor: "pointer" }}>
                 False
               </div>
@@ -143,10 +178,17 @@ export default function Viewer({ data, color }) {
             {currentQuestion?.type === 1 &&
               currentQuestion.choices.map((choice, i) => <div onClick={() => {
                 if (choice === currentQuestion.answer) {
-                  setFeedback("Correct!");
+                  
+                  Toast.fire({
+                    icon: "success",
+                    title: "Correct!"
+                  });
                   setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
                 } else {
-                  setFeedback("Wrong!");
+                  Toast.fire({
+                    icon: "error",
+                    title: "Wrong!"
+                  });
                 }
               }} className="mcq" key={i}>{choice}</div>)
             }
@@ -162,7 +204,7 @@ export default function Viewer({ data, color }) {
                       {
                         getAllValues((() => {
                           const q = { ...set.data[currentQuestionId] };
-                          if (q.type) delete q.type;
+                          if (typeof q.type === "number") delete q.type;
                           if (q.choices) delete q.choices;
                           return q;
                         })()).map((value, i) => <td key={i}>{`${value}`}</td>)
