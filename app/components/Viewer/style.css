@@ -74,6 +74,21 @@ table {
   font-size: 20pt;
 }
 
+.phone-sidebar h2 {
+  font-size: 30pt;
+}
+
+.phone-sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.phone-sidebar li {
+  margin-bottom: 8px;
+  cursor: pointer;
+  font-size: 20pt;
+}
+
 .active {
   color: red;
 }
@@ -93,6 +108,14 @@ table {
   .main-content {
     margin-left: 0;
   }
+  .hamburger-menu {
+    display: block !important;
+    width: 17%;
+  }
+}
+
+.hamburger-menu {
+  display: none;
 }
 
 .question-text {

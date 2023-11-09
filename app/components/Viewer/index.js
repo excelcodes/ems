@@ -48,6 +48,7 @@ export default function Viewer({ data, color }) {
   const [feedback, setFeedback] = React.useState("");
   const [speedRun, setSpeedRun] = React.useState(false);
   const [start, setStart] = React.useState(false);
+  const [toggleSidebar, setToggleSidebar] = React.useState(false);
   const currentQuestion = remakeQuestion({ ...set?.data?.[currentQuestionId] });
   const Toast = withReactContent(Swal).mixin({
     toast: true,
@@ -62,7 +63,7 @@ export default function Viewer({ data, color }) {
 
   React.useEffect(() => {
     if (speedRun && textInput.toLowerCase() === currentQuestion?.answer) {
-      
+
       Toast.fire({
         icon: "success",
         title: "Correct!"
@@ -79,6 +80,7 @@ export default function Viewer({ data, color }) {
   React.useEffect(() => {
     setCurrentQuestionId(0);
     setFeedback("");
+    setToggleSidebar(false);
   }, [set, start]);
 
   function randomize() {
@@ -99,145 +101,163 @@ export default function Viewer({ data, color }) {
       <div className="sidebar">
         <h2>Tables</h2>
         <ul>
-          {data.table.sort((a, b) => parseInt(a.name.replace(/Table(\d+)/, "$1")) - parseInt(b.name.replace(/Table(\d+)/, "$1"))).map((tableSet, i) => <li style={{color: set.name === tableSet.name ? color : "black"}} key={i} onClick={() => { setSet(tableSet); setStart(false); }}>{tableSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
+          {data.table.sort((a, b) => parseInt(a.name.replace(/Table(\d+)/, "$1")) - parseInt(b.name.replace(/Table(\d+)/, "$1"))).map((tableSet, i) => <li style={{ color: set.name === tableSet.name ? color : "black" }} key={i} onClick={() => { setSet(tableSet); setStart(false); }}>{tableSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
         </ul>
         <h2>Review</h2>
         <ul>
-          {data.review.map((reviewSet, i) => <li style={{color: set.name === reviewSet.name ? color : "black"}}  key={i} onClick={() => { setSet(reviewSet); setStart(false); }}>{reviewSet.name}</li>)}
+          {data.review.map((reviewSet, i) => <li style={{ color: set.name === reviewSet.name ? color : "black" }} key={i} onClick={() => { setSet(reviewSet); setStart(false); }}>{reviewSet.name}</li>)}
         </ul>
         <h2>Practice</h2>
         <ul>
-          {data.practice.sort((a, b) => parseInt(a.name.replace(/Practice(\d+)/, "$1")) - parseInt(b.name.replace(/Practice(\d+)/, "$1"))).map((practiceSet, i) => <li style={{color: set.name === practiceSet.name ? color : "black"}} key={i} onClick={() => { setSet(practiceSet); setStart(false); }}>{practiceSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
+          {data.practice.sort((a, b) => parseInt(a.name.replace(/Practice(\d+)/, "$1")) - parseInt(b.name.replace(/Practice(\d+)/, "$1"))).map((practiceSet, i) => <li style={{ color: set.name === practiceSet.name ? color : "black" }} key={i} onClick={() => { setSet(practiceSet); setStart(false); }}>{practiceSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
         </ul>
       </div>
       <div className="main-content">
-        <h1>{set.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</h1>
-        {currentQuestionId === "FINISHED" ? <>
-          YOU HAVE FINISHED THIS SET
-          <button className="component-button" onClick={() => setCurrentQuestionId(0)}>AGAIN?</button>
-        </> : (start ? <>
-          <div className="question-text">{currentQuestion.text}</div>
-          <form onSubmit={(form) => {
-            form.preventDefault();
-            if (textInput.toLowerCase() === currentQuestion?.answer) {
-              
-              Toast.fire({
-                icon: "success",
-                title: "Correct!"
-              });
-              setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-            } else Toast.fire({
-              icon: "error",
-              title: "Wrong!"
-            });
-          }}>
-            {currentQuestion?.type === 0 && <>
-              <input
-                className="question-input"
-                type="text"
-                value={textInput}
-                onInput={input => setTextInput(input.target.value)} />
-              <div onClick={() => setSpeedRun(speedRun => !speedRun)} style={{ cursor: "pointer" }}>
-                <input checked={speedRun} readOnly={true} type="checkbox" style={{ cursor: "pointer" }} /> Speed Run
-              </div><br />
-              <button className="component-button" type="submit">Check</button>
-            </>}
-            {currentQuestion?.type === 2 && <>
-              <div className="mcq" onClick={() => {
-                if (currentQuestion.answer === true) {
-                  
-                  Toast.fire({
-                    icon: "success",
-                    title: "Correct!"
-                  });
-                  setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-                } else Toast.fire({
-                  icon: "error",
-                  title: "Wrong!"
-                });
-              }} style={{ cursor: "pointer" }}>
-                True
-              </div>
-              <div className="mcq" onClick={() => {
-                if (currentQuestion.answer === false) {
-                  
-                  Toast.fire({
-                    icon: "success",
-                    title: "Correct!"
-                  });
-                  setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-                } else Toast.fire({
-                  icon: "error",
-                  title: "Wrong!"
-                });
-              }} style={{ cursor: "pointer" }}>
-                False
-              </div>
-            </>}
+        {toggleSidebar ? <>
+          <div className="phone-sidebar">
+            <h2>Tables</h2>
+            <ul>
+              {data.table.sort((a, b) => parseInt(a.name.replace(/Table(\d+)/, "$1")) - parseInt(b.name.replace(/Table(\d+)/, "$1"))).map((tableSet, i) => <li style={{ color: set.name === tableSet.name ? color : "black" }} key={i} onClick={() => { setSet(tableSet); setStart(false); }}>{tableSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
+            </ul>
+            <h2>Review</h2>
+            <ul>
+              {data.review.map((reviewSet, i) => <li style={{ color: set.name === reviewSet.name ? color : "black" }} key={i} onClick={() => { setSet(reviewSet); setStart(false); }}>{reviewSet.name}</li>)}
+            </ul>
+            <h2>Practice</h2>
+            <ul>
+              {data.practice.sort((a, b) => parseInt(a.name.replace(/Practice(\d+)/, "$1")) - parseInt(b.name.replace(/Practice(\d+)/, "$1"))).map((practiceSet, i) => <li style={{ color: set.name === practiceSet.name ? color : "black" }} key={i} onClick={() => { setSet(practiceSet); setStart(false); }}>{practiceSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
+            </ul>
+          </div>
+        </> : <>
+          <button onClick={() => setToggleSidebar(true)} className="hamburger-menu"><img src="/hamburger-menu.svg" /></button>
+          <h1>{set.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</h1>
+          {currentQuestionId === "FINISHED" ? <>
+            YOU HAVE FINISHED THIS SET
+            <button className="component-button" onClick={() => setCurrentQuestionId(0)}>AGAIN?</button>
+          </> : (start ? <>
+            <div className="question-text">{currentQuestion.text}</div>
+            <form onSubmit={(form) => {
+              form.preventDefault();
+              if (textInput.toLowerCase() === currentQuestion?.answer) {
 
-            {currentQuestion?.type === 1 &&
-              currentQuestion.choices.map((choice, i) => <div onClick={() => {
-                if (choice === currentQuestion.answer) {
-                  
-                  Toast.fire({
-                    icon: "success",
-                    title: "Correct!"
-                  });
-                  setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-                } else {
-                  Toast.fire({
+                Toast.fire({
+                  icon: "success",
+                  title: "Correct!"
+                });
+                setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
+              } else Toast.fire({
+                icon: "error",
+                title: "Wrong!"
+              });
+            }}>
+              {currentQuestion?.type === 0 && <>
+                <input
+                  className="question-input"
+                  type="text"
+                  value={textInput}
+                  onInput={input => setTextInput(input.target.value)} />
+                <div onClick={() => setSpeedRun(speedRun => !speedRun)} style={{ cursor: "pointer" }}>
+                  <input checked={speedRun} readOnly={true} type="checkbox" style={{ cursor: "pointer" }} /> Speed Run
+                </div><br />
+                <button className="component-button" type="submit">Check</button>
+              </>}
+              {currentQuestion?.type === 2 && <>
+                <div className="mcq" onClick={() => {
+                  if (currentQuestion.answer === true) {
+
+                    Toast.fire({
+                      icon: "success",
+                      title: "Correct!"
+                    });
+                    setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
+                  } else Toast.fire({
                     icon: "error",
                     title: "Wrong!"
                   });
-                }
-              }} className="mcq" key={i}>{choice}</div>)
-            }
+                }} style={{ cursor: "pointer" }}>
+                  True
+                </div>
+                <div className="mcq" onClick={() => {
+                  if (currentQuestion.answer === false) {
 
-            <button className="component-button" type="button" onClick={() => {
-              setFeedback(
-                <table>
-                  <tbody>
-                    <tr>
-                      {getHeaders(set.data[0], color)}
-                    </tr>
-                    <tr>
-                      {
-                        getAllValues((() => {
-                          const q = { ...set.data[currentQuestionId] };
-                          if (typeof q.type === "number") delete q.type;
-                          if (q.choices) delete q.choices;
-                          return q;
-                        })()).map((value, i) => <td key={i}>{`${value}`}</td>)
-                      }
-                    </tr>
-                  </tbody>
-                </table>
-              )
-            }}>Show</button>
-            <button className="component-button" type="button" onClick={randomize}>Randomize</button>
-            <button className="component-button" type="button" onClick={() => setStart(false)}>Close</button>
-          </form>
+                    Toast.fire({
+                      icon: "success",
+                      title: "Correct!"
+                    });
+                    setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
+                  } else Toast.fire({
+                    icon: "error",
+                    title: "Wrong!"
+                  });
+                }} style={{ cursor: "pointer" }}>
+                  False
+                </div>
+              </>}
 
-        </> : <>
-          <table>
-            <tbody>
-              <tr>
-                {getHeaders(set.data[0], color)}
-              </tr>
-              {set.data.map((question, i) => <tr key={i}>
-                {getAllValues((() => {
-                  const q = { ...question };
-                  if (typeof q.type === "number") delete q.type;
-                  if (q.choices) delete q.choices;
-                  return q;
-                })()).map((value, i) => <td key={i}>{`${value}`}</td>)}
-              </tr>)}
-            </tbody>
-          </table>
-          <button  onClick={() => setStart(true)} className="component-button start-button">Start📝</button>&#160;&#160;&#160;
-          <button className="component-button start-button"><Link href="/">Homepage 🏠</Link></button>
-        </>)}
-        {feedback && <div>{feedback}</div>}
+              {currentQuestion?.type === 1 &&
+                currentQuestion.choices.map((choice, i) => <div onClick={() => {
+                  if (choice === currentQuestion.answer) {
+
+                    Toast.fire({
+                      icon: "success",
+                      title: "Correct!"
+                    });
+                    setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
+                  } else {
+                    Toast.fire({
+                      icon: "error",
+                      title: "Wrong!"
+                    });
+                  }
+                }} className="mcq" key={i}>{choice}</div>)
+              }
+
+              <button className="component-button" type="button" onClick={() => {
+                setFeedback(
+                  <table>
+                    <tbody>
+                      <tr>
+                        {getHeaders(set.data[0], color)}
+                      </tr>
+                      <tr>
+                        {
+                          getAllValues((() => {
+                            const q = { ...set.data[currentQuestionId] };
+                            if (typeof q.type === "number") delete q.type;
+                            if (q.choices) delete q.choices;
+                            return q;
+                          })()).map((value, i) => <td key={i}>{`${value}`}</td>)
+                        }
+                      </tr>
+                    </tbody>
+                  </table>
+                )
+              }}>Show</button>
+              <button className="component-button" type="button" onClick={randomize}>Randomize</button>
+              <button className="component-button" type="button" onClick={() => setStart(false)}>Close</button>
+            </form>
+
+          </> : <>
+            <table>
+              <tbody>
+                <tr>
+                  {getHeaders(set.data[0], color)}
+                </tr>
+                {set.data.map((question, i) => <tr key={i}>
+                  {getAllValues((() => {
+                    const q = { ...question };
+                    if (typeof q.type === "number") delete q.type;
+                    if (q.choices) delete q.choices;
+                    return q;
+                  })()).map((value, i) => <td key={i}>{`${value}`}</td>)}
+                </tr>)}
+              </tbody>
+            </table>
+            <button onClick={() => setStart(true)} className="component-button start-button">Start📝</button>&#160;&#160;&#160;
+            <button className="component-button start-button"><Link href="/">Homepage 🏠</Link></button>
+          </>)}
+          {feedback && <div>{feedback}</div>}
+        </>}
       </div>
     </main>
   );
