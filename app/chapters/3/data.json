@@ -1267,31 +1267,31 @@
     {
       "data": [
         {
-          "MedicalTerm": "syndactyly",
+          "medical_term": "syndactyly",
           "meaning": "a congenital anomaly in humans marked by webbing or fusion of the fingers or toes"
         },
         {
-          "MedicalTerm": "polydactyly",
+          "medical_term": "polydactyly",
           "meaning": "a person or animal having more than the normal number of digits"
         },
         {
-          "MedicalTerm": "oligodactyly",
+          "medical_term": "oligodactyly",
           "meaning": "congenital condition in which some fingers or toes are missing"
         },
         {
-          "MedicalTerm": "tetradactyly",
+          "medical_term": "tetradactyly",
           "meaning": "having four digits on each extremity"
         },
         {
-          "MedicalTerm": "monodactyly",
+          "medical_term": "monodactyly",
           "meaning": "an animal having only one digit on each extremity"
         },
         {
-          "MedicalTerm": "pachydactyly",
+          "medical_term": "pachydactyly",
           "meaning": "enlargement of the fingers or toes, especially extremities"
         },
         {
-          "MedicalTerm": "microdactyly",
+          "medical_term": "microdactyly",
           "meaning": "a condition of abnormal smallness of fingers or toes."
         }
       ],

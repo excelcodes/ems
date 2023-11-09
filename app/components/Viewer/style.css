@@ -1,32 +1,59 @@
-table,
-th,
-td {
+table, th, td {
   border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px 5px 5px 13px;
+}
+
+.component-button {
+  width: auto;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 table {
   margin-left: auto;
   margin-right: auto;
+  text-align: left;
+  font-size: 20pt;
+  max-width: 80%;
+  min-width: 50%;
 }
 
-html,
-body {
-  margin: 0;
-  padding: 0;
+.start-button {
+  margin-top: 40px;
+  padding: 10px 50px;
+  border-radius: 4px;
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+
+.start-button:hover {
+  opacity: .8;
 }
 
 .container {
   display: flex;
 }
 
+.back-button {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
 .sidebar {
   background: #f2f2f2;
   padding: 20px;
   width: 250px;
+  max-height: 100%;
+  overflow-y: auto;
+  border-right: 1px solid gray;
+  /* position: fixed; */
 }
 
 .sidebar h2 {
-  margin-bottom: 10px;
+  font-size: 30pt;
 }
 
 .sidebar ul {
@@ -37,6 +64,11 @@ body {
 .sidebar li {
   margin-bottom: 8px;
   cursor: pointer;
+  font-size: 20pt;
+}
+
+.active {
+  color: red;
 }
 
 .main-content {
@@ -46,17 +78,49 @@ body {
 }
 
 @media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
-
   .sidebar {
     width: 100%;
+    display: none;
   }
+}
+
+.question-text {
+  margin-top: 40px;
+  font-size: 40px;
+}
+
+.question-input {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.question-input:focus {
+  outline: none !important;
 }
 
 
 .mcq {
   margin-bottom: 5pt;
   border: 1px solid gray;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: gray; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(141, 141, 141);
 }

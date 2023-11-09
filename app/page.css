@@ -1,0 +1,49 @@
+.founders-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.founder-card {
+  width: 300px;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+
+h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.practice-button {
+  width: 100%;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.download-cv {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.contact-me {
+  background-color: #008CBA;
+  color: white;
+}

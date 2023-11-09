@@ -1,0 +1,15 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  text-decoration-color: none;
+  /* color: #fff; */
+  color: #000;
+}
