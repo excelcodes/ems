@@ -78,11 +78,25 @@ export default function Viewer({ data }) {
   }
 
   return (
-    <main>
-      {data.table.map((set, i) => <button key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name}</button>)}
-      {data.review.map((set, i) => <button key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name}</button>)}
-      {data.practice.map((set, i) => <button key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name}</button>)}
-      <div>
+    <main className="container">
+      {/* {data.table.sort((a, b) => parseInt(a.name.replace(/Table(\d+)/, '$1')) - parseInt(b.name.replace(/Table(\d+)/, '$1'))).map((set, i) => <button key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name}</button>)} */}
+      {/* {data.review.map((set, i) => <button key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name}</button>)} */}
+      {/* {data.practice.map((set, i) => <button key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name}</button>)} */}
+      <div class="sidebar">
+        <h2>Tables</h2>
+        <ul>
+            {data.table.sort((a, b) => parseInt(a.name.replace(/Table(\d+)/, '$1')) - parseInt(b.name.replace(/Table(\d+)/, '$1'))).map((set, i) => <li key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
+        </ul>
+        <h2>Review</h2>
+        <ul>
+          {data.review.map((set, i) => <li key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name}</li>)}
+        </ul>
+        <h2>Practice</h2>
+        <ul>
+          {data.practice.map((set, i) => <li key={i} onClick={() => { setSet(set.data); setStart(false); }}>{set.name}</li>)}
+        </ul>
+    </div>
+      <div className="main-content">
         {currentQuestionId === "FINISHED" ? <>
           YOU HAVE FINISHED THIS SET
           <button onClick={() => setCurrentQuestionId(0)}>AGAIN?</button>
