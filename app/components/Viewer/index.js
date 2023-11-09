@@ -23,14 +23,12 @@ function getAllKeys(obj, result = []) {
   return result;
 }
 
-function getAllValues(obj, result = []) {
-  for (const value of Object.values(obj)) {
-    if (typeof value === "object") return getAllKeys(value, result);
-    result.push(value);
-  }
-  console.log("test", result);
-  return result;
-}
+const getAllValues = (obj) => (obj && typeof obj === 'object')
+  ? Object
+    .values(obj)
+    .map(getAllValues)
+    .reduce((a, b) => a.concat(b), [])
+  : [obj]
 
 function getHeaders(question) {
   if (question.type === 0 || question.type) return <>
@@ -143,10 +141,17 @@ export default function Viewer({ data }) {
                 <table>
                   <tbody>
                     <tr>
-                      {Object.keys(currentQuestion).map((key, i) => <th key={i}>{`${key}`}</th>)}
+                      {getHeaders(set[0])}
                     </tr>
                     <tr>
-                      {Object.values(currentQuestion).map((value, i) => <td key={i}>{`${value}`}</td>)}
+                      {
+                        getAllValues((() => {
+                          const q = { ...set[currentQuestionId] };
+                          if (q.type) delete q.type;
+                          if (q.choices) delete q.choices;
+                          return q;
+                        })()).map((value, i) => <td key={i}>{`${value}`}</td>)
+                      }
                     </tr>
                   </tbody>
                 </table>
@@ -164,8 +169,9 @@ export default function Viewer({ data }) {
               {set.map((question, i) => <tr key={i}>
                 {getAllValues((() => {
                   const q = { ...question };
-                  if (q.type) delete q.type;
+                  if (typeof q.type === "number") delete q.type;
                   if (q.choices) delete q.choices;
+                  console.log(q);
                   return q;
                 })()).map((value, i) => <td key={i}>{`${value}`}</td>)}
               </tr>)}
