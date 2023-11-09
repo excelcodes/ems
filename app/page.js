@@ -1,3 +1,5 @@
+"use client";
+
 import Link from "next/link";
 import "./page.css";
 
@@ -10,8 +12,8 @@ export default function Home() {
         <br />
         <br />
         <div className="buttons">
-          <button className="download-cv">Download Book</button>
-          <button className="contact-me">Solution Key</button>
+          <button onClick={() => window.open("/ch1.pdf", "_blank")} className="download-cv">Download Book</button>
+          <button onClick={() => window.open("/ch1-notes.pdf", "_blank")} className="contact-me">Solution Key</button>
         </div>
       </div>
       <div className="founder-card">
@@ -20,8 +22,8 @@ export default function Home() {
         <br />
         <br />
         <div className="buttons">
-          <button className="download-cv">Download Book</button>
-          <button className="contact-me">Solution Key</button>
+          <button onClick={() => window.open("/ch2.pdf", "_blank")} className="download-cv">Download Book</button>
+          <button onClick={() => window.open("/ch2-notes.pdf", "_blank")} className="contact-me">Solution Key</button>
         </div>
       </div>
       <div className="founder-card">
@@ -30,8 +32,8 @@ export default function Home() {
         <br />
         <br />
         <div className="buttons">
-          <button className="download-cv">Download Book</button>
-          <button className="contact-me">Solution Key</button>
+        <button onClick={() => window.open("/ch3.pdf", "_blank")} className="download-cv">Download Book</button>
+          <button onClick={() => window.open("/ch3-notes.pdf", "_blank")} className="contact-me">Solution Key</button>
         </div>
       </div>
     </div>
