@@ -148,7 +148,7 @@ export default function Viewer({ data, color }) {
               }
 
               setSet(newSet)
-            }}>GO TO NEXT SET</button>
+            }}>NEXT</button>
           </> : (start ? <>
             <div className="question-text">{currentQuestion.text}</div>
             <form onSubmit={(form) => {
