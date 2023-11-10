@@ -62,7 +62,7 @@ export default function Viewer({ data, color }) {
   });
 
   React.useEffect(() => {
-    if (speedRun && textInput.toLowerCase() === currentQuestion?.answer) {
+    if (speedRun && textInput.toLowerCase() === currentQuestion?.answer?.toLowerCase()) {
 
       Toast.fire({
         icon: "success",
@@ -153,7 +153,7 @@ export default function Viewer({ data, color }) {
             <div className="question-text">{currentQuestion.text}</div>
             <form onSubmit={(form) => {
               form.preventDefault();
-              if (textInput.toLowerCase() === currentQuestion?.answer) {
+              if (textInput.toLowerCase() === currentQuestion?.answer?.toLowerCase()) {
 
                 Toast.fire({
                   icon: "success",
