@@ -83,7 +83,7 @@ export default function Viewer({ data, color }) {
     setToggleSidebar(false);
   }, [set, start]);
 
-  React.useEffect(() => { setStart(false); }, [set]);
+  React.useEffect(() => { if (!speedRun) setStart(false); }, [set]);
 
   function randomize() {
     setSet(set => {
