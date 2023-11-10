@@ -81,8 +81,9 @@ export default function Viewer({ data, color }) {
     setCurrentQuestionId(0);
     setFeedback("");
     setToggleSidebar(false);
-    setStart(false);
   }, [set, start]);
+
+  React.useEffect(() => { setStart(false); }, [set]);
 
   function randomize() {
     setSet(set => {
