@@ -148,7 +148,7 @@ export default function Viewer({ data, color }) {
               }
 
               setSet(newSet);
-              setStart(false);
+              if (!speedRun) setStart(false);
             }}>NEXT</button>
           </> : (start ? <>
             <div className="question-text">{currentQuestion.text}</div>
