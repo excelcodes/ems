@@ -83,8 +83,6 @@ export default function Viewer({ data, color }) {
     setToggleSidebar(false);
   }, [set, start]);
 
-  React.useEffect(() => { if (!speedRun) setStart(false); }, [set]);
-
   function randomize() {
     setSet(set => {
       const shuffledArray = [...set.data];
@@ -150,6 +148,7 @@ export default function Viewer({ data, color }) {
               }
 
               setSet(newSet);
+              setStart(false);
             }}>NEXT</button>
           </> : (start ? <>
             <div className="question-text">{currentQuestion.text}</div>
