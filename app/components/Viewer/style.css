@@ -112,6 +112,9 @@ table {
     display: block !important;
     width: 17%;
   }
+  .question-text {
+    font-size: 25px !important;
+  }
 }
 
 .hamburger-menu {
