@@ -132,8 +132,23 @@ export default function Viewer({ data, color }) {
           <button onClick={() => setToggleSidebar(true)} className="hamburger-menu"><img src="/hamburger-menu.svg" /></button>
           <h1>{set.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</h1>
           {currentQuestionId === "FINISHED" ? <>
-            YOU HAVE FINISHED THIS SET
+            <p>YOU HAVE FINISHED THIS SET</p>
             <button className="component-button" onClick={() => setCurrentQuestionId(0)}>AGAIN?</button>
+            <button className="component-button" onClick={() => {
+              let newSet;
+              if (set.name.startsWith("Table")) {
+                newSet = data.table[data.table.findIndex(table => table.name === set.name) + 1];
+                if (!newSet) newSet = data.review[0];
+              } else if (set.name.startsWith("Review")) {
+                newSet = data.review[data.review.findIndex(review => review.name === set.name) + 1];
+                if (!newSet) newSet = data.practice[0];
+              } else if (set.name.startsWith("Practice")) {
+                newSet = data.practice[data.practice.findIndex(practice => practice.name === set.name) + 1];
+                if (!newSet) newSet = data.table[0];
+              }
+
+              setSet(newSet)
+            }}>GO TO NEXT SET</button>
           </> : (start ? <>
             <div className="question-text">{currentQuestion.text}</div>
             <form onSubmit={(form) => {
