@@ -81,6 +81,7 @@ export default function Viewer({ data, color }) {
     setCurrentQuestionId(0);
     setFeedback("");
     setToggleSidebar(false);
+    setStart(false);
   }, [set, start]);
 
   function randomize() {
@@ -147,7 +148,7 @@ export default function Viewer({ data, color }) {
                 if (!newSet) newSet = data.table[0];
               }
 
-              setSet(newSet)
+              setSet(newSet);
             }}>NEXT</button>
           </> : (start ? <>
             <div className="question-text">{currentQuestion.text}</div>
