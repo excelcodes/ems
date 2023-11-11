@@ -1153,12 +1153,22 @@
         },
         {
           "prefix": {
-            "text": "homo- homeo",
+            "text": "homo-",
             "meaning": "same, unchanging"
           },
           "example": {
-            "text": "homosexual, homeostasis",
-            "meaning": "- having a sexual orientation to persons of the same sex. - a property of cells, tissues, and organisms that allows the maintenance and regulation of stability"
+            "text": "homosexual",
+            "meaning": "- having a sexual orientation to persons of the same sex."
+          }
+        },
+        {
+          "prefix": {
+            "text": "homeo",
+            "meaning": "same, unchanging"
+          },
+          "example": {
+            "text": "homeostasis",
+            "meaning": "- a property of cells, tissues, and organisms that allows the maintenance and regulation of stability"
           }
         },
         {
