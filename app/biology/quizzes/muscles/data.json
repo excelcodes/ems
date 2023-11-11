@@ -904,5 +904,933 @@
         ]
       }
     ]
+  }, {
+    "name": "Previous",
+    "data": [
+      {
+        "type": 1,
+        "text": "A drug that interferes with the active transport of calcium ions from the sarcoplasm back into the sarcoplasmic reticulum would result in",
+        "choices": [
+          "relaxation of the muscle fiber",
+          "contraction with no relaxation",
+          "muscle hypertrophy",
+          "an imbalance of blood calcium"
+        ],
+        "answer": "contraction with no relaxation"
+      },
+      {
+        "type": 1,
+        "text": "In skeletal muscle structure, which of the following surrounds bundles of muscle fibers?",
+        "choices": [
+          "Epimysium",
+          "Sarcolemma",
+          "Perimysium",
+          "Endomysium"
+        ],
+        "answer": "Perimysium"
+      },
+      {
+        "type": 1,
+        "text": "In the case of rigor mortis, after a few hours, skeletal muscles in the whole body will become stiff. What is the background of that mechanism?",
+        "choices": [
+          "All the O2 molecules have appeared in the sarcomeres",
+          "All the acetylcholinesterase has been inactivated",
+          "The myosin heads will not detach from actin",
+          "Acetylcholine vesicles have been released in the motor end-plates"
+        ],
+        "answer": "The myosin heads will not detach from actin"
+      },
+      {
+        "type": 1,
+        "text": "What happens when the action potential reaches the nerve ending?",
+        "choices": [
+          "Ca2+ is released outside the muscle cell",
+          "Acetylcholine binds to presynaptic neuronal receptors",
+          "Acetylcholine is released into the synaptic cleft",
+          "Ca2+ is reabsorbed into the sarcoplasmic reticulum"
+        ],
+        "answer": "Acetylcholine is released into the synaptic cleft"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following molecules are arranged into a double helix and attached at one end to the Z-line of sarcomere?",
+        "choices": [
+          "Myosin",
+          "Actin",
+          "Tropomyosin",
+          "Troponin"
+        ],
+        "answer": "Actin"
+      },
+      {
+        "type": 1,
+        "text": "The sliding filament model of contraction involves",
+        "choices": [
+          "Actin and myosin sliding past each other and partially overlap",
+          "The shortening of thick filaments so that thin filaments slide past",
+          "Actin and myosin shortening but not sliding past each other",
+          "The Z discs sliding over the myofilaments"
+        ],
+        "answer": "Actin and myosin sliding past each other and partially overlap"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is the characteristic of muscle tone in skeletal muscle?",
+        "choices": [
+          "A state of relaxation",
+          "A state of continuous complete contraction",
+          "A state of continuous partial contraction",
+          "A series of twitches"
+        ],
+        "answer": "A state of continuous partial contraction"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following events will occur if a drug blocks release of calcium ions from the sarcoplasmic reticulum to the sarcomere?",
+        "choices": [
+          "Relaxation with no contraction",
+          "Contraction with no relaxation",
+          "Sustained contraction",
+          "Absence of action potential"
+        ],
+        "answer": "Relaxation with no contraction"
+      },
+      {
+        "type": 1,
+        "text": "Which one of the following is a continuously sustained contraction of muscles that show no relaxation?",
+        "choices": [
+          "Wave summation",
+          "Twitch",
+          "Incomplete tetanus",
+          "Complete tetanus"
+        ],
+        "answer": "Complete tetanus"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following statements is true about a muscle in an eccentric contraction?",
+        "choices": [
+          "It increases in length and moves the load",
+          "It increases in length but does not move the load",
+          "It does not change the length and move the load",
+          "It decreases in length and moves the load"
+        ],
+        "answer": "It increases in length but does not move the load"
+      },
+      {
+        "type": 1,
+        "text": "During cross-bridge cycling of sarcomeres, which of the following steps requires energy in the form of ATP?",
+        "choices": [
+          "Myosin head rotates towards the middle of the sarcomere",
+          "Myosin head rotates away from the middle of the sarcomere",
+          "Myosin head detaches from actin",
+          "Myosin head attaching to actin"
+        ],
+        "answer": "Myosin head detaches from actin"
+      },
+      {
+        "type": 1,
+        "text": "Which disease results in muscle weakness due to a gradual loss of neurotransmitter receptors?",
+        "choices": [
+          "Multiple Sclerosis",
+          "Myasthenia gravis",
+          "Tetanus",
+          "Muscular dystrophy"
+        ],
+        "answer": "Myasthenia gravis"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following ions are necessary for the chemical events for muscle contraction?",
+        "choices": [
+          "Sodium and calcium ions",
+          "Sodium and magnesium ions",
+          "Calcium and magnesium",
+          "Sodium and Chloride"
+        ],
+        "answer": "Sodium and calcium ions"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following events happen next when the calcium enters the axon terminal following the arrival of an action potential?",
+        "choices": [
+          "Depolarization of muscle cell membrane",
+          "Depolarization of the nerve terminal",
+          "Exocytosis of neurotransmitter",
+          "Opening of sodium channels in the muscle"
+        ],
+        "answer": "Exocytosis of neurotransmitter"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following contractions in the skeletal muscle generates the lowest force?",
+        "choices": [
+          "Graded contraction",
+          "Incomplete tetanus",
+          "Fused tetanus",
+          "Twitch"
+        ],
+        "answer": "Twitch"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following movements or ions is associated with rapid depolarization of muscle cells?",
+        "choices": [
+          "Entry of potassium",
+          "Exit of potassium",
+          "Entry of sodium",
+          "Exit of sodium"
+        ],
+        "answer": "Entry of sodium"
+      },
+      {
+        "type": 1,
+        "text": "Which part of the sarcomere in a contracted muscle decreases in size (or may disappear completely)?",
+        "choices": [
+          "A and Z bands",
+          "H zones and I bands",
+          "A and I bands",
+          "A bands only"
+        ],
+        "answer": "H zones and I bands"
+      },
+      {
+        "type": 1,
+        "text": "At which of the following portions of myofibril contraction actually occurs?",
+        "choices": [
+          "T tubules",
+          "Sarcolemma",
+          "Sarcomere",
+          "Sarcoplasmic reticulum"
+        ],
+        "answer": "Sarcomere"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is the correct mechanism by which creatine phosphate produces energy for muscle contraction?",
+        "choices": [
+          "Direct phosphorylation of AMP",
+          "Direct phosphorylation of ADP",
+          "Direct phosphorylation of ATP",
+          "Direct dephosphorylation of ADP"
+        ],
+        "answer": "Direct phosphorylation of ADP"
+      },
+      {
+        "type": 1,
+        "text": "A dead skeletal muscle cannot relax due to which one of the following causes?",
+        "choices": [
+          "All of the calcium has been pumped away",
+          "It has isotonic contractions always",
+          "Actin and myosin remain locked together",
+          "Due to the development of sustained tetanus"
+        ],
+        "answer": "Actin and myosin remain locked together"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following statements is true about muscle tone?",
+        "choices": [
+          "It produces active movement",
+          "It is due to spinal reflexes",
+          "It keeps the muscle relaxed",
+          "It does not maintain posture"
+        ],
+        "answer": "It is due to spinal reflexes"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following effects is noticed when the external load on a skeletal muscle is increased?",
+        "choices": [
+          "Duration of contraction increases",
+          "Duration of contraction decreases",
+          "Speed of contraction increases",
+          "Force generation decreases"
+        ],
+        "answer": "Duration of contraction decreases"
+      },
+      {
+        "type": 1,
+        "text": "A weight-lifter strains to lift a heavy weight and there is no movement of the person's arms holding on to the weight. This type of contraction is called a/an ______ contraction.",
+        "choices": [
+          "Isometric",
+          "Tetanus",
+          "Isotonic",
+          "Concentric"
+        ],
+        "answer": "Isometric"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is the quick jerky contraction of one or more motor units whose stimulus threshold has been reached?",
+        "choices": [
+          "Tetanus",
+          "Twitch",
+          "Subthreshold contraction",
+          "Summation"
+        ],
+        "answer": "Twitch"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following sources of energy is slowly available to the muscle during contraction and lasts for hours?",
+        "choices": [
+          "Stored ATP",
+          "Creatinine phosphate",
+          "Glycolysis",
+          "Oxidative phosphorylation"
+        ],
+        "answer": "Oxidative phosphorylation"
+      },
+      {
+        "type": 1,
+        "text": "When a muscle is stimulated repeatedly at a high rate, the amount of tension gradually increases to a steady maximum tension. This is called_________.",
+        "choices": [
+          "Incomplete tetanus",
+          "Complete tetanus",
+          "A twitch",
+          "Wave summation"
+        ],
+        "answer": "Incomplete tetanus"
+      },
+      {
+        "type": 1,
+        "text": "Which statement best describes the goal of medications used to treat myasthenia gravis?",
+        "choices": [
+          "To increase the number of acetylcholine receptors",
+          "To decrease the number of synaptic vesicles",
+          "To inhibit Ca2+ release from the sarcoplasmic reticulum",
+          "To inhibit the function of cholinesterase"
+        ],
+        "answer": "To increase the number of acetylcholine receptors"
+      },
+      {
+        "type": 1,
+        "text": "The region of the sarcomere that contains both actin and myosin myofilaments is called the",
+        "choices": [
+          "I band",
+          "A band",
+          "Z disk",
+          "M line"
+        ],
+        "answer": "A band"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is a shared characteristic of cardiac and skeletal muscles?",
+        "choices": [
+          "Centrally-located nucleus",
+          "Striations",
+          "Intercalated discs",
+          "Both cardiac and skeletal muscle fibers are branched"
+        ],
+        "answer": "Striations"
+      },
+      {
+        "type": 1,
+        "text": "In a skeletal muscle fiber, the sarcomere is a repetitive unit that consists of the entire region between the:",
+        "choices": [
+          "I-bands",
+          "A-bands",
+          "Z-lines",
+          "M-lines"
+        ],
+        "answer": "Z-lines"
+      },
+      {
+        "type": 1,
+        "text": "The endomysium is a delicate connective tissue sheath that surrounds a/an:",
+        "choices": [
+          "Skeletal muscle fiber",
+          "Fascicle",
+          "Entire skeletal muscle",
+          "Bundle of smooth muscle fibers"
+        ],
+        "answer": "Skeletal muscle fiber"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is the only muscle type that is nonstriated and involuntary?",
+        "choices": [
+          "Cardiac",
+          "Smooth",
+          "Epimysium",
+          "Skeletal"
+        ],
+        "answer": "Smooth"
+      },
+      {
+        "type": 1,
+        "text": "What is the BEST definition of the origin of a muscle?",
+        "choices": [
+          "The attachment of the muscle to a bone",
+          "The proximal attachment of the muscle to a bone",
+          "The distal attachment of the muscle to a bone",
+          "The attachment of the muscle to a bone that is relatively fixed"
+        ],
+        "answer": "The attachment of the muscle to a bone that is relatively fixed"
+      },
+      {
+        "type": 1,
+        "text": "Ahmad is a 2 years old boy with muscle weakness and is diagnosed with Duchene Muscular Dystrophy. What is the most likely cause of his diseases?",
+        "choices": [
+          "Mutation in Y-chromosome leading to absence of dystrophin",
+          "Mutation in X-chromosome leading to absence of dystrophin",
+          "Mutation in Y-chromosome leading to absence of troponin",
+          "Mutation in X-chromosome leading to absence of troponin"
+        ],
+        "answer": "Mutation in X-chromosome leading to absence of dystrophin"
+      },
+      {
+        "type": 1,
+        "text": "Fatima is a 25 years old female with muscle weakness and is diagnosed with myasthenia gravis. What is the most likely cause of her muscle weakness?",
+        "choices": [
+          "Absence of dystrophin",
+          "Antibodies against acetylcholine",
+          "Reduced calcium entry at the nerve terminal",
+          "Destruction of acetylcholine receptors"
+        ],
+        "answer": "Destruction of acetylcholine receptors"
+      },
+      {
+        "type": 1,
+        "text": "When Ali lifts a weight, calcium is released inside his muscle cells. The calcium binds to which part of the sarcomere?",
+        "choices": [
+          "Na channels",
+          "Myosin",
+          "Z-disk",
+          "Regulatory proteins"
+        ],
+        "answer": "Regulatory proteins"
+      },
+      {
+        "type": 1,
+        "text": "What is true about the skeletal muscle cells?",
+        "choices": [
+          "Each cell contracts individually, and not in groups",
+          "They don't contract in a rhythmic manner",
+          "The cells are multinucleated",
+          "Cells are attached to each other through intercalated disks"
+        ],
+        "answer": "The cells are multinucleated"
+      },
+      {
+        "type": 1,
+        "text": "What is the cause of rigor mortis?",
+        "choices": [
+          "Breakdown of protein in the cell after death",
+          "Diffusion of potassium out of the cell after death",
+          "Calcium influx into the sarcoplasm after death",
+          "High levels of sodium in the cell after death"
+        ],
+        "answer": "Calcium influx into the sarcoplasm after death"
+      },
+      {
+        "type": 1,
+        "text": "While doing resistant exercises in the gym, Ahmed had a sharp pain in his right biceps muscle. On examination, his doctor found a tear in the connective tissue sheath covering his muscle fascicle. What is the name of this sheath?",
+        "choices": [
+          "Endomysium",
+          "Aponeurosis",
+          "Perimysium",
+          "Epimysium"
+        ],
+        "answer": "Perimysium"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is an elaborate network of membranes in skeletal muscle cells that functions in calcium storage?",
+        "choices": [
+          "Sarcoplasmic reticulum",
+          "Mitochondria",
+          "Intermediate filament network",
+          "Myofibrillar network"
+        ],
+        "answer": "Sarcoplasmic reticulum"
+      },
+      {
+        "type": 1,
+        "text": "What will happen during activities that require aerobic exercise?",
+        "choices": [
+          "Glycogen is the primary source of energy",
+          "Oxygen debts are common",
+          "Most of the muscle's energy is produced in mitochondria",
+          "Fatigue occurs in a few minutes"
+        ],
+        "answer": "Most of the muscle's energy is produced in mitochondria"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following will help repay the body's oxygen deficit after intense exercise?",
+        "choices": [
+          "Stretching",
+          "Breathing",
+          "Eating",
+          "Sleeping"
+        ],
+        "answer": "Breathing"
+      },
+      {
+        "type": 1,
+        "text": "What will happen to calcium after nervous stimulation of the muscle cell has stopped?",
+        "choices": [
+          "Is destroyed by cholinesterase",
+          "Is chemically bound to the filaments",
+          "Level in the cytoplasm drops",
+          "Is pumped into the extracellular fluid"
+        ],
+        "answer": "Level in the cytoplasm drops"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is most likely the result if one nerve stimulus arrives at a muscle fiber so soon that the fiber has only partially relaxed from the previous twitch?",
+        "choices": [
+          "Fatigue",
+          "Incomplete tetanus",
+          "Complete tetanus",
+          "Flaccid paralysis"
+        ],
+        "answer": "Incomplete tetanus"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following best describes the event happening to muscle in an isotonic contraction? The muscle…?",
+        "choices": [
+          "Does not change in length but increases tension",
+          "Never converts pyruvate to lactate",
+          "Changes in length and moves the load",
+          "Rapidly resynthesizes creatine phosphate and ATP"
+        ],
+        "answer": "Changes in length and moves the load"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following substances increases in quantity during repetitive muscle contraction?",
+        "choices": [
+          "Glucose",
+          "Creatine phosphate",
+          "Lactic acid",
+          "Adenosine triphosphate (ATP)"
+        ],
+        "answer": "Lactic acid"
+      },
+      {
+        "type": 1,
+        "text": "Aisha decides to pick her pencil and an action potential is generated in her brain. After the action potential arrives at the nerve terminal at her neuromuscular junction, what will be the first change there?",
+        "choices": [
+          "Release of calcium from the muscle sarcoplasmic reticulum",
+          "Entry of calcium into the nerve terminal",
+          "Interaction of muscle actin and myosin",
+          "Release of acetylcholine into the synaptic cleft"
+        ],
+        "answer": "ntry of calcium into the nerve terminal"
+      },
+      {
+        "type": 1,
+        "text": "In an isotonic contraction, the muscle:",
+        "choices": [
+          "Does not change in length but increases tension",
+          "Never converts pyruvate to lactate",
+          "Rapidly resynthesizes creatine phosphate and ATP",
+          "Changes in length and moves the load"
+        ],
+        "answer": "Changes in length and moves the load"
+      },
+      {
+        "type": 1,
+        "text": "How would the loss of acetylcholinesterase from the motor end plate affect skeletal muscle?",
+        "choices": [
+          "It would cause spastic paralysis (muscles are contracted and unable to relax).",
+          "It would cause flaccid paralysis (muscles are relaxed and unable to contract).",
+          "It would have little effect on skeletal muscles.",
+          "It would produce muscle weakness."
+        ],
+        "answer": "It would cause spastic paralysis (muscles are contracted and unable to relax)."
+      },
+      {
+        "type": 1,
+        "text": "Fatigued muscle cells that recover rapidly are the products of",
+        "choices": [
+          "Intense exercise of long duration",
+          "Slow exercise of short duration",
+          "Intense exercise of short duration",
+          "Slow exercise of long duration"
+        ],
+        "answer": "Intense exercise of short duration"
+      },
+      {
+        "type": 1,
+        "text": "Which one of the following statements best describes a muscle motor unit?",
+        "choices": [
+          "One nerve fiber and all the muscle fibers innervated by that nerve",
+          "All of the fascicles innervated by several neurons",
+          "All of the nerves that unite to make a whole muscle contract",
+          "A section of myofibrils from Z lines to Z lines"
+        ],
+        "answer": "One nerve fiber and all the muscle fibers innervated by that nerve"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following sentences describe cell excitability:",
+        "choices": [
+          "The ability to receive and respond to a stimulus by changing its membrane potential",
+          "The ability of a muscle cell to recoil and resume its resting length after stretching",
+          "The ability to shorten forcibly when adequately stimulated",
+          "The ability to extend or stretch"
+        ],
+        "answer": "The ability to receive and respond to a stimulus by changing its membrane potential"
+      },
+      {
+        "type": 1,
+        "text": "Rigor mortis occurs after death because",
+        "choices": [
+          "Cross-bridges form but can't release.",
+          "Myosin levels decline at death.",
+          "Anaerobic respiration is occurring.",
+          "Calcium is actively transported back to the sarcoplasmic reticulum."
+        ],
+        "answer": "Cross-bridges form but can't release."
+      },
+      {
+        "type": 1,
+        "text": "The following describes the latent period of muscle twitch",
+        "choices": [
+          "All cross bridges are interacting with actin myofilaments.",
+          "Cross bridges begin to cycle but muscle tension is not yet measurable.",
+          "Cross bridges are active, from the onset to the peak of tension development.",
+          "Is due to pumping of Ca2+ back into the SR; muscle tension decreases to zero."
+        ],
+        "answer": "Cross bridges begin to cycle but muscle tension is not yet measurable."
+      },
+      {
+        "type": 1,
+        "text": "List the following structures in order from smallest to largest. (1) muscle fiber (2) myofilament (3) myofibril (4) muscle fasciculus",
+        "choices": [
+          "2,3,1,4",
+          "2,1,4,3",
+          "4,2,3,1",
+          "3,1,4,2"
+        ],
+        "answer": "2,3,1,4"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following statements best describes the cause of myasthenia gravis?",
+        "choices": [
+          "Decreased number of acetylcholine receptors",
+          "Inhibition of Ca2+ release from the sarcoplasmic reticulum",
+          "Activation of acetylcholine release",
+          "Increased number of synaptic vesicles"
+        ],
+        "answer": "Decreased number of acetylcholine receptors"
+      },
+      {
+        "type": 1,
+        "text": "Inhibiting the release of acetylcholine at neuromuscular junction will;",
+        "choices": [
+          "Inhibit the permeability of the sarcolemma to Na+",
+          "Increases the release of Ca2+ from the sarcoplasmic reticulum",
+          "Inhibition of skeletal muscle contraction",
+          "Increase in actin-myosin interaction"
+        ],
+        "answer": "Inhibition of skeletal muscle contraction"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following best describes muscle tone?",
+        "choices": [
+          "The condition athletes attain after intensive training",
+          "The ability of a muscle to maintain contraction against an outside force",
+          "A state of sustained, partial contraction of muscles that is necessary to maintain posture",
+          "A feeling of well-being following exercise"
+        ],
+        "answer": "A state of sustained, partial contraction of muscles that is necessary to maintain posture"
+      },
+      {
+        "type": 1,
+        "text": "A six-year-old child, who used to be active, started to become clumsy and fall frequently. Doctors diagnosed him as having a sex-linked disease that makes skeletal muscles weaken. His case is most probably:",
+        "choices": [
+          "The ability to extend or stretch",
+          "Paralysis",
+          "Duchenne muscular dystrophy",
+          "Myasthenia gravis"
+        ],
+        "answer": "Duchenne muscular dystrophy"
+      },
+      {
+        "type": 1,
+        "text": "Fill in the blank. A weight lifter strains to lift a heavy weight and there is no movement of the person’s arms holding on to the weight. This type of contraction is called ________ contraction.",
+        "choices": [
+          "Concentric",
+          "Isometric",
+          "Tetanus",
+          "Isotonic"
+        ],
+        "answer": "Isometric"
+      },
+      {
+        "type": 1,
+        "text": "Which type of respiration rapidly produces ATP for short time periods?",
+        "choices": [
+          "Aerobic respiration",
+          "Anaerobic respiration",
+          "Oxidation of molecules within the mitochondria",
+          "Both the aerobic and anaerobic respiration"
+        ],
+        "answer": "Anaerobic respiration"
+      },
+      {
+        "type": 1,
+        "text": "A patient has drooping of the upper eyelids, difficulty in swallowing and talking, and generalized weakness and fatigability. Which of the following diseases has the mentioned features?",
+        "choices": [
+          "Paralysis of all muscles in the body",
+          "Duchenne muscular dystrophy",
+          "Myasthenia gravis",
+          "Muscular dystrophy"
+        ],
+        "answer": "Myasthenia gravis"
+      },
+      {
+        "type": 1,
+        "text": "Which statement is true about Duchenne's muscular dystrophy?",
+        "choices": [
+          "Muscles are wasted and replaced by only fat tissue",
+          "The muscles are acetylcholine receptor deficient",
+          "Patients have X and Y-linked recessive inheritance pattern",
+          "Muscles lack a protein called dystrophin"
+        ],
+        "answer": "Muscles lack a protein called dystrophin"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following bands gives the skeletal muscle a striated appearance?",
+        "choices": [
+          "A and H bands",
+          "A and M bands",
+          "A and I bands",
+          "I and H bands"
+        ],
+        "answer": "A and I bands"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following movements of ions is associated with rapid depolarization of muscle cells?",
+        "choices": [
+          "Entry of potassium",
+          "Exit of potassium",
+          "Entry of sodium",
+          "Exit of sodium"
+        ],
+        "answer": "Entry of sodium"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following does NOT occur during skeletal muscle contraction?",
+        "choices": [
+          "ATP is hydrolyzed.",
+          "Calcium binds to myosin heads.",
+          "Calcium concentration in the sarcoplasmic reticulum increases.",
+          "Myosin heads bind to actin."
+        ],
+        "answer": "Calcium binds to myosin heads."
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is the correct order for the phases of a muscle twitch?",
+        "choices": [
+          "latent, contraction, relaxation",
+          "latent, relaxation, contraction",
+          "relaxation, contraction, latent",
+          "contraction, relaxation, latent"
+        ],
+        "answer": "latent, contraction, relaxation"
+      },
+      {
+        "type": 1,
+        "text": "All of the following are correct for 'muscle fatigue' EXCEPT:",
+        "choices": [
+          "Serves to prevent complete depletion of ATP in muscle, which would result in death of muscle cells and rigor mortis.",
+          "Ionic imbalances reduce the size of the action potential, which reduces the amount of Ca2+ released from the SR.",
+          "A state of physiological inability to contract even though the muscle is still receiving stimuli.",
+          "Lactic acid is a major cause of fatigue that raises the concentration of H+ and alters contractile proteins."
+        ],
+        "answer": "Lactic acid is a major cause of fatigue that raises the concentration of H+ and alters contractile proteins."
+      },
+      {
+        "type": 1,
+        "text": "What will happen first when an action potential reaches a nerve terminal?",
+        "choices": [
+          "Exocytosis of vesicles",
+          "Calcium channels will open",
+          "Vesicles will dock the membrane",
+          "Nerve terminal hyperpolarize"
+        ],
+        "answer": "Calcium channels will open"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following describes the region of the sarcomere that contains both actin and myosin myofilaments?",
+        "choices": [
+          "I band.",
+          "A band.",
+          "Z disk.",
+          "M line."
+        ],
+        "answer": "A band."
+      },
+      {
+        "type": 1,
+        "text": "Mohammed's 3-mile run every morning takes about 30 minutes. Which of these sources provides most of the energy for his run?",
+        "choices": [
+          "aerobic respiration",
+          "anaerobic respiration",
+          "stored ATP",
+          "creatine phosphate"
+        ],
+        "answer": "aerobic respiration"
+      },
+      {
+        "type": 1,
+        "text": "The correct order for the smallest to the largest unit of organization in muscle tissue is",
+        "choices": [
+          "myofibril, muscle fiber, filament, fascicle",
+          "filament, myofibril, muscle fiber, fascicle",
+          "muscle fiber, fascicle, filament, myofibril",
+          "fascicle, filament, muscle fiber, myofibril"
+        ],
+        "answer": "filament, myofibril, muscle fiber, fascicle"
+      },
+      {
+        "type": 1,
+        "text": "Which organelles do you expect to find in abundance in skeletal muscle cell?",
+        "choices": [
+          "nuclei",
+          "mitochondria",
+          "striations",
+          "Golgi bodies"
+        ],
+        "answer": "mitochondria"
+      },
+      {
+        "type": 1,
+        "text": "Which one of the following statements would represent incomplete tetanus?",
+        "choices": [
+          "Multiple contractions with slight relaxation",
+          "Long rest period before contractions start",
+          "Multiple contractions followed by a long rest period",
+          "Multiple contractions with no relaxation"
+        ],
+        "answer": "Multiple contractions with slight relaxation"
+      },
+      {
+        "type": 1,
+        "text": "H zone is present in the central region of the sarcomere and light in color. When contraction occurs this light zone disappears because the",
+        "choices": [
+          "actin and myosin filaments are completely overlapped",
+          "shortening of the sarcomere causes stretching of H zone",
+          "actin filaments don't extend to the middle of the sarcomere",
+          "troponin C uncovers the actin and myosin filaments"
+        ],
+        "answer": "actin and myosin filaments are completely overlapped"
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is true about skeletal muscle?",
+        "choices": [
+          "Sensory neurons stimulate muscles to contract.",
+          "There are very few blood vessels in skeletal muscle.",
+          "Every muscle fiber receives a branch of an axon.",
+          "There are very few nerve fibers in a muscle."
+        ],
+        "answer": "Every muscle fiber receives a branch of an axon."
+      },
+      {
+        "type": 1,
+        "text": "An isotonic contraction is characterized by?",
+        "choices": [
+          "Change in length and increased tension",
+          "Change in length and lifting of load",
+          "Rapid syntheses of creatine phosphate and ATP",
+          "No conversion of pyruvate to lactate"
+        ],
+        "answer": "Change in length and lifting of load"
+      },
+      {
+        "type": 1,
+        "text": "The most important factor in decreasing the intracellular concentration of calcium ion after contraction is",
+        "choices": [
+          "Diffusion of calcium out of the cell.",
+          "Active transport of calcium across the sarcolemma.",
+          "Active transport of calcium into the sarcoplasmic reticulum.",
+          "Diffusion of calcium into the sarcoplasmic reticulum."
+        ],
+        "answer": "Active transport of calcium into the sarcoplasmic reticulum."
+      },
+      {
+        "type": 1,
+        "text": "A fascicle",
+        "choices": [
+          "Is a bundle of reticular fibers.",
+          "Is a bundle of collagen fibers.",
+          "Is surrounded by perimysium.",
+          "Is only found in smooth muscle."
+        ],
+        "answer": "Is surrounded by perimysium."
+      },
+      {
+        "type": 1,
+        "text": "Hypertrophy of skeletal muscles from weight lifting is caused by an increase in the",
+        "choices": [
+          "Number of muscle fibers.",
+          "Number of striations.",
+          "Size of muscle fibers.",
+          "Number of muscle cells."
+        ],
+        "answer": "Size of muscle fibers."
+      },
+      {
+        "type": 1,
+        "text": "Which of the following conditions apply to a muscle when it is stimulated repeatedly at a high rate and the amount of tension gradually increases to a steady maximum tension?",
+        "choices": [
+          "A twitch",
+          "Incomplete tetanus",
+          "Wave summation",
+          "Complete tetanus"
+        ],
+        "answer": "Complete tetanus"
+      },
+      {
+        "type": 1,
+        "text": "A person is carrying a heavy item and there is no movement of his arms, while holding on to the weight. This type of contraction is called _______ contraction.",
+        "choices": [
+          "Isometric",
+          "Concentric",
+          "Tetanus",
+          "Isotonic"
+        ],
+        "answer": "Isometric"
+      },
+      {
+        "type": 1,
+        "text": "The repeating functional unit of a skeletal muscle fiber is the",
+        "choices": [
+          "Sarcomere.",
+          "Sarcolemma.",
+          "Myofibril.",
+          "Myofilament."
+        ],
+        "answer": "Sarcomere."
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is a property of a muscle that mostly contains slow oxidative fibers?",
+        "choices": [
+          "High myoglobin content",
+          "Fast speed of contraction",
+          "Fast rate of fatigue",
+          "Large fiber diameter"
+        ],
+        "answer": "High myoglobin content"
+      }
+    ]
   }]
 }
