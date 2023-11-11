@@ -1,5 +1,6 @@
 import React from "react";
 import Swal from "sweetalert2";
+import { Line } from 'rc-progress';
 import withReactContent from "sweetalert2-react-content";
 import "./style.css";
 import Link from "next/link";
@@ -50,6 +51,9 @@ export default function Viewer({ data, color, hideTable }) {
   const [start, setStart] = React.useState(false);
   const [toggleSidebar, setToggleSidebar] = React.useState(false);
   const currentQuestion = remakeQuestion({ ...set?.data?.[currentQuestionId] });
+  const [correctAnswers, setCorrectAnswers] = React.useState(0);
+  const [wrongAnswers, setWrongAnswers] = React.useState([]);
+
   const Toast = withReactContent(Swal).mixin({
     toast: true,
     position: "top-end",
@@ -68,19 +72,26 @@ export default function Viewer({ data, color, hideTable }) {
         icon: "success",
         title: "Correct!"
       });
+      setCorrectAnswers(correct => correct + 1);
       setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
     }
   }, [textInput]);
 
   React.useEffect(() => {
     setTextInput("");
-    if (setCurrentQuestionId === 0) setFeedback("");
+    if (setCurrentQuestionId === 0) {
+      setFeedback("");
+      setCorrectAnswers(0);
+      setWrongAnswers([]);
+    }
   }, [currentQuestionId]);
 
   React.useEffect(() => {
     setCurrentQuestionId(0);
     setFeedback("");
     setToggleSidebar(false);
+    setCorrectAnswers(0);
+    setWrongAnswers([]);
   }, [set, start]);
 
   function randomize() {
@@ -155,16 +166,19 @@ export default function Viewer({ data, color, hideTable }) {
             <form onSubmit={(form) => {
               form.preventDefault();
               if (textInput.toLowerCase() === currentQuestion?.answer?.toLowerCase()) {
-
                 Toast.fire({
                   icon: "success",
                   title: "Correct!"
                 });
-                setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-              } else Toast.fire({
-                icon: "error",
-                title: "Wrong!"
-              });
+                setCorrectAnswers(correct => correct + 1);
+              } else {
+                Toast.fire({
+                  icon: "error",
+                  title: "Wrong!"
+                });
+                setWrongAnswers(wrong => [...wrong, currentQuestion]);
+              }
+              setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
             }}>
               {currentQuestion?.type === 0 && <>
                 <input
@@ -180,31 +194,37 @@ export default function Viewer({ data, color, hideTable }) {
               {currentQuestion?.type === 2 && <>
                 <div className="mcq" onClick={() => {
                   if (currentQuestion.answer === true) {
-
                     Toast.fire({
                       icon: "success",
                       title: "Correct!"
                     });
-                    setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-                  } else Toast.fire({
-                    icon: "error",
-                    title: "Wrong!"
-                  });
+                    setCorrectAnswers(correct => correct + 1);
+                  } else {
+                    Toast.fire({
+                      icon: "error",
+                      title: "Wrong!"
+                    });
+                    setWrongAnswers(wrong => [...wrong, currentQuestion]);
+                  }
+                  setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
                 }} style={{ cursor: "pointer" }}>
                   True
                 </div>
                 <div className="mcq" onClick={() => {
                   if (currentQuestion.answer === false) {
-
                     Toast.fire({
                       icon: "success",
                       title: "Correct!"
                     });
-                    setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-                  } else Toast.fire({
-                    icon: "error",
-                    title: "Wrong!"
-                  });
+                    setCorrectAnswers(correct => correct + 1);
+                  } else {
+                    Toast.fire({
+                      icon: "error",
+                      title: "Wrong!"
+                    });
+                    setWrongAnswers(wrong => [...wrong, currentQuestion]);
+                  }
+                  setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
                 }} style={{ cursor: "pointer" }}>
                   False
                 </div>
@@ -213,18 +233,19 @@ export default function Viewer({ data, color, hideTable }) {
               {currentQuestion?.type === 1 &&
                 currentQuestion.choices.map((choice, i) => <div onClick={() => {
                   if (choice === currentQuestion.answer) {
-
                     Toast.fire({
                       icon: "success",
                       title: "Correct!"
                     });
-                    setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
+                    setCorrectAnswers(correct => correct + 1);
                   } else {
                     Toast.fire({
                       icon: "error",
                       title: "Wrong!"
                     });
+                    setWrongAnswers(wrong => [...wrong, currentQuestion]);
                   }
+                  setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
                 }} className="mcq" key={i}>{choice}</div>)
               }
 
@@ -251,6 +272,11 @@ export default function Viewer({ data, color, hideTable }) {
               }}>Show</button>
               <button className="component-button" type="button" onClick={randomize}>Randomize</button>
               <button className="component-button" type="button" onClick={() => setStart(false)}>Close</button>
+              <div>
+              <Line percent={100 * (correctAnswers + wrongAnswers.length) / set.data.length} strokeWidth={4} strokeColor={color} style={{ margin: 10, width: 200 }} />
+              <h3>Correct: {correctAnswers}</h3>
+              <h3>Wrong: {wrongAnswers.length}</h3>
+              </div>
             </form>
 
           </> : <>
