@@ -41,8 +41,8 @@ function getHeaders(question, color) {
   return getAllKeys(question).map(key => key.split("_").join(" ")).map((key, i) => <th style={{ backgroundColor: color, color: "white" }} key={i}>{key}</th>)
 }
 
-export default function Viewer({ data, color }) {
-  const [set, setSet] = React.useState(data.table[0]);
+export default function Viewer({ data, color, hideTable }) {
+  const [set, setSet] = React.useState(data.table[0] || data.practice[0] || data.review[0]);
   const [currentQuestionId, setCurrentQuestionId] = React.useState(0);
   const [textInput, setTextInput] = React.useState("");
   const [feedback, setFeedback] = React.useState("");
@@ -99,18 +99,18 @@ export default function Viewer({ data, color }) {
   return (
     <main className="container">
       <div className="sidebar">
-        <h2>Tables</h2>
+        {data.table.length ? <><h2>Tables</h2>
         <ul>
           {data.table.sort((a, b) => parseInt(a.name.replace(/Table(\d+)/, "$1")) - parseInt(b.name.replace(/Table(\d+)/, "$1"))).map((tableSet, i) => <li style={{ color: set.name === tableSet.name ? color : "black" }} key={i} onClick={() => { setSet(tableSet); setStart(false); }}>{tableSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
-        </ul>
-        <h2>Review</h2>
+        </ul></> : <></>}
+        {data.review.length ? <><h2>Review</h2>
         <ul>
           {data.review.map((reviewSet, i) => <li style={{ color: set.name === reviewSet.name ? color : "black" }} key={i} onClick={() => { setSet(reviewSet); setStart(false); }}>{reviewSet.name}</li>)}
-        </ul>
-        <h2>Practice</h2>
+        </ul></> : <></>}
+        {data.practice.length ? <><h2>Practice</h2>
         <ul>
           {data.practice.sort((a, b) => parseInt(a.name.replace(/Practice(\d+)/, "$1")) - parseInt(b.name.replace(/Practice(\d+)/, "$1"))).map((practiceSet, i) => <li style={{ color: set.name === practiceSet.name ? color : "black" }} key={i} onClick={() => { setSet(practiceSet); setStart(false); }}>{practiceSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
-        </ul>
+        </ul></> : <></>}
       </div>
       <div className="main-content">
         {toggleSidebar ? <>
@@ -254,7 +254,7 @@ export default function Viewer({ data, color }) {
             </form>
 
           </> : <>
-            <table>
+            {!hideTable && <table>
               <tbody>
                 <tr>
                   {getHeaders(set.data[0], color)}
@@ -268,7 +268,7 @@ export default function Viewer({ data, color }) {
                   })()).map((value, i) => <td key={i}>{`${value}`}</td>)}
                 </tr>)}
               </tbody>
-            </table>
+            </table>}
             <button onClick={() => setStart(true)} className="component-button start-button">Start📝</button>&#160;&#160;&#160;
             <Link href="/"><button className="component-button start-button">Homepage 🏠</button></Link>
           </>)}

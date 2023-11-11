@@ -1,0 +1,908 @@
+{
+  "table": [],
+  "review": [],
+  "practice": [{
+    "name": "Challenging Questions",
+    "data": [
+      {
+        "type": 1,
+        "text": "What is the neurotransmitter that motor neurons use to 'tell' skeletal muscles to contract?",
+        "answer": "Acetylcholine (ACh)",
+        "choices": [
+          "Serotonin",
+          "Dopamine",
+          "Acetylcholine (ACh)",
+          "Epinephrine"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "You are examining cardiac muscle cells under the microscope. The term 'sarcolemma' refers to the plasma membrane of these cells.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "During the initial phase of intense muscle contraction, which pathway is primarily responsible for rapidly regenerating ATP?",
+        "answer": "Direct phosphorylation of ADP by creatine phosphate",
+        "choices": [
+          "Aerobic respiration",
+          "Anaerobic glycolysis",
+          "Direct phosphorylation of ADP by creatine phosphate",
+          "Lactic acid formation"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the neuromuscular junction composed of?",
+        "answer": "Both part of a neuron (axon terminals) and part of a muscle cell (junctional folds).",
+        "choices": [
+          "Only part of a neuron (axon terminals)",
+          "Only part of a muscle cell (junctional folds)",
+          "Both part of a neuron (axon terminals) and part of a muscle cell (junctional folds)",
+          "Neither part of a neuron nor part of a muscle cell"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the main factor that influences whether a muscle fiber is slow oxidative, fast oxidative, or fast glycolytic?",
+        "answer": "Genetic factors",
+        "choices": [
+          "Genetic factors",
+          "Mitochondrial density",
+          "Myosin ATPase activity",
+          "Oxygen delivery"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "In a cellular anatomy study, you encounter a segment of a myofibril that is described as the contractile unit. What is this segment called?",
+        "answer": "Sarcomere",
+        "choices": [
+          "Myofilament",
+          "Sarcomere",
+          "Fascicle",
+          "Muscle fiber"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "While investigating the role of muscles in the body, you find a tissue that can extend or stretch, even beyond its resting length. What is the term for this characteristic?",
+        "answer": "Extensibility",
+        "choices": [
+          "Contractility",
+          "Excitability",
+          "Extensibility",
+          "Elasticity"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "In a clinical setting, you find out that DMD patients may experience tears in their fragile sarcolemma during muscle contraction, allowing entry of excess Ca2+ and damaging contractile fibers.",
+        "answer": true
+      },
+      {
+        "type": 2,
+        "text": "In a molecular biology study, you discover that the central thick filaments in a sarcomere, containing myosin, extend the entire length of the A band.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "Once initiated, is the action potential stoppable?",
+        "answer": "No.",
+        "choices": [
+          "Yes",
+          "No",
+          "Depends on calcium levels",
+          "Depends on ATP levels"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is a motor unit?",
+        "answer": "A motor neuron and all the muscle fibers it innervates.",
+        "choices": [
+          "A single muscle fiber.",
+          "A group of muscle fibers.",
+          "A motor neuron and all the muscle fibers it innervates.",
+          "The smallest contractile unit of a muscle fiber."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "As part of your anatomy study, you are examining the cytoplasm of a muscle cell. What unique components are found in the sarcoplasm of a muscle cell?",
+        "answer": "Glycosomes and myoglobin",
+        "choices": [
+          "Mitochondria and myofibrils",
+          "Glycosomes and myoglobin",
+          "T tubules and sarcoplasmic reticulum",
+          "Actin and myosin"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the main difference between isotonic and isometric contractions?",
+        "answer": "Isotonic contractions involve muscle shortening, while isometric contractions do not.",
+        "choices": [
+          "Isotonic contractions involve muscle shortening, while isometric contractions do not.",
+          "Isometric contractions involve muscle shortening, while isotonic contractions do not.",
+          "Both involve muscle shortening, but at different rates.",
+          "Neither involves muscle shortening."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the main advantage of the anaerobic glycolysis pathway in providing ATP during intense muscle activity?",
+        "answer": "Rapid production of ATP",
+        "choices": [
+          "Efficiency in ATP production",
+          "Sustainability over long durations",
+          "Utilization of oxygen",
+          "Rapid production of ATP"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "As part of your medical studies, you come across a patient who exhibits muscle enlargement initially, followed by atrophy and degeneration of muscle fibers. What term would best describe this condition?",
+        "answer": "Muscle dystrophy",
+        "choices": [
+          "Muscle hypertrophy",
+          "Muscle dystrophy",
+          "Muscle myopathy",
+          "Muscle atrophy"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "You are studying muscle contraction models. What is the smallest contractile unit of a muscle fiber?",
+        "answer": "Sarcomere",
+        "choices": [
+          "Myofibril",
+          "Sarcomere",
+          "Myofilament",
+          "Z disc"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "You are studying the myosin molecule. What is the structure formed by the heavy chains of myosin?",
+        "answer": "Rodlike tail",
+        "choices": [
+          "H zone",
+          "Globular head",
+          "M line",
+          "Rodlike tail"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "Which chemical changes are associated with muscle fatigue?",
+        "answer": "Decreased glycogen and increased inorganic phosphate",
+        "choices": [
+          "Increased ATP and decreased Mg21",
+          "Decreased glycogen and increased inorganic phosphate",
+          "Elevated lactic acid levels and increased Na1",
+          "Rise in pH and reduced potassium levels"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "In a physiological study, you observe muscle cells generating heat as they contract. This process plays a role in maintaining normal body temperature.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "What is the main role of Excess Postexercise Oxygen Consumption (EPOC) in muscle recovery?",
+        "answer": "To repay the oxygen debt",
+        "choices": [
+          "To repay the oxygen debt",
+          "To increase lactic acid production",
+          "To restore glycogen stores",
+          "To maintain muscle fatigue"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "In a physiology lab, you are studying the structures that regulate muscle contraction. Which organelle stores and releases calcium ions, providing the final 'go' signal for contraction?",
+        "answer": "Sarcoplasmic Reticulum",
+        "choices": [
+          "Mitochondria",
+          "Sarcoplasmic Reticulum",
+          "T Tubules",
+          "Glycogen Granules"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "A patient is experiencing sustained contractions in a particular muscle. Which type of muscle tissue is most likely involved?",
+        "answer": "Smooth muscle",
+        "choices": [
+          "Skeletal muscle",
+          "Cardiac muscle",
+          "Striated muscle",
+          "Smooth muscle"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "You are observing a muscle's origin and insertion during contraction. The movable bone, the muscle’s insertion, moves toward the immovable or less movable bone, the muscle’s origin.",
+        "answer": false
+      },
+      {
+        "type": 2,
+        "text": "As part of a clinical investigation, you find that smooth muscle in the walls of blood vessels helps maintain blood pressure by rhythmically beating. This function contributes to the movement of blood through the body.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "Which type of muscle fiber is best suited for short-term, rapid, intense movements?",
+        "answer": "Fast glycolytic fibers",
+        "choices": [
+          "Slow oxidative fibers",
+          "Fast oxidative fibers",
+          "Fast glycolytic fibers",
+          "Intermediate muscle fibers"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "You are analyzing muscle tissue samples in the lab. What characteristic would help you identify skeletal muscle cells?",
+        "answer": "Presence of striations",
+        "choices": [
+          "Presence of striations",
+          "Involuntary contraction",
+          "Cardiac attachments",
+          "Rapid contractions"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "In a neuromuscular physiology class, you learn that the T tubules are continuations of the sarcolemma, conducting impulses to the deepest regions of the muscle cell and every sarcomere.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "While examining the internal structure of a muscle, you come across a rodlike contractile element that occupies most of the muscle cell volume. What is this structure?",
+        "answer": "Myofibril",
+        "choices": [
+          "Myofibril",
+          "Sarcomere",
+          "Myofilament",
+          "Fascicle"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What enzyme terminates the effects of acetylcholine (ACh) in the synaptic cleft?",
+        "answer": "Acetylcholinesterase.",
+        "choices": [
+          "Acetylcholinesterase",
+          "ATPase",
+          "Myosinase",
+          "Acid phosphatase"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the role of calcium ions in muscle cell contraction?",
+        "answer": "Calcium ions trigger the exposure of myosin-binding sites on actin.",
+        "choices": [
+          "Calcium ions directly bind to actin.",
+          "Calcium ions promote the binding of tropomyosin to actin.",
+          "Calcium ions cause cross bridge detachment.",
+          "Calcium ions trigger the exposure of myosin-binding sites on actin."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is muscle tone?",
+        "answer": "The slight, continuous contraction of muscles.",
+        "choices": [
+          "Active movements produced by muscles.",
+          "The phenomenon of muscles remaining completely relaxed.",
+          "The slight, continuous contraction of muscles.",
+          "The maximum force a muscle can produce."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "In a research project focused on muscle contraction signaling, you discover that at the triads, membrane-spanning proteins from the T tubules and SR link together across the gap between the two membranes. What is the role of the protruding integral proteins of the T tubule in this context?",
+        "answer": "Voltage sensors",
+        "choices": [
+          "Voltage sensors",
+          "Calcium release channels",
+          "Energy generators",
+          "Contractile proteins"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is a muscle twitch?",
+        "answer": "The response of a muscle to a single stimulation.",
+        "choices": [
+          "The response of a muscle to a single stimulation.",
+          "The continuous contraction of a muscle.",
+          "The relaxation phase of muscle contraction.",
+          "The force exerted by a muscle during maximal contraction."
+        ]
+      },
+      {
+        "type": 2,
+        "text": "During muscle cell shortening, the length of the A bands changes.",
+        "answer": false
+      },
+      {
+        "type": 1,
+        "text": "What is the role of chemically gated ion channels in the excitation and contraction of skeletal muscle?",
+        "answer": "They create a small local depolarization that triggers voltage-gated ion channels to create an action potential.",
+        "choices": [
+          "They cause a large local depolarization",
+          "They create action potentials",
+          "They open or close in response to changes in membrane potential",
+          "They store acetylcholine in synaptic vesicles"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is temporal summation?",
+        "answer": "An increase in the frequency of stimulation.",
+        "choices": [
+          "An increase in the frequency of stimulation.",
+          "An increase in the strength of stimulation.",
+          "The relaxation time between twitches.",
+          "The sustained but quivering contraction."
+        ]
+      },
+      {
+        "type": 2,
+        "text": "As part of a biomechanics study, you learn that the myofilaments in a sarcomere are held in alignment at the Z discs and the M lines and are anchored to the sarcolemma at the Z discs.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "What happens during fused or complete tetanus?",
+        "answer": "Muscle relaxation disappears, and contractions become smooth and sustained.",
+        "choices": [
+          "Muscle relaxation disappears, and contractions become smooth and sustained.",
+          "The muscle is already partially contracted, and even more calcium is released into the cytosol.",
+          "The contractions add together, producing a sustained but quivering contraction.",
+          "The second twitch appears to ride on the shoulders of the first."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the main factor that distinguishes aerobic endurance from anaerobic threshold during muscle activity?",
+        "answer": "Oxygen availability",
+        "choices": [
+          "Oxygen availability",
+          "Glycogen storage",
+          "ATP levels",
+          "Lactic acid accumulation"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "Why is muscle fatigue considered a protective mechanism?",
+        "answer": "To avoid rigor mortis",
+        "choices": [
+          "To prevent muscle dehydration",
+          "To avoid rigor mortis",
+          "To conserve ATP levels",
+          "To eliminate lactic acid"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the ideal length on the length-tension relationship curve for a muscle during an isometric contraction?",
+        "answer": "When the muscle is close to its resting length",
+        "choices": [
+          "When the muscle is fully stretched",
+          "When the muscle is maximally compressed",
+          "When the muscle is close to its resting length",
+          "When the muscle is at its optimal length"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is disuse atrophy, and how quickly can muscle strength decline under conditions of immobilization?",
+        "answer": "Degeneration and loss of mass due to disuse",
+        "choices": [
+          "Increase in muscle size due to disuse",
+          "Degeneration and loss of mass due to disuse",
+          "Improvement in muscle tone due to disuse",
+          "No effect on muscle strength"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "In a molecular biology study, you are examining the composition of thick filaments. What is the primary protein found in thick filaments?",
+        "answer": "Myosin",
+        "choices": [
+          "Actin",
+          "Tropomyosin",
+          "Myosin",
+          "Troponin"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What happens during the cross bridge cycle?",
+        "answer": "Myosin heads attach to actin sites and take steps along the thin filament.",
+        "choices": [
+          "Calcium ions are released from the sarcoplasmic reticulum.",
+          "Myosin heads attach to actin sites and take steps along the thin filament.",
+          "Tropomyosin blocks myosin-binding sites on actin.",
+          "The muscle fiber relaxes."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "Why does rigor mortis gradually dissipate after its peak?",
+        "answer": "Muscle proteins break down after death.",
+        "choices": [
+          "Muscle proteins break down after death.",
+          "ATP synthesis resumes after death.",
+          "Calcium is actively pumped out of the cells.",
+          "Nervous stimulation resumes after death."
+        ]
+      },
+      {
+        "type": 2,
+        "text": "During muscle contraction, shortening occurs only if the cross bridges generate enough tension on the thin filaments to exceed the forces that oppose shortening.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "What is the overload principle in muscle adaptation?",
+        "answer": "Muscles must be overloaded to increase strength and endurance",
+        "choices": [
+          "Muscles must be underused to gain strength",
+          "Muscles adapt only to aerobic exercises",
+          "Muscles adapt to any level of activity",
+          "Muscles must be overloaded to increase strength and endurance"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is muscle tension?",
+        "answer": "The force exerted by a contracting muscle on an object.",
+        "choices": [
+          "The force exerted by a contracting muscle on an object.",
+          "The opposing force exerted on the muscle by the weight of the object.",
+          "The speed of muscle contraction.",
+          "The relaxation phase of muscle contraction."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "A person is struggling with regulating fluid passage in their body. Which type of muscle tissue dysfunction might be the cause?",
+        "answer": "Smooth muscle",
+        "choices": [
+          "Skeletal muscle",
+          "Cardiac muscle",
+          "Striated muscle",
+          "Smooth muscle"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "Skeletal muscle contractions are involuntary.",
+        "answer": false
+      },
+      {
+        "type": 2,
+        "text": "In an examination of muscle elasticity, you learn that elastic filaments provide elastic recoil when tension is released and help maintain myofilament organization.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "What functional characteristic makes slow oxidative fibers best suited to endurance-type activities?",
+        "answer": "Resistance to fatigue",
+        "choices": [
+          "High myosin ATPase activity",
+          "Low oxidative capacity",
+          "Resistance to fatigue",
+          "Relatively large diameter"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the result of the events at the neuromuscular junction?",
+        "answer": "A transient change in membrane potential (end plate potential).",
+        "choices": [
+          "A sustained change in membrane potential",
+          "A transient change in membrane potential (end plate potential)",
+          "An increase in acetylcholinesterase activity",
+          "A decrease in sarcolemma permeability"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "During repolarization, a muscle fiber is in a refractory period and cannot be stimulated again until repolarization is complete.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "You are studying the structural organization of skeletal muscle. What is a muscle fiber?",
+        "answer": "An elongated multinucleate cell",
+        "choices": [
+          "A discrete bundle of muscle cells",
+          "A contractile unit composed of myofilaments",
+          "An elongated multinucleate cell",
+          "A complex organelle composed of bundles of myofilaments"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What restores the ionic conditions of the resting state during repolarization?",
+        "answer": "ATP-dependent Na1-K1 pump.",
+        "choices": [
+          "Acetylcholinesterase",
+          "ATP-dependent Na1-K1 pump",
+          "Myosinase",
+          "Sodium-potassium channels"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is recruitment in the context of muscle contraction?",
+        "answer": "The process of delivering stimuli of increasing voltage to call more muscle fibers into play.",
+        "choices": [
+          "The process of activating stretch receptors in muscles.",
+          "The process of delivering stimuli of increasing voltage to call more muscle fibers into play.",
+          "The process of breaking down acetylcholine by acetylcholinesterase.",
+          "The process of delivering maximal stimuli to achieve the strongest contraction."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the main disadvantage of the anaerobic glycolysis pathway?",
+        "answer": "Accumulation of lactic acid",
+        "choices": [
+          "Low ATP production",
+          "Slow ATP production",
+          "Accumulation of lactic acid",
+          "Long sustainability"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "You are investigating the role of thick and thin filaments in muscle contraction. The sliding of the thick filaments past the thin filaments produces muscle shortening.",
+        "answer": false
+      },
+      {
+        "type": 1,
+        "text": "What happens to the H zones during muscle cell shortening?",
+        "answer": "Disappear",
+        "choices": [
+          "Lengthen",
+          "Shorten",
+          "Remain unchanged",
+          "Disappear"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "In a physiological study, you observe blood vessels branching through the connective tissue sheaths of a skeletal muscle. What is the primary reason for this rich blood supply?",
+        "answer": "To provide oxygen and nutrients to muscle fibers",
+        "choices": [
+          "To provide oxygen and nutrients to muscle fibers",
+          "To anchor the muscle to bones",
+          "To transmit pulling force to bones",
+          "To contribute to muscle elasticity"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is the size principle in muscle recruitment?",
+        "answer": "The principle that smaller, more excitable motor neurons are recruited first.",
+        "choices": [
+          "The principle that larger muscles are recruited first.",
+          "The principle that smaller, more excitable motor neurons are recruited first.",
+          "The principle that muscle fibers with the smallest diameter are recruited first.",
+          "The principle that muscle recruitment is entirely random."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "While studying muscle attachments, you find a connection that involves the fusion of the epimysium of the muscle with the periosteum of a bone. What type of muscle attachment is this?",
+        "answer": "Fleshy attachment",
+        "choices": [
+          "Indirect attachment",
+          "Fleshy attachment",
+          "Tendon attachment",
+          "Aponeurosis attachment"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "You are conducting an experiment to study muscle tissue characteristics. What term refers to the ability of a muscle cell to receive and respond to a stimulus by changing its membrane potential?",
+        "answer": "Excitability",
+        "choices": [
+          "Contractility",
+          "Excitability",
+          "Extensibility",
+          "Elasticity"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "In a histology examination, you observe a repeating series of dark and light bands along the length of a myofibril. What term describes this banding pattern?",
+        "answer": "Striations",
+        "choices": [
+          "Sarcomere",
+          "Myofilament",
+          "Striations",
+          "H zone"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "You are examining a muscle fiber's banding patterns. The H zone in the A band appears less dense because the thin filaments do not extend into this region.",
+        "answer": true
+      },
+      {
+        "type": 2,
+        "text": "Rigor mortis occurs due to the irreversibly cross-linked actin and myosin after death.",
+        "answer": true
+      },
+      {
+        "type": 2,
+        "text": "You are examining the structural proteins of the myofibril. Dystrophin links the thick filaments to the integral proteins of the sarcolemma.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "What are the recognizable changes in skeletal muscles resulting from aerobic or endurance exercise?",
+        "answer": "Increase in capillaries, mitochondria, and myoglobin synthesis",
+        "choices": [
+          "Decrease in capillaries",
+          "Decrease in mitochondria",
+          "Decrease in myoglobin synthesis",
+          "Increase in capillaries, mitochondria, and myoglobin synthesis"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "Which pathway provides the majority of ATP during prolonged activities such as marathon runs and bicycle touring?",
+        "answer": "Aerobic respiration",
+        "choices": [
+          "Anaerobic glycolysis",
+          "Direct phosphorylation of ADP by creatine phosphate",
+          "Aerobic respiration",
+          "Glycolysis and lactic acid formation"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "During a routine check-up, a 5-year-old boy is diagnosed with Duchenne muscular dystrophy. At what age is DMD typically diagnosed?",
+        "answer": "Between 2 and 7 years old",
+        "choices": [
+          "At birth",
+          "Between 1 and 2 years old",
+          "Between 2 and 7 years old",
+          "During adolescence"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "As a researcher examining skeletal muscle, what is the primary function of the epimysium?",
+        "answer": "Surrounds the whole muscle",
+        "choices": [
+          "Surrounds each individual muscle fiber",
+          "Anchors the muscle to the connective tissue covering",
+          "Forms bundles of muscle fibers",
+          "Surrounds the whole muscle"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "You are investigating muscle elasticity. The connective tissue sheaths contribute significantly to the natural elasticity of muscle tissue.",
+        "answer": true
+      },
+      {
+        "type": 2,
+        "text": "A patient's heart is contracting steadily, but neural controls allow occasional speed increases. The patient has no conscious control over these fluctuations.",
+        "answer": true
+      },
+      {
+        "type": 2,
+        "text": "As part of a discussion on treatment options, you learn that there is currently a cure for Duchenne muscular dystrophy (DMD).",
+        "answer": false
+      },
+      {
+        "type": 1,
+        "text": "What factor influences the force of muscle contraction by affecting the number of myosin cross bridges attached to actin?",
+        "answer": "Frequency of stimulation",
+        "choices": [
+          "Size of muscle fibers",
+          "Frequency of stimulation",
+          "Velocity of contraction",
+          "Degree of muscle stretch"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "In the sliding filament model of contraction, what is the role of the myosin heads on the thick filaments when muscle fibers are stimulated by the nervous system?",
+        "answer": "Latch onto actin in the thin filaments",
+        "choices": [
+          "Latch onto actin in the thin filaments",
+          "Detach from actin in the thin filaments",
+          "Lengthen the thin filaments",
+          "Inhibit the contraction process"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What happens to the I bands during muscle cell shortening?",
+        "answer": "Shorten",
+        "choices": [
+          "Lengthen",
+          "Shorten",
+          "Remain unchanged",
+          "Disappear"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "In a biomechanics study, you learn that indirect muscle attachments, such as tendons, are more common due to their durability and small size.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "As part of your research on muscle functions, you discover a tissue that can shorten forcibly when adequately stimulated. Which characteristic sets this tissue apart from all other tissue types?",
+        "answer": "Contractility",
+        "choices": [
+          "Contractility",
+          "Excitability",
+          "Extensibility",
+          "Elasticity"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "You are examining a patient who has skeletal muscles making continuous tiny adjustments to counteract the downward pull of gravity. This function contributes to maintaining posture and body position.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "How long can stored ATP and creatine phosphate support maximum muscle power?",
+        "answer": "About 15 seconds",
+        "choices": [
+          "About 30 seconds",
+          "Nearly a minute",
+          "Up to 5 minutes",
+          "Indefinitely"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What is excitation-contraction coupling?",
+        "answer": "The sequence of events by which transmission of an action potential along the sarcolemma causes myofilaments to slide.",
+        "choices": [
+          "The sequence of events by which transmission of an action potential along the sarcolemma causes myofilaments to slide.",
+          "The direct action of an action potential on myofilaments.",
+          "The contraction of muscle fibers without the involvement of action potentials.",
+          "The sequence of events leading to muscle relaxation."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "What characteristic is used to classify muscle fibers based on their speed of contraction?",
+        "answer": "Myosin ATPase activity",
+        "choices": [
+          "Mitochondrial density",
+          "Myosin ATPase activity",
+          "Glycogen reserves",
+          "Oxygen delivery"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "A person's hair stands on end as a physiological response. Which type of muscle is responsible for this reaction?",
+        "answer": true
+      },
+      {
+        "type": 2,
+        "text": "As part of a molecular biology research project, you learn that DMD is caused by a defective gene for dystrophin, a cytoplasmic protein that helps stabilize the sarcolemma.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "How does muscle hypertrophy mainly occur?",
+        "answer": "Increased size of individual muscle fibers",
+        "choices": [
+          "Increased number of muscle fibers",
+          "Increased size of individual muscle fibers",
+          "Increased mitochondrial density",
+          "Increased myosin ATPase activity"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "Under what circumstances does the anaerobic glycolysis pathway convert pyruvic acid into lactic acid?",
+        "answer": "When blood flow and oxygen delivery are impaired",
+        "choices": [
+          "In the presence of sufficient oxygen",
+          "During periods of muscle rest",
+          "When blood flow and oxygen delivery are impaired",
+          "When ATP demand is low"
+        ]
+      },
+      {
+        "type": 1,
+        "text": "In a genetic counseling session, a parent asks about the inheritance pattern of Duchenne muscular dystrophy (DMD). What would be an accurate response?",
+        "answer": "X-linked recessive",
+        "choices": [
+          "Autosomal dominant",
+          "Autosomal recessive",
+          "X-linked dominant",
+          "X-linked recessive"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "During a discussion on muscle contraction signaling, you mention that the roles of the T tubules and SR in providing signals for contraction are not interconnected and operate independently.",
+        "answer": false
+      },
+      {
+        "type": 1,
+        "text": "What is the function of synaptic vesicles in the neuromuscular junction?",
+        "answer": "They store neurotransmitters, specifically acetylcholine (ACh).",
+        "choices": [
+          "They store neurotransmitters",
+          "They generate action potentials",
+          "They release calcium ions",
+          "They contract the muscle fiber"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "As part of a physiology study, you discover that tropomyosin blocks myosin-binding sites on actin in a relaxed muscle fiber.",
+        "answer": true
+      },
+      {
+        "type": 2,
+        "text": "In a biomechanics study, you learn that titin, the elastic filament, extends from the Z disc to the thick filament and helps the muscle cell spring back into shape after stretching.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "While discussing muscle contraction with a colleague, you mention a tubular structure that protrudes into the muscle cell interior, allowing changes in the membrane potential to rapidly penetrate deep into the muscle fiber. What structure are you referring to?",
+        "answer": "T Tubules",
+        "choices": [
+          "Mitochondria",
+          "Sarcoplasmic Reticulum",
+          "T Tubules",
+          "Glycogen Granules"
+        ]
+      },
+      {
+        "type": 2,
+        "text": "As part of a histology study, you find connective tissue sheaths surrounding a discrete bundle of muscle cells. These sheaths support each cell and reinforce the muscle.",
+        "answer": true
+      },
+      {
+        "type": 1,
+        "text": "What is the threshold stimulus?",
+        "answer": "The first observable contraction.",
+        "choices": [
+          "A stimulus that produces no observable contractions.",
+          "The first observable contraction.",
+          "The maximal stimulus.",
+          "A stimulus delivered to a completely relaxed muscle."
+        ]
+      },
+      {
+        "type": 1,
+        "text": "As part of a histology examination, you observe a thin filament composed chiefly of which protein?",
+        "answer": "Actin",
+        "choices": [
+          "Troponin",
+          "Titin",
+          "Actin",
+          "Tropomyosin"
+        ]
+      }
+    ]
+  }]
+}
