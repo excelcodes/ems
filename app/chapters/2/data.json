@@ -2265,8 +2265,18 @@
             "meaning": "opening to the outside of the body, communication"
           },
           "example": {
-            "text": "tracheostomy, colocolostomy",
-            "meaning": "opening of the windpipe to the outside of the body, communication between two unconnected parts of the colon"
+            "text": "tracheostomy",
+            "meaning": "opening of the windpipe to the outside of the body"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-stomy",
+            "meaning": "opening to the outside of the body, communication"
+          },
+          "example": {
+            "text": "colocolostomy",
+            "meaning": "communication between two unconnected parts of the colon"
           }
         },
         {
