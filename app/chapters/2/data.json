@@ -2558,55 +2558,6 @@
     {
       "data": [
         {
-          "medical_term": "adenomyosarcoma",
-          "meaning": "malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass"
-        },
-        {
-          "medical_term": "cholangiosarcoma",
-          "meaning": "sarcoma of bile duct origin."
-        },
-        {
-          "medical_term": "esophageal osteosarcoma",
-          "meaning": "cancerous tumor of the esophagus"
-        },
-        {
-          "medical_term": "fibrosarcoma",
-          "meaning": "a form of malignant tumor derived from fibrous connective tissue"
-        },
-        {
-          "medical_term": "osteogenic sarcoma",
-          "meaning": "malignant bone tumor; most common in children and young adults where it tends to affect the femur"
-        },
-        {
-          "medical_term": "chondrosarcoma",
-          "meaning": "a malignant cartilaginous tumor that most frequently invades the long bones, pelvis, and the scapula."
-        },
-        {
-          "medical_term": "liposarcoma",
-          "meaning": "a cancerous growth of primitive fat cells"
-        },
-        {
-          "medical_term": "myosarcoma",
-          "meaning": "sarcoma of muscle tissue"
-        },
-        {
-          "medical_term": "Ewing’s sarcoma",
-          "meaning": "a malignant stem-cell bone tumor, usually occurring in the leg or pelvis of children and young adults,"
-        },
-        {
-          "medical_term": "alveolar Rhabdomyosarcoma",
-          "meaning": "a highly malignant neoplasm derived from striated muscle"
-        },
-        {
-          "medical_term": "lymphosarcoma",
-          "meaning": "a malignant disease of the lymphoid tissues characterized by proliferation of atypical lymphocytes and their localization in various parts of the body"
-        }
-      ],
-      "name": "Table20"
-    },
-    {
-      "data": [
-        {
           "suffix": {
             "text": "-esthesia",
             "meaning": "sensation"
