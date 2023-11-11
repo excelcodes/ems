@@ -1613,6 +1613,16 @@
             "text": "malignant",
             "meaning": "cancerous tumor that spreads like fire"
           }
+        },  
+        {
+          "prefix": {
+            "text": "dys-",
+            "meaning": "abnormal, difficult, painful, bad/poor"
+          },
+          "example": {
+            "text": "dysplasia",
+            "meaning": "- abnormal development in numbers"
+          }
         },
         {
           "prefix": {
@@ -1620,8 +1630,28 @@
             "meaning": "abnormal, difficult, painful, bad/poor"
           },
           "example": {
-            "text": "dysplasia, dyspnea, dysuria, dystrophy",
-            "meaning": " - abnormal development in numbers\n - difficulty in breathing\n - painful sensation upon urination\n - poor development"
+            "text": "dyspnea",
+            "meaning": "- difficulty in breathing"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dys-",
+            "meaning": "abnormal, difficult, painful, bad/poor"
+          },
+          "example": {
+            "text": "dysuria",
+            "meaning": "- painful sensation upon urination"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dys-",
+            "meaning": "abnormal, difficult, painful, bad/poor"
+          },
+          "example": {
+            "text": "dystrophy",
+            "meaning": "- poor development"
           }
         },
         {
