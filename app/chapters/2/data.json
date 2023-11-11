@@ -1693,12 +1693,22 @@
         },
         {
           "suffix": {
-            "text": "-rhage, -rhagia",
-            "meaning": "bursting forth, profuse flow"
+            "text": "-rhage",
+            "meaning": "bursting forth"
           },
           "example": {
-            "text": "hemorrhage, menorrhagia",
-            "meaning": "bursting forth of blood, excessive bleeding during menstruation"
+            "text": "hemorrhage",
+            "meaning": "bursting forth of blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-rhagia",
+            "meaning": "profuse flow"
+          },
+          "example": {
+            "text": "menorrhagia",
+            "meaning": "excessive bleeding during menstruation"
           }
         },
         {
