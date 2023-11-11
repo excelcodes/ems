@@ -2698,42 +2698,52 @@
       "data": [
         {
           "suffix": {
-            "text": "-emia",
-            "meaning": "condition of blood"
+            "text": "-centesis",
+            "meaning": "Surgical puncture"
           },
           "example": {
-            "text": "hypoproteinemia",
-            "meaning": "decreased protein in the blood"
+            "text": "thoracentesis",
+            "meaning": "surgical puncture of the chest"
           }
         },
         {
           "suffix": {
-            "text": "-emia",
-            "meaning": "condition of blood"
+            "text": "-desis",
+            "meaning": "fusion"
           },
           "example": {
-            "text": "polycythemia",
-            "meaning": "an abnormal increase in the number of red blood cells in the blood"
+            "text": "arthrodesis",
+            "meaning": "fusion of a joint"
           }
         },
         {
           "suffix": {
-            "text": "-penia",
-            "meaning": "decrease in"
+            "text": "-ectomy",
+            "meaning": "excision"
           },
           "example": {
-            "text": "erythrocytopenia",
-            "meaning": "deficiency of the red blood cells in the blood"
+            "text": "appendectomy",
+            "meaning": "excision of the appendix"
           }
         },
         {
           "suffix": {
-            "text": "-poiesis",
-            "meaning": "formation, production"
+            "text": "-pexy",
+            "meaning": "surgical fixation"
           },
           "example": {
-            "text": "erythropoiesis",
-            "meaning": "the production of red blood cells"
+            "text": "gastropexy",
+            "meaning": "surgical fixation of the stomach"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-plasty",
+            "meaning": "Surgical repair"
+          },
+          "example": {
+            "text": "rhinoplasty",
+            "meaning": "surgical repair of the nose"
           }
         },
         {
