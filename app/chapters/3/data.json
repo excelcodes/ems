@@ -1092,8 +1092,18 @@
             "meaning": "above, excess"
           },
           "example": {
-            "text": "supernumerary, superscript",
-            "meaning": "in excess number, something written above"
+            "text": "supernumerary",
+            "meaning": "in excess number"
+          }
+        },
+        {
+          "prefix": {
+            "text": "super-",
+            "meaning": "above, excess"
+          },
+          "example": {
+            "text": "superscript",
+            "meaning": "something written above"
           }
         },
         {
