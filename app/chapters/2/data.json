@@ -2450,39 +2450,6 @@
     {
       "data": [
         {
-          "medical_term": "basal-cell carcinoma",
-          "meaning": "a slow-growing, locally invasive, but rarely metastasizing neoplasm of the skin derived from basal cells of the epidermis or hair follicles."
-        },
-        {
-          "medical_term": "cervical carcinoma",
-          "meaning": "cancer of the cervix (neck of the uterus)."
-        },
-        {
-          "medical_term": "chondrocarcinoma",
-          "meaning": "a malignant cartilaginous tumor of the epithelium."
-        },
-        {
-          "medical_term": "mammary carcinoma",
-          "meaning": "cancer of the breast."
-        },
-        {
-          "medical_term": "pancreatic carcinoma",
-          "meaning": "the presence of a malignant tumor in the pancreas."
-        },
-        {
-          "medical_term": "osteocarcinoma",
-          "meaning": "the presence of a malignant tumor in bones."
-        },
-        {
-          "medical_term": "colorectal carcinoma",
-          "meaning": "a malignant epithelial tumor arising from the colonic or rectal mucosa."
-        }
-      ],
-      "name": "Table19"
-    },
-    {
-      "data": [
-        {
           "suffix": {
             "text": "-graph",
             "meaning": "instrument for recording data"
