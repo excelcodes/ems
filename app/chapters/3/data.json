@@ -1193,12 +1193,22 @@
         },
         {
           "prefix": {
-            "text": "mega-, megalo-",
+            "text": "mega-",
             "meaning": "abnormally large"
           },
           "example": {
-            "text": "megacephaly, megalomania",
-            "meaning": "- the condition of having an unusually large head or cranial capacity - a psychopathological condition characterized by delusional fantasies of wealth, power, or omnipotence"
+            "text": "megacephaly",
+            "meaning": "- the condition of having an unusually large head or cranial capacity"
+          }
+        },
+        {
+          "prefix": {
+            "text": "megalo-",
+            "meaning": "abnormally large"
+          },
+          "example": {
+            "text": "megalomania",
+            "meaning": "- a psychopathological condition characterized by delusional fantasies of wealth, power, or omnipotence"
           }
         },
         {
