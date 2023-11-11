@@ -1821,12 +1821,22 @@
       "data": [
         {
           "prefix": {
-            "text": "in-, im-",
+            "text": "in-",
             "meaning": "not"
           },
           "example": {
-            "text": "Insignificant impermeable",
-            "meaning": "having no importance, not allowing fluid to pass through"
+            "text": "Insignificant",
+            "meaning": "having no importance"
+          }
+        },
+        {
+          "prefix": {
+            "text": "im-",
+            "meaning": "not"
+          },
+          "example": {
+            "text": "impermeable",
+            "meaning": "not allowing fluid to pass through"
           }
         },
         {
