@@ -1976,22 +1976,52 @@
         },
         {
           "prefix": {
-            "text": "tel/o-, tel/e",
+            "text": "tel/o-",
             "meaning": "end"
           },
           "example": {
-            "text": "telophase, telencephalon",
-            "meaning": "last stage of cell division, endbrain"
+            "text": "telophase",
+            "meaning": "last stage of cell division"
           }
         },
         {
           "prefix": {
-            "text": "syn-, sym- con-",
+            "text": "tel/e",
+            "meaning": "end"
+          },
+          "example": {
+            "text": "telencephalon",
+            "meaning": "endbrain"
+          }
+        },
+        {
+          "prefix": {
+            "text": "syn-",
             "meaning": "together"
           },
           "example": {
-            "text": "syndrome, symbiosis, congenital",
-            "meaning": "- group of signs and symptoms that occur together, - two dissimilar organisms living together, - present at birth"
+            "text": "syndrome",
+            "meaning": "- group of signs and symptoms that occur together"
+          }
+        },
+        {
+          "prefix": {
+            "text": "sym-",
+            "meaning": "together"
+          },
+          "example": {
+            "text": "symbiosis",
+            "meaning": "- two dissimilar organisms living together"
+          }
+        },
+        {
+          "prefix": {
+            "text": "con-",
+            "meaning": "together"
+          },
+          "example": {
+            "text": "congenital",
+            "meaning": "- present at birth"
           }
         }
       ],
