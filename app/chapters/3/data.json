@@ -1885,8 +1885,18 @@
             "meaning": "not, lack, without"
           },
           "example": {
-            "text": "apnea, anemia",
-            "meaning": "cessation of breathing, no blood"
+            "text": "apnea",
+            "meaning": "cessation of breathing"
+          }
+        },
+        {
+          "prefix": {
+            "text": "a-, an-",
+            "meaning": "not, lack, without"
+          },
+          "example": {
+            "text": "anemia",
+            "meaning": "no blood"
           }
         },
         {
