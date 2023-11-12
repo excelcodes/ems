@@ -249,7 +249,7 @@ export default function Viewer({ data, color, hideTable }) {
                 }} className="mcq" key={i}>{choice}</div>)
               }
 
-              <button className="component-button" type="button" onClick={() => {
+              {feedback ? <button className="component-button"  type="button" onClick={() => setFeedback("")}>Hide</button> : <button className="component-button" type="button" onClick={() => {
                 setFeedback(
                   <table>
                     <tbody>
@@ -269,7 +269,7 @@ export default function Viewer({ data, color, hideTable }) {
                     </tbody>
                   </table>
                 )
-              }}>Show</button>
+              }}>Show</button>}
               <button className="component-button" type="button" onClick={randomize}>Randomize</button>
               <button className="component-button" type="button" onClick={() => setStart(false)}>Close</button>
               <div>
