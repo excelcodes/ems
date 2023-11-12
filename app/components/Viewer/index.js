@@ -144,7 +144,11 @@ export default function Viewer({ data, color, hideTable }) {
           <h1>{set.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</h1>
           {currentQuestionId === "FINISHED" ? <>
             <p>YOU HAVE FINISHED THIS SET</p>
-            <button className="component-button" onClick={() => setCurrentQuestionId(0)}>AGAIN?</button>
+            <button className="component-button" onClick={() => {
+              setWrongAnswers([]);
+              setCorrectAnswers(0);
+              setCurrentQuestionId(0)
+            }}>AGAIN?</button>
             <button className="component-button" onClick={() => {
               let newSet;
               if (set.name.startsWith("Table")) {
