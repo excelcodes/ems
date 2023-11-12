@@ -1,26 +1,14 @@
-"use client"
-import React from "react";
-import { usePathname } from "next/navigation";
-import ReactGA from "react-ga4";
+import App from "./App";
 import "./globals.css";
 
+export const metadata = {
+  title: "Excel.codes",
+  description: "EMS website and (maybe) much more.",
+  manifest: "./manifest.json",
+  icons: { apple: "/icon.png" },
+  themeColor: "#fff"
+};
 
 export default function RootLayout({ children }) {
-  const pathname = usePathname()
-
-  React.useEffect(() => {
-    ReactGA.initialize(process.env.NEXT_PUBLIC_MEASUREMENT_ID);
-  }, []);
-
-  React.useEffect(() => {
-    ReactGA.send({ hitType: "pageview", page: pathname, title: pathname });
-  },[pathname])
-  return (
-    <html lang="en">
-      <head>
-        <meta name="viewport" content="width=device-width, initial-scale=.6" />
-      </head>
-      <body>{children}</body>
-    </html>
-  )
+  return <App>{children}</App>
 }
