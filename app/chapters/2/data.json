@@ -1083,7 +1083,7 @@
             "enlargement of a gland",
             "any disease of a gland"
           ],
-          "answer": "enlargement of a gland",
+          "answer": "any disease of a gland",
           "type": 1
         },
         {
@@ -1116,7 +1116,7 @@
             "broken",
             "disjointed"
           ],
-          "answer": "disjointed",
+          "answer": "broken",
           "type": 1
         },
         {
@@ -1281,7 +1281,7 @@
             "generates calories",
             "is used to inspect internal organs"
           ],
-          "answer": "is used to inspect internal organs",
+          "answer": "measure calories",
           "type": 1
         },
         {
