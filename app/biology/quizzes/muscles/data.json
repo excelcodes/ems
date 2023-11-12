@@ -34,7 +34,7 @@
       {
         "type": 1,
         "text": "What is the neuromuscular junction composed of?",
-        "answer": "Both part of a neuron (axon terminals) and part of a muscle cell (junctional folds).",
+        "answer": "Both part of a neuron (axon terminals) and part of a muscle cell (junctional folds)",
         "choices": [
           "Only part of a neuron (axon terminals)",
           "Only part of a muscle cell (junctional folds)",
@@ -88,7 +88,7 @@
       {
         "type": 1,
         "text": "Once initiated, is the action potential stoppable?",
-        "answer": "No.",
+        "answer": "No",
         "choices": [
           "Yes",
           "No",
@@ -225,7 +225,7 @@
       {
         "type": 2,
         "text": "You are observing a muscle's origin and insertion during contraction. The movable bone, the muscle’s insertion, moves toward the immovable or less movable bone, the muscle’s origin.",
-        "answer": false
+        "answer": true
       },
       {
         "type": 2,
@@ -273,7 +273,7 @@
       {
         "type": 1,
         "text": "What enzyme terminates the effects of acetylcholine (ACh) in the synaptic cleft?",
-        "answer": "Acetylcholinesterase.",
+        "answer": "Acetylcholinesterase",
         "choices": [
           "Acetylcholinesterase",
           "ATPase",
@@ -507,7 +507,7 @@
       {
         "type": 1,
         "text": "What is the result of the events at the neuromuscular junction?",
-        "answer": "A transient change in membrane potential (end plate potential).",
+        "answer": "A transient change in membrane potential (end plate potential)",
         "choices": [
           "A sustained change in membrane potential",
           "A transient change in membrane potential (end plate potential)",
@@ -534,7 +534,7 @@
       {
         "type": 1,
         "text": "What restores the ionic conditions of the resting state during repolarization?",
-        "answer": "ATP-dependent Na1-K1 pump.",
+        "answer": "ATP-dependent Na1-K1 pump",
         "choices": [
           "Acetylcholinesterase",
           "ATP-dependent Na1-K1 pump",
@@ -647,7 +647,7 @@
       },
       {
         "type": 2,
-        "text": "You are examining the structural proteins of the myofibril. Dystrophin links the thick filaments to the integral proteins of the sarcolemma.",
+        "text": "You are examining the structural proteins of the myofibril. Dystrophin links the thin filaments to the integral proteins of the sarcolemma.",
         "answer": true
       },
       {
@@ -771,7 +771,7 @@
           "About 30 seconds",
           "Nearly a minute",
           "Up to 5 minutes",
-          "Indefinitely"
+          "About 15 seconds"
         ]
       },
       {
@@ -797,9 +797,15 @@
         ]
       },
       {
-        "type": 2,
+        "type": 1,
         "text": "A person's hair stands on end as a physiological response. Which type of muscle is responsible for this reaction?",
-        "answer": true
+        "answer": "Smooth muscle",
+        "choices": [
+          "Smooth muscle",
+          "Cardiac muscle",
+          "Skeletal muscle",
+          "انا اخوكم في الله ادور زوجة صالحة"
+        ]
       },
       {
         "type": 2,
@@ -847,7 +853,7 @@
       {
         "type": 1,
         "text": "What is the function of synaptic vesicles in the neuromuscular junction?",
-        "answer": "They store neurotransmitters, specifically acetylcholine (ACh).",
+        "answer": "They store neurotransmitters",
         "choices": [
           "They store neurotransmitters",
           "They generate action potentials",
