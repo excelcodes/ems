@@ -364,7 +364,7 @@
             "mammography",
             "mammoplasty"
           ],
-          "answer": "mastectomy",
+          "answer": "mammoplasty",
           "type": 1
         },
         {
@@ -375,7 +375,7 @@
             "mediastinoscopy",
             "laparoscopy"
           ],
-          "answer": "laparotomy",
+          "answer": "laparoscopy",
           "type": 1
         },
         {
