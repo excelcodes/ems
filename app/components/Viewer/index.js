@@ -157,7 +157,7 @@ export default function Viewer({ data, color, hideTable }) {
               } else if (set.name.startsWith("Review")) {
                 newSet = data.review[data.review.findIndex(review => review.name === set.name) + 1];
                 if (!newSet) newSet = data.practice[0];
-              } else if (set.name.startsWith("Practice")) {
+              } else {
                 newSet = data.practice[data.practice.findIndex(practice => practice.name === set.name) + 1];
                 if (!newSet) newSet = data.table[0];
               }
