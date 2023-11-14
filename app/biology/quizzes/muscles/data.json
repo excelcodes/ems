@@ -1838,5 +1838,87 @@
         "answer": "High myoglobin content"
       }
     ]
-  }]
+  }, {
+    "name": "Dr. Suha Questions",
+    "data": [
+      {
+        "type": 1,
+        "text": "Which of the following is necessary to promote detachment of the myosin head during the contraction (cross bridge) cycle?",
+        "choices": [
+          "Calcium sequestration by the sarcoplasmic reticulum",
+          "ATP binding to the myosin head",
+          "Disaggregation of F-actin",
+          "Calcium binding"
+        ],
+        "answer": "ATP binding to the myosin head"
+      },
+      {
+        "type": 1,
+        "text": "Which one of the contraction events of the following depends on the integrity of the 'triad' system?",
+        "choices": [
+          "Cross-bridge cycle",
+          "End plate potential",
+          "Excitation-contraction coupling",
+          "Excitation of the sarcolemma"
+        ],
+        "answer": "Excitation-contraction coupling"
+      },
+      {
+        "type": 1,
+        "text": "You are studying isometric muscle contraction, and to increase the strength of the contraction you increased the frequency of the stimulus. Which statement of the following best explains your finding?",
+        "choices": [
+          "Muscle fibre length changed to increase the contraction strength.",
+          "Increasing the frequency caused temporal summation.",
+          "The tension of the muscle did not change to maintain strength.",
+          "The observed strength was due to fused action potentials."
+        ],
+        "answer": "Increasing the frequency caused temporal summation."
+      },
+      {
+        "type": 1,
+        "text": "Which of the following is the characteristic of muscle tone in skeletal muscle?",
+        "choices": [
+          "A state of continuous partial contraction",
+          "A series of twitches",
+          "A state of continuous complete contraction",
+          "A state of relaxation"
+        ],
+        "answer": "A state of continuous partial contraction"
+      },
+      {
+        "type": 1,
+        "text": "Steven is a competitive sprinter who wants to improve his performance. Which muscle fiber type is he primarily using during high-intensity, short-duration exercise?",
+        "choices": [
+          "Slow glycolytic fibers",
+          "Fast glycolytic fibers",
+          "Fast oxidative fibers",
+          "Slow oxidative fibers"
+        ],
+        "answer": "Fast glycolytic fibers"
+      },
+      {
+        "type": 1,
+        "text": "Which statement of the following is NOT true regarding the structural organization of skeletal muscles?",
+        "choices": [
+          "Each fascicle is surrounded by a dense connective tissue called endomysium.",
+          "Each muscle fiber is innervated by a single nerve ending near its middle part.",
+          "The connective tissue surrounding the whole muscle is called epimysium.",
+          "Muscles can be directly attached to bones by fusing to bone periosteum."
+        ],
+        "answer": "Each fascicle is surrounded by a dense connective tissue called endomysium."
+      },
+      {
+        "type": 1,
+        "text": "According to the sliding filament model of contraction, which statement of the following is correct to describe a contracted sarcomere?",
+        "choices": [
+          "A band length does not change.",
+          "I band is elongated.",
+          "H zone becomes clearly visible.",
+          "Z and M lines fuse."
+        ],
+        "answer": "A band length does not change."
+      }
+    ]
+  }
+  ]
 }
