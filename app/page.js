@@ -5,7 +5,7 @@ import "./page.css";
 
 export default function Home() {
   return (
-    <div className="founders-container">
+    <><div className="founders-container">
       <div className="founder-card">
         <h2>Chapter 1 - Medical Terminology</h2>
         <Link href="/chapters/1"><button className="practice-button">Practice</button></Link>
@@ -32,10 +32,12 @@ export default function Home() {
         <br />
         <br />
         <div className="buttons">
-        <button onClick={() => window.open("/ch3.pdf", "_blank")} className="download-cv">Download Book</button>
+          <button onClick={() => window.open("/ch3.pdf", "_blank")} className="download-cv">Download Book</button>
           <button onClick={() => window.open("/ch3-notes.pdf", "_blank")} className="contact-me">Solution Key</button>
         </div>
       </div>
     </div>
+    <p style={{ opacity: 0.01 }}>ابو بكر عم ريزوان</p>
+    </>
   )
 }
