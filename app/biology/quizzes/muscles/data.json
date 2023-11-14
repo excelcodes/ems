@@ -1021,7 +1021,7 @@
           "It does not change the length and move the load",
           "It decreases in length and moves the load"
         ],
-        "answer": "It increases in length but does not move the load"
+        "answer": "It increases in length and moves the load"
       },
       {
         "type": 1,
@@ -1197,7 +1197,7 @@
           "A twitch",
           "Wave summation"
         ],
-        "answer": "Incomplete tetanus"
+        "answer": "Complete tetanus"
       },
       {
         "type": 1,
@@ -1208,7 +1208,7 @@
           "To inhibit Ca2+ release from the sarcoplasmic reticulum",
           "To inhibit the function of cholinesterase"
         ],
-        "answer": "To increase the number of acetylcholine receptors"
+        "answer": "To inhibit the function of cholinesterase"
       },
       {
         "type": 1,
