@@ -2155,9 +2155,9 @@
             "K+ channel is opened.",
             "Na+ channel is opened.",
             "Na+ channel is closed.",
-            "Na+ channel is closed & K+ channel is opened."
+            "K+ channel is closed."
           ],
-          "answer": "Na+ channel is closed & K+ channel is opened."
+          "answer": "Na+ channel is closed."
         }
       ]
     },
