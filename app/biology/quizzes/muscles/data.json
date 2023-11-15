@@ -2576,6 +2576,304 @@
           "answer": "Anaerobic glycolysis is not an energy source for muscle contraction."
         }
       ]
-    }    
+    },
+    {
+      "name": "Dr. Rizwan Questions",
+      "data": [
+        {
+          "type": 1,
+          "text": "A smooth, sustained contraction resulting from very rapid stimulation of the muscle, in which no evidence of relaxation is seen, is called",
+          "choices": [
+            "a twitch",
+            "temporal summation",
+            "multiple motor unit summation",
+            "fused tetanus"
+          ],
+          "answer": "fused tetanus"
+        },
+        {
+          "type": 1,
+          "text": "Dystrophin is an important structural protein. The function of dystrophin is",
+          "choices": [
+            "Links the thick filaments to the integral proteins",
+            "Links the thin filaments to the peripheral proteins",
+            "Links the thin filaments to the integral proteins",
+            "Links the thick filaments to the peripheral proteins"
+          ],
+          "answer": "Links the thin filaments to the integral proteins"
+        },
+        {
+          "type": 1,
+          "text": "The real cause of myasthenia gravis diseases is",
+          "choices": [
+            "Deficiency of ATP in muscle fiber",
+            "Irregular action potential from spinal cord",
+            "Immune system destroys ACh receptors",
+            "Lack of dystrophin in sarcomeres"
+          ],
+          "answer": "Immune system destroys ACh receptors"
+        },
+        {
+          "type": 1,
+          "text": "What distinguishes skeletal muscle fiber from other types of muscle tissue?",
+          "choices": [
+            "It has nerve endings that can control its activity",
+            "Has uninucleated fibers",
+            "Covers the wall of the internal organs",
+            "Non-striated"
+          ],
+          "answer": "It has nerve endings that can control its activity"
+        },
+        {
+          "type": 1,
+          "text": "Which ion starts the contraction of muscles?",
+          "choices": [
+            "Mg2+",
+            "Ca2+",
+            "H+",
+            "Cl-"
+          ],
+          "answer": "Ca2+"
+        },
+        {
+          "type": 1,
+          "text": "What provides the energy for muscular contraction?",
+          "choices": [
+            "Myosin",
+            "Actin",
+            "Tropomyosin",
+            "ATP"
+          ],
+          "answer": "ATP"
+        },
+        {
+          "type": 1,
+          "text": "A myosin molecule includes how many polypeptide chains?",
+          "choices": [
+            "6 polypeptide chains, two heavy chains and four light chains",
+            "5 polypeptide chains, two heavy chains and three light chains",
+            "6 polypeptide chains, three heavy chains and two light chains",
+            "None"
+          ],
+          "answer": "6 polypeptide chains, two heavy chains and four light chains"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following functions as an ATPase and splits ATP, releasing energy to power movement?",
+          "choices": [
+            "Actin",
+            "Myosin",
+            "Troponin",
+            "All of the above"
+          ],
+          "answer": "Myosin"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following occurs first during E/C coupling?",
+          "choices": [
+            "Extracellular calcium enters the intracellular fluid",
+            "Calcium binds to troponin",
+            "Tropomyosin shifts",
+            "An action potential propagates through the muscle cell T-tubules"
+          ],
+          "answer": "An action potential propagates through the muscle cell T-tubules"
+        },
+        {
+          "type": 1,
+          "text": "What causes Rigor Mortis?",
+          "choices": [
+            "Lack of calcium",
+            "Excess ATP",
+            "Excess calcium",
+            "Lack of ATP"
+          ],
+          "answer": "Lack of ATP"
+        },
+        {
+          "type": 1,
+          "text": "When Calcium binds to troponin it causes a shift in tropomyosin and this exposes the myosin-binding site.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": "True"
+        },
+        {
+          "type": 1,
+          "text": "Which one of the following is the least powerful type of muscle fiber?",
+          "choices": [
+            "Fast Glycolytic Fibers",
+            "Slow Oxidative Fibers",
+            "Fast Oxidative-Glycolytic Fibers",
+            "All of the above"
+          ],
+          "answer": "Slow Oxidative Fibers"
+        },
+        {
+          "type": 1,
+          "text": "The role of the sarcoplasmic reticulum is to?",
+          "choices": [
+            "Store and release calcium",
+            "Release actin and myosin",
+            "Store troponin",
+            "Propagate the action potential"
+          ],
+          "answer": "Store and release calcium"
+        },
+        {
+          "type": 1,
+          "text": "Exercises can't induce changes in skeletal muscle fibers.",
+          "choices": [
+            "True",
+            "False"
+          ],
+          "answer": "False"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following does not involve the regeneration of ATP during the contraction of skeletal muscle?",
+          "choices": [
+            "Direct Phosphorylation",
+            "Anaerobic Pathway (Glycolysis)",
+            "Aerobic Pathway (Respiration)",
+            "Concentric contractions"
+          ],
+          "answer": "Concentric contractions"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is the fastest pathway for regenerating ATP during muscle activity?",
+          "choices": [
+            "Direct Phosphorylation",
+            "Anaerobic Pathway (Glycolysis)",
+            "Aerobic Pathway (Respiration)",
+            "None"
+          ],
+          "answer": "Direct Phosphorylation"
+        },
+        {
+          "type": 1,
+          "text": "Fast glycolytic (FG) fibers exhibit all of the following characteristics, EXCEPT?",
+          "choices": [
+            "High myoglobin content",
+            "Few blood capillaries",
+            "Few mitochondria",
+            "White in color"
+          ],
+          "answer": "High myoglobin content"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is the correct description of skeletal muscles?",
+          "choices": [
+            "Voluntary muscle, intercalated discs, non-striated, slow contractions",
+            "Voluntary muscle, Striated, elongated, Multinucleate, Attached to bones",
+            "Involuntary muscle, striated, Uninucleate, Intercalated disc",
+            "Voluntary Muscle, striated, Uninucleate, Attach to bones",
+            "Involuntary muscle, non-striated, Multinucleate, intercalated disc"
+          ],
+          "answer": "Voluntary muscle, Striated, elongated, Multinucleate, Attached to bones"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is/are the characteristics of skeletal muscle?",
+          "choices": [
+            "Excitability, Extensibility, Rigidity",
+            "Extensibility, Elasticity, insensitive",
+            "Extensibility, excitability, elasticity",
+            "Excitability contractility inelastic"
+          ],
+          "answer": "Extensibility, excitability, elasticity"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is NOT a function of skeletal muscle?",
+          "choices": [
+            "Produce movement",
+            "Generate heat",
+            "Maintain body posture",
+            "Produce joint lubricant"
+          ],
+          "answer": "Produce joint lubricant"
+        },
+        {
+          "type": 1,
+          "text": "Tendons and aponeurosis are considered which type of attachment?",
+          "choices": [
+            "Direct",
+            "Fleshy",
+            "Indirect"
+          ],
+          "answer": "Indirect"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is correct regarding the nerve and blood supply of the muscle?",
+          "choices": [
+            "Each muscle is supplied with one nerve, one artery, and one or more veins",
+            "Each muscle is supplied with two nerves, one artery, and one vein",
+            "Each muscle is supplied with one nerve, one artery, and one vein",
+            "Each muscle is supplied with one nerve, two arteries and one or more veins"
+          ],
+          "answer": "Each muscle is supplied with one nerve, one artery, and one or more veins"
+        },
+        {
+          "type": 1,
+          "text": "What are the 2 smallest subunits that make up the sarcomere and how are they different?",
+          "choices": [
+            "Actin: thick filament and Myosin: thin filament",
+            "Myosin: Thick filament and Actin: Thin filament",
+            "Myosin and Actin both are thick filaments",
+            "Actin: Thin filament and Tubulin: Thick filament"
+          ],
+          "answer": "Myosin: Thick filament and Actin: Thin filament"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following makes up the striations of the muscle?",
+          "choices": [
+            "A band and M line",
+            "I band and Z disc",
+            "A band and I band",
+            "M line and Z disc"
+          ],
+          "answer": "A band and I band"
+        },
+        {
+          "type": 1,
+          "text": "Which organelle releases the calcium ions needed for the muscle contraction?",
+          "choices": [
+            "Sarcoplasmic reticulum",
+            "Mitochondria",
+            "Golgi apparatus",
+            "Lysosome"
+          ],
+          "answer": "Sarcoplasmic reticulum"
+        },
+        {
+          "type": 1,
+          "text": "All the following are needed for the sliding filament theory EXCEPT:",
+          "choices": [
+            "The myosin head attaches to binding sites on the thin filaments, and the sliding begins.",
+            "Needs ATP for energy",
+            "Calcium ions released by the sarcoplasmic reticulum.",
+            "Thin filaments are pulled towards the center of the sarcomere, and the muscle cell shortens."
+          ],
+          "answer": "Thin filaments are pulled towards the center of the sarcomere, and the muscle cell shortens."
+        },
+        {
+          "type": 1,
+          "text": "Which of the following neurotransmitters is responsible for skeletal muscle contraction?",
+          "choices": [
+            "Acetylcholinesterase",
+            "Adrenaline",
+            "Acetylcholine",
+            "Dopamine"
+          ],
+          "answer": "Acetylcholine"
+        }
+      ]
+    }
   ]
 }
