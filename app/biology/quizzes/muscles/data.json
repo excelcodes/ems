@@ -712,12 +712,13 @@
       {
         "type": 1,
         "text": "What factor influences the force of muscle contraction by affecting the number of myosin cross bridges attached to actin?",
-        "answer": "Frequency of stimulation",
+        "answer": "All of the above",
         "choices": [
           "Size of muscle fibers",
           "Frequency of stimulation",
           "Velocity of contraction",
-          "Degree of muscle stretch"
+          "Degree of muscle stretch",
+          "All of the above"
         ]
       },
       {
