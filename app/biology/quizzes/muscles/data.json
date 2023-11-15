@@ -2427,6 +2427,155 @@
           "answer": "striations."
         }
       ]
-    }
+    },
+    {
+      "name": "Quiz2",
+      "data": [
+        {
+          "type": 1,
+          "text": "The primary function of all muscle tissue is:",
+          "choices": [
+            "twisting.",
+            "lengthening.",
+            "contraction or shortening.",
+            "to generate heat.",
+            "to stretch."
+          ],
+          "answer": "contraction or shortening."
+        },
+        {
+          "type": 1,
+          "text": "The nuclei of skeletal muscle cells are pushed aside by long ribbonlike organelles called _______, which nearly fill the cytoplasm.",
+          "choices": [
+            "myofibrils",
+            "sarcolemma",
+            "sarcomeres",
+            "myofilaments",
+            "sarcoplasmic reticulum"
+          ],
+          "answer": "myofibrils"
+        },
+        {
+          "type": 1,
+          "text": "The state of continuous partial contractions is called:",
+          "choices": [
+            "isometric contraction",
+            "muscle tone",
+            "muscle fatigue",
+            "oxygen debt",
+            "isotonic contraction"
+          ],
+          "answer": "muscle tone"
+        },
+        {
+          "type": 1,
+          "text": "What is the specific neurotransmitter that is released by motor neurons and stimulates skeletal muscle?",
+          "choices": [
+            "Endomysium",
+            "Epinephrine",
+            "Acetylcholine (Ach)",
+            "Dopamine",
+            "GABA"
+          ],
+          "answer": "Acetylcholine (Ach)"
+        },
+        {
+          "type": 1,
+          "text": "What specifically causes a muscle to contract?",
+          "choices": [
+            "The cocked heads on the myosin fold down and myosin moves.",
+            "Calcium returns to the sarcoplasmic reticulum.",
+            "When the cocked heads of the myosin attach to the binding site the myosin heads pivot toward the center of the sarcomere.",
+            "The myosin heads (cross bridges) attach to each other and move the myosin myofilament.",
+            "The Z lines move further apart."
+          ],
+          "answer": "When the cocked heads of the myosin attach to the binding site the myosin heads pivot toward the center of the sarcomere."
+        },
+        {
+          "type": 1,
+          "text": "Which of the following are characteristic of cardiac muscle?",
+          "choices": [
+            "Multinucleated cells",
+            "Spindle-shaped cells",
+            "Two sheets or layers, one running circularly and the other longitudinally",
+            "Intercalated disks",
+            "Body skeleton attachment"
+          ],
+          "answer": "Intercalated disks"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is NOT a characteristic of skeletal muscle?",
+          "choices": [
+            "Skeletal muscle cells have single, centrally located nuclei and are fusiform in shape.",
+            "Another name for skeletal muscle is voluntary muscle.",
+            "Skeletal muscle cells are striated.",
+            "Skeletal muscle tissue can contract rapidly and with great force, but tires easily and must rest after short periods of relativity.",
+            "Skeletal muscle is, with a couple of exceptions, under conscious control."
+          ],
+          "answer": "Skeletal muscle cells have single, centrally located nuclei and are fusiform in shape."
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is NOT a function of muscle?",
+          "choices": [
+            "Generates heat",
+            "Participates in the transport of oxygen in the blood to the tissues",
+            "Produces movement",
+            "Maintains posture",
+            "Stabilizes joints"
+          ],
+          "answer": "Participates in the transport of oxygen in the blood to the tissues"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is NOT true of an action potential?",
+          "choices": [
+            "It is initiated by a temporary permeability to sodium ions which rush into the cell.",
+            "An action potential is a wave of electrical current.",
+            "An action potential is an all or nothing phenomenon - once started it goes to completion.",
+            "The result of the action potential is the contraction of the muscle cell.",
+            "An action potential can stop or change direction along its pathway."
+          ],
+          "answer": "An action potential can stop or change direction along its pathway."
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is the only muscle type that is nonstriated and involuntary?",
+          "choices": [
+            "Cardiac",
+            "Smooth",
+            "Epimysium",
+            "Skeletal",
+            "Muscle fiber"
+          ],
+          "answer": "Smooth"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following refers to one neuron and all the skeletal muscle cells it stimulates?",
+          "choices": [
+            "Neuromuscular junction",
+            "Synaptic cleft",
+            "Motor unit",
+            "Muscle fiber",
+            "Irritability and contractility"
+          ],
+          "answer": "Motor unit"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following statements is NOT true regarding energy generation for muscle contraction?",
+          "choices": [
+            "One of the pathways for ATP regeneration is direct phosphorylation of ADP by creatine phosphate.",
+            "Anaerobic glycolysis is not an energy source for muscle contraction.",
+            "At rest and during light exercise, ATP is regenerated almost entirely by metabolic pathways that use oxygen.",
+            "Aerobic respiration refers to metabolic pathways that use oxygen.",
+            "The initial steps of glucose breakdown occur via a pathway called glycolysis, which does not use oxygen and is an anaerobic part of the metabolic pathway."
+          ],
+          "answer": "Anaerobic glycolysis is not an energy source for muscle contraction."
+        }
+      ]
+    }    
   ]
 }
