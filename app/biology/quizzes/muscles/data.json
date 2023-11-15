@@ -1635,7 +1635,7 @@
         "choices": [
           "ATP is hydrolyzed.",
           "Calcium binds to myosin heads.",
-          "Calcium concentration in the sarcoplasmic reticulum increases.",
+          "Calcium concentration in the sarcoplasmic reticulum decreases.",
           "Myosin heads bind to actin."
         ],
         "answer": "Calcium binds to myosin heads."
