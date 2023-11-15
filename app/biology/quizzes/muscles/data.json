@@ -2874,6 +2874,649 @@
           "answer": "Acetylcholine"
         }
       ]
+    },
+    {
+      "name": "Muscle TestBank",
+      "data": [
+        {
+          "type": 1,
+          "text": "What is the role of tropomyosin in skeletal muscles?",
+          "choices": [
+            "Tropomyosin serves as a contraction inhibitor by blocking the myosin binding sites on the actin molecules.",
+            "Tropomyosin is the chemical that activates the myosin heads.",
+            "Tropomyosin is the receptor for the motor neuron neurotransmitter.",
+            "Tropomyosin serves as a contraction inhibitor by blocking the actin binding sites on the myosin molecules."
+          ],
+          "answer": "Tropomyosin serves as a contraction inhibitor by blocking the myosin binding sites on the actin molecules."
+        },
+        {
+          "type": 1,
+          "text": "Which muscle cells have the greatest ability to regenerate?",
+          "choices": [
+            "smooth",
+            "cardiac",
+            "skeletal",
+            "no muscle can regenerate"
+          ],
+          "answer": "smooth"
+        },
+        {
+          "type": 1,
+          "text": "Most skeletal muscles contain ________.",
+          "choices": [
+            "a predominance of slow oxidative fibers",
+            "a mixture of fiber types",
+            "muscle fibers of the same type",
+            "a predominance of fast oxidative fibers"
+          ],
+          "answer": "a mixture of fiber types"
+        },
+        {
+          "type": 1,
+          "text": "The strongest muscle contractions are normally achieved by ________.",
+          "choices": [
+            "increasing stimulus above the treppe stimulus",
+            "increasing stimulus above the threshold",
+            "recruiting small and medium muscle fibers",
+            "increasing the stimulation up to the maximal stimulus"
+          ],
+          "answer": "increasing the stimulation up to the maximal stimulus"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following would be recruited later in muscle stimulation when contractile strength increases?",
+          "choices": [
+            "motor units with larger, less excitable neurons",
+            "many small motor units with the ability to stimulate other motor units",
+            "large motor units with small, highly excitable neurons",
+            "motor units with the longest muscle fibers"
+          ],
+          "answer": "motor units with larger, less excitable neurons"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is a factor that affects the velocity and duration of muscle contraction?",
+          "choices": [
+            "muscle length",
+            "number of muscle fibers stimulated",
+            "size of the muscle fibers stimulated",
+            "load on the fiber"
+          ],
+          "answer": "load on the fiber"
+        },
+        {
+          "type": 1,
+          "text": "Myoglobin ________.",
+          "choices": [
+            "stores oxygen in muscle cells",
+            "breaks down glycogen",
+            "produces the end plate potential",
+            "is a protein involved in the direct phosphorylation of ADP"
+          ],
+          "answer": "stores oxygen in muscle cells"
+        },
+        {
+          "type": 1,
+          "text": "What structure in skeletal muscle cells functions in calcium storage?",
+          "choices": [
+            "sarcoplasmic reticulum",
+            "myofibrillar network",
+            "intermediate filament network",
+            "mitochondria"
+          ],
+          "answer": "sarcoplasmic reticulum"
+        },
+        {
+          "type": 1,
+          "text": "What does excess postexercise oxygen consumption represent?",
+          "choices": [
+            "the difference between the amount of oxygen needed for totally aerobic muscle activity and the amount actually used",
+            "the amount of oxygen taken into the body immediately after the exertion",
+            "the amount of oxygen equal to the oxygen already used",
+            "amount of oxygen needed for aerobic activity to accomplish the same amount of work"
+          ],
+          "answer": "the difference between the amount of oxygen needed for totally aerobic muscle activity and the amount actually used"
+        },
+        {
+          "type": 1,
+          "text": "Immediately following the arrival of the stimulus at a skeletal muscle cell, there is a short period called the ________ period during which the neurotransmitter is released by exocytosis, diffuses across the synaptic cleft, and binds to its receptors.",
+          "choices": [
+            "refractory",
+            "latent",
+            "contraction",
+            "relaxation"
+          ],
+          "answer": "latent"
+        },
+        {
+          "type": 1,
+          "text": "Creatine phosphate functions in the muscle cell by ________.",
+          "choices": [
+            "storing energy that will be transferred to ADP to resynthesize ATP",
+            "forming a chemical compound with actin",
+            "inducing a conformational change in the myofilaments",
+            "forming a temporary chemical compound with myosin"
+          ],
+          "answer": "storing energy that will be transferred to ADP to resynthesize ATP"
+        },
+        {
+          "type": 1,
+          "text": "What is the primary function of wave summation?",
+          "choices": [
+            "prevent muscle fatigue",
+            "prevent muscle relaxation",
+            "increase muscle tension",
+            "produce smooth, continuous muscle contraction"
+          ],
+          "answer": "increase muscle tension"
+        },
+        {
+          "type": 1,
+          "text": "During muscle contraction, myosin cross bridges attach to which active sites?",
+          "choices": [
+            "Z discs",
+            "thick filaments",
+            "actin filaments",
+            "myosin filaments"
+          ],
+          "answer": "actin filaments"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following surrounds an individual muscle cell?",
+          "choices": [
+            "fascicle",
+            "endomysium",
+            "epimysium",
+            "perimysium"
+          ],
+          "answer": "endomysium"
+        },
+        {
+          "type": 1,
+          "text": "Rigor mortis occurs because ________.",
+          "choices": [
+            "sodium ions leak into the muscle causing continued contractions",
+            "no ATP is available to release attached actin and myosin molecules",
+            "the cells are dead",
+            "proteins are beginning to break down, thus preventing a flow of calcium ions"
+          ],
+          "answer": "no ATP is available to release attached actin and myosin molecules"
+        },
+        {
+          "type": 1,
+          "text": "The oxygen-binding protein found in muscle cells is ________.",
+          "choices": [
+            "immunoglobin",
+            "myoglobin",
+            "ATP",
+            "hemoglobin"
+          ],
+          "answer": "myoglobin"
+        },
+        {
+          "type": 1,
+          "text": "The contractile units of skeletal muscles are ________.",
+          "choices": [
+            "T tubules",
+            "microtubules",
+            "mitochondria",
+            "myofibrils"
+          ],
+          "answer": "myofibrils"
+        },
+        {
+          "type": 1,
+          "text": "Sarcomeres are functional units of ________ muscle.",
+          "choices": [
+            "smooth",
+            "skeletal",
+            "cardiac",
+            "B and C only"
+          ],
+          "answer": "B and C only"
+        },
+        {
+          "type": 1,
+          "text": "What is the functional role of the T tubules?",
+          "choices": [
+            "enhance cellular communication during muscle contraction",
+            "hold cross bridges in place in a resting muscle",
+            "synthesize ATP to provide energy for muscle contraction",
+            "stabilize the G and F actin"
+          ],
+          "answer": "enhance cellular communication during muscle contraction"
+        },
+        {
+          "type": 1,
+          "text": "During vigorous exercise, there may be insufficient oxygen available to completely break down pyruvic acid for energy. As a result, the pyruvic acid is converted to ________.",
+          "choices": [
+            "stearic acid",
+            "a strong base",
+            "lactic acid",
+            "hydrochloric acid"
+          ],
+          "answer": "lactic acid"
+        },
+        {
+          "type": 1,
+          "text": "When a muscle is unable to respond to stimuli temporarily, it is in which of the following periods?",
+          "choices": [
+            "refractory period",
+            "latent period",
+            "fatigue period",
+            "relaxation period"
+          ],
+          "answer": "refractory period"
+        },
+        {
+          "type": 1,
+          "text": "In an isotonic contraction, the muscle ________.",
+          "choices": [
+            "changes in length and moves the 'load'",
+            "does not change in length but increases tension",
+            "rapidly resynthesizes creatine phosphate and ATP",
+            "never converts pyruvate to lactate"
+          ],
+          "answer": "changes in length and moves the 'load'"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is the correct sequence of events for muscle contractions?",
+          "choices": [
+            "motor neuron action potential, neurotransmitter release, muscle cell action potential, release of calcium ions from SR, ATP-driven power stroke, sliding of myofilaments",
+            "muscle cell action potential, neurotransmitter release, ATP-driven power stroke, calcium ion release from SR, sliding of myofilaments",
+            "neurotransmitter release, muscle cell action potential, motor neuron action potential, release of calcium ions from SR, sliding of myofilaments, ATP-driven power stroke",
+            "neurotransmitter release, motor neuron action potential, muscle cell action potential, release of calcium ions from SR, ATP-driven power stroke"
+          ],
+          "answer": "motor neuron action potential, neurotransmitter release, muscle cell action potential, release of calcium ions from SR, ATP-driven power stroke, sliding of myofilaments"
+        },
+        {
+          "type": 1,
+          "text": "The mechanism of contraction in smooth muscle is different from skeletal muscle in that ________.",
+          "choices": [
+            "the site of calcium binding site differs",
+            "the trigger for contraction is a rise in intracellular calcium",
+            "actin and myosin interact by the sliding filament mechanism",
+            "ATP energizes the sliding process"
+          ],
+          "answer": "the site of calcium binding site differs"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following describes the cells of unitary smooth muscle?",
+          "choices": [
+            "They are used for vision and hair raising.",
+            "They depend upon recruitment using the autonomic nervous system.",
+            "They consist of muscle fibers that are structurally independent of each other.",
+            "They exhibit spontaneous action potentials."
+          ],
+          "answer": "They exhibit spontaneous action potentials."
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is true about smooth muscle?",
+          "choices": [
+            "Smooth muscle has well-developed T tubules at the site of invagination.",
+            "Smooth muscle, in contrast to skeletal muscle, cannot synthesize or secrete any connective tissue elements.",
+            "Smooth muscle cannot stretch as much as skeletal muscle.",
+            "Certain smooth muscle cells can actually divide to increase their numbers."
+          ],
+          "answer": "Certain smooth muscle cells can actually divide to increase their numbers."
+        },
+        {
+          "type": 1,
+          "text": "Smooth muscle is characterized by all of the following EXCEPT ________.",
+          "choices": [
+            "it appears to lack troponin",
+            "there are more thick filaments than thin filaments",
+            "there are noncontractile intermediate filaments that attach to dense bodies within the cell",
+            "there are no sarcomeres"
+          ],
+          "answer": "there are more thick filaments than thin filaments"
+        },
+        {
+          "type": 1,
+          "text": "The ability of muscle to shorten forcibly when adequately stimulated is known as ________, and sets muscle apart from other tissue types.",
+          "choices": [
+            "elasticity",
+            "extensibility",
+            "contractility",
+            "excitability"
+          ],
+          "answer": "contractility"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following statements is true?",
+          "choices": [
+            "Cardiac muscle cells have many nuclei.",
+            "Cardiac muscle cells are found in the heart and large blood vessels.",
+            "Smooth muscle cells have T tubules.",
+            "Striated muscle cells are long and cylindrical with many nuclei."
+          ],
+          "answer": "Striated muscle cells are long and cylindrical with many nuclei."
+        },
+        {
+          "type": 1,
+          "text": "An anaerobic metabolic pathway that results in the production of two net ATPs per glucose plus two pyruvic acid molecules is ________.",
+          "choices": [
+            "hydrolysis",
+            "the electron transport chain",
+            "the citric acid cycle",
+            "glycolysis"
+          ],
+          "answer": "glycolysis"
+        },
+        {
+          "type": 1,
+          "text": "Muscle tone is ________.",
+          "choices": [
+            "the condition of athletes after intensive training",
+            "a state of sustained partial contraction",
+            "the feeling of well-being following exercise",
+            "the ability of a muscle to efficiently cause skeletal movements"
+          ],
+          "answer": "a state of sustained partial contraction"
+        },
+        {
+          "type": 1,
+          "text": "The sliding filament model of contraction involves ________.",
+          "choices": [
+            "actin and myosin sliding past each other and partially overlapping",
+            "actin and myosin lengthening in order to slide past each other",
+            "the shortening of thick filaments so that thin filaments slide past",
+            "the Z discs sliding over the myofilaments"
+          ],
+          "answer": "actin and myosin sliding past each other and partially overlapping"
+        },
+        {
+          "type": 1,
+          "text": "After nervous stimulation stops, what prevents ACh in the synaptic cleft from continuing to stimulate contraction?",
+          "choices": [
+            "the action potential stops going down the overloaded T tubules",
+            "acetylcholinesterase breaks apart the ACh",
+            "calcium ions returning to the terminal cisternae",
+            "the tropomyosin blocking the myosin once full contraction is achieved"
+          ],
+          "answer": "acetylcholinesterase breaks apart the ACh"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following is the correct order for the phases of a muscle twitch?",
+          "choices": [
+            "latent, contraction, relaxation",
+            "latent, relaxation, contraction",
+            "relaxation, contraction, latent",
+            "contraction, relaxation, latent"
+          ],
+          "answer": "relaxation, contraction, latent"
+        },
+        {
+          "type": 1,
+          "text": "What is the most distinguishing characteristic of muscle tissue?",
+          "choices": [
+            "It is composed of multiple cells working together.",
+            "the ability to respond to nervous stimulation",
+            "the ability to transform chemical energy into mechanical energy to move the body",
+            "its cells' inability to reproduce by mitosis"
+          ],
+          "answer": "the ability to transform chemical energy into mechanical energy to move the body"
+        },
+        {
+          "type": 1,
+          "text": "Of the following muscle types, which has the longest muscle cells and has obvious stripes called striations?",
+          "choices": [
+            "multiunit smooth muscle",
+            "visceral smooth muscle",
+            "cardiac muscle",
+            "skeletal muscle"
+          ],
+          "answer": "skeletal muscle"
+        },
+        {
+          "type": 1,
+          "text": "Hypothetically, if a muscle were stretched to the point where thick and thin filaments no longer overlapped, ________.",
+          "choices": [
+            "ATP consumption would increase because the sarcomere is \"trying\" to contract",
+            "cross bridge attachment would be optimum because of all the free binding sites on actin",
+            "no muscle tension could be generated",
+            "maximum force production would result because the muscle has a maximum range of travel"
+          ],
+          "answer": "no muscle tension could be generated"
+        },
+        {
+          "type": 1,
+          "text": "What part of the sarcolemma contains acetylcholine receptors?",
+          "choices": [
+            "part adjacent to another muscle cell",
+            "end of the muscle fiber",
+            "motor end plate",
+            "any part of the sarcolemma"
+          ],
+          "answer": "motor end plate"
+        },
+        {
+          "type": 1,
+          "text": "Although all the anatomical parts of muscle work together to give it its characteristics, which of the following proteins listed below would be most associated with the characteristics of extensibility?",
+          "choices": [
+            "potassium (K+) leak channels",
+            "elastic (titin) filaments",
+            "thick (myosin) filaments",
+            "acetylcholine receptors in the motor end plate"
+          ],
+          "answer": "elastic (titin) filaments"
+        },
+        {
+          "type": 1,
+          "text": "Although all the anatomical parts of muscle work together to give it its characteristics, which of the following proteins listed below would be most associated with the characteristics of excitability?",
+          "choices": [
+            "actin of thin filaments",
+            "elastic (titin) filaments",
+            "the Na+-K+ pump",
+            "acetylcholine receptors in the motor end plate"
+          ],
+          "answer": "acetylcholine receptors in the motor end plate"
+        },
+        {
+          "type": 1,
+          "text": "Although all the anatomical parts of muscle work together to give it its characteristics, which of the following proteins listed below would be most associated with the characteristics of contractility?",
+          "choices": [
+            "voltage gated sodium channels",
+            "elastic (titin) filaments",
+            "potassium (K+) leak channels",
+            "thick (myosin) filaments"
+          ],
+          "answer": "thick (myosin) filaments"
+        },
+        {
+          "type": 1,
+          "text": "Oxygen starved tissues can release chemical signals into the blood that can change the diameter of nearby blood vessels delivering oxygen and nutrients to the tissues. In doing so, the blood vessels will respond through vasodilation (widening of the vessel). Which muscle type is responsible for this vasodilation?",
+          "choices": [
+            "cardiac muscle",
+            "skeletal muscle",
+            "striated muscle",
+            "smooth muscle"
+          ],
+          "answer": "smooth muscle"
+        },
+        {
+          "type": 1,
+          "text": "Of the following items listed below, which is the best description for why skeletal muscle stores glycogen?",
+          "choices": [
+            "Glycogen provides a smooth surface for filaments to slide on.",
+            "Glycogen is part of muscles rigid supporting framework.",
+            "The glycogen is an insulating layer that helps regulate body temperature.",
+            "Skeletal muscle is a heavy consumer of energy."
+          ],
+          "answer": "Skeletal muscle is a heavy consumer of energy."
+        },
+        {
+          "type": 1,
+          "text": "During development embryonic cells will fuse to form muscle fibers. This will result in ________.",
+          "choices": [
+            "interlocking of cells that can prevent the filaments from sliding",
+            "the striations that appear in skeletal and cardiac muscle tissues",
+            "the coordination of nerve signals to muscle fibers",
+            "multinucleated muscle fibers that can extend as long as 30 centimeters"
+          ],
+          "answer": "multinucleated muscle fibers that can extend as long as 30 centimeters"
+        },
+        {
+          "type": 1,
+          "text": "Approximately 80% of a muscle fiber's volume are the myofibrils. This characteristic reflects muscles ability to ________.",
+          "choices": [
+            "produce movement through contractile force",
+            "produce relatively high amounts of ATP",
+            "generate and propagate action potential",
+            "store oxygen molecules that can be used in aerobic respiration"
+          ],
+          "answer": "produce movement through contractile force"
+        },
+        {
+          "type": 1,
+          "text": "Troponin, a major protein in thin filaments, is a globular protein with three polypeptide subunits. Which of the following is NOT a function of the troponin?",
+          "choices": [
+            "One subunit binds to calcium ions.",
+            "One subunit binds to potassium ions.",
+            "One subunit attaches troponin to actin.",
+            "One subunit binds tropomyosin and helps position it on actin."
+          ],
+          "answer": "One subunit binds to potassium ions."
+        },
+        {
+          "type": 1,
+          "text": "Curare is a poisonous plant extract. Curare molecules have a chemical structure like the neurotransmitter ACh. Curare can bind to the ACh receptor site on the chemically gated ion channels in the motor end plate. Even though curare will bind to the receptor site it will not open the ion channel and no ions will pass through. What do you think the symptoms of curare poisoning would look like?",
+          "choices": [
+            "Curare will only affect muscles with ACh receptors, paralyzing them.",
+            "Curare will only affect cardiac muscle, causing fibrillations of the heart.",
+            "Smooth muscles will become stimulated causing quick movement of nutrients through the digestive system.",
+            "Muscles will respond too quickly and cause a severe tremor."
+          ],
+          "answer": "Curare will only affect muscles with ACh receptors, paralyzing them."
+        },
+        {
+          "type": 1,
+          "text": "Myasthenia gravis is a disease that is believed to be caused by autoimmune disorder, resulting in the loss of ACh receptors at the motor end plate of muscle fibers. Which of the following is likely to be a symptom of myasthenia gravis?",
+          "choices": [
+            "coma and loss of voluntary muscle movement",
+            "seizures and uncontrollable muscle movement",
+            "dehydration with headache",
+            "weakness of muscle"
+          ],
+          "answer": "weakness of muscle"
+        },
+        {
+          "type": 1,
+          "text": "Which of the following statements best illustrates the fact that skeletal muscle is voluntary muscle?",
+          "choices": [
+            "Skeletal muscle fibers are innervated by somatic motor neurons.",
+            "Skeletal muscle is wrapped in several layers of connective tissue. The deepest layer being the endomysium.",
+            "The shivering reflex aids in maintaining body temperature.",
+            "Skeletal muscle appears striated due to the structure of the sarcomeres."
+          ],
+          "answer": "Skeletal muscle fibers are innervated by somatic motor neurons."
+        },
+        {
+          "type": 1,
+          "text": "If a muscle fiber were to suddenly and permanently stop producing ATP the fiber would no longer be able to actively transport calcium out of the cytoplasm (sarcoplasm) and the intracellular calcium concentration would rise. Which of the following would you expect to happen?",
+          "choices": [
+            "The fiber would twitch uncontrollably due to excessive calcium bound to troponin.",
+            "Calcium would be transported to the sarcoplasmic reticulum therefore contractions would cease.",
+            "Myosin would be able to bind to the exposed binding sites on thin filaments but it would not be able to detach.",
+            "No change would occur in a muscle that was relaxed to begin with."
+          ],
+          "answer": "Myosin would be able to bind to the exposed binding sites on thin filaments but it would not be able to detach."
+        },
+        {
+          "type": 1,
+          "text": "When a sarcomere contracts and thin filaments move over thick filaments you would expect to see ________.",
+          "choices": [
+            "the I bands to appear smaller",
+            "the H zone to appear wider",
+            "the A band to appear darker",
+            "the I bands to appear wider"
+          ],
+          "answer": "the I bands to appear smaller"
+        },
+        {
+          "type": 1,
+          "text": "Addition of more myoglobin to a muscle fiber would have the largest effect on ________.",
+          "choices": [
+            "fast oxidative and slow oxidative fibers",
+            "fast oxidative fibers only",
+            "fast glycolytic fibers only",
+            "fast glycolytic and fast oxidative fibers"
+          ],
+          "answer": "fast oxidative and slow oxidative fibers"
+        },
+        {
+          "type": 1,
+          "text": "Exhaustion of glycogen storage within a muscle fiber would have the biggest effect on ________.",
+          "choices": [
+            "slow oxidative fibers",
+            "fast glycolytic fibers",
+            "fast oxidative fibers",
+            "both slow and fast oxidative fibers"
+          ],
+          "answer": "fast glycolytic fibers"
+        },
+        {
+          "type": 1,
+          "text": "Reduction in blood flow to a muscle fiber would have the greatest effect on ________.",
+          "choices": [
+            "fast oxidative fibers",
+            "both slow and fast oxidative",
+            "slow oxidative fibers",
+            "fast glycolytic"
+          ],
+          "answer": "slow oxidative fibers"
+        },
+        {
+          "type": 1,
+          "text": "A potential benefit of recruiting slow oxidative fibers for contraction before recruiting fast oxidative and fast glycolytic fibers might be ________.",
+          "choices": [
+            "because they are slower to respond, slow oxidative fibers must be stimulated first in order to contract simultaneously with the faster fibers",
+            "recruiting slow oxidative fibers early helps to tire them out first so that they won't interfere with the more powerful contractions of fast glycolytic fibers",
+            "to allow for fine control with delicate contractile force with a small stimulus",
+            "There is little to no benefit from recruiting slow oxidative fibers first, and therefore it is in fact fast glycolytic fibers that will be recruited first."
+          ],
+          "answer": "to allow for fine control with delicate contractile force with a small stimulus"
+        },
+        {
+          "type": 1,
+          "text": "Addition of more mitochondria to a muscle fiber will have the greatest effect on ________.",
+          "choices": [
+            "slow oxidative fibers",
+            "fast glycolytic fibers",
+            "fast oxidative fibers",
+            "both slow and fast oxidative fibers"
+          ],
+          "answer": "both slow and fast oxidative fibers"
+        },
+        {
+          "type": 1,
+          "text": "If given the exact same amount of ATP, which of the three fiber types would be able to contract for the longest amount of time?",
+          "choices": [
+            "fast oxidative fibers",
+            "fast glycolytic fibers",
+            "both fast glycolytic and fast oxidative fibers",
+            "slow oxidative fibers"
+          ],
+          "answer": "slow oxidative fibers"
+        },
+        {
+          "type": 1,
+          "text": "The 100-meter dash is a quick and short run requiring explosive speed. On completion of the dash, the runners will continue to breathe hard for several seconds to minutes even though they are no longer running. Which of the following is the best explanation for why this is so?",
+          "choices": [
+            "The runners' fast oxidative muscles are so slow to utilize oxygen, they only begin aerobic respiration by the time the run has finished.",
+            "Slow oxidative fibers are recruited last and have only started to work at completion of the run.",
+            "The runners' use of stored oxygen, glucose, and creatine phosphate is being replenished and this requires a prolonged increase of oxygen intake.",
+            "Since the exercise was mostly aerobic exercise, the runners' bodies have not yet realized the run is over."
+          ],
+          "answer": "The runners' use of stored oxygen, glucose, and creatine phosphate is being replenished and this requires a prolonged increase of oxygen intake."
+        }
+      ]
     }
   ]
 }
