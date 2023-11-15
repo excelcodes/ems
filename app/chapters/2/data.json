@@ -1782,8 +1782,18 @@
             "meaning": "separation, destruction, dissolving, loosening"
           },
           "example": {
-            "text": "myolysis, hemolysis",
-            "meaning": "dissolving of muscle, destruction of blood cells"
+            "text": "myolysis",
+            "meaning": "dissolving of muscle"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-lysis",
+            "meaning": "separation, destruction, dissolving, loosening"
+          },
+          "example": {
+            "text": "hemolysis",
+            "meaning": "destruction of blood cells"
           }
         },
         {
