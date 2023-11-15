@@ -7,6 +7,12 @@ import Link from "next/link";
 
 function remakeQuestion(question) {
   if (!question) return;
+  if (question.noun) {
+    return { text: question.meaning, answer: question.noun, type: 0 };
+  }
+  if (question.adjective) {
+    return { text: question.meaning, answer: question.adjective, type: 0 }
+  }
   if (question.example) {
     return { text: question.example.meaning, answer: question.example.text, type: 0 };
   } else if (question.medical_term) {
@@ -39,7 +45,12 @@ function getHeaders(question, color) {
     <th style={{ backgroundColor: color, color: "white" }}>question</th>
     <th style={{ backgroundColor: color, color: "white" }}>answer</th>
   </>;
-  return getAllKeys(question).map(key => key.split("_").join(" ")).map((key, i) => <th style={{ backgroundColor: color, color: "white" }} key={i}>{key}</th>)
+  return getAllKeys(question).map(key => {
+    if (key === "roots") return "root 1";
+    if (key === "3") return undefined;
+    if (!isNaN(key)) return `root ${parseInt(key) + 2}`;
+    return key;
+  }).filter(key => key).map(key => key.split("_").join(" ")).map((key, i) => <th style={{ backgroundColor: color, color: "white" }} key={i}>{key}</th>)
 }
 
 export default function Viewer({ data, color, hideTable }) {
@@ -51,6 +62,7 @@ export default function Viewer({ data, color, hideTable }) {
   const [start, setStart] = React.useState(false);
   const [toggleSidebar, setToggleSidebar] = React.useState(false);
   const currentQuestion = remakeQuestion({ ...set?.data?.[currentQuestionId] });
+  console.log(currentQuestion);
   const [correctAnswers, setCorrectAnswers] = React.useState(0);
   const [wrongAnswers, setWrongAnswers] = React.useState([]);
 
