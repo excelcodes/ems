@@ -5,8 +5,18 @@ import withReactContent from "sweetalert2-react-content";
 import "./style.css";
 import Link from "next/link";
 
+const temp = {};
+
 function remakeQuestion(question) {
   if (!question) return;
+  if (question.plural) {
+    console.log(temp[question.plural]);
+    return temp[question.plural] || (temp[question.plural] = {
+      text: Math.random() < 0.5 ? <>What's the plural of the following definition:<br/>{question.meaning}</> : <>What's the plural of {question.singular}</>,
+      answer: question.singular,
+      type: 0
+    });
+  }
   if (question.noun) {
     return { text: question.meaning, answer: question.noun, type: 0 };
   }
@@ -18,9 +28,19 @@ function remakeQuestion(question) {
   } else if (question.medical_term) {
     return { text: question.meaning, answer: question.medical_term, type: 0 };
   }
+  console.log("FFF", question);
   return question;
 }
+const sortObjectByKey = (obj) => {
+  const sortedKeys = Object.keys(obj).sort();
+  const sortedObj = {};
 
+  sortedKeys.forEach((key) => {
+    sortedObj[key] = obj[key];
+  });
+
+  return sortedObj;
+};
 function getAllKeys(obj, result = []) {
   for (const key in obj) {
     if (typeof obj[key] === 'object') {
@@ -306,7 +326,7 @@ export default function Viewer({ data, color, hideTable }) {
                     const q = { ...question };
                     if (typeof q.type === "number") delete q.type;
                     if (q.choices) delete q.choices;
-                    return q;
+                    return q.type === 0 ? sortObjectByKey(q) : q;
                   })()).map((value, i) => <td key={i}>{`${value}`}</td>)}
                 </tr>)}
               </tbody>
