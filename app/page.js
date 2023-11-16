@@ -36,6 +36,16 @@ export default function Home() {
           <button onClick={() => window.open("/ch3-notes.pdf", "_blank")} className="contact-me">Solution Key</button>
         </div>
       </div>
+      <div className="founder-card">
+        <h2>Previous</h2>
+        <Link href="/previous"><button className="practice-button">Practice</button></Link>
+        <br />
+        <br />
+        <div className="buttons">
+          {/* <button onClick={() => window.open("/ch3.pdf", "_blank")} className="download-cv">Download Book</button>
+          <button onClick={() => window.open("/ch3-notes.pdf", "_blank")} className="contact-me">Solution Key</button> */}
+        </div>
+      </div>
     </div>
     <p style={{ opacity: 0.01 }}>ابو بكر عم ريزوان</p>
     </>
