@@ -1340,12 +1340,22 @@
         },
         {
           "combiningForm": {
-            "text": "hem/o hemat/o",
+            "text": "hem/o",
             "meaning": "blood"
           },
           "example": {
-            "text": "hemoglobin / hematoma",
-            "meaning": "protein in RBC | mass in the blood"
+            "text": "hemoglobin",
+            "meaning": "protein in RBC"
+          }
+        },
+        {
+          "combiningForm": {
+            "text": "hemat/o",
+            "meaning": "blood"
+          },
+          "example": {
+            "text": "hematoma",
+            "meaning": "mass in the blood"
           }
         },
         {
@@ -1394,8 +1404,18 @@
             "meaning": "white"
           },
           "example": {
-            "text": "leukemia leukocytosis",
-            "meaning": "cancerous condition of white blood cells with high numbers of immature cells, abnormal condition of increase in white blood cells"
+            "text": "leukemia",
+            "meaning": "cancerous condition of white blood cells with high numbers of immature cells"
+          }
+        },
+        {
+          "combiningForm": {
+            "text": "leuk/o",
+            "meaning": "white"
+          },
+          "example": {
+            "text": "leukocytosis",
+            "meaning": "abnormal condition of increase in white blood cells"
           }
         },
         {
