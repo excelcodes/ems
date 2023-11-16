@@ -1429,159 +1429,198 @@
         },
         {
           "text": "Hypoxia indicates that the level of oxygen in the tissues is normal.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The term polyphagia means excessive eating.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Decreased protein in the blood is termed hypoproteinemia.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Neonate refers to a premature newborn baby.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Downward displacement of the liver is called hepatocele.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "A word that means 'complete separation' and is the process of separating wastes from the blood is called urinalysis.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Congenital anomaly is a defect that is present at birth.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "The term that means suturing of a hernia is called herniodesis.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The prefix in orthodontist means correcting or straightening.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Prostrate means lying in a face-up position.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The term dyslexia means the ability to read, write, and spell.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The suffix -phagia means eating or swallowing.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Abduction means away from the midline of the body.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "The term endocarditis means inflammation around the heart.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The lateral abdominopelvic regions in the area of the groin are called inguinal.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Subtotal hysterectomy refers to the complete resection of the uterus.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Toward the surface of the body is called eversion.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The irresistible urge to start a fire is called megalomania.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Achromatopsia means color blindness.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Softening of heart tissue is termed cardiomyopathy.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Having equal calories is termed normocaloric.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The health care field involving the diagnosis and treatment of diseases of the feet is called podiatry.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "The formation of discharge of pus is called suppuration.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Pachydactyly means abnormal thickness of the fingers.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "The prefix in dissect means 'up, toward'.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "A learning disability that involves impaired reading, spelling, writing ability is called dyslexia.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Polyarthritis means inflammation of many veins.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Diplo- and Di- have the same meaning.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "The prefix dis- has the same meaning as de-.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "A tissue that is transplanted to another is called heterograft.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "The term poikilothermic means normal body temperature.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Primi- and semi- share the same meaning.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Exo- and eco- both mean outside.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The correct spelling for a disease that is locally spread is a pandemic.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Postnatal and postpartum are opposite in meaning.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Overproduction of a hormone is termed hypersecretion.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "High increase for the cell in size is termed hypertrophy.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Polydipsia means having excessive thirst.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Prenatal and antenatal have the same meaning.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "The definition of tachycardia is",
@@ -2266,6 +2305,17 @@
           "type": 1
         }
       ]
+    },
+    {
+      "name": "Inaam Quiz 1 2021/2022",
+      "data": [{
+        "text": "One of the two membranes around the lungs is called omentum.",
+        "answer": false,
+        "type": 2
+      }, {
+        "text": "Protein molecule in the blood is called albumen.",
+        "answer": false
+      }]
     }
   ],
   "table": []
