@@ -1253,6 +1253,1019 @@
           "type": 1
         }
       ]
+    },
+    {
+      "name": "136 Previous Questions",
+      "data": [
+        {
+          "text": "Uttering words that are different from those intended is known as",
+          "answer": "heterophasia",
+          "type": 0
+        },
+        {
+          "text": "Compulsive use of obscene words is called",
+          "answer": "coprolalia",
+          "type": 0
+        },
+        {
+          "text": "Conditioned marked by sudden episode of sleep is called",
+          "answer": "narcolepsy",
+          "type": 0
+        },
+        {
+          "text": "A surgical procedure in which a bone is artificially fractured or broken apart to correct deformity is called",
+          "answer": "osteoclasis",
+          "type": 0
+        },
+        {
+          "text": "A state of balance is called",
+          "answer": "equilibrium",
+          "type": 0
+        },
+        {
+          "text": "Rupture of the amniotic sac around the fetus is called",
+          "answer": "amniorrhexis",
+          "type": 0
+        },
+        {
+          "text": "Situated between tissues or parts of an organ is termed",
+          "answer": "interstitial",
+          "type": 0
+        },
+        {
+          "text": "The term that means left-handed is",
+          "answer": "sinistromanual",
+          "type": 0
+        },
+        {
+          "text": "The middle portion of the brain is termed",
+          "answer": "mesencephalon",
+          "type": 0
+        },
+        {
+          "text": "The condition of having a straight jaw is called",
+          "answer": "orthognathism",
+          "type": 0
+        },
+        {
+          "text": "Increased temperature is termed",
+          "answer": "hyperthermia",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to within the vein is called",
+          "answer": "intravenous",
+          "type": 0
+        },
+        {
+          "text": "Instrument for recording many physiological responses simultaneously is called",
+          "answer": "polygraph",
+          "type": 0
+        },
+        {
+          "text": "The term that means surgical crushing of unwanted stones that may form in the kidneys or gallbladder is called",
+          "answer": "lithotripsy",
+          "type": 0
+        },
+        {
+          "text": "The other term for the forearm is",
+          "answer": "antebrachium",
+          "type": 0
+        },
+        {
+          "text": "Formation or production of blood vessels",
+          "answer": "angiopoiesis",
+          "type": 0
+        },
+        {
+          "text": "The area between the anus and the scrotum is",
+          "answer": "perineum",
+          "type": 0
+        },
+        {
+          "text": "The term that means mimicking the effect of the sympathetic nervous system is termed",
+          "answer": "sympathomimetic",
+          "type": 0
+        },
+        {
+          "text": "A rod-shaped bacterium that forms chains is called",
+          "answer": "streptobacillus",
+          "type": 0
+        },
+        {
+          "text": "Excessive dryness of the cornea and conjunctiva are called",
+          "answer": "xeroma",
+          "type": 0
+        },
+        {
+          "text": "Congestion of the liver is termed",
+          "answer": "hepatohemia",
+          "type": 0
+        },
+        {
+          "text": "Condition of having fewer than the normal number of teeth is called",
+          "answer": "oligodontia",
+          "type": 0
+        },
+        {
+          "text": "A medical procedure in which a surgical puncture is made into the chest cavity is termed",
+          "answer": "thoracentesis",
+          "type": 0
+        },
+        {
+          "text": "Torn, ragged wound is termed (singular form without the s)",
+          "answer": "laceration",
+          "type": 0
+        },
+        {
+          "text": "A segment of DNA that resembles a gene but is not functional is called",
+          "answer": "pseudogene",
+          "type": 0
+        },
+        {
+          "text": "Membrane that covers around the heart is",
+          "answer": "pericardium",
+          "type": 0
+        },
+        {
+          "text": "The term that means difficulty in breathing unless upright is",
+          "answer": "orthopnea",
+          "type": 0
+        },
+        {
+          "text": "Protrusion of the eyeballs to the outside (also called Graves' disease or thyrotoxicosis) is called",
+          "answer": "exophthalmos",
+          "type": 0
+        },
+        {
+          "text": "Artificial limb added to the body is called",
+          "answer": "prosthesis",
+          "type": 0
+        },
+        {
+          "text": "Having the same color is termed",
+          "answer": "isochromatic",
+          "type": 0
+        },
+        {
+          "text": "Situated in the small narrow spaces between tissues or parts of the organ is called",
+          "answer": "interstitial",
+          "type": 0
+        },
+        {
+          "text": "Congenital condition in which some fingers or toes are missing is called",
+          "answer": "oligodactyly",
+          "type": 0
+        },
+        {
+          "text": "The dorsal region of the cerebral cortex especially large in primates, thought to have evolved more recently than other parts of the brain is called",
+          "answer": "neocortex",
+          "type": 0
+        },
+        {
+          "text": "Excessive dryness of the cornea and conjunctiva is called",
+          "answer": "xeroma",
+          "type": 0
+        },
+        {
+          "text": "Hypoxia indicates that the level of oxygen in the tissues is normal.",
+          "answer": false
+        },
+        {
+          "text": "The term polyphagia means excessive eating.",
+          "answer": true
+        },
+        {
+          "text": "Decreased protein in the blood is termed hypoproteinemia.",
+          "answer": true
+        },
+        {
+          "text": "Neonate refers to a premature newborn baby.",
+          "answer": true
+        },
+        {
+          "text": "Downward displacement of the liver is called hepatocele.",
+          "answer": false
+        },
+        {
+          "text": "A word that means 'complete separation' and is the process of separating wastes from the blood is called urinalysis.",
+          "answer": false
+        },
+        {
+          "text": "Congenital anomaly is a defect that is present at birth.",
+          "answer": true
+        },
+        {
+          "text": "The term that means suturing of a hernia is called herniodesis.",
+          "answer": false
+        },
+        {
+          "text": "The prefix in orthodontist means correcting or straightening.",
+          "answer": true
+        },
+        {
+          "text": "Prostrate means lying in a face-up position.",
+          "answer": false
+        },
+        {
+          "text": "The term dyslexia means the ability to read, write, and spell.",
+          "answer": false
+        },
+        {
+          "text": "The suffix -phagia means eating or swallowing.",
+          "answer": true
+        },
+        {
+          "text": "Abduction means away from the midline of the body.",
+          "answer": true
+        },
+        {
+          "text": "The term endocarditis means inflammation around the heart.",
+          "answer": false
+        },
+        {
+          "text": "The lateral abdominopelvic regions in the area of the groin are called inguinal.",
+          "answer": true
+        },
+        {
+          "text": "Subtotal hysterectomy refers to the complete resection of the uterus.",
+          "answer": false
+        },
+        {
+          "text": "Toward the surface of the body is called eversion.",
+          "answer": false
+        },
+        {
+          "text": "The irresistible urge to start a fire is called megalomania.",
+          "answer": false
+        },
+        {
+          "text": "Achromatopsia means color blindness.",
+          "answer": true
+        },
+        {
+          "text": "Softening of heart tissue is termed cardiomyopathy.",
+          "answer": false
+        },
+        {
+          "text": "Having equal calories is termed normocaloric.",
+          "answer": false
+        },
+        {
+          "text": "The health care field involving the diagnosis and treatment of diseases of the feet is called podiatry.",
+          "answer": true
+        },
+        {
+          "text": "The formation of discharge of pus is called suppuration.",
+          "answer": true
+        },
+        {
+          "text": "Pachydactyly means abnormal thickness of the fingers.",
+          "answer": true
+        },
+        {
+          "text": "The prefix in dissect means 'up, toward'.",
+          "answer": false
+        },
+        {
+          "text": "A learning disability that involves impaired reading, spelling, writing ability is called dyslexia.",
+          "answer": true
+        },
+        {
+          "text": "Polyarthritis means inflammation of many veins.",
+          "answer": false
+        },
+        {
+          "text": "Diplo- and Di- have the same meaning.",
+          "answer": true
+        },
+        {
+          "text": "The prefix dis- has the same meaning as de-.",
+          "answer": true
+        },
+        {
+          "text": "A tissue that is transplanted to another is called heterograft.",
+          "answer": true
+        },
+        {
+          "text": "The term poikilothermic means normal body temperature.",
+          "answer": false
+        },
+        {
+          "text": "Primi- and semi- share the same meaning.",
+          "answer": false
+        },
+        {
+          "text": "Exo- and eco- both mean outside.",
+          "answer": false
+        },
+        {
+          "text": "The correct spelling for a disease that is locally spread is a pandemic.",
+          "answer": false
+        },
+        {
+          "text": "Postnatal and postpartum are opposite in meaning.",
+          "answer": false
+        },
+        {
+          "text": "Overproduction of a hormone is termed hypersecretion.",
+          "answer": true
+        },
+        {
+          "text": "High increase for the cell in size is termed hypertrophy.",
+          "answer": true
+        },
+        {
+          "text": "Polydipsia means having excessive thirst.",
+          "answer": true
+        },
+        {
+          "text": "Prenatal and antenatal have the same meaning.",
+          "answer": true
+        },
+        {
+          "text": "The definition of tachycardia is",
+          "answer": "condition of a fast heart",
+          "choices": [
+            "condition of a painful heart",
+            "infection behind the heart",
+            "picture within the heart",
+            "condition of a fast heart"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Related to under the cartilage of ribs is:",
+          "answer": "hypochondriac",
+          "choices": [
+            "subcutaneous",
+            "subvertebral",
+            "hypochondriac",
+            "subcostal"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which is the plural form of apex?",
+          "answer": "apices",
+          "choices": [
+            "apis",
+            "apae",
+            "apexs",
+            "apices"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A gastroscopy is the",
+          "answer": "process of using an instrument to examine the stomach",
+          "choices": [
+            "process of recording the activity of the stomach",
+            "process of using an instrument to examine the stomach",
+            "process of measuring the stomach",
+            "process of surgically removing part of the stomach"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The medical word diverticulum is a Latin noun. You would make the plural form by changing the word ending -um to",
+          "answer": "-a",
+          "choices": [
+            "-us",
+            "-ices",
+            "-ae",
+            "-a"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Kamal wanted to ________ with his colleagues before reaching a decision.",
+          "answer": "confer",
+          "choices": [
+            "confer",
+            "series",
+            "implicate",
+            "reject"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The spread of the cancer has made the tumor",
+          "answer": "inoperable",
+          "choices": [
+            "easy",
+            "bearable",
+            "attributable",
+            "inoperable"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The proposed changes were never actually",
+          "answer": "implemented",
+          "choices": [
+            "committed",
+            "parameter",
+            "implemented",
+            "disintegrated"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The medical term for hardening arteries due to build up of plaque is",
+          "answer": "atherosclerosis",
+          "choices": [
+            "adenosis",
+            "adenoma",
+            "adenomalacia",
+            "atherosclerosis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The double membrane surrounding the organs in the abdomen is the:",
+          "answer": "peritoneum",
+          "choices": [
+            "peritoneum",
+            "pleura",
+            "pericardium",
+            "diaphragm"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which is the plural form for the Latin word testis?",
+          "answer": "testes",
+          "choices": [
+            "testes",
+            "testises",
+            "testices",
+            "testium"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A term meaning 'pertaining to lining or skin cells' is:",
+          "answer": "epithelial",
+          "choices": [
+            "esophageal",
+            "epithelial",
+            "cervical",
+            "vertebral"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Disappearance of the symptoms of a disease is called:",
+          "answer": "remission",
+          "choices": [
+            "relapse",
+            "remission",
+            "exacerbation",
+            "syndrome"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Inflammation of the membrane surrounding the lungs is called:",
+          "answer": "pleuritis",
+          "choices": [
+            "pleural",
+            "pericarditis",
+            "pleuritis",
+            "bronchitis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Iliac is best defined as",
+          "answer": "pertaining to the hip bone",
+          "choices": [
+            "pertaining to upon the stomach",
+            "pertaining to below the stomach",
+            "pertaining to the lower quadrants",
+            "pertaining to the hip bone"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A condition in which blood is held back from an organ is termed:",
+          "answer": "ischemia",
+          "choices": [
+            "leukemia",
+            "uremia",
+            "hematuria",
+            "ischemia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "If an organ slides or falls forward, the condition is called:",
+          "answer": "prolapse",
+          "choices": [
+            "prolapse",
+            "neoplasm",
+            "relapse",
+            "remission"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The plural of the Latin noun bronchus is",
+          "answer": "bronchi",
+          "choices": [
+            "bronchae",
+            "bronchi",
+            "bronches",
+            "broncha"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The tailbone is the:",
+          "answer": "соссух",
+          "choices": [
+            "соссух",
+            "cartilage",
+            "larynx",
+            "pharynx"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The surgeon performed a laryngectomy on the",
+          "answer": "voice box",
+          "choices": [
+            "skin",
+            "lungs",
+            "nose",
+            "voice box"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Abnormal formation is:",
+          "answer": "dysplasia",
+          "choices": [
+            "dysplasia",
+            "dysphagia",
+            "neoplasm",
+            "dysphasia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Overgrowth of an organ or part of the body resulting from increased cell size:",
+          "answer": "hypertrophy",
+          "choices": [
+            "atrophy",
+            "hyperplasia",
+            "hypertrophy",
+            "dysplasia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Before birth is termed:",
+          "answer": "antepartum",
+          "choices": [
+            "antepartum",
+            "neonatal",
+            "postpartum",
+            "pronatal"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Vertebrae means",
+          "answer": "more than one bone of the spine",
+          "choices": [
+            "more than one bone of the spine",
+            "pertaining to the spine",
+            "one bone of the spine",
+            "in the direction of the spine"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Mothers often feel ____________ and guilty that they are not offering the best to their child.",
+          "answer": "inadequate",
+          "choices": [
+            "inadequate",
+            "happy",
+            "committed",
+            "attitude"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A term meaning 'pertaining to the throat' is:",
+          "answer": "pharyngeal",
+          "choices": [
+            "esophageal",
+            "laryngeal",
+            "pharyngeal",
+            "tracheal"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Physical exercise has been _________ to promote good health.",
+          "answer": "demonstrated",
+          "choices": [
+            "criteria",
+            "compensated",
+            "cleansed",
+            "demonstrated"
+          ],
+          "type": 1
+        },
+        {
+          "text": "This medical research is _________ by the government.",
+          "answer": "funded",
+          "choices": [
+            "looked",
+            "dislocated",
+            "responded",
+            "funded"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The patient is too young to ____________ this anti-inflammatory drug.",
+          "answer": "tolerate",
+          "choices": [
+            "break",
+            "justify",
+            "enjoy",
+            "tolerate"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The body system that supports the body and allows it to move is the:",
+          "answer": "musculoskeletal system",
+          "choices": [
+            "skin and sense organs",
+            "musculoskeletal system",
+            "urinary system",
+            "female reproductive system"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Blood infection is referred to as:",
+          "answer": "septicemia",
+          "choices": [
+            "ischemia",
+            "septicemia",
+            "hematuria",
+            "uremia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The space in the chest that contains the heart and other organs is the:",
+          "answer": "mediastinum",
+          "choices": [
+            "cranial cavity",
+            "pleural cavity",
+            "mediastinum",
+            "spinal cavity"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Pertaining to surrounding the anus",
+          "answer": "perianal",
+          "choices": [
+            "preanal",
+            "proanal",
+            "perianal",
+            "peranal"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The plane that divides the body into right and left sides is called the ________ plane.",
+          "answer": "sagittal",
+          "choices": [
+            "sagittal",
+            "transverse",
+            "cervical",
+            "frontal"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Lack of menstrual flow is called a (an):",
+          "answer": "amenorrhea",
+          "choices": [
+            "menorrhagia",
+            "amenorrhea",
+            "menorrhea",
+            "dysmenorrhea"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The spread of a cancerous tumor to another organ away from the original location is termed:",
+          "answer": "metastasis",
+          "choices": [
+            "carcinoma",
+            "benign",
+            "malignant",
+            "metastasis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The plural form for the word phalanx is",
+          "answer": "phalanges",
+          "choices": [
+            "phalanx",
+            "phalanges",
+            "phalanices",
+            "phalanxs"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Retroperitoneal means:",
+          "answer": "behind the peritoneum",
+          "choices": [
+            "above the peritoneum",
+            "inside the peritoneum",
+            "behind the peritoneum",
+            "within the peritoneum"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Anesthesia is defined as",
+          "answer": "condition of being without sensation",
+          "choices": [
+            "state of unconsciousness",
+            "state of unawareness",
+            "pertainimng to no pain",
+            "condition of being without sensation"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The bones beyond the wrist are referred to as:",
+          "answer": "metacarpals",
+          "choices": [
+            "metacarpals",
+            "metatarsals",
+            "carpals",
+            "phalanges"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following statements is TRUE?",
+          "answer": "Enter/o- and intestin/o- both mean 'intestine.'",
+          "choices": [
+            "Cost/o- and muscul/o- both mean 'muscle.'",
+            "Enter/o- and intestin/o- both mean 'intestine.'",
+            "Gastr/o- and hepat/o- both mean 'stomach.'",
+            "Lapar/o- and append/o- both mean 'appendix.'"
+          ],
+          "type": 1
+        },
+        {
+          "text": "His voice was _________ from shouting.",
+          "answer": "hoarse",
+          "choices": [
+            "superior",
+            "nice",
+            "focused",
+            "hoarse"
+          ],
+          "type": 1
+        },
+        {
+          "text": "With bradycardia, there is a",
+          "answer": "condition of a slow heart",
+          "choices": [
+            "process of recording the heart",
+            "fast heart rate",
+            "condition of a slow heart",
+            "reversal of an abnormal heart"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which word means 'inflammation of the lung'?",
+          "answer": "pneumonitis",
+          "choices": [
+            "neuritis",
+            "hepatitis",
+            "pneumonitis",
+            "laryngitis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Fixation of the stomach is termed:",
+          "answer": "gastropexy",
+          "choices": [
+            "gastrotomy",
+            "gastrectomy",
+            "gastropexy",
+            "gastrocentesis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Surgical repair of the eyelid is termed:",
+          "answer": "blepharoplasty",
+          "choices": [
+            "blepharoplasty",
+            "valvuloplasty",
+            "acetabuloplasty",
+            "tympanoplasty"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A ______________ infant is a baby born 3 weeks before the estimated due date.",
+          "answer": "premature",
+          "choices": [
+            "conscious",
+            "healthy",
+            "premature",
+            "young"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Bad absorption means:",
+          "answer": "malabsorption",
+          "choices": [
+            "malabsorption",
+            "no absorption at all",
+            "aborption of the nutrients",
+            "pseudoabsorption"
+          ],
+          "type": 1
+        },
+        {
+          "text": "If twins are joined together at birth means they are:",
+          "answer": "conjoined",
+          "choices": [
+            "conjoined",
+            "nullipara",
+            "bipara",
+            "primipara"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Partially conscious means:",
+          "answer": "semiconscious",
+          "choices": [
+            "aconscious",
+            "semiconscious",
+            "anticonscious",
+            "hemiconscious"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The prefix circum- means:",
+          "answer": "around",
+          "choices": [
+            "around",
+            "inside",
+            "outside",
+            "within"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The prefix hetero- means:",
+          "answer": "different",
+          "choices": [
+            "many",
+            "few",
+            "different",
+            "one"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which two prefixes have the same meaning?",
+          "answer": "iso- and equi-",
+          "choices": [
+            "hyper- and tachy-",
+            "ante- and contra-",
+            "iso- and equi-",
+            "ante- and anti-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The epiglottis is the:",
+          "answer": "cartilage the covers the trachea during swallowing",
+          "choices": [
+            "cartilage around the bronchial tubes",
+            "throat",
+            "lower end of the trachea",
+            "cartilage the covers the trachea during swallowing"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Diplopia means:",
+          "answer": "having double vision",
+          "choices": [
+            "paralysis of both arms",
+            "paralysis of both legs",
+            "having double vision",
+            "having no vision"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The term oliguria means:",
+          "answer": "excretion of a decreased amount of urine",
+          "choices": [
+            "infection of the urinary bladder",
+            "excretion of a decreased amount of urine",
+            "discoloration of the urine",
+            "narrowing of the urinary bladder"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A decreased rate and depth of breathing is:",
+          "answer": "hypopnea",
+          "choices": [
+            "hyperventelation",
+            "hypopnea",
+            "hyperpnea",
+            "eupnea"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A substance that stops convulsions is:",
+          "answer": "anticonvulsive",
+          "choices": [
+            "anticonvulsive",
+            "anteconvulsive",
+            "aconvulsive",
+            "preconvulsive"
+          ],
+          "type": 1
+        },
+        {
+          "text": "False paralysis is known as:",
+          "answer": "pseudoplegia",
+          "choices": [
+            "pseudocode",
+            "pseudoplegia",
+            "pseudocyesis",
+            "pseudonym"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Congenital disorder:",
+          "answer": "is present at birth",
+          "choices": [
+            "is present during childhood",
+            "is caused by viral infection",
+            "appers in a mother",
+            "is present at birth"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A prefix that does not indicate number or quantity is called:",
+          "answer": "anti-",
+          "choices": [
+            "anti-",
+            "poly-",
+            "tetra-",
+            "mono-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Pertaining to not having symptoms is:",
+          "answer": "asymptomatic",
+          "choices": [
+            "asymptomatic",
+            "symptomaticless",
+            "monosymptomatic",
+            "antisymptomatic"
+          ],
+          "type": 1
+        }
+      ]
     }
   ],
   "table": []
