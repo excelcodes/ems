@@ -2439,8 +2439,18 @@
             "meaning": "not"
           },
           "example": {
-            "text": "apnea, anemia",
-            "meaning": "not breathing, lack of red blood cells"
+            "text": "apnea",
+            "meaning": "not breathing"
+          }
+        },
+        {
+          "prefix": {
+            "text": "a- / an-",
+            "meaning": "not"
+          },
+          "example": {
+            "text": "anemia",
+            "meaning": "lack of red blood cells"
           }
         },
         {
@@ -2509,8 +2519,18 @@
             "meaning": "through / complete"
           },
           "example": {
-            "text": "diameter, diarrhea",
-            "meaning": "through measurement, Flow of watery stool through rectum"
+            "text": "diameter",
+            "meaning": "through measurement"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dia-",
+            "meaning": "through / complete"
+          },
+          "example": {
+            "text": "diarrhea",
+            "meaning": "Flow of watery stool through rectum"
           }
         },
         {
@@ -2519,8 +2539,38 @@
             "meaning": "painful / difficult / poor / abnormal"
           },
           "example": {
-            "text": "dyspnea / dysfunction, dysuria / dystrophy",
-            "meaning": "difficulty breathing, painful urination"
+            "text": "dyspnea",
+            "meaning": "difficulty breathing"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dys-",
+            "meaning": "painful / difficult / poor / abnormal"
+          },
+          "example": {
+            "text": "dysfunction",
+            "meaning": "abnormality or impairment in the operation of a specified bodily organ or system"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dys-",
+            "meaning": "painful / difficult / poor / abnormal"
+          },
+          "example": {
+            "text": "dysuria",
+            "meaning": "painful urination"
+          }
+        },
+        {
+          "prefix": {
+            "text": "dys-",
+            "meaning": "painful / difficult / poor / abnormal"
+          },
+          "example": {
+            "text": "dystrophy",
+            "meaning": "poor development"
           }
         },
         {
