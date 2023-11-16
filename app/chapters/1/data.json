@@ -2934,8 +2934,28 @@
             "meaning": "tumor/mass"
           },
           "example": {
-            "text": "hepatoma hematoma nephroma",
-            "meaning": "tumor of the liver, mass in the blood, tumor of the kidney"
+            "text": "hepatoma",
+            "meaning": "tumor of the liver"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-oma",
+            "meaning": "tumor/mass"
+          },
+          "example": {
+            "text": "hematoma",
+            "meaning": "mass in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-oma",
+            "meaning": "tumor/mass"
+          },
+          "example": {
+            "text": "nephroma",
+            "meaning": "tumor of the kidney"
           }
         },
         {
