@@ -1,0 +1,1259 @@
+{
+  "practice": [],
+  "review": [
+    {
+      "name": "Midterm Spring 2023 - Boys",
+      "data": [
+        {
+          "answer": "hemolysis",
+          "text": "Destruction of blood cells is called ",
+          "type": 0
+        },
+        {
+          "answer": "thoracoschisis",
+          "text": "Splitting of the chest is called ",
+          "type": 0
+        },
+        {
+          "answer": "retrogastric",
+          "text": " The term that means pertaining to behind the stomach is",
+          "type": 0
+        },
+        {
+          "answer": "hypochondriac",
+          "text": "Pertaining to under the cartilage of the ribs is",
+          "type": 0
+        },
+        {
+          "answer": "parosmia",
+          "text": "Loss of the sense of smell is called",
+          "type": 0
+        },
+        {
+          "answer": "hemopoiesis, erythropoiesis",
+          "text": "Production of red blood cells is",
+          "type": 0
+        },
+        {
+          "answer": "podiatrist",
+          "text": " A specialist who diagnoses and treats disorders of the foot is called a/an",
+          "type": 0
+        },
+        {
+          "answer": "narcolepsy",
+          "text": "A condition marked by sudden episode of sleep is called",
+          "type": 0
+        },
+        {
+          "answer": "ophthalmoscope",
+          "text": "An instrument that examines the patient's eye is referred to as",
+          "type": 0
+        },
+        {
+          "answer": "osteomyelitis",
+          "text": "Inflammation of bone and bone marrow is",
+          "type": 0
+        },
+        {
+          "answer": "thoracentesis",
+          "text": "Surgical puncture of the chest wall for removal of fluid is",
+          "type": 0
+        },
+        {
+          "answer": "myoparesis",
+          "text": "Partial paralysis in muscle is known as",
+          "type": 0
+        },
+        {
+          "answer": "craniomalacia",
+          "text": "Softening of the skull:",
+          "type": 0
+        },
+        {
+          "answer": "hydrocele",
+          "text": "local dilation containing fluid is known as",
+          "type": 0
+        },
+        {
+          "answer": "hypoproteinemia",
+          "text": "Decreased protein in the blood is called",
+          "type": 0
+        },
+        {
+          "text": "Surgical ____________ may be necessary if the disease does not respond to medication.",
+          "answer": "intervention",
+          "choices": [
+            "splitting",
+            "balanced",
+            "contracted",
+            "intervention"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What is an exacerbation?",
+          "answer": "increase in the severity of the symptoms of the disease",
+          "choices": [
+            "increase in the severity of the symptoms of the disease",
+            "a condition that has a rapid onset, a severe course, and a relatively short duration",
+            "a condition in which one or more body parts are not functioning normally",
+            "the recurrence of the symptoms of the disease"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does the medical term fissure mean?",
+          "answer": "a groove or crack-like sore",
+          "choices": [
+            "abnormal passage between two internal organs",
+            "a groove or crack-like sore",
+            "a fatty arterial deposit",
+            "a torn or jagged wound"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does supination mean?​",
+          "answer": "the act of rotating the arm so that the palm of the hand is forward or upward",
+          "choices": [
+            "the act of rotating the arm so that the palm of the hand is forward or upward",
+            "the swelling of tissue",
+            "the medical screening of patients",
+            "the use of hands for examination"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which is the meaning of the term prognosis?",
+          "answer": "the prediction about a disease's course",
+          "choices": [
+            "the identification of the nature and cause of a disease",
+            "the attempt to rule out several possible diseases",
+            "the prediction about a disease's course",
+            "the process of identifying a disease"
+          ],
+          "type": 1
+        },
+        {
+          "text": " ______________ were prescribed to treat the infection.",
+          "answer": "antibiotics",
+          "choices": [
+            "antibiotics",
+            "administered",
+            "balanced",
+            "splitting"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does the term palpitation mean?",
+          "answer": "a sensation of a pounding or racing heart",
+          "choices": [
+            "a feeling of general discomfort or uneasiness",
+            "an examination technique that uses touching and feeling",
+            "a sensation of a pounding or racing heart",
+            "the study of all aspects of diseases"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What is the correct spelling for the term that means the third part of the small intestine?",
+          "answer": "ileum",
+          "choices": [
+            "ilium",
+            "illeum",
+            "illium",
+            "ileum"
+          ],
+          "type": 1
+        },
+        {
+          "text": "She ________________serious injuries in the car accident.",
+          "answer": "sustained",
+          "choices": [
+            "excruciating",
+            "primary",
+            "sustained",
+            "compute"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Excessive ______________of sugar may lead to diabetes.",
+          "answer": "consumption ",
+          "choices": [
+            "consequence",
+            "contracted",
+            "consumption ",
+            "sustained"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which is the plural form of the term conjunctiva?",
+          "answer": "conjunctivae",
+          "choices": [
+            "conjunctive",
+            "conjunctivas",
+            "conjunctivaa",
+            "conjunctivae"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does diuresis mean?",
+          "answer": "increased urination",
+          "choices": [
+            "a feeling of general discomfort",
+            "decreased urination ",
+            "increased urination",
+            "swelling caused by fluid accumulation"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does the term fistula mean?",
+          "answer": "an abnormal passage",
+          "choices": [
+            "a fatty arterial deposit",
+            "a groove or crack-like sore of the skin",
+            "a torn or jagged wound",
+            "an abnormal passage"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A man _____________consciousness after 8 years in coma.",
+          "answer": "regained",
+          "choices": [
+            "resource",
+            "contracted",
+            "regained",
+            "conclude"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Prolapse or drooping of the eyelids is called retinoptosis.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Dyslexia means difficulty in urinating.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Pyromania means irresistible urge to start fire.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "In osteoclasis, the bone is bent.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Anxiolytic means taking medication to reduce your blood pressure.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Erythrocytopenia means the production of red blood cells.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Splitting of the retina is called blepharoschisis.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "In gastropexy, the stomach is dilated.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Lack of oxygen in the tissue is termed anoxia.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Rupture of the liver is termed hepatorrhaphy.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Lithotripsy means crushing of stone.",
+          "answer": true,
+          "type": 2
+        }
+      ]
+    },
+    {
+      "name": "Midterm Spring 2023 - Girls",
+      "data": [
+        {
+          "answer": "blepharoptosis",
+          "text": "Drooping of the eyelid is _________________________",
+          "type": 0
+        },
+        {
+          "answer": "salpingectomy",
+          "text": " The medical term meaning excision of fallopian tube is ____________________",
+          "type": 0
+        },
+        {
+          "answer": "tympanoplasty",
+          "text": " The term that means plastic repair of the eardrum is ____________________",
+          "type": 0
+        },
+        {
+          "answer": "hysteropexy",
+          "text": "Fixation of the uterus is called ____________________",
+          "type": 0
+        },
+        {
+          "answer": "lumina",
+          "text": "Write the correct plural for lumen:lumenii",
+          "type": 0
+        },
+        {
+          "answer": "ageusia",
+          "text": "Loss of the sense of taste is called ________",
+          "type": 0
+        },
+        {
+          "answer": "pseudoplegia",
+          "text": "A condition of false paralysis is known as ____________________",
+          "type": 0
+        },
+        {
+          "answer": "otorhinolaryngologist",
+          "text": "Specialist of the study and treatment of ears, nose, and voice box is known as _________________________",
+          "type": 0
+        },
+        {
+          "answer": "periosteum",
+          "text": "A structure surrounding a bone is called a/an ____________________",
+          "type": 0
+        },
+        {
+          "answer": "arthrocentesis",
+          "text": "The term that means surgical puncture to drain fluid from the joint is ____________________",
+          "type": 0
+        },
+        {
+          "answer": "bronchoscopy",
+          "text": "The term that means visual examination of the tubes leading from the windpipe to the lungs is ____________________",
+          "type": 0
+        },
+        {
+          "answer": "pleurodesis",
+          "text": "Binding of the pleura is known as ____________________",
+          "type": 0
+        },
+        {
+          "answer": "prolapse",
+          "text": "If an organ slides or fall forward, the condition is called ________",
+          "type": 0
+        },
+        {
+          "answer": "septicemia",
+          "text": "Blood infection is called ____________________",
+          "type": 0
+        },
+        {
+          "answer": "hypoproteinemia",
+          "text": "Decreased protein in the blood is called ____________",
+          "type": 0
+        },
+        {
+          "text": "Which is the plural form of the term arthritis?",
+          "answer": "arthritides",
+          "choices": [
+            "arthriitis",
+            "arthritices",
+            "arthrites",
+            "arthritides"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does the term palpation mean?",
+          "answer": "an examination technique that uses touching and feeling",
+          "choices": [
+            "the study of all aspects of diseases",
+            "a sensation of a pounding or racing heart",
+            "a feeling of general discomfort or uneasiness",
+            "an examination technique that uses touching and feeling"
+          ],
+          "type": 1
+        },
+        {
+          "text": "He was unable to sleep because of _______________ pain in his arm.",
+          "answer": "excruciating",
+          "choices": [
+            "campaign",
+            "in-depth",
+            "splitting",
+            "excruciating"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does the medical term contracture mean?",
+          "answer": "abnormal, fixed position of permanently flexed muscle",
+          "choices": [
+            "abnormal passage between two internal organs",
+            "abnormal, fixed position of permanently flexed muscle",
+            "a groove or crack-like sore",
+            "a torn or jagged wound"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which is the meaning of the term vesicle?",
+          "answer": "small fluid-filled blister on skin",
+          "choices": [
+            "the prediction about a disease's course",
+            "pertaining to the urinary bladder ",
+            "the attempt to rule out several possible diseases",
+            "small fluid-filled blister on skin"
+          ],
+          "type": 1
+        },
+        {
+          "text": "She went home because she had a _______________ headache.",
+          "answer": "splitting",
+          "choices": [
+            "contracted",
+            "regained",
+            "splitting",
+            "balanced"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What is the correct spelling for the term that means part of the hip bone?",
+          "answer": "ilium",
+          "choices": [
+            "ileum",
+            "illeum",
+            "illium",
+            "ilium"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does dyspnea mean?",
+          "answer": "difficulty in breathing",
+          "choices": [
+            "difficulty in breathing",
+            "easy or normal breathing",
+            "slowness in breathing ",
+            "rapid breathing"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does the term perineum mean?",
+          "answer": "The area between the anus and scrotum",
+          "choices": [
+            "a torn or jagged wound",
+            "The area between the anus and scrotum",
+            "membrane the surrounds the abdomen",
+            "a fatty arterial deposit"
+          ],
+          "type": 1
+        },
+        {
+          "text": "You should ______________ all your attention on what is important.",
+          "answer": "focus",
+          "choices": [
+            "focus",
+            "concluded",
+            "compute",
+            "maintained"
+          ],
+          "type": 1
+        },
+        {
+          "text": "You should _____________ another opinion if you do not agree with what your doctor said..",
+          "answer": "seek",
+          "choices": [
+            "compute ",
+            "seek",
+            "perceived",
+            "maintain"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Ali is very careful and ________________ in his tasks.",
+          "answer": "methodical",
+          "choices": [
+            "methodical",
+            "excruciating",
+            "conduct",
+            "consequence"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What does suppuration mean?​",
+          "answer": "the formation of pus",
+          "choices": [
+            "the swelling of tissue",
+            "the medical screening of patients",
+            "the formation of pus",
+            "the use of hands for examination"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What is meant by humeral?",
+          "answer": "Pertaining to the bone of upper arm",
+          "choices": [
+            "pertaining to immunity to infection from antibodies in blood",
+            "a condition in which one or more body parts are not functioning normally",
+            "Pertaining to the bone of upper arm",
+            "a prediction about the probable course and outcome of a disease"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The process of separating waste from the blood is termed urinanalysis.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Panplegia is paralysis of the lower half of the body.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Behind the uterus is called retrouterine.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Cancerous tumor of fleshy tissue is termed carcinoma.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Pertaining to the blood vessels of the largest part of the brain is called cerebrovascular.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Lack of menstrual flow is called menorrhagia.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Erythrocytopenia means the production of red blood cells.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Mammogram is the record of the breast.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Neurotomy means incision into the artery.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Breaking of nucleus is called karyoclasis.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Normal level of carbon dioxide in the blood is called normoxia.",
+          "answer": false,
+          "type": 2
+        }
+      ]
+    },
+    {
+      "name": "Previous Final",
+      "data": [
+        {
+          "text": "A pathologic change of muscle tissue is known as",
+          "answer": "Lesion",
+          "type": 0
+        },
+        {
+          "text": "The term ___ means pain in a joint or joints.",
+          "answer": "Arthralgia",
+          "type": 0
+        },
+        {
+          "text": "A/An ___ is a mature red blood cell.",
+          "answer": "Erythrocyte",
+          "type": 0
+        },
+        {
+          "text": "The surgical puncture of the abdominal cavity to remove fluid is known as",
+          "answer": "Abdominocentesis",
+          "type": 0
+        },
+        {
+          "text": "The blue discoloration of the skin caused by a lack of adequate oxygen in the blood is known as",
+          "answer": "Cyanosis",
+          "type": 0
+        },
+        {
+          "text": "The process of producing a radiographic study of blood vessels after the injection of a contrast medium is known as",
+          "answer": "Angiography",
+          "type": 0
+        },
+        {
+          "text": "The term ___ means pertaining to a virus",
+          "answer": "Viral",
+          "type": 0
+        },
+        {
+          "text": "A/An ___ is the surgical removal of the appendix.",
+          "answer": "Appendectomy",
+          "type": 0
+        },
+        {
+          "text": "The medical term meaning suturing together the ends of a severed nerve is ___",
+          "answer": "Neurorrhaphy",
+          "type": 0
+        },
+        {
+          "text": "The abnormal hardening of the walls of an artery or arteries is known as ___",
+          "answer": "Atherosclerosis",
+          "type": 0
+        },
+        {
+          "text": "The ___ are the bones of the fingers and toes.",
+          "answer": "Phalanges",
+          "type": 0
+        },
+        {
+          "text": "The term ___ means within the muscle.",
+          "answer": "Intramuscular",
+          "type": 0
+        },
+        {
+          "text": "A/An ___ is the surgical creation of an artificial opening between the colon and the body surface.",
+          "answer": "Colostomy",
+          "type": 0
+        },
+        {
+          "text": "The term ___ means pertaining to birth.",
+          "answer": "Natal",
+          "type": 0
+        },
+        {
+          "text": "The study of disorders of the newborn is known as",
+          "answer": "Neonatology",
+          "type": 0
+        },
+        {
+          "text": "The study of the ears, nose, and throat is known as",
+          "answer": "Otorhinolaryngology",
+          "type": 0
+        },
+        {
+          "text": "A/An ___ is the loss of a large amount of blood in a short time.",
+          "answer": "Hemorrhage",
+          "type": 0
+        },
+        {
+          "text": "The medical term ___ describes any abnormal condition or disease caused by a fungus.",
+          "answer": "Mycosis",
+          "type": 0
+        },
+        {
+          "text": "Abnormal enlargement of the liver is known as",
+          "answer": "Hepatomegaly",
+          "type": 0
+        },
+        {
+          "text": "The term ___ means above or outside the ribs.",
+          "answer": "Supracostal",
+          "type": 0
+        },
+        {
+          "text": "___ is a viral infection of the gray matter of the spinal cord.",
+          "answer": "Poliomyelitis",
+          "type": 0
+        },
+        {
+          "text": "The medical term ___ describes an inflammation of the stomach and small intestine.",
+          "answer": "Gastroenteritis",
+          "type": 0
+        },
+        {
+          "text": "The rupture of a muscle is known as",
+          "answer": "Myorrhexis",
+          "type": 0
+        },
+        {
+          "text": "The medical term for inflammation of the tonsils is",
+          "answer": "Tonsilitis",
+          "type": 0
+        },
+        {
+          "text": "The medical term ___ describes any pathologic change or disease in the spinal cord.",
+          "answer": "Myelopathy",
+          "type": 0
+        },
+        {
+          "text": "___ is the term for the absence of menstruation.",
+          "answer": "Amenorrhea",
+          "type": 0
+        },
+        {
+          "text": "___ is painful menstrual flow.",
+          "answer": "Dysmenorrhea",
+          "type": 0
+        },
+        {
+          "text": "The study of the eye is",
+          "answer": "Ophthalmology",
+          "type": 0
+        },
+        {
+          "text": "The process of recording the electrical activity within the brain is",
+          "answer": "Electroencephalography",
+          "type": 0
+        },
+        {
+          "text": "Inflammation of bone and bone marrow is",
+          "answer": "Osteomyelitis",
+          "type": 0
+        },
+        {
+          "text": "Enderarterial means pertaining to the interior or lining of an artery.",
+          "answer": true
+        },
+        {
+          "text": "Condition of painful swallowing means dyspepsia.",
+          "answer": false
+        },
+        {
+          "text": "The process of maintaining internal stability despite changes in the environment is termed homeostasis.",
+          "answer": true
+        },
+        {
+          "text": "Absence of uterine cavity is termed uterine atresia.",
+          "answer": false
+        },
+        {
+          "text": "Formation of growth means plasia.",
+          "answer": true
+        },
+        {
+          "text": "Bronchospasm means sudden contraction of the tube that leads from the throat to the stomach.",
+          "answer": false
+        },
+        {
+          "text": "Podiatry means a specialist of the diseases of the feet.",
+          "answer": true
+        },
+        {
+          "text": "Osteoclasis describes a surgical procedure in which a bone is artificially fractured.",
+          "answer": true
+        },
+        {
+          "text": "Prophylaxis means protective treatment to get the disease.",
+          "answer": false
+        },
+        {
+          "text": "To surgically crush kidney stones or gallstones is termed lithocentesis.",
+          "answer": false
+        },
+        {
+          "text": "Surgical fixation of the breasts means mammoplasty.",
+          "answer": true
+        },
+        {
+          "text": "Abnormal reduction of calcium means calcipenia.",
+          "answer": true
+        },
+        {
+          "text": "Diplopia is a condition where a single object is seen in duplicate.",
+          "answer": true
+        },
+        {
+          "text": "A woman who has given birth for the first time is primigravida.",
+          "answer": true
+        },
+        {
+          "text": "The condition in which an eye is turned inward is called esotropia.",
+          "answer": true
+        },
+        {
+          "text": "A disorder in vision is called paracusis.",
+          "answer": false
+        },
+        {
+          "text": "Bradykinesia means slow in motion.",
+          "answer": true
+        },
+        {
+          "text": "Hypothermia indicates abnormally low body temperature.",
+          "answer": true
+        },
+        {
+          "text": "Pseudocyesis means false pregnancy.",
+          "answer": true
+        },
+        {
+          "text": "Membrane that surrounds the heart is termed pericardium.",
+          "answer": true
+        },
+        {
+          "text": "Which internal glands manufacture hormones?",
+          "choices": [
+            "nervous",
+            "endocrine",
+            "gastrointestinal",
+            "blood and lymphatic"
+          ],
+          "answer": "endocrine",
+          "type": 1
+        },
+        {
+          "text": "Which body direction means 'toward the front'?",
+          "choices": [
+            "dorsal",
+            "proximal",
+            "medial",
+            "anterior"
+          ],
+          "answer": "anterior",
+          "type": 1
+        },
+        {
+          "text": "What is the plane that divides the body to create a posterior and anterior portion?",
+          "choices": [
+            "transverse",
+            "vertical",
+            "sagittal",
+            "median"
+          ],
+          "answer": "sagittal",
+          "type": 1
+        },
+        {
+          "text": "Which plane divides the body vertically into any two right and left portions?",
+          "choices": [
+            "horizontal",
+            "mid-sagittal",
+            "frontal",
+            "sagittal"
+          ],
+          "answer": "sagittal",
+          "type": 1
+        },
+        {
+          "text": "What are the two large internal spaces in the body?",
+          "choices": [
+            "dorsal and ventral",
+            "abdominal and cranial",
+            "pleural and abdominal",
+            "cranial and pleural"
+          ],
+          "answer": "deleted",
+          "type": 1
+        },
+        {
+          "text": "Which plane divides the body horizontally into an upper and lower portion?",
+          "choices": [
+            "transverse",
+            "median",
+            "sagittal",
+            "frontal"
+          ],
+          "answer": "transverse",
+          "type": 1
+        },
+        {
+          "text": "Which plane divides the body into two equal left and right positions?",
+          "choices": [
+            "vertical",
+            "sagittal",
+            "transverse",
+            "midsagittal"
+          ],
+          "answer": "midsagittal",
+          "type": 1
+        },
+        {
+          "text": "The suffix -CELE means",
+          "choices": [
+            "hernia",
+            "pain",
+            "ache",
+            "softening"
+          ],
+          "answer": "hernia",
+          "type": 1
+        },
+        {
+          "text": "Chondromalacia means",
+          "choices": [
+            "enlarged muscles",
+            "softening of the brain",
+            "softening of the cartilage",
+            "swollen brain"
+          ],
+          "answer": "softening of the cartilage",
+          "type": 1
+        },
+        {
+          "text": "What is it called if someone is spitting up blood?",
+          "choices": [
+            "hematemesis",
+            "hemolysis",
+            "hemoptysis",
+            "hemorrhage"
+          ],
+          "answer": "hemoptysis",
+          "type": 1
+        },
+        {
+          "text": "Arteriosclerosis is best described as what?",
+          "choices": [
+            "hardening of the veins",
+            "softening of the veins",
+            "hardening of the arteries",
+            "softening of the arteries"
+          ],
+          "answer": "hardening of the arteries",
+          "type": 1
+        },
+        {
+          "text": "The suffix -GRAPHY is best defined as",
+          "choices": [
+            "an instrument used to record",
+            "to measure; measurement",
+            "record; writing",
+            "process of recording: producing images"
+          ],
+          "answer": "process of recording: producing images",
+          "type": 1
+        },
+        {
+          "text": "The suffix -OPSY means",
+          "choices": [
+            "to view",
+            "an instrument used to examine visually",
+            "an instrument used to measure",
+            "an instrument to cut into"
+          ],
+          "answer": "an instrument to cut into",
+          "type": 1
+        },
+        {
+          "text": "An instrument used to visually examine the interior of the bronchus is called a",
+          "choices": [
+            "bronchoscopy",
+            "bronchoscop",
+            "biopsy",
+            "pneumoscopy"
+          ],
+          "answer": "bronchoscopy",
+          "type": 1
+        },
+        {
+          "text": "Epigastric is best defined as",
+          "choices": [
+            "produced from the outside",
+            "pertaining to below the stomach",
+            "pertaining to upon the stomach",
+            "examination of the colon"
+          ],
+          "answer": "pertaining to upon the stomach",
+          "type": 1
+        },
+        {
+          "text": "Metastasis is best defined as",
+          "choices": [
+            "pertaining to between the cells",
+            "The uncontrolled spread of cancerous cells from one organ to another",
+            "change in formation",
+            "process of cutting into"
+          ],
+          "answer": "The uncontrolled spread of cancerous cells from one organ to another",
+          "type": 1
+        },
+        {
+          "text": "A patient has bilateral ear infections. What does that mean?",
+          "choices": [
+            "The patient has an infection in the right ear.",
+            "The patient has an infection in both ears.",
+            "The patient has an infection in the left ear.",
+            "The patient has an infection around the left ear."
+          ],
+          "answer": "The patient has an infection in both ears.",
+          "type": 1
+        },
+        {
+          "text": "If a patient is reported to have bradycardia. What does this tell you?",
+          "choices": [
+            "The patient has slow intestinal digestion.",
+            "The patient has a slow heartbeat.",
+            "The patient has hypermotility of the stomach.",
+            "The patient has a fast heartbeat."
+          ],
+          "answer": "The patient has a slow heartbeat.",
+          "type": 1
+        },
+        {
+          "text": "The body system that controls breathing is the _________ system.",
+          "choices": [
+            "nervous",
+            "respiratory",
+            "digestive",
+            "circulatory"
+          ],
+          "answer": "respiratory",
+          "type": 1
+        },
+        {
+          "text": "The body system that supports the body and allows it to move is the:",
+          "choices": [
+            "nervous system",
+            "female reproductive system",
+            "skin and sense organs",
+            "musculoskeletal system"
+          ],
+          "answer": "musculoskeletal system",
+          "type": 1
+        },
+        {
+          "text": "The voice box is the:",
+          "choices": [
+            "larynx",
+            "esophagus",
+            "bronchial tube",
+            "trachea"
+          ],
+          "answer": "larynx",
+          "type": 1
+        },
+        {
+          "text": "The tube leading from the bladder to the outside of the body is the:",
+          "choices": [
+            "urethra",
+            "uterus",
+            "large intestine",
+            "vagina"
+          ],
+          "answer": "urethra",
+          "type": 1
+        },
+        {
+          "text": "The endocrine gland located at the base of the brain is the:",
+          "choices": [
+            "pituitary gland",
+            "thyroid gland",
+            "pancreas",
+            "adrenal gland"
+          ],
+          "answer": "pituitary gland",
+          "type": 1
+        },
+        {
+          "text": "The nervous tissue that is surrounded by backbones is the:",
+          "choices": [
+            "pelvis",
+            "spinal column",
+            "spinal cord",
+            "brain"
+          ],
+          "answer": "spinal cord",
+          "type": 1
+        },
+        {
+          "text": "The double membrane surrounding the organs in the abdomen is the:",
+          "choices": [
+            "pericardium",
+            "pleura",
+            "peritoneum",
+            "diaphragm"
+          ],
+          "answer": "peritoneum",
+          "type": 1
+        },
+        {
+          "text": "The bones in the region of the hip are called the:",
+          "choices": [
+            "trachea",
+            "carpals",
+            "cervix",
+            "pelvis"
+          ],
+          "answer": "pelvis",
+          "type": 1
+        },
+        {
+          "text": "The space in the chest that contains the heart and other organs is the:",
+          "choices": [
+            "pleural cavity",
+            "mediastinum",
+            "spinal cavity",
+            "cranial cavity"
+          ],
+          "answer": "pleural cavity",
+          "type": 1
+        },
+        {
+          "text": "A backbone is a:",
+          "choices": [
+            "vertebra",
+            "disk (disc)",
+            "vertebrae",
+            "spinal nerve"
+          ],
+          "answer": "vertebra",
+          "type": 1
+        },
+        {
+          "text": "The backbones in the region of the neck are the",
+          "choices": [
+            "coccygeal",
+            "thoracic",
+            "sacral",
+            "cervical"
+          ],
+          "answer": "cervical",
+          "type": 1
+        },
+        {
+          "text": "Flexible connective tissue found between bones at joints is:",
+          "choices": [
+            "muscle tissue",
+            "epithelial tissue",
+            "nervous tissue",
+            "cartilage"
+          ],
+          "answer": "cartilage",
+          "type": 1
+        },
+        {
+          "text": "The tailbone is the:",
+          "choices": [
+            "pharynx",
+            "coccyx",
+            "cartilage",
+            "larynx"
+          ],
+          "answer": "coccyx",
+          "type": 1
+        },
+        {
+          "text": "\"Anterior\" means:",
+          "choices": [
+            "posterior",
+            "side",
+            "front",
+            "lateral"
+          ],
+          "answer": "front",
+          "type": 1
+        },
+        {
+          "text": "Which of the following suffixes means vomiting?",
+          "choices": [
+            "-ptosis",
+            "-ectasis",
+            "-emesis",
+            "-staxis"
+          ],
+          "answer": "-emesis",
+          "type": 1
+        },
+        {
+          "text": "A series of x-ray images that show the body in cross-section is called",
+          "choices": [
+            "CT scan (computed tomography)",
+            "MRI (magnetic resonance imaging)",
+            "chest x-rays",
+            "laparoscopy"
+          ],
+          "answer": "CT scan (computed tomography)",
+          "type": 1
+        },
+        {
+          "text": "A term meaning 'pertaining to lining or skin cells' is:",
+          "choices": [
+            "epithelial",
+            "cervical",
+            "vertebral",
+            "esophageal"
+          ],
+          "answer": "epithelial",
+          "type": 1
+        },
+        {
+          "text": "Incision of the skull is called:",
+          "choices": [
+            "craniotomy",
+            "tracheotomy",
+            "laryngectomy",
+            "rhinotomy"
+          ],
+          "answer": "craniotomy",
+          "type": 1
+        },
+        {
+          "text": "A term meaning 'pertaining to the throat' is:",
+          "choices": [
+            "esophageal",
+            "pharyngeal",
+            "thoracic",
+            "laryngeal"
+          ],
+          "answer": "laryngeal",
+          "type": 1
+        },
+        {
+          "text": "Inflammation of the membrane surrounding the lungs is called:",
+          "choices": [
+            "bronchitis",
+            "pericarditis",
+            "pleuritis",
+            "pleural"
+          ],
+          "answer": "pleuritis",
+          "type": 1
+        },
+        {
+          "text": "What does the suffix -pnea mean?",
+          "choices": [
+            "fixation",
+            "breathing",
+            "sleep",
+            "pain"
+          ],
+          "answer": "breathing",
+          "type": 1
+        },
+        {
+          "text": "Visual examination of the abdomen by making small incisions near the navel is called",
+          "choices": [
+            "mediastinoscopy",
+            "laparoscopy",
+            "epithelial biopsy",
+            "laparotomy"
+          ],
+          "answer": "laparoscopy",
+          "type": 1
+        }
+      ]
+    }
+  ],
+  "table": []
+}
