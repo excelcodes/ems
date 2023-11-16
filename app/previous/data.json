@@ -738,79 +738,98 @@
         },
         {
           "text": "Condition of painful swallowing means dyspepsia.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "The process of maintaining internal stability despite changes in the environment is termed homeostasis.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Absence of uterine cavity is termed uterine atresia.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Formation of growth means plasia.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Bronchospasm means sudden contraction of the tube that leads from the throat to the stomach.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Podiatry means a specialist of the diseases of the feet.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Osteoclasis describes a surgical procedure in which a bone is artificially fractured.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Prophylaxis means protective treatment to get the disease.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "To surgically crush kidney stones or gallstones is termed lithocentesis.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Surgical fixation of the breasts means mammoplasty.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Abnormal reduction of calcium means calcipenia.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Diplopia is a condition where a single object is seen in duplicate.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "A woman who has given birth for the first time is primigravida.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "The condition in which an eye is turned inward is called esotropia.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "A disorder in vision is called paracusis.",
-          "answer": false
+          "answer": false,
+          "type": 2
         },
         {
           "text": "Bradykinesia means slow in motion.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Hypothermia indicates abnormally low body temperature.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Pseudocyesis means false pregnancy.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Membrane that surrounds the heart is termed pericardium.",
-          "answer": true
+          "answer": true,
+          "type": 2
         },
         {
           "text": "Which internal glands manufacture hormones?",
