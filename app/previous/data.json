@@ -2326,15 +2326,256 @@
       ]
     },
     {
-      "name": "Inaam Quiz 1 2021/2022",
-      "data": [{
-        "text": "One of the two membranes around the lungs is called omentum.",
-        "answer": false,
-        "type": 2
-      }, {
-        "text": "Protein molecule in the blood is called albumen.",
-        "answer": false
-      }]
+      "name": "Inaam Quiz 1 Fall 2023",
+      "data": [
+        {
+          "text": "One of the two membranes around the lungs is called omentum.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Protein molecule in the blood is called albumen.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "osteosarcoma means cancerous tumor of the",
+          "answer": "bone",
+          "type": 1,
+          "choices": [
+            "muscle",
+            "bone",
+            "testis",
+            "fast"
+          ]
+        },
+        {
+          "text": "the combining form hypophys/o means pituitary gland.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The singular form of fungi is",
+          "answer": "fungus",
+          "type": 1,
+          "choices": [
+            "fungus",
+            "funge",
+            "funguses",
+            "fungum"
+          ]
+        },
+        {
+          "text": "Small fluid-filled blister on skin is called vesical.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Exocrine glands are glands that secrete substances to the outside of the body.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Protozoon means",
+          "answer": "single celled animal",
+          "type": 1,
+          "choices": [
+            "single celled animal",
+            "Two bones of the spine",
+            "Three bones of the spine",
+            "Four bones of the spine"
+          ]
+        },
+        {
+          "text": "Sacs of fluid near a joint",
+          "answer": "Bursae",
+          "type": 1,
+          "choices": [
+            "Foramen",
+            "Lumen",
+            "Bursae",
+            "Pleura"
+          ]
+        },
+        {
+          "text": "Which of the following statements is TRUE?",
+          "answer": "theli/o- and cutane/o- both mean \"skin\"",
+          "type": 1,
+          "choices": [
+            "theli/o- and cutane/o- both mean \"skin\"",
+            "Lapar/o- and celi/o- both mean \"uterus\"",
+            "Gastr/o- and hepat/o- both mean \"stomach\"",
+            "Myos/o- and clop/o- both mean \"muscle\""
+          ]
+        },
+        {
+          "text": "Which word parts do you need to build a medical word that means \"lower half paralysis\"?",
+          "answer": "-ia, para-, pleg/o-",
+          "type": 1,
+          "choices": [
+            "-ia, tetra-, pleg/o-",
+            "-ia, pan-, pleg/o-",
+            "-ia, para-, pleg/o-",
+            "-ia, hemi-, pleg/o-"
+          ]
+        },
+        {
+          "text": "A condition in which blood supply is held back from a part of the body is called",
+          "answer": "ischemia",
+          "type": 0
+        },
+        {
+          "text": "Communication between the second and third part of the small intestine is called",
+          "answer": "jejunoileostomy",
+          "type": 0
+        },
+        {
+          "text": "The surgical suturing of a muscle is called",
+          "answer": "myorrhaphy",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to the neck is called",
+          "answer": "cervical",
+          "type": 0
+        },
+        {
+          "text": "Removal of the fallopian tube is called",
+          "answer": "salpingectomy",
+          "type": 0
+        },
+        {
+          "text": "The combining form for gallbladder is",
+          "answer": "cholecyst/o-",
+          "type": 1,
+          "choices": [
+            "cyst/o-",
+            "hyster/o-",
+            "cholecyst/o-",
+            "lapar/o-"
+          ]
+        },
+        {
+          "text": "The plural form for the word phalanx is",
+          "answer": "phalanges",
+          "type": 1,
+          "choices": [
+            "phalanges",
+            "phalanx",
+            "phalanxs",
+            "phalanices"
+          ]
+        },
+        {
+          "text": "The membrane that surrounds the organs in the abdomen and perineum.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Pertaining to the urinary bladder is called vesicle.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Abnormal passage between two internal organs is termed fistula.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The act of rotating the arm so that the palm of the hand is forward or upward is called suppuration.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The suffixes -rrhea and -rrhexis have the same meaning.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The suffix -ectomy means to surgically repair.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Euthanasia means painless killing of a patient from an incurable disease.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Which is the plural form for the Latin word testis?",
+          "answer": "testes",
+          "type": 1,
+          "choices": [
+            "testises",
+            "testices",
+            "testes",
+            "testix"
+          ]
+        },
+        {
+          "text": "Which is the plural form of apex?",
+          "answer": "apices",
+          "type": 1,
+          "choices": [
+            "apexs",
+            "apae",
+            "apices",
+            "apis"
+          ]
+        },
+        {
+          "text": "Which word parts do you need to build a medical word that mean 'total paralysis'?",
+          "answer": "-ia, pan-, pleg/o-",
+          "type": 1,
+          "choices": [
+            "-ia, tetra-, pleg/o",
+            "-ia, pan-, pleg/o-",
+            "-ia, tachy-, pleg/o-",
+            "-ia, para-, pleg/o-"
+          ]
+        },
+        {
+          "text": "Which word parts do you need to build a medical word that means 'a structure surrounding a bone'?",
+          "answer": "-um, oste/o-, peri",
+          "type": 1,
+          "choices": [
+            "-um, arthr/o-peri",
+            "-um, oste/o-, peri",
+            "-um, oste/o-",
+            "peri, oste/o-"
+          ]
+        },
+        {
+          "text": "Pertaining to through the tube leading from the urinary bladder to the outside of the body is",
+          "answer": "transurethral",
+          "type": 0
+        },
+        {
+          "text": "Condition of having an excessive amount of sugar in the blood is called",
+          "answer": "hyperglycemia",
+          "type": 0
+        },
+        {
+          "text": "A ___ is the visual examination of the tubes leading from the windpipe to the lungs",
+          "answer": "bronchoscopy",
+          "type": 0
+        },
+        {
+          "text": "The rupture of a muscle is called",
+          "answer": "myorrhexis",
+          "type": 0
+        },
+        {
+          "text": "Abnormal, fixed position of permanently fixed muscle is called",
+          "answer": "contracture",
+          "type": 0
+        },
+        {
+          "text": "Record of electricity in the brain is called",
+          "answer": "electroencephalogram",
+          "type": 0
+        }
+      ]
     }
   ],
   "table": []
