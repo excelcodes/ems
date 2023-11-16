@@ -10,7 +10,6 @@ const temp = {};
 function remakeQuestion(question) {
   if (!question) return;
   if (question.plural) {
-    console.log(temp[question.plural]);
     return temp[question.plural] || (temp[question.plural] = {
       text: Math.random() < 0.5 ? `What's the plural of the following definition:\n${question.meaning}` : `What's the plural of ${question.singular}`,
       answer: question.singular,
@@ -28,19 +27,9 @@ function remakeQuestion(question) {
   } else if (question.medical_term) {
     return { text: question.meaning, answer: question.medical_term, type: 0 };
   }
-  console.log("FFF", question);
   return question;
 }
-const sortObjectByKey = (obj) => {
-  const sortedKeys = Object.keys(obj).sort();
-  const sortedObj = {};
 
-  sortedKeys.forEach((key) => {
-    sortedObj[key] = obj[key];
-  });
-
-  return sortedObj;
-};
 function getAllKeys(obj, result = []) {
   for (const key in obj) {
     if (typeof obj[key] === 'object') {
@@ -82,7 +71,6 @@ export default function Viewer({ data, color, hideTable }) {
   const [start, setStart] = React.useState(false);
   const [toggleSidebar, setToggleSidebar] = React.useState(false);
   const currentQuestion = remakeQuestion({ ...set?.data?.[currentQuestionId] });
-  console.log(currentQuestion);
   const [correctAnswers, setCorrectAnswers] = React.useState(0);
   const [wrongAnswers, setWrongAnswers] = React.useState([]);
 
@@ -143,17 +131,17 @@ export default function Viewer({ data, color, hideTable }) {
     <main className="container">
       <div className="sidebar">
         {data.table.length ? <><h2>Tables</h2>
-        <ul>
-          {data.table.sort((a, b) => parseInt(a.name.replace(/Table(\d+)/, "$1")) - parseInt(b.name.replace(/Table(\d+)/, "$1"))).map((tableSet, i) => <li style={{ color: set.name === tableSet.name ? color : "black" }} key={i} onClick={() => { setSet(tableSet); setStart(false); }}>{tableSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
-        </ul></> : <></>}
+          <ul>
+            {data.table.sort((a, b) => parseInt(a.name.replace(/Table(\d+)/, "$1")) - parseInt(b.name.replace(/Table(\d+)/, "$1"))).map((tableSet, i) => <li style={{ color: set.name === tableSet.name ? color : "black" }} key={i} onClick={() => { setSet(tableSet); setStart(false); }}>{tableSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
+          </ul></> : <></>}
         {data.review.length ? <><h2>Review</h2>
-        <ul>
-          {data.review.map((reviewSet, i) => <li style={{ color: set.name === reviewSet.name ? color : "black" }} key={i} onClick={() => { setSet(reviewSet); setStart(false); }}>{reviewSet.name}</li>)}
-        </ul></> : <></>}
+          <ul>
+            {data.review.map((reviewSet, i) => <li style={{ color: set.name === reviewSet.name ? color : "black" }} key={i} onClick={() => { setSet(reviewSet); setStart(false); }}>{reviewSet.name}</li>)}
+          </ul></> : <></>}
         {data.practice.length ? <><h2>Practice</h2>
-        <ul>
-          {data.practice.sort((a, b) => parseInt(a.name.replace(/Practice(\d+)/, "$1")) - parseInt(b.name.replace(/Practice(\d+)/, "$1"))).map((practiceSet, i) => <li style={{ color: set.name === practiceSet.name ? color : "black" }} key={i} onClick={() => { setSet(practiceSet); setStart(false); }}>{practiceSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
-        </ul></> : <></>}
+          <ul>
+            {data.practice.sort((a, b) => parseInt(a.name.replace(/Practice(\d+)/, "$1")) - parseInt(b.name.replace(/Practice(\d+)/, "$1"))).map((practiceSet, i) => <li style={{ color: set.name === practiceSet.name ? color : "black" }} key={i} onClick={() => { setSet(practiceSet); setStart(false); }}>{practiceSet.name.replace(/([a-zA-Z])([0-9])/g, '$1 $2')}</li>)}
+          </ul></> : <></>}
       </div>
       <div className="main-content">
         {toggleSidebar ? <>
@@ -285,7 +273,7 @@ export default function Viewer({ data, color, hideTable }) {
                 }} className="mcq" key={i}>{choice}</div>)
               }
 
-              {feedback ? <button className="component-button"  type="button" onClick={() => setFeedback("")}>Hide</button> : <button className="component-button" type="button" onClick={() => {
+              {feedback ? <button className="component-button" type="button" onClick={() => setFeedback("")}>Hide</button> : <button className="component-button" type="button" onClick={() => {
                 setFeedback(
                   <table>
                     <tbody>
@@ -299,7 +287,15 @@ export default function Viewer({ data, color, hideTable }) {
                             if (typeof q.type === "number") delete q.type;
                             if (q.choices) delete q.choices;
                             return q;
-                          })()).map((value, i) => <td key={i}>{`${value}`}</td>)
+                          })()).map(value => `${value}`).sort((a, b) => {
+                            if (a.includes(question.text)) {
+                              return -1;
+                            } else if (b.includes(question.text)) {
+                              return 1;
+                            } else {
+                              return 0;
+                            }
+                          }).map((value, i) => <td key={i}>{`${value}`}</td>)
                         }
                       </tr>
                     </tbody>
@@ -309,9 +305,9 @@ export default function Viewer({ data, color, hideTable }) {
               <button className="component-button" type="button" onClick={randomize}>Randomize</button>
               <button className="component-button" type="button" onClick={() => setStart(false)}>Close</button>
               <div>
-              <Line percent={100 * (correctAnswers + wrongAnswers.length) / set.data.length} strokeWidth={4} strokeColor={color} style={{ margin: 10, width: 200 }} />
-              <h3>Correct: {correctAnswers}</h3>
-              <h3>Wrong: {wrongAnswers.length}</h3>
+                <Line percent={100 * (correctAnswers + wrongAnswers.length) / set.data.length} strokeWidth={4} strokeColor={color} style={{ margin: 10, width: 200 }} />
+                <h3>Correct: {correctAnswers}</h3>
+                <h3>Wrong: {wrongAnswers.length}</h3>
               </div>
             </form>
 
@@ -326,8 +322,16 @@ export default function Viewer({ data, color, hideTable }) {
                     const q = { ...question };
                     if (typeof q.type === "number") delete q.type;
                     if (q.choices) delete q.choices;
-                    return q.type === 0 ? sortObjectByKey(q) : q;
-                  })()).map((value, i) => <td key={i}>{`${value}`}</td>)}
+                    return q
+                  })()).map(value => `${value}`).sort((a, b) => {
+                    if (a.includes(question.text)) {
+                      return -1;
+                    } else if (b.includes(question.text)) {
+                      return 1;
+                    } else {
+                      return 0;
+                    }
+                  }).map((value, i) => <td key={i}>{`${value}`}</td>)}
                 </tr>)}
               </tbody>
             </table>}
