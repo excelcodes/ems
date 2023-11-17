@@ -16,7 +16,7 @@
         },
         {
           "answer": "retrogastric",
-          "text": " The term that means pertaining to behind the stomach is",
+          "text": "The term that means pertaining to behind the stomach is",
           "type": 0
         },
         {
@@ -36,7 +36,7 @@
         },
         {
           "answer": "podiatrist",
-          "text": " A specialist who diagnoses and treats disorders of the foot is called a/an",
+          "text": "A specialist who diagnoses and treats disorders of the foot is called a/an",
           "type": 0
         },
         {
@@ -135,7 +135,7 @@
           "type": 1
         },
         {
-          "text": " ______________ were prescribed to treat the infection.",
+          "text": "______________ were prescribed to treat the infection.",
           "answer": "antibiotics",
           "choices": [
             "antibiotics",
@@ -180,11 +180,11 @@
         },
         {
           "text": "Excessive ______________of sugar may lead to diabetes.",
-          "answer": "consumption ",
+          "answer": "consumption",
           "choices": [
             "consequence",
             "contracted",
-            "consumption ",
+            "consumption",
             "sustained"
           ],
           "type": 1
@@ -205,7 +205,7 @@
           "answer": "increased urination",
           "choices": [
             "a feeling of general discomfort",
-            "decreased urination ",
+            "decreased urination",
             "increased urination",
             "swelling caused by fluid accumulation"
           ],
@@ -300,12 +300,12 @@
         },
         {
           "answer": "salpingectomy",
-          "text": " The medical term meaning excision of fallopian tube is ____________________",
+          "text": "The medical term meaning excision of fallopian tube is ____________________",
           "type": 0
         },
         {
           "answer": "tympanoplasty",
-          "text": " The term that means plastic repair of the eardrum is ____________________",
+          "text": "The term that means plastic repair of the eardrum is ____________________",
           "type": 0
         },
         {
@@ -417,7 +417,7 @@
           "answer": "small fluid-filled blister on skin",
           "choices": [
             "the prediction about a disease's course",
-            "pertaining to the urinary bladder ",
+            "pertaining to the urinary bladder",
             "the attempt to rule out several possible diseases",
             "small fluid-filled blister on skin"
           ],
@@ -451,7 +451,7 @@
           "choices": [
             "difficulty in breathing",
             "easy or normal breathing",
-            "slowness in breathing ",
+            "slowness in breathing",
             "rapid breathing"
           ],
           "type": 1
@@ -482,7 +482,7 @@
           "text": "You should _____________ another opinion if you do not agree with what your doctor said..",
           "answer": "seek",
           "choices": [
-            "compute ",
+            "compute",
             "seek",
             "perceived",
             "maintain"
@@ -3245,6 +3245,312 @@
           "text": "Condition of having a low amount of sugar in the blood is called",
           "answer": "hypoglycemia",
           "type": 0
+        }
+      ]
+    },
+    {
+      "name": "Dr.Abdelatif Quiz 2 Fall 2023",
+      "data": [
+        {
+          "text": "1. diplopia means good vision",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "9. Protein molecule in the blood is called albumin.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "10. Surgical fixation of the liver is called hepatodesis.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Condition of having urea in the blood is called",
+          "choices": [
+            "menorrhea",
+            "menorrhagia",
+            "hematuria",
+            "uremia"
+          ],
+          "type": 1,
+          "answer": "uremia"
+        },
+        {
+          "text": "Surgical puncture to draw fluid from the chestis called:",
+          "choices": [
+            "thoracoschisis ",
+            "thoracocentesis",
+            "thoracoscopy",
+            "thoracoplasty"
+          ],
+          "type": 1,
+          "answer": "thoracocentesis"
+        },
+        {
+          "text": "Which is the plural form of cortex?",
+          "choices": [
+            "cortices",
+            "cortexes",
+            "cortix",
+            "cortixes"
+          ],
+          "type": 1,
+          "answer": "cortices"
+        },
+        {
+          "text": "Difficulty in breathing is termed:",
+          "choices": [
+            "tachypnea",
+            "apnea",
+            "dyspnea",
+            "eupnea"
+          ],
+          "type": 1,
+          "answer": "dyspnea"
+        },
+        {
+          "text": "Overgrowth of an organ or part of the body resulting from increased cell size:",
+          "choices": [
+            "hyperplasia",
+            "atrophy",
+            "hypertrophy",
+            "dysplasia"
+          ],
+          "type": 1,
+          "answer": "hypertrophy"
+        },
+        {
+          "text": "Abnormal formation for the cells in numbers is:",
+          "choices": [
+            "neoplasm",
+            "dysphasia",
+            "dysphagia",
+            "dysplasia"
+          ],
+          "type": 1,
+          "answer": "dysplasia"
+        },
+        {
+          "text": "Blood infection is referred to as:",
+          "choices": [
+            "uremia",
+            "anemia",
+            "septicemia",
+            "hematuria"
+          ],
+          "type": 1,
+          "answer": "septicemia"
+        },
+        {
+          "text": "Cerbrovascular accident is also called a(an):",
+          "choices": [
+            "stroke",
+            "any disease of the heart muscles",
+            "heart attack",
+            "heart failure"
+          ],
+          "type": 1,
+          "answer": "stroke"
+        },
+        {
+          "text": "The space in the chest that contains the heart and other organs is the:",
+          "choices": [
+            "cranial cavity",
+            "pleural cavity",
+            "mediastinum",
+            "spinal cavity"
+          ],
+          "type": 1,
+          "answer": "mediastinum"
+        },
+        {
+          "text": "Related to under the cartilage ofribs is:",
+          "choices": [
+            "hypochondriac",
+            "subvertebral",
+            "subcostal",
+            "subcutaneous"
+          ],
+          "type": 1,
+          "answer": "hypochondriac"
+        },
+        {
+          "text": "Inflammation of the membranes surrounding the lungs is:",
+          "choices": [
+            "encephalitis",
+            "pleuritis",
+            "meningitis",
+            "encephallitis"
+          ],
+          "type": 1,
+          "answer": "pleuritis"
+        },
+        {
+          "text": "The spread of a cancerous tumor to another organ away from the original location:",
+          "choices": [
+            "subcutaneous",
+            "metastasis ",
+            "malignant",
+            "carcinoma"
+          ],
+          "type": 1,
+          "answer": "metastasis"
+        },
+        {
+          "text": "Creation of a new opening from the windpipe to the outside of the body is",
+          "choices": [
+            "lanyngostomy",
+            "pharyngotomy",
+            "tracheostomy",
+            "tracheotomy"
+          ],
+          "type": 1,
+          "answer": "tracheostomy"
+        },
+        {
+          "text": "Audiometry is a term used to describe",
+          "choices": [
+            "measurement of hearing",
+            "measurement of voice",
+            "instrument to measure hearing",
+            "instrument to measure voice"
+          ],
+          "type": 1,
+          "answer": "measurement of hearing"
+        },
+        {
+          "text": "19. AProlapse (or downward displacement) of the spleen is called:",
+          "choices": [
+            "splenomalacia",
+            "splenoptosis",
+            "splensclerosis",
+            "splenospasm"
+          ],
+          "type": 1,
+          "answer": "splenoptosis"
+        },
+        {
+          "text": "Crushing of a stone is:",
+          "choices": [
+            "lithotripsy",
+            "lithiasis",
+            "myorrhexis",
+            "amniorrhexis"
+          ],
+          "type": 1,
+          "answer": "lithotripsy"
+        },
+        {
+          "text": "Partial paralysis in muscles is termed:",
+          "choices": [
+            "myoparesis",
+            "myorrhaphy",
+            "myoplegia",
+            "myalgia"
+          ],
+          "type": 1,
+          "answer": "myoparesis"
+        },
+        {
+          "text": "Breaking of a nucleus is called:",
+          "choices": [
+            "retinoschisis",
+            "osteoclasis",
+            "karyoclasis",
+            "anoxia"
+          ],
+          "type": 1,
+          "answer": "karyoclasis"
+        },
+        {
+          "text": "Removal of the fallopian tube:",
+          "choices": [
+            "hysterotomy",
+            "thoracocentesis",
+            "oophorectomy",
+            "salpingectomy"
+          ],
+          "type": 1,
+          "answer": "salpingectomy"
+        },
+        {
+          "text": "Phlebectasia is",
+          "choices": [
+            "dilatation of a vein",
+            "spasm of a vein",
+            "constriction of a vein",
+            "dilatation of a blood vessel"
+          ],
+          "type": 1,
+          "answer": "dilatation of a vein"
+        },
+        {
+          "text": "Rupture of a the amniotic sac around the baby is:",
+          "choices": [
+            "amniocentesis",
+            "amniotic fluid",
+            "amniorrhexis",
+            "amniotic"
+          ],
+          "type": 1,
+          "answer": "amniorrhexis"
+        },
+        {
+          "text": "Total Paralysis is termed:",
+          "choices": [
+            "paraplegia",
+            "panplegia",
+            "hemiplegia",
+            "pseudoplegia"
+          ],
+          "type": 1,
+          "answer": "panplegia"
+        },
+        {
+          "text": "Surgical repair of the eardrum is called:",
+          "choices": [
+            "otoplasty",
+            "auroplasty",
+            "somoplasty",
+            "tympanoplasty"
+          ],
+          "type": 1,
+          "answer": "tympanoplasty"
+        },
+        {
+          "text": "Visual examination of the abdomen by making a small incision near the navel iscalled:",
+          "choices": [
+            "laparoscope",
+            "laparotomy",
+            "mediastinoscopy",
+            "laparoscopy"
+          ],
+          "type": 1,
+          "answer": "laparoscopy"
+        },
+        {
+          "text": "Removal of the appendix is:",
+          "choices": [
+            "hysterectomy",
+            "appendectomy",
+            "oophorectomy",
+            "salpingectomy"
+          ],
+          "type": 1,
+          "answer": "appendectomy"
+        },
+        {
+          "text": "Pertaining to surrounding the bone is termed:",
+          "choices": [
+            "perosteum",
+            "perianal",
+            "periosteum",
+            "osteopath"
+          ],
+          "type": 1,
+          "answer": "periosteum"
         }
       ]
     }
