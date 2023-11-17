@@ -80,7 +80,7 @@
           "type": 0
         },
         {
-          "text": "Surgical ____________ may be necessary if the disease does not respond to medication.",
+          "text": "Surgical ___ may be necessary if the disease does not respond to medication.",
           "answer": "intervention",
           "choices": [
             "splitting",
@@ -135,7 +135,7 @@
           "type": 1
         },
         {
-          "text": "______________ were prescribed to treat the infection.",
+          "text": "___ were prescribed to treat the infection.",
           "answer": "antibiotics",
           "choices": [
             "antibiotics",
@@ -168,7 +168,7 @@
           "type": 1
         },
         {
-          "text": "She ________________serious injuries in the car accident.",
+          "text": "She ___ serious injuries in the car accident.",
           "answer": "sustained",
           "choices": [
             "excruciating",
@@ -179,7 +179,7 @@
           "type": 1
         },
         {
-          "text": "Excessive ______________of sugar may lead to diabetes.",
+          "text": "Excessive ___ of sugar may lead to diabetes.",
           "answer": "consumption",
           "choices": [
             "consequence",
@@ -223,7 +223,7 @@
           "type": 1
         },
         {
-          "text": "A man _____________consciousness after 8 years in coma.",
+          "text": "A man ___ consciousness after 8 years in coma.",
           "answer": "regained",
           "choices": [
             "resource",
@@ -295,22 +295,22 @@
       "data": [
         {
           "answer": "blepharoptosis",
-          "text": "Drooping of the eyelid is _________________________",
+          "text": "Drooping of the eyelid is",
           "type": 0
         },
         {
           "answer": "salpingectomy",
-          "text": "The medical term meaning excision of fallopian tube is ____________________",
+          "text": "The medical term meaning excision of fallopian tube is",
           "type": 0
         },
         {
           "answer": "tympanoplasty",
-          "text": "The term that means plastic repair of the eardrum is ____________________",
+          "text": "The term that means plastic repair of the eardrum is",
           "type": 0
         },
         {
           "answer": "hysteropexy",
-          "text": "Fixation of the uterus is called ____________________",
+          "text": "Fixation of the uterus is called",
           "type": 0
         },
         {
@@ -320,52 +320,52 @@
         },
         {
           "answer": "ageusia",
-          "text": "Loss of the sense of taste is called ________",
+          "text": "Loss of the sense of taste is called",
           "type": 0
         },
         {
           "answer": "pseudoplegia",
-          "text": "A condition of false paralysis is known as ____________________",
+          "text": "A condition of false paralysis is known as",
           "type": 0
         },
         {
           "answer": "otorhinolaryngologist",
-          "text": "Specialist of the study and treatment of ears, nose, and voice box is known as _________________________",
+          "text": "Specialist of the study and treatment of ears, nose, and voice box is known as",
           "type": 0
         },
         {
           "answer": "periosteum",
-          "text": "A structure surrounding a bone is called a/an ____________________",
+          "text": "A structure surrounding a bone is called a/an",
           "type": 0
         },
         {
           "answer": "arthrocentesis",
-          "text": "The term that means surgical puncture to drain fluid from the joint is ____________________",
+          "text": "The term that means surgical puncture to drain fluid from the joint is",
           "type": 0
         },
         {
           "answer": "bronchoscopy",
-          "text": "The term that means visual examination of the tubes leading from the windpipe to the lungs is ____________________",
+          "text": "The term that means visual examination of the tubes leading from the windpipe to the lungs is",
           "type": 0
         },
         {
           "answer": "pleurodesis",
-          "text": "Binding of the pleura is known as ____________________",
+          "text": "Binding of the pleura is known as",
           "type": 0
         },
         {
           "answer": "prolapse",
-          "text": "If an organ slides or fall forward, the condition is called ________",
+          "text": "If an organ slides or fall forward, the condition is called",
           "type": 0
         },
         {
           "answer": "septicemia",
-          "text": "Blood infection is called ____________________",
+          "text": "Blood infection is called",
           "type": 0
         },
         {
           "answer": "hypoproteinemia",
-          "text": "Decreased protein in the blood is called ____________",
+          "text": "Decreased protein in the blood is called",
           "type": 0
         },
         {
@@ -391,7 +391,7 @@
           "type": 1
         },
         {
-          "text": "He was unable to sleep because of _______________ pain in his arm.",
+          "text": "He was unable to sleep because of ___ pain in his arm.",
           "answer": "excruciating",
           "choices": [
             "campaign",
@@ -424,7 +424,7 @@
           "type": 1
         },
         {
-          "text": "She went home because she had a _______________ headache.",
+          "text": "She went home because she had a ___ headache.",
           "answer": "splitting",
           "choices": [
             "contracted",
@@ -468,7 +468,7 @@
           "type": 1
         },
         {
-          "text": "You should ______________ all your attention on what is important.",
+          "text": "You should ___ all your attention on what is important.",
           "answer": "focus",
           "choices": [
             "focus",
@@ -479,7 +479,7 @@
           "type": 1
         },
         {
-          "text": "You should _____________ another opinion if you do not agree with what your doctor said..",
+          "text": "You should ___ another opinion if you do not agree with what your doctor said..",
           "answer": "seek",
           "choices": [
             "compute",
@@ -490,7 +490,7 @@
           "type": 1
         },
         {
-          "text": "Ali is very careful and ________________ in his tasks.",
+          "text": "Ali is very careful and ___ in his tasks.",
           "answer": "methodical",
           "choices": [
             "methodical",
@@ -623,12 +623,12 @@
           "type": 0
         },
         {
-          "text": "The medical term meaning suturing together the ends of a severed nerve is ___",
+          "text": "The medical term meaning suturing together the ends of a severed nerve is",
           "answer": "Neurorrhaphy",
           "type": 0
         },
         {
-          "text": "The abnormal hardening of the walls of an artery or arteries is known as ___",
+          "text": "The abnormal hardening of the walls of an artery or arteries is known as",
           "answer": "Arteriosclerosis",
           "type": 0
         },
@@ -1031,7 +1031,7 @@
           "type": 1
         },
         {
-          "text": "The body system that controls breathing is the _________ system.",
+          "text": "The body system that controls breathing is the ___ system.",
           "choices": [
             "nervous",
             "respiratory",
@@ -1698,7 +1698,7 @@
           "type": 1
         },
         {
-          "text": "Kamal wanted to ________ with his colleagues before reaching a decision.",
+          "text": "Kamal wanted to ___ with his colleagues before reaching a decision.",
           "answer": "confer",
           "choices": [
             "confer",
@@ -1907,7 +1907,7 @@
           "type": 1
         },
         {
-          "text": "Mothers often feel ____________ and guilty that they are not offering the best to their child.",
+          "text": "Mothers often feel ___ and guilty that they are not offering the best to their child.",
           "answer": "inadequate",
           "choices": [
             "inadequate",
@@ -1929,7 +1929,7 @@
           "type": 1
         },
         {
-          "text": "Physical exercise has been _________ to promote good health.",
+          "text": "Physical exercise has been ___ to promote good health.",
           "answer": "demonstrated",
           "choices": [
             "criteria",
@@ -1940,7 +1940,7 @@
           "type": 1
         },
         {
-          "text": "This medical research is _________ by the government.",
+          "text": "This medical research is ___ by the government.",
           "answer": "funded",
           "choices": [
             "looked",
@@ -1951,7 +1951,7 @@
           "type": 1
         },
         {
-          "text": "The patient is too young to ____________ this anti-inflammatory drug.",
+          "text": "The patient is too young to ___ this anti-inflammatory drug.",
           "answer": "tolerate",
           "choices": [
             "break",
@@ -2006,7 +2006,7 @@
           "type": 1
         },
         {
-          "text": "The plane that divides the body into right and left sides is called the ________ plane.",
+          "text": "The plane that divides the body into right and left sides is called the ___ plane.",
           "answer": "sagittal",
           "choices": [
             "sagittal",
@@ -2094,7 +2094,7 @@
           "type": 1
         },
         {
-          "text": "His voice was _________ from shouting.",
+          "text": "His voice was ___ from shouting.",
           "answer": "hoarse",
           "choices": [
             "superior",
@@ -2149,7 +2149,7 @@
           "type": 1
         },
         {
-          "text": "A ______________ infant is a baby born 3 weeks before the estimated due date.",
+          "text": "A ___ infant is a baby born 3 weeks before the estimated due date.",
           "answer": "premature",
           "choices": [
             "conscious",
@@ -2487,7 +2487,7 @@
           "type": 1
         },
         {
-          "text": "This research has confirmed the results of ________ studies.",
+          "text": "This research has confirmed the results of ___ studies.",
           "answer": "prior",
           "choices": [
             "premature",
@@ -3094,7 +3094,7 @@
           "type": 1
         },
         {
-          "text": "The medical word thoracotomy means '______ Into the chest.'",
+          "text": "The medical word thoracotomy means '___ Into the chest.'",
           "answer": "incision",
           "choices": [
             "resection",
@@ -3351,7 +3351,7 @@
             "answer": "panplegia"
         },
         {
-            "text": "A gastroscopy is the ________.",
+            "text": "A gastroscopy is the ___.",
             "choices": [
                 "process of recording the activity of the stomach",
                 "process of using an instrument to examine the stomach",
@@ -3439,7 +3439,7 @@
             "answer": "amenorrhea"
         },
         {
-            "text": "The plural of stimulus is ________________.",
+            "text": "The plural of stimulus is",
             "choices": [
                 "Stimuleuses",
                 "Stimuli",
@@ -3461,7 +3461,7 @@
             "answer": "laparoscopy"
         },
         {
-            "text": "The definition of tachycardia is ________.",
+            "text": "The definition of tachycardia is",
             "choices": [
                 "condition of a painful heart",
                 "infection behind the heart",
@@ -3472,7 +3472,7 @@
             "answer": "condition of a fast heart"
         },
         {
-            "text": "The plural of the Latin noun nucleus is ________.",
+            "text": "The plural of the Latin noun nucleus is",
             "choices": [
                 "nucleusis",
                 "nuclei",
@@ -3483,7 +3483,7 @@
             "answer": "nuclei"
         },
         {
-            "text": "The plural of the word “arthritis” is ________.",
+            "text": "The plural of the word “arthritis” is",
             "choices": [
                 "arthritises",
                 "arthritisis",
@@ -3494,7 +3494,7 @@
             "answer": "Arthritides"
         },
         {
-            "text": "A gastroscopy is the ________.",
+            "text": "A gastroscopy is the",
             "choices": [
                 "process of recording the activity of the stomach",
                 "process of using an instrument to examine the stomach",
