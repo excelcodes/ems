@@ -1274,7 +1274,7 @@
       ]
     },
     {
-      "name": "136 Previous Questions",
+      "name": "158 Previous Questions",
       "data": [
         {
           "text": "Uttering words that are different from those intended is known as",
@@ -2322,6 +2322,140 @@
             "antisymptomatic"
           ],
           "type": 1
+        },
+        {
+          "text": "The prefix ecto- means:",
+          "answer": "outside",
+          "choices": [
+            "irregular",
+            "inside",
+            "outside",
+            "within"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Normal and easy breathing is:",
+          "answer": "eupnea",
+          "choices": [
+            "eupnea",
+            "hyperventelation",
+            "hyperpnea",
+            "hypopnea"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Lower half paralysis is known as:",
+          "answer": "paraplegia",
+          "choices": [
+            "paraplegia",
+            "semiplegia",
+            "pseudocyesis",
+            "hemiplegia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A prefix that means four is called:",
+          "answer": "tetra-",
+          "choices": [
+            "tetra-",
+            "poly-",
+            "anti-",
+            "mono-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The prefix poikilo- means:",
+          "answer": "different",
+          "choices": [
+            "one",
+            "many",
+            "different",
+            "few"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The correct spelling for a disease that is globally spread is pandemic.",
+          "answer": false
+        },
+        {
+          "text": "Prenatal and antemortem have the same meaning.",
+          "answer": true
+        },
+        {
+          "text": "Polyneuropathy means inflammation of many nerves.",
+          "answer": false
+        },
+        {
+          "text": "Homeo- and mono- share the same meaning.",
+          "answer": false
+        },
+        {
+          "text": "Polyphagia means having an excessive appetite.",
+          "answer": true
+        },
+        {
+          "text": "High increase for the cell in numbers is termed hypertrophy.",
+          "answer": false
+        },
+        {
+          "text": "The term normovolemia means abnormal blood volume.",
+          "answer": false
+        },
+        {
+          "text": "Postnatal and postmortem have the same meaning.",
+          "answer": false
+        },
+        {
+          "text": "The prefix dis- has the same meaning as de-.",
+          "answer": true
+        },
+        {
+          "text": "A tissue that is transplanted to another of the same species is called homograft.",
+          "answer": true
+        },
+        {
+          "text": "Endo- and ecto- both mean outside.",
+          "answer": false
+        },
+        {
+          "text": "Return of partly digested food from the stomach to the mouth (also called reflux) is called",
+          "answer": "regurgitation",
+          "type": 0
+        },
+        {
+          "text": "Decreased rate of electrical pacemaker activity in the stomach is termed",
+          "answer": "bradygastria",
+          "type": 0
+        },
+        {
+          "text": "Around the mouth is",
+          "answer": "perioral",
+          "type": 0
+        },
+        {
+          "text": "Having white patches in the mouth is termed:",
+          "answer": "leukoplakia",
+          "type": 0
+        },
+        {
+          "text": "Something written above is called",
+          "answer": "superscript",
+          "type": 0
+        },
+        {
+          "text": "An element that has one atom is:",
+          "answer": "monoatomic",
+          "type": 0
+        },
+        {
+          "text": "An animal having only one digit on each extremity is called",
+          "answer": "monodactyly",
+          "type": 0
         }
       ]
     },
