@@ -167,21 +167,23 @@ export default function Viewer({ data, color, hideTable }) {
             <button className="component-button" onClick={() => {
               setWrongAnswers([]);
               setCorrectAnswers(0);
-              setCurrentQuestionId(0)
+              setCurrentQuestionId(0);
             }}>AGAIN?</button>
             <button className="component-button" onClick={() => {
               let newSet;
-              if (set.name.startsWith("Table")) {
+              if (data.table.findIndex(table => table.name === set.name)) {
                 newSet = data.table[data.table.findIndex(table => table.name === set.name) + 1];
-                if (!newSet) newSet = data.review[0];
-              } else if (set.name.startsWith("Review")) {
-                newSet = data.review[data.review.findIndex(review => review.name === set.name) + 1];
-                if (!newSet) newSet = data.practice[0];
-              } else {
-                newSet = data.practice[data.practice.findIndex(practice => practice.name === set.name) + 1];
-                if (!newSet) newSet = data.table[0];
               }
-
+              if (!newSet) {
+                if (data.review.findIndex(review => review.name === set.name)) {
+                  newSet = data.review[data.review.findIndex(review => review.name === set.name) + 1];
+                  if (!newSet) {
+                    newSet = data.practice[data.practice.findIndex(practice => practice.name === set.name) + 1];
+                    if (!newSet) newSet = data.table[0] || data.review[0] || data.practice[0]
+                  }
+                }
+              }
+              console.log(newSet);
               setSet(newSet);
               if (!speedRun) setStart(false);
             }}>NEXT</button>
