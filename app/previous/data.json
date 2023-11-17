@@ -735,6 +735,7 @@
         {
           "text": "Enderarterial means pertaining to the interior or lining of an artery.",
           "answer": true
+          "type": 2
         },
         {
           "text": "Condition of painful swallowing means dyspepsia.",
@@ -2381,46 +2382,57 @@
         {
           "text": "The correct spelling for a disease that is globally spread is pandemic.",
           "answer": false
+          "type": 2
         },
         {
           "text": "Prenatal and antemortem have the same meaning.",
           "answer": true
+          "type": 2
         },
         {
           "text": "Polyneuropathy means inflammation of many nerves.",
           "answer": false
+          "type": 2
         },
         {
           "text": "Homeo- and mono- share the same meaning.",
           "answer": false
+          "type": 2
         },
         {
           "text": "Polyphagia means having an excessive appetite.",
           "answer": true
+          "type": 2
         },
         {
           "text": "High increase for the cell in numbers is termed hypertrophy.",
           "answer": false
+          "type": 2
         },
         {
           "text": "The term normovolemia means abnormal blood volume.",
           "answer": false
+          "type": 2
         },
         {
           "text": "Postnatal and postmortem have the same meaning.",
           "answer": false
+          "type": 2
         },
         {
           "text": "The prefix dis- has the same meaning as de-.",
           "answer": true
+          "type": 2
         },
         {
           "text": "A tissue that is transplanted to another of the same species is called homograft.",
           "answer": true
+          "type": 2
         },
         {
           "text": "Endo- and ecto- both mean outside.",
           "answer": false
+          "type": 2
         },
         {
           "text": "Return of partly digested food from the stomach to the mouth (also called reflux) is called",
