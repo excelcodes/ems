@@ -12,7 +12,7 @@ function remakeQuestion(question) {
   if (question.plural) {
     return temp[question.plural] || (temp[question.plural] = {
       text: Math.random() < 0.5 ? `What's the plural of the following definition:\n${question.meaning}` : `What's the plural of ${question.singular}`,
-      answer: question.singular,
+      answer: question.plural,
       type: 0
     });
   }
