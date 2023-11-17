@@ -2456,6 +2456,119 @@
           "text": "An animal having only one digit on each extremity is called",
           "answer": "monodactyly",
           "type": 0
+        },
+        {
+          "text": "Removal of a fallopian tube:",
+          "answer": "salpingectomy",
+          "choices": [
+            "laryngectomy",
+            "salpingectomy",
+            "nephrectomy",
+            "oophorectomy"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Cessation or interruption of breathing is termed:",
+          "answer": "apnea",
+          "choices": [
+            "apnea",
+            "atrophy",
+            "dysplasia",
+            "dyspnea"
+          ],
+          "type": 1
+        },
+        {
+          "text": "This research has confirmed the results of ________ studies.",
+          "answer": "undone",
+          "choices": [
+            "premature",
+            "prior",
+            "undone",
+            "tender"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Pertaining to the bone of the upper arm is",
+          "answer": "humerus",
+          "type": 0
+        },
+        {
+          "text": "Groove or crack-like sore of the skin is called",
+          "answer": "fissure",
+          "type": 0
+        },
+        {
+          "text": "The condition of having an unusually large head or cranial capacity is called",
+          "answer": "megacephaly",
+          "type": 0
+        },
+        {
+          "text": "Destruction of a blood clot is called",
+          "answer": "thrombolysis",
+          "type": 0
+        },
+        {
+          "text": "Having the heart throb, a feeling that your heart is beating too hard or too fast",
+          "answer": "palpitation",
+          "type": 0
+        },
+        {
+          "text": "Against recommendation is called",
+          "answer": "contraindicated",
+          "type": 0
+        },
+        {
+          "text": "Possessing masculine traits is called",
+          "answer": "virile",
+          "type": 0
+        },
+        {
+          "text": "The term that means the disease of many nerves is",
+          "answer": "polyneuropathy",
+          "type": 0
+        },
+        {
+          "text": "Two dissimilar organisms living together is known as",
+          "answer": "symbiosis",
+          "type": 0
+        },
+        {
+          "text": "Irregular condition of the skin is termed",
+          "answer": "poikiloderma",
+          "type": 0
+        },
+        {
+          "text": "Equal in terms of calories is called",
+          "answer": "equicaloric",
+          "type": 0
+        },
+        {
+          "text": "Backward flowing of fluid",
+          "answer": "reflux",
+          "type": 0
+        },
+        {
+          "text": "Bluish discoloration of the skin is called",
+          "answer": "cyanosis",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to below the shoulder blades is called",
+          "answer": "infrascapular",
+          "type": 0
+        },
+        {
+          "text": "Visual examination of the abdomen by making a small incision near the navel is termed",
+          "answer": "laparoscopy",
+          "type": 0
+        },
+        {
+          "text": "Thermometer is the process of measuring temperature.",
+          "answer": false,
+          "type": 2
         }
       ]
     },
