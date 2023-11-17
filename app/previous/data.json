@@ -3249,6 +3249,297 @@
       ]
     },
     {
+      "name": "Dr.Abdelatif Quiz 1 Fall 2023",
+      "data": [
+        {
+            "text": "Visual examination of the abdomen by making a small incision near the navel is called:",
+            "choices": [
+                "laparoscope",
+                "laparotomy ",
+                "mediastinoscopy",
+                "laparoscopy "
+            ],
+            "type": 1,
+            "answer": "laparoscopy"
+        },
+        {
+            "text": "Difficulty in breathing is termed:",
+            "choices": [
+                "tachypnea",
+                "apnea",
+                "dyspnea",
+                "eupnea"
+            ],
+            "type": 1,
+            "answer": "dyspnea"
+        },
+        {
+            "text": "A surgery on the nose to repair a deformity is called:",
+            "choices": [
+                "rhinitis",
+                "rhinoscopy",
+                "rhinoplasty",
+                "retinoschisis"
+            ],
+            "type": 1,
+            "answer": "rhinoplasty"
+        },
+        {
+            "text": "Disease of many nerves is:",
+            "choices": [
+                "neuropathy",
+                "neuralgia",
+                "polyneuropathy",
+                "neuritis"
+            ],
+            "type": 1,
+            "answer": "polyneuropathy"
+        },
+        {
+            "text": "Related to under the ribs is:",
+            "choices": [
+                "subcostal",
+                "hypochondriac",
+                "subvertebral",
+                "hypothalamus"
+            ],
+            "type": 1,
+            "answer": "subcostal"
+        },
+        {
+            "text": "Slow heartbeat is:",
+            "choices": [
+                "bradyphrenia",
+                "bradypnea",
+                "bradycardia",
+                "tachycardia"
+            ],
+            "type": 1,
+            "answer": "bradycardia"
+        },
+        {
+            "text": "Removal of the appendix is:",
+            "choices": [
+                "hysterectomy",
+                "appendectomy ",
+                "oophorectomy",
+                "salpingectomy"
+            ],
+            "type": 1,
+            "answer": "appendectomy"
+        },
+        {
+            "text": "Condition of having urea in the blood is",
+            "choices": [
+                "septicemia",
+                "uremia",
+                "ischemia",
+                "hematuria"
+            ],
+            "type": 1,
+            "answer": "uremia"
+        },
+        {
+            "text": "Total Paralysis is termed:",
+            "choices": [
+                "paraplegia",
+                "panplegia",
+                "hemiplegia",
+                "pseudoplegia"
+            ],
+            "type": 1,
+            "answer": "panplegia"
+        },
+        {
+            "text": "A gastroscopy is the ________.",
+            "choices": [
+                "process of recording the activity of the stomach",
+                "process of using an instrument to examine the stomach",
+                "process of measuring the stomach",
+                "process of surgically removing part of the stomach"
+            ],
+            "type": 1,
+            "answer": "process of using an instrument to examine the stomach"
+        },
+        {
+            "text": "Prediction about the outcome of treatment is called:",
+            "choices": [
+                "prognosis",
+                "prolapse",
+                "prodrome",
+                "prosthesis"
+            ],
+            "type": 1,
+            "answer": "prognosis"
+        },
+        {
+            "text": "Pertaining to surrounding the bone is termed:",
+            "choices": [
+                "perosteum",
+                "perianal",
+                "periosteum",
+                "osteopath"
+            ],
+            "type": 1,
+            "answer": "periosteum"
+        },
+        {
+            "text": "Disease of many nerves is:",
+            "choices": [
+                "neuropathy",
+                "neuralgia",
+                "polyneuropathy",
+                "neuritis"
+            ],
+            "type": 1,
+            "answer": "polyneuropathy"
+        },
+        {
+            "text": "Excision of the kidney is called :",
+            "choices": [
+                "renectomy",
+                "renoctomy",
+                "nephrotomy",
+                "nephrectomy"
+            ],
+            "type": 1,
+            "answer": "nephrectomy"
+        },
+        {
+            "text": "Enlargement of the liver is:",
+            "choices": [
+                "hepatoma",
+                "hepatomegaly",
+                "hepatitis",
+                "hepatorraphy"
+            ],
+            "type": 1,
+            "answer": "hepatomegaly"
+        },
+        {
+            "text": "Cessation or interruption of breathing is termed:",
+            "choices": [
+                "atrophy",
+                "dyspnea",
+                "apnea",
+                "dysplasia"
+            ],
+            "type": 1,
+            "answer": "apnea"
+        },
+        {
+            "text": "Lack of menstrual flow is called a (an):",
+            "choices": [
+                "dysmenorrhea",
+                "menorrhea",
+                "menorrhagia",
+                "amenorrhea"
+            ],
+            "type": 1,
+            "answer": "amenorrhea"
+        },
+        {
+            "text": "The plural of stimulus is ________________.",
+            "choices": [
+                "Stimuleuses",
+                "Stimuli",
+                "Stimules",
+                "Stimuleses"
+            ],
+            "type": 1,
+            "answer": "Stimuli"
+        },
+        {
+            "text": "Visual examination of the abdomen by making a small incision near the navel is called:",
+            "choices": [
+                "laparoscope",
+                "laparotomy ",
+                "mediastinoscopy",
+                "laparoscopy "
+            ],
+            "type": 1,
+            "answer": "laparoscopy"
+        },
+        {
+            "text": "The definition of tachycardia is ________.",
+            "choices": [
+                "condition of a painful heart",
+                "infection behind the heart",
+                "picture within the heart",
+                "condition of a fast heart"
+            ],
+            "type": 1,
+            "answer": "condition of a fast heart"
+        },
+        {
+            "text": "The plural of the Latin noun nucleus is ________.",
+            "choices": [
+                "nucleusis",
+                "nuclei",
+                "nucliuses",
+                "neuclea"
+            ],
+            "type": 1,
+            "answer": "nuclei"
+        },
+        {
+            "text": "The plural of the word “arthritis” is ________.",
+            "choices": [
+                "arthritises",
+                "arthritisis",
+                "Arthritides",
+                "arthoritises"
+            ],
+            "type": 1,
+            "answer": "Arthritides"
+        },
+        {
+            "text": "A gastroscopy is the ________.",
+            "choices": [
+                "process of recording the activity of the stomach",
+                "process of using an instrument to examine the stomach",
+                "process of measuring the stomach",
+                "process of surgically removing part of the stomach"
+            ],
+            "type": 1,
+            "answer": "process of using an instrument to examine the stomach"
+        },
+        {
+            "text": "Prediction about the outcome of treatment is called:",
+            "choices": [
+                "prognosis",
+                "prolapse",
+                "prodrome",
+                "prosthesis"
+            ],
+            "type": 1,
+            "answer": "prognosis"
+        },
+        {
+            "text": "Treatment by using cold temperature is termed:",
+            "choices": [
+                "radiotherapy",
+                "cryotherapy",
+                "chemotherapy",
+                "psychotherapy"
+            ],
+            "type": 1,
+            "answer": "cryotherapy"
+        },
+        {
+            "text": "A term meaning \"pertaining to the tube leading from the throat to the stomach\" is:",
+            "choices": [
+                "esophageal",
+                "laryngeal",
+                "pharyngeal",
+                "tracheal"
+            ],
+            "type": 1,
+            "answer": "esophageal"
+        }
+    ]
+    },
+    {
       "name": "Dr.Abdelatif Quiz 2 Fall 2023",
       "data": [
         {
@@ -3421,7 +3712,7 @@
           "answer": "measurement of hearing"
         },
         {
-          "text": "19. AProlapse (or downward displacement) of the spleen is called:",
+          "text": "19. A Prolapse (or downward displacement) of the spleen is called:",
           "choices": [
             "splenomalacia",
             "splenoptosis",
@@ -3520,7 +3811,7 @@
           "answer": "tympanoplasty"
         },
         {
-          "text": "Visual examination of the abdomen by making a small incision near the navel iscalled:",
+          "text": "Visual examination of the abdomen by making a small incision near the navel is called:",
           "choices": [
             "laparoscope",
             "laparotomy",
