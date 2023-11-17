@@ -2838,212 +2838,414 @@
           "text": "Removal of the fallopian tube is termed",
           "answer": "salpingectomy",
           "choices": [
-              "oophorectomy",
-              "thoracotomy",
-              "hysterotomy",
-              "salpingectomy"
+            "oophorectomy",
+            "thoracotomy",
+            "hysterotomy",
+            "salpingectomy"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Condition of having urea in the blood is called",
           "answer": "uremia",
           "choices": [
-              "menorrhagia",
-              "hematuria",
-              "menorrhea",
-              "uremia"
+            "menorrhagia",
+            "hematuria",
+            "menorrhea",
+            "uremia"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Increase in the severity of the symptom of the disease is called",
           "answer": "exacerbation",
           "choices": [
-              "exacerbation",
-              "eponym",
-              "remission",
-              "prodrome"
+            "exacerbation",
+            "eponym",
+            "remission",
+            "prodrome"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Prolapse (or downward displacement) of the spleen is called:",
           "answer": "splenoptosis",
           "choices": [
-              "splensclerosis",
-              "splenospasm",
-              "splenoptosis",
-              "splenomalacia"
+            "splensclerosis",
+            "splenospasm",
+            "splenoptosis",
+            "splenomalacia"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Creation of a new opening from the windpipe to the outside of the body is",
           "answer": "tracheostomy",
           "choices": [
-              "pharyngotomy",
-              "tracheostomy",
-              "tracheotomy",
-              "laryngostomy"
+            "pharyngotomy",
+            "tracheostomy",
+            "tracheotomy",
+            "laryngostomy"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Audiometry is a term used to describe",
           "answer": "measurement of hearing",
           "choices": [
-              "instrument to measure voice",
-              "instrument to measure hearing",
-              "measurement of hearing",
-              "measurement of voice"
+            "instrument to measure voice",
+            "instrument to measure hearing",
+            "measurement of hearing",
+            "measurement of voice"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Crushing of a stone is:",
           "answer": "lithotripsy",
           "choices": [
-              "myorrhexis",
-              "lithotripsy",
-              "amniorrhexis",
-              "lithiasis"
+            "myorrhexis",
+            "lithotripsy",
+            "amniorrhexis",
+            "lithiasis"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Partial paralysis in muscles is termed:",
           "answer": "myoparesis",
           "choices": [
-              "myoparesis",
-              "myorrhaphy",
-              "myoplegia",
-              "myalgia"
+            "myoparesis",
+            "myorrhaphy",
+            "myoplegia",
+            "myalgia"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Surgical repair of the eardrum is called:",
           "answer": "tympanoplasty",
           "choices": [
-              "otoplasty",
-              "somoplasty",
-              "auroplasty",
-              "tympanoplasty"
+            "otoplasty",
+            "somoplasty",
+            "auroplasty",
+            "tympanoplasty"
           ],
           "type": 1
-      },
-      {
+        },
+        {
           "text": "Breaking of a nucleus is called:",
           "answer": "karyoclasis",
           "choices": [
-              "osteoclasis",
-              "anoxia",
-              "retinoschisis",
-              "karyoclasis"
+            "osteoclasis",
+            "anoxia",
+            "retinoschisis",
+            "karyoclasis"
           ],
           "type": 1
-      },
-      {
-        "text": "Normal tensing and shortening of muscle from nerve impulse is called contracture.",
-        "answer": false,
-        "type": 2
-      },
-      {
-        "text": "The irresistible urge to start fire is called pyromania.",
-        "answer": true,
-        "type": 2
-      },
-      {
-        "text": "Groove or crack-like sore of the skin is called fistula.",
-        "answer": false,
-        "type": 2
-      },
-      {
-        "text": "Diplopia means good vision.",
-        "answer": false,
-        "type": 2
-      },
-      {
-        "text": "Involuntary, automatic response of the muscular-nervous pathway is termed reflex.",
-        "answer": true,
-        "type": 2
-      },
-      {
-        "text": "Pertaining to the immunity to infection from antibodies in the blood is called humeral.",
-        "answer": false,
-        "type": 2
-      },
-      {
-        "text": "Small fluid-filled blister on the skin is called vesical.",
-        "answer": false,
-        "type": 2
-      },
-      {
-        "text": "The area between the anus and the scrotum is called omentum.",
-        "answer": false,
-        "type": 2
-      },
-      {
-        "text": "Protein molecule in the blood is called albumin.",
-        "answer": true,
-        "type": 2
-      },
-      {
-        "text": "Surgical fixation of the liver is called hepatodesis.",
-        "answer": false,
-        "type": 2
-      },
-      {
-        "text": "Color blindness is known as",
-        "answer": "achromatopsia",
-        "type": 0
-      },
-      {
-        "text": "Any impairment of the senses is called",
-        "answer": "dysesthesia",
-        "type": 0
-      },
-      {
-        "text": "Communication between the first and second part of the small intestine is termed",
-        "answer": "duodenojejunostomy",
-        "type": 0
-      },
-      {
-        "text": "Condition marked by a sudden episode of sleep is called",
-        "answer": "narcolepsy",
-        "type": 0
-      },
-      {
-        "text": "Breaking of a bone is termed",
-        "answer": "osteoclasis",
-        "type": 0
-      },
-      {
-        "text": "Acting on the mind is termed",
-        "answer": "psychotropic",
-        "type": 0
-      },
-      {
-        "text": "Decrease of calcium in the blood is called",
-        "answer": "calcipenia",
-        "type": 0
-      },
-      {
-        "text": "Measurement of work done or energy exerted is termed",
-        "answer": "ergometry",
-        "type": 0
-      },
-      {
-        "text": "Loss of the sense of taste is called",
-        "answer": "ageusia",
-        "type": 0
-      },
-      {
-        "text": "Agent that dissolves a blood clot is called",
-        "answer": "thrombolytic",
-        "type": 0
-      }
+        },
+        {
+          "text": "Normal tensing and shortening of muscle from nerve impulse is called contracture.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The irresistible urge to start fire is called pyromania.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Groove or crack-like sore of the skin is called fistula.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Diplopia means good vision.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Involuntary, automatic response of the muscular-nervous pathway is termed reflex.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Pertaining to the immunity to infection from antibodies in the blood is called humeral.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Small fluid-filled blister on the skin is called vesical.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The area between the anus and the scrotum is called omentum.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Protein molecule in the blood is called albumin.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Surgical fixation of the liver is called hepatodesis.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Color blindness is known as",
+          "answer": "achromatopsia",
+          "type": 0
+        },
+        {
+          "text": "Any impairment of the senses is called",
+          "answer": "dysesthesia",
+          "type": 0
+        },
+        {
+          "text": "Communication between the first and second part of the small intestine is termed",
+          "answer": "duodenojejunostomy",
+          "type": 0
+        },
+        {
+          "text": "Condition marked by a sudden episode of sleep is called",
+          "answer": "narcolepsy",
+          "type": 0
+        },
+        {
+          "text": "Breaking of a bone is termed",
+          "answer": "osteoclasis",
+          "type": 0
+        },
+        {
+          "text": "Acting on the mind is termed",
+          "answer": "psychotropic",
+          "type": 0
+        },
+        {
+          "text": "Decrease of calcium in the blood is called",
+          "answer": "calcipenia",
+          "type": 0
+        },
+        {
+          "text": "Measurement of work done or energy exerted is termed",
+          "answer": "ergometry",
+          "type": 0
+        },
+        {
+          "text": "Loss of the sense of taste is called",
+          "answer": "ageusia",
+          "type": 0
+        },
+        {
+          "text": "Agent that dissolves a blood clot is called",
+          "answer": "thrombolytic",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "Prev Dr.Inaam Quiz 1",
+      "data": [
+        {
+          "text": "Spermatozoon means",
+          "answer": "sperm cells",
+          "choices": [
+            "sperm cells",
+            "one bone of the spine",
+            "singled celled animal",
+            "pointed ends of an organ"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which is the plural form of apex?",
+          "answer": "apices",
+          "choices": [
+            "apae",
+            "apices",
+            "apis",
+            "apexs"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Alt of the following suffixes are related to condition of EXCEPT",
+          "answer": "ical",
+          "choices": [
+            "ism",
+            "ia",
+            "ical",
+            "sis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which word parts do you need to build a medical word that means 'lower half paralysis'?",
+          "answer": "-ia, hemi-, pleg/o-",
+          "choices": [
+            "-ia, para-, pleg/o-",
+            "-ia, hemi-, pleg/o-",
+            "-ia, tetra-, pleg/o-",
+            "-ia, pan-, pleg/o-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The medical word thoracotomy means '______ Into the chest.'",
+          "answer": "incision",
+          "choices": [
+            "resection",
+            "incision",
+            "exision",
+            "below"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Wich of the following statements is TRUE?",
+          "answer": "Lapar/o- and coli/o- both mean 'abdomen.'",
+          "choices": [
+            "Lapar/o- and coli/o- both mean 'abdomen.'",
+            "hyster/o- and cutane/o- both mean 'uterus.'",
+            "Gastr/o- and hepat/o- both mean 'stomach.'",
+            "Cost/o- and muscul/o- both mean 'muscle.'"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which word parts do you need to build a medical word that means 'disease of many nerves'?",
+          "answer": "-pathy, neur/o-, poly",
+          "choices": [
+            "-pathy, oste/o-, poly",
+            "-pathy, neur/o-peri",
+            "-pathy, neur/o-, poly",
+            "peri, neuro/o- pathy"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Sacs of fluid near a joint",
+          "answer": "bursae",
+          "choices": [
+            "lumen",
+            "pleura",
+            "foramen",
+            "bursae"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The combining form for uterus is",
+          "answer": "hyster/o-",
+          "choices": [
+            "lapar/o-",
+            "cyst/o-",
+            "hyster/o-",
+            "cholecyst/o-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which word means 'pertaining to through / across the skin'?",
+          "answer": "transdermal",
+          "choices": [
+            "dermatosis",
+            "transdermal",
+            "subcutaneous",
+            "dermatitis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which word parts do you need to build a medical word that means 'pertaining to under the tongue'?",
+          "answer": "-al, lingu/o-, sub",
+          "choices": [
+            "-al, lingu/o-, sub",
+            "-osis, lingu/o-, sub",
+            "algia, lingu/o-",
+            "-logy. lingu/o-, sub"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Myorrhexis is defined as",
+          "answer": "rupture of the muscle",
+          "choices": [
+            "suture of the muscle",
+            "rupture of the muscle",
+            "Pain in the muscle",
+            "muscle spasm"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A nephrocarcinoma is a cancerous tumor of the kidney",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Process of touching and feeling is called palpitation.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Endocrine glands are glands that secrete substances inside the body.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The combining form orchid/o means testes.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The act of rotating the arm so that the palm of the hand is forward or upward is called supination.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Abnormal passage between two internal organs is termed fistula.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Hyperthyroidism is a disease caused by more-than-normal functioning of the thyroid gland.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The membrane that surrounds the organs in the abdomen is perineum.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Pertaining to the blood vessels of the largest part of the brain is called",
+          "answer": "cerebrovascular",
+          "type": 0
+        },
+        {
+          "text": "Inflammation of the stomach and small intestine is called",
+          "answer": "gastroenteritis",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to through the tube leading from the urinary bladder to the outside the body is called",
+          "answer": "urethral",
+          "type": 0
+        },
+        {
+          "text": "The condition of normal breathing is called",
+          "answer": "eupnea",
+          "type": 0
+        },
+        {
+          "text": "Condition of having a low amount of sugar in the blood is called",
+          "answer": "hypoglycemia",
+          "type": 0
+        }
       ]
     }
   ],
