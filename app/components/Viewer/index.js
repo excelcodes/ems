@@ -171,16 +171,18 @@ export default function Viewer({ data, color, hideTable }) {
             }}>AGAIN?</button>
             <button className="component-button" onClick={() => {
               let newSet;
-              if (data.table.findIndex(table => table.name === set.name)) {
+              if (data.table.findIndex(table => table.name === set.name) >= 0) {
                 newSet = data.table[data.table.findIndex(table => table.name === set.name) + 1];
+                if (!newSet) newSet = data.review[0];
               }
               if (!newSet) {
-                if (data.review.findIndex(review => review.name === set.name)) {
+                if (data.review.findIndex(review => review.name === set.name) >= 0) {
                   newSet = data.review[data.review.findIndex(review => review.name === set.name) + 1];
-                  if (!newSet) {
-                    newSet = data.practice[data.practice.findIndex(practice => practice.name === set.name) + 1];
-                    if (!newSet) newSet = data.table[0] || data.review[0] || data.practice[0]
-                  }
+                  if (!newSet) newSet = data.practice[0];
+                }
+                if (!newSet) {
+                  newSet = data.practice[data.practice.findIndex(practice => practice.name === set.name) + 1];
+                  if (!newSet) newSet = data.table[0] || data.review[0] || data.practice[0]
                 }
               }
               console.log(newSet);
