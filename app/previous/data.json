@@ -2493,7 +2493,7 @@
         },
         {
           "text": "This research has confirmed the results of ________ studies.",
-          "answer": "undone",
+          "answer": "prior",
           "choices": [
             "premature",
             "prior",
