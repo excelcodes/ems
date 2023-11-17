@@ -223,7 +223,7 @@ export default function Viewer({ data, color, hideTable }) {
                     setCorrectAnswers(correct => correct - 1);
                   }
                   setCurrentQuestionId(currentQuestionId => currentQuestionId - 1);
-                }} style={{ cursor: currentQuestionId === 0 ? "not-allowed" : "pointer" }} className="component-button" type="button">Back</button> 
+                }} style={{ cursor: currentQuestionId === 0 ? "not-allowed" : "pointer" }} className="component-button" type="button">Back</button>
                 <button className="component-button" type="submit">Next</button>
                 <br />
               </>}
@@ -264,10 +264,28 @@ export default function Viewer({ data, color, hideTable }) {
                 }} style={{ cursor: "pointer" }}>
                   False
                 </div>
+                <button onClick={() => {
+                  if (currentQuestionId === 0) return;
+                  if (wrongAnswers.some(answer => answer.text === remakeQuestion(set.data[currentQuestionId - 1]).text)) {
+                    setWrongAnswers(wrongAnswer => wrongAnswer.filter(answer => answer.text !== remakeQuestion(set.data[currentQuestionId - 1]).text))
+                  } else {
+                    setCorrectAnswers(correct => correct - 1);
+                  }
+                  setCurrentQuestionId(currentQuestionId => currentQuestionId - 1);
+                }} style={{ cursor: currentQuestionId === 0 ? "not-allowed" : "pointer" }} className="component-button" type="button">Back</button>
+                <button className="component-button" type="button" onClick={() => {
+                  setWrongAnswers(wrong => [...wrong, currentQuestion]);
+                  setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
+                  Toast.fire({
+                    icon: "error",
+                    title: "Wrong!"
+                  });
+                }}>Next</button>
+                <br />
               </>}
 
-              {currentQuestion?.type === 1 &&
-                currentQuestion.choices.map((choice, i) => <div onClick={() => {
+              {currentQuestion?.type === 1 && <>
+                {currentQuestion.choices.map((choice, i) => <div onClick={() => {
                   if (choice === currentQuestion.answer) {
                     Toast.fire({
                       icon: "success",
@@ -282,8 +300,26 @@ export default function Viewer({ data, color, hideTable }) {
                     setWrongAnswers(wrong => [...wrong, currentQuestion]);
                   }
                   setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
-                }} className="mcq" key={i}>{choice}</div>)
-              }
+                }} className="mcq" key={i}>{choice}</div>)}
+                <button onClick={() => {
+                  if (currentQuestionId === 0) return;
+                  if (wrongAnswers.some(answer => answer.text === remakeQuestion(set.data[currentQuestionId - 1]).text)) {
+                    setWrongAnswers(wrongAnswer => wrongAnswer.filter(answer => answer.text !== remakeQuestion(set.data[currentQuestionId - 1]).text))
+                  } else {
+                    setCorrectAnswers(correct => correct - 1);
+                  }
+                  setCurrentQuestionId(currentQuestionId => currentQuestionId - 1);
+                }} style={{ cursor: currentQuestionId === 0 ? "not-allowed" : "pointer" }} className="component-button" type="button">Back</button>
+                <button className="component-button" type="button" onClick={() => {
+                  Toast.fire({
+                    icon: "error",
+                    title: "Wrong!"
+                  });
+                  setWrongAnswers(wrong => [...wrong, currentQuestion]);
+                  setCurrentQuestionId(currentValue => set.data[currentValue + 1] ? currentValue += 1 : "FINISHED");
+                }}>Next</button>
+                <br />
+              </>}
 
               {feedback ? <button className="component-button" type="button" onClick={() => setFeedback("")}>Hide</button> : <button className="component-button" type="button" onClick={() => {
                 setFeedback(
