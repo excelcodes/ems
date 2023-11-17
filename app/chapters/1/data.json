@@ -1324,8 +1324,18 @@
             "meaning": "knowledge"
           },
           "example": {
-            "text": "prognosis / diagnosis",
-            "meaning": "state of prior/complete knowledge"
+            "text": "prognosis",
+            "meaning": "state of prior"
+          }
+        },
+        {
+          "combiningForm": {
+            "text": "gnos/o",
+            "meaning": "knowledge"
+          },
+          "example": {
+            "text": "diagnosis",
+            "meaning": "complete knowledge"
           }
         },
         {
