@@ -3255,9 +3255,9 @@
             "text": "Visual examination of the abdomen by making a small incision near the navel is called:",
             "choices": [
                 "laparoscope",
-                "laparotomy ",
+                "laparotomy",
                 "mediastinoscopy",
-                "laparoscopy "
+                "laparoscopy"
             ],
             "type": 1,
             "answer": "laparoscopy"
