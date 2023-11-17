@@ -215,7 +215,17 @@ export default function Viewer({ data, color, hideTable }) {
                 <div onClick={() => setSpeedRun(speedRun => !speedRun)} style={{ cursor: "pointer" }}>
                   <input checked={speedRun} readOnly={true} type="checkbox" style={{ cursor: "pointer" }} /> Speed Run
                 </div><br />
-                <button className="component-button" type="submit">Check</button>
+                <button onClick={() => {
+                  if (currentQuestionId === 0) return;
+                  if (wrongAnswers.some(answer => answer.text === remakeQuestion(set.data[currentQuestionId - 1]).text)) {
+                    setWrongAnswers(wrongAnswer => wrongAnswer.filter(answer => answer.text !== remakeQuestion(set.data[currentQuestionId - 1]).text))
+                  } else {
+                    setCorrectAnswers(correct => correct - 1);
+                  }
+                  setCurrentQuestionId(currentQuestionId => currentQuestionId - 1);
+                }} style={{ cursor: currentQuestionId === 0 ? "not-allowed" : "pointer" }} className="component-button" type="button">Back</button> 
+                <button className="component-button" type="submit">Next</button>
+                <br />
               </>}
               {currentQuestion?.type === 2 && <>
                 <div className="mcq" onClick={() => {
