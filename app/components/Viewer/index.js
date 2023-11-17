@@ -288,6 +288,7 @@ export default function Viewer({ data, color, hideTable }) {
                             if (q.choices) delete q.choices;
                             return q;
                           })()).map(value => `${value}`).sort((a, b) => {
+                            const question = set.data[currentQuestionId];
                             if (a.includes(question.text)) {
                               return -1;
                             } else if (b.includes(question.text)) {
