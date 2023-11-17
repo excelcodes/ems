@@ -86,7 +86,7 @@ export default function Viewer({ data, color, hideTable }) {
   });
 
   React.useEffect(() => {
-    if (speedRun && currentQuestion?.answer?.toLowerCase()?.split(",")?.some(correctAnswer => correctAnswer.trim() === textInput.trim())) {
+    if (speedRun && currentQuestion?.answer?.toLowerCase()?.split(",")?.some(correctAnswer => correctAnswer.trim() === textInput.toLowerCase().trim())) {
 
       Toast.fire({
         icon: "success",
@@ -193,7 +193,7 @@ export default function Viewer({ data, color, hideTable }) {
             <div className="question-text">{currentQuestion.text}</div>
             <form onSubmit={(form) => {
               form.preventDefault();
-              if (currentQuestion?.answer?.toLowerCase()?.split(",")?.some(correctAnswer => correctAnswer.trim() === textInput.trim())) {
+              if (currentQuestion?.answer?.toLowerCase()?.split(",")?.some(correctAnswer => correctAnswer.trim() === textInput.toLowerCase().trim())) {
                 Toast.fire({
                   icon: "success",
                   title: "Correct!"
