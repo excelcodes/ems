@@ -2830,6 +2830,221 @@
           "type": 0
         }
       ]
+    },
+    {
+      "name": "Last year midterm part 1",
+      "data": [
+        {
+          "text": "Removal of the fallopian tube is termed",
+          "answer": "salpingectomy",
+          "choices": [
+              "oophorectomy",
+              "thoracotomy",
+              "hysterotomy",
+              "salpingectomy"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Condition of having urea in the blood is called",
+          "answer": "uremia",
+          "choices": [
+              "menorrhagia",
+              "hematuria",
+              "menorrhea",
+              "uremia"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Increase in the severity of the symptom of the disease is called",
+          "answer": "exacerbation",
+          "choices": [
+              "exacerbation",
+              "eponym",
+              "remission",
+              "prodrome"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Prolapse (or downward displacement) of the spleen is called:",
+          "answer": "splenoptosis",
+          "choices": [
+              "splensclerosis",
+              "splenospasm",
+              "splenoptosis",
+              "splenomalacia"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Creation of a new opening from the windpipe to the outside of the body is",
+          "answer": "tracheostomy",
+          "choices": [
+              "pharyngotomy",
+              "tracheostomy",
+              "tracheotomy",
+              "laryngostomy"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Audiometry is a term used to describe",
+          "answer": "measurement of hearing",
+          "choices": [
+              "instrument to measure voice",
+              "instrument to measure hearing",
+              "measurement of hearing",
+              "measurement of voice"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Crushing of a stone is:",
+          "answer": "lithotripsy",
+          "choices": [
+              "myorrhexis",
+              "lithotripsy",
+              "amniorrhexis",
+              "lithiasis"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Partial paralysis in muscles is termed:",
+          "answer": "myoparesis",
+          "choices": [
+              "myoparesis",
+              "myorrhaphy",
+              "myoplegia",
+              "myalgia"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Surgical repair of the eardrum is called:",
+          "answer": "tympanoplasty",
+          "choices": [
+              "otoplasty",
+              "somoplasty",
+              "auroplasty",
+              "tympanoplasty"
+          ],
+          "type": 1
+      },
+      {
+          "text": "Breaking of a nucleus is called:",
+          "answer": "karyoclasis",
+          "choices": [
+              "osteoclasis",
+              "anoxia",
+              "retinoschisis",
+              "karyoclasis"
+          ],
+          "type": 1
+      },
+      {
+        "text": "Normal tensing and shortening of muscle from nerve impulse is called contracture.",
+        "answer": false,
+        "type": 2
+      },
+      {
+        "text": "The irresistible urge to start fire is called pyromania.",
+        "answer": true,
+        "type": 2
+      },
+      {
+        "text": "Groove or crack-like sore of the skin is called fistula.",
+        "answer": false,
+        "type": 2
+      },
+      {
+        "text": "Diplopia means good vision.",
+        "answer": false,
+        "type": 2
+      },
+      {
+        "text": "Involuntary, automatic response of the muscular-nervous pathway is termed reflex.",
+        "answer": true,
+        "type": 2
+      },
+      {
+        "text": "Pertaining to the immunity to infection from antibodies in the blood is called humeral.",
+        "answer": false,
+        "type": 2
+      },
+      {
+        "text": "Small fluid-filled blister on the skin is called vesical.",
+        "answer": false,
+        "type": 2
+      },
+      {
+        "text": "The area between the anus and the scrotum is called omentum.",
+        "answer": false,
+        "type": 2
+      },
+      {
+        "text": "Protein molecule in the blood is called albumin.",
+        "answer": true,
+        "type": 2
+      },
+      {
+        "text": "Surgical fixation of the liver is called hepatodesis.",
+        "answer": false,
+        "type": 2
+      },
+      {
+        "text": "Color blindness is known as",
+        "answer": "achromatopsia",
+        "type": 0
+      },
+      {
+        "text": "Any impairment of the senses is called",
+        "answer": "dysesthesia",
+        "type": 0
+      },
+      {
+        "text": "Communication between the first and second part of the small intestine is termed",
+        "answer": "duodenojejunostomy",
+        "type": 0
+      },
+      {
+        "text": "Condition marked by a sudden episode of sleep is called",
+        "answer": "narcolepsy",
+        "type": 0
+      },
+      {
+        "text": "Breaking of a bone is termed",
+        "answer": "osteoclasis",
+        "type": 0
+      },
+      {
+        "text": "Acting on the mind is termed",
+        "answer": "psychotropic",
+        "type": 0
+      },
+      {
+        "text": "Decrease of calcium in the blood is called",
+        "answer": "calcipenia",
+        "type": 0
+      },
+      {
+        "text": "Measurement of work done or energy exerted is termed",
+        "answer": "ergometry",
+        "type": 0
+      },
+      {
+        "text": "Loss of the sense of taste is called",
+        "answer": "ageusia",
+        "type": 0
+      },
+      {
+        "text": "Agent that dissolves a blood clot is called",
+        "answer": "thrombolytic",
+        "type": 0
+      }
+      ]
     }
   ],
   "table": []
