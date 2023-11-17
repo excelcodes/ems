@@ -3321,7 +3321,7 @@
             "text": "Removal of the appendix is:",
             "choices": [
                 "hysterectomy",
-                "appendectomy ",
+                "appendectomy",
                 "oophorectomy",
                 "salpingectomy"
             ],
@@ -3453,7 +3453,7 @@
             "text": "Visual examination of the abdomen by making a small incision near the navel is called:",
             "choices": [
                 "laparoscope",
-                "laparotomy ",
+                "laparotomy",
                 "mediastinoscopy",
                 "laparoscopy "
             ],
