@@ -31,6 +31,61 @@
       "name": "Practice2"
     },
     {
+      "name": "Practice5",
+      "data": [
+        {
+          "text": "ticklish ___.",
+          "answer": "pain",
+          "type": 0
+        },
+        {
+          "text": "administer ___.",
+          "answer": "a drug",
+          "type": 0
+        },
+        {
+          "text": "dislocated ___.",
+          "answer": "shoulder",
+          "type": 0
+        },
+        {
+          "text": "sound ___.",
+          "answer": "advice",
+          "type": 0
+        },
+        {
+          "text": "nutritious ___.",
+          "answer": "food",
+          "type": 0
+        },
+        {
+          "text": "weak ___.",
+          "answer": "heart",
+          "type": 0
+        },
+        {
+          "text": "sensitive ___.",
+          "answer": "skin",
+          "type": 0
+        },
+        {
+          "text": "high ___.",
+          "answer": "blood pressure",
+          "type": 0
+        },
+        {
+          "text": "watery ___.",
+          "answer": "eyes",
+          "type": 0
+        },
+        {
+          "text": "deep ___.",
+          "answer": "cut",
+          "type": 0
+        }
+      ]      
+    },
+    {
       "name": "Practice7",
       "data": [
         {
