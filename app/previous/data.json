@@ -2386,7 +2386,7 @@
         },
         {
           "text": "Prenatal and antemortem have the same meaning.",
-          "answer": true,
+          "answer": false,
           "type": 2
         },
         {
