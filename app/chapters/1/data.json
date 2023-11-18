@@ -29,6 +29,76 @@
         }
       ],
       "name": "Practice2"
+    },
+    {
+      "name": "Practice7",
+      "data": [
+        {
+          "text": "terminally ___.",
+          "answer": "ill",
+          "type": 0
+        },
+        {
+          "text": "excruciating ___.",
+          "answer": "pain",
+          "type": 0
+        },
+        {
+          "text": "seek ___.",
+          "answer": "medical attention",
+          "type": 0
+        },
+        {
+          "text": "life ___.",
+          "answer": "threatening",
+          "type": 0
+        },
+        {
+          "text": "contract ___.",
+          "answer": "malaria",
+          "type": 0
+        },
+        {
+          "text": "regain ___.",
+          "answer": "consciousness",
+          "type": 0
+        },
+        {
+          "text": "alcohol ___.",
+          "answer": "consumption",
+          "type": 0
+        },
+        {
+          "text": "gain ___.",
+          "answer": "weight",
+          "type": 0
+        },
+        {
+          "text": "splitting ___.",
+          "answer": "headache",
+          "type": 0
+        },
+        {
+          "text": "prescribe ___.",
+          "answer": "antibiotic",
+          "type": 0
+        },
+        {
+          "text": "surgical ___.",
+          "answer": "intervention",
+          "type": 0
+        },
+        {
+          "text": "primary ___.",
+          "answer": "tooth",
+          "type": 0
+        },
+        {
+          "text": "plastic ___.",
+          "answer": "surgery",
+          "type": 0
+        }
+      ]
     }
   ],
   "review": [],
