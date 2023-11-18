@@ -877,6 +877,17 @@
           "type": 1
         },
         {
+          "text": "What are the two large internal spaces in the body?",
+          "choices": [
+            "dorsal and ventral",
+            "abdominal and cranial",
+            "pleural and abdominal",
+            "cranial and pleural"
+          ],
+          "answer": "dorsal and ventral",
+          "type": 1
+        },
+        {
           "text": "Which plane divides the body horizontally into an upper and lower portion?",
           "choices": [
             "transverse",
