@@ -3455,7 +3455,7 @@
                 "laparoscope",
                 "laparotomy",
                 "mediastinoscopy",
-                "laparoscopy "
+                "laparoscopy"
             ],
             "type": 1,
             "answer": "laparoscopy"
