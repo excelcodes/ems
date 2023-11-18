@@ -862,7 +862,7 @@
             "sagittal",
             "median"
           ],
-          "answer": "sagittal",
+          "answer": "vertical",
           "type": 1
         },
         {
@@ -874,17 +874,6 @@
             "sagittal"
           ],
           "answer": "sagittal",
-          "type": 1
-        },
-        {
-          "text": "What are the two large internal spaces in the body?",
-          "choices": [
-            "dorsal and ventral",
-            "abdominal and cranial",
-            "pleural and abdominal",
-            "cranial and pleural"
-          ],
-          "answer": "deleted",
           "type": 1
         },
         {
