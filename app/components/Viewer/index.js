@@ -86,6 +86,7 @@ export default function Viewer({ data, color, hideTable }) {
   });
 
   React.useEffect(() => {
+    if (typeof currentQuestion?.answer !== "string") return;
     if (speedRun && currentQuestion?.answer?.toLowerCase()?.split(",")?.some(correctAnswer => correctAnswer.trim() === textInput.toLowerCase().trim())) {
 
       Toast.fire({
