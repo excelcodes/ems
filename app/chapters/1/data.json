@@ -86,6 +86,61 @@
       ]      
     },
     {
+      "name": "Practice6",
+      "data": [
+        {
+          "text": "I fell through a window once and suffered __________ in my arm.",
+          "answer": "deep cut",
+          "type": 0
+        },
+        {
+          "text": "I asked the nurse what to do and she gave me some really __________.",
+          "answer": "sound advice",
+          "type": 0
+        },
+        {
+          "text": "I thought I had broken my arm but the X-ray showed I had a________.",
+          "answer": "dislocated shoulder",
+          "type": 0
+        },
+        {
+          "text": "My grandfather had a ________________ all his life but he still lived into his 90s.",
+          "answer": "weak heart",
+          "type": 0
+        },
+        {
+          "text": "The doctor told me I had _______ and should not eat any salty food.",
+          "answer": "high blood pressure",
+          "type": 0
+        },
+        {
+          "text": "I had a ________________________ in my back. It was the worst pain I had ever experienced.",
+          "answer": "ticklish pain",
+          "type": 0
+        },
+        {
+          "text": "I always eat plenty of fruit and vegetables. It is important to eat ______.",
+          "answer": "nutritious food",
+          "type": 0
+        },
+        {
+          "text": "The doctor will ___________________ to the patient.",
+          "answer": "administer a drug",
+          "type": 0
+        },
+        {
+          "text": "Can we go inside? This wind is giving me ____________________ and I can’t see properly.",
+          "answer": "watery eyes",
+          "type": 0
+        },
+        {
+          "text": "I have ________________. I always put on sun block cream before I go outside.",
+          "answer": "sensitive skin",
+          "type": 0
+        }
+      ]      
+    },
+    {
       "name": "Practice7",
       "data": [
         {
