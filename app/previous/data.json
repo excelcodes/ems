@@ -699,7 +699,7 @@
         },
         {
           "text": "The medical term for inflammation of the tonsils is",
-          "answer": "Tonsilitis",
+          "answer": "Tonsillitis",
           "type": 0
         },
         {
@@ -764,7 +764,7 @@
         },
         {
           "text": "Podiatry means a specialist of the diseases of the feet.",
-          "answer": true,
+          "answer": false,
           "type": 2
         },
         {
@@ -784,7 +784,7 @@
         },
         {
           "text": "Surgical fixation of the breasts means mammoplasty.",
-          "answer": true,
+          "answer": false,
           "type": 2
         },
         {
@@ -972,7 +972,7 @@
             "an instrument used to measure",
             "an instrument to cut into"
           ],
-          "answer": "an instrument to cut into",
+          "answer": "to view",
           "type": 1
         },
         {
@@ -1126,7 +1126,7 @@
             "spinal cavity",
             "cranial cavity"
           ],
-          "answer": "pleural cavity",
+          "answer": "mediastinum",
           "type": 1
         },
         {
@@ -1236,7 +1236,7 @@
             "thoracic",
             "laryngeal"
           ],
-          "answer": "laryngeal",
+          "answer": "pharyngeal",
           "type": 1
         },
         {
