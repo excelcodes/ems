@@ -3084,7 +3084,7 @@
         },
         {
           "text": "Which word parts do you need to build a medical word that means 'lower half paralysis'?",
-          "answer": "-ia, hemi-, pleg/o-",
+          "answer": "-ia, para-, pleg/o-",
           "choices": [
             "-ia, para-, pleg/o-",
             "-ia, hemi-, pleg/o-",
@@ -3233,7 +3233,7 @@
         },
         {
           "text": "Pertaining to through the tube leading from the urinary bladder to the outside the body is called",
-          "answer": "urethral",
+          "answer": "transurethral",
           "type": 0
         },
         {
