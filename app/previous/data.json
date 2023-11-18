@@ -784,7 +784,7 @@
         },
         {
           "text": "Surgical fixation of the breasts means mammoplasty.",
-          "answer": true,
+          "answer": false,
           "type": 2
         },
         {
