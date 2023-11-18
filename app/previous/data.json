@@ -2441,7 +2441,7 @@
         },
         {
           "text": "Around the mouth is",
-          "answer": "perioral",
+          "answer": "perioral, circumoral",
           "type": 0
         },
         {
@@ -3455,7 +3455,7 @@
                 "laparoscope",
                 "laparotomy",
                 "mediastinoscopy",
-                "laparoscopy "
+                "laparoscopy"
             ],
             "type": 1,
             "answer": "laparoscopy"
@@ -3842,6 +3842,400 @@
           ],
           "type": 1,
           "answer": "periosteum"
+        }
+      ]
+    },
+    {
+      "name": "Dr.Myssan Quiz1 Fall 2023",
+      "data": [
+        {
+          "text": "Cystectomy refers to inflammation of the urinary bladder.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Doctors who examine patients with pseudoplegia cannot identify physical or neurological evidence that justifies the paralysis.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Endocrine glands release hormones directly into the bloodstream.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "An erythrocyte is a red blood cell.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "An oncologist is a specialist in the study and treatment of diseases pertaining to the large intestine.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The combining forms arteri/o, ven/o, and phleb/o refer to types of blood vessels in the body.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The suffix -tomy can have two meanings depending on whether it is attached to one root or two roots.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A cytologist is an expert in the study of diseases of the urinary bladder.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The words diagnosis and prognosis have the exact same meaning.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Completely watery stool or fecal matter is termed",
+          "answer": "diarrhea",
+          "choices": [
+            "panplegia",
+            "dyspnea",
+            "megacolon",
+            "diarrhea"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that means 'bone'.",
+          "answer": "Oste/o",
+          "choices": [
+            "Arthr/o",
+            "Oste/o",
+            "Myel/o",
+            "Ather/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that refers to high blood sugar.",
+          "answer": "hyperglycemia",
+          "choices": [
+            "hyperproteinemia",
+            "hypertrophy",
+            "hypertension",
+            "hyperglycemia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that refers to the internal lining of the uterus.",
+          "answer": "endometrium",
+          "choices": [
+            "retrouterine",
+            "hysterectomy",
+            "endometrium",
+            "endometriosis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A word that means after birth is",
+          "answer": "postnatal",
+          "choices": [
+            "postnatal",
+            "antenatal",
+            "postmortem",
+            "prodrome"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that does not mean 'fat'",
+          "answer": "onych/o",
+          "choices": [
+            "onych/o",
+            "steat/o",
+            "lip/o",
+            "adip/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that does not mean 'uterus'.",
+          "answer": "Colp/o",
+          "choices": [
+            "Uter/o",
+            "Hyster/o",
+            "Colp/o",
+            "Metri/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that means abnormal condition of blood clotting.",
+          "answer": "Thrombosis",
+          "choices": [
+            "Thrombus",
+            "Thrombosis",
+            "Hematuria",
+            "Thrombolytic"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A specialist in the study of heart-related diseases is",
+          "answer": "a cardiologist",
+          "choices": [
+            "an oncologist",
+            "a pulmonologist",
+            "a trichologist",
+            "a cardiologist"
+          ],
+          "type": 1
+        },
+        {
+          "answer": "tachycardia",
+          "text": "Abnormally fast heartbeat is termed",
+          "type": 0
+        },
+        {
+          "answer": "antibiotic",
+          "text": "An agent or a substance that helps the body fight foreign microorganisms or pathogens that might attack it is termed as an",
+          "type": 0
+        },
+        {
+          "answer": "gynecologist",
+          "text": "A ___ is a specialist in the study of diseases pertaining to women.",
+          "type": 0
+        },
+        {
+          "answer": "thoracic",
+          "text": "The adjective form of the noun thorax is",
+          "type": 0
+        },
+        {
+          "answer": "acronym",
+          "text": "The expression EMS which refers to English for Medical Sciences is an example of an",
+          "type": 0
+        },
+        {
+          "answer": "sign",
+          "text": "Objective evidence of sickness, injury, or a disease that a doctor can observe, measure, or test and prove is termed as a ___ of a disease, sickness, or injury.",
+          "type": 0
+        },
+        {
+          "answer": "myorrhexis",
+          "text": "Rupture, tearing, or breaking of muscle tissue is termed",
+          "type": 0
+        },
+        {
+          "answer": "colocolostomy",
+          "text": "Communication between two parts of the large intestine (usually established by a surgical connection) is termed",
+          "type": 0
+        },
+        {
+          "answer": "bradycardia",
+          "text": "Abnormally slow heartbeat is termed",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "name": "Dr.Myssan Quiz2 Fall 2023",
+      "data": [
+        {
+          "answer": "exogenous",
+          "text": "Originating outside the body is termed",
+          "type": 0
+        },
+        {
+          "answer": "hypoglycemia",
+          "text": "Condition of low blood sugar is termed",
+          "type": 0
+        },
+        {
+          "answer": "epiglottis",
+          "text": "A cartilage that covers the trachea during swallowing is the",
+          "type": 0
+        },
+        {
+          "answer": "exophthalmos",
+          "text": "Protrusion of the eyeball to the outside (Grave's Disease) is termed",
+          "type": 0
+        },
+        {
+          "answer": "transdermal",
+          "text": "The word ___ means pertaining to through the skin.",
+          "type": 0
+        },
+        {
+          "answer": "oliguria",
+          "text": "Excretion of a decreased amount of urine is termed",
+          "type": 0
+        },
+        {
+          "answer": "megacephaly",
+          "text": "A patient with an abnormally large head or abnormally large cranial cavity is diagnosed with",
+          "type": 0
+        },
+        {
+          "answer": "dystrophy",
+          "text": "The term ___ means 'bad development', usually used to refer to deteriorating muscle tissue.",
+          "type": 0
+        },
+        {
+          "answer": "pachyemia",
+          "text": "Condition of thickness of blood is termed",
+          "type": 0
+        },
+        {
+          "text": "Circumoral and perioral have opposite meanings.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Anything 'interstitial' exists in the small, narrow spaces between tissues or parts of an organ.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "A person who is only right-handed is 'dextromanual'; a person who is only left-handed is 'ambidextrous'.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Telophase is the first stage of cell division.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Syndactyly means webbing or fusion of the fingers or toes.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The prefixes Supra- and Sub- have opposite meanings.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Xeroma is a dry mass of blood.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The word 'Endometrial' means pertaining to inside the abdomen.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The word \"Premature\" means:",
+          "answer": "happening before its right time",
+          "choices": [
+            "happening before its right time",
+            "an untimely death",
+            "a newborn that did not finish its term",
+            "an unrealistic idea or suggestion"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the prefix that does not mean \"same\".",
+          "answer": "hetero",
+          "choices": [
+            "homo",
+            "equi",
+            "hetero",
+            "iso"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the word that has a combining form that means \"shoulder blades\".",
+          "answer": "subscapular",
+          "choices": [
+            "metacarpal",
+            "intracranial",
+            "subscapular",
+            "subdural"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Composed of similar cells is termed",
+          "answer": "isocellular",
+          "choices": [
+            "isocellular",
+            "multicellular",
+            "tetrad",
+            "monocellular"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the prefix that means \"grey\".",
+          "answer": "polio-",
+          "choices": [
+            "xantho-",
+            "cirrho-",
+            "cyano-",
+            "polio-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that means \"wrist bone\".",
+          "answer": "Carp/o",
+          "choices": [
+            "Cardi/o",
+            "Cost/o",
+            "Crani/o",
+            "Carp/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the prefix that does NOT mean \"two\" or \"double\".",
+          "answer": "tetra-",
+          "choices": [
+            "diplo-",
+            "di-",
+            "bi-",
+            "tetra-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the word that means \"pertaining to outside the skull\".",
+          "answer": "extracranial",
+          "choices": [
+            "metacarpal",
+            "meninges",
+            "extracranial",
+            "congenital"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Baking a cake is a ___ process. If you do not go step by step, it won't work.",
+          "answer": "sequential",
+          "choices": [
+            "outcome",
+            "sequential",
+            "alternative",
+            "criteria"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Sometimes your teacher does not have ___ time in class to answer all students' questions, and this is why she asks them to see her during her office hours.",
+          "answer": "sufficient",
+          "choices": [
+            "alternative",
+            "physical",
+            "criteria",
+            "sufficient"
+          ],
+          "type": 1
         }
       ]
     }
