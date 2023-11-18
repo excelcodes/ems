@@ -214,7 +214,7 @@ export default function Viewer({ data, color, hideTable }) {
                   className="question-input"
                   type="text"
                   value={textInput}
-                  onInput={input => setTextInput(input.target.value)} />
+                  onInput={input => setTextInput(input.target.value)} autoCorrect={false} spellCheck={false} />
                 <div onClick={() => setSpeedRun(speedRun => !speedRun)} style={{ cursor: "pointer" }}>
                   <input checked={speedRun} readOnly={true} type="checkbox" style={{ cursor: "pointer" }} /> Speed Run
                 </div><br />
