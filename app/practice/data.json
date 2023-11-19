@@ -294,5 +294,201 @@
         "type": 0
       }
     ]
+  }, {
+    "name": "more practice",
+    "data": [  {
+      "text": "pertaining to the artery",
+      "answer": "coronary",
+      "type": 0
+    },
+    {
+      "text": "excision of lungs",
+      "answer": "pneumonectomy",
+      "type": 0
+    },
+    {
+      "text": "inflammation of the mouth",
+      "answer": "stomatitis",
+      "type": 0
+    },
+    {
+      "text": "softening of nails",
+      "answer": "onychomalacia",
+      "type": 0
+    },
+    {
+      "text": "pertaining to nails",
+      "answer": "ungual",
+      "type": 0
+    },
+    {
+      "text": "having to do with the nose",
+      "answer": "nasal",
+      "type": 0
+    },
+    {
+      "text": "pituitary gland",
+      "answer": "hypophysis",
+      "type": 0
+    },
+    {
+      "text": "pertaining to the pituitary gland",
+      "answer": "hypophyseal",
+      "type": 0
+    },
+    {
+      "text": "surgical repair of the pupil",
+      "answer": "coreoplasty",
+      "type": 0
+    },
+    {
+      "text": "pertaining to the iris and the pupil",
+      "answer": "iridopupillary",
+      "type": 0
+    },
+    {
+      "text": "hernia of the rectum",
+      "answer": "rectocele",
+      "type": 0
+    },
+    {
+      "text": "surgical fixation of the rectum",
+      "answer": "proctopexy",
+      "type": 0
+    },
+    {
+      "text": "inflammation of the sweat glands",
+      "answer": "hidradenitis",
+      "type": 0
+    },
+    {
+      "text": "profuse sweating",
+      "answer": "sudoresis",
+      "type": 0
+    },
+    {
+      "text": "binding of the tendon",
+      "answer": "tenodesis",
+      "type": 0
+    },
+    {
+      "text": "inflammation of the tendon",
+      "answer": "tendinitis",
+      "type": 0
+    },
+    {
+      "text": "inflammation of the testis",
+      "answer": "orchitis",
+      "type": 0
+    },
+    {
+      "text": "surgical repair of the testis",
+      "answer": "orchidoplasty",
+      "type": 0
+    },
+    {
+      "text": "fixation of the testis",
+      "answer": "orchiopexy",
+      "type": 0
+    },
+    {
+      "text": "inflammation of the thyroid gland",
+      "answer": "thyroadenitis",
+      "type": 0
+    },
+    {
+      "text": "visual examination of the vagina",
+      "answer": "colposcopy",
+      "type": 0
+    },
+    {
+      "text": "incision into the perineum",
+      "answer": "episiotomy",
+      "type": 0
+    },
+    {
+      "text": "inflammation of the vulva",
+      "answer": "vulvitis",
+      "type": 0
+    },  {
+      "text": "below the kneecap",
+      "answer": "subpatellar",
+      "type": 0
+    },
+    {
+      "text": "backbone",
+      "answer": "sacrum",
+      "type": 0
+    },
+    {
+      "text": "pertaining to the backbone",
+      "answer": "sacral",
+      "type": 0
+    },
+    {
+      "text": "pertaining to the jaw",
+      "answer": "gnathic",
+      "type": 0
+    },
+    {
+      "text": "painless killing",
+      "answer": "euthanasia",
+      "type": 0
+    },
+    {
+      "text": "sustained muscle contraction",
+      "answer": "tetany",
+      "type": 0
+    },
+    {
+      "text": "pain on urination",
+      "answer": "urodynia",
+      "type": 0
+    },
+    {
+      "text": "A vague feeling of bodily discomfort",
+      "answer": "malaise",
+      "type": 0
+    },
+    {
+      "text": "early symptoms indicating illness",
+      "answer": "prodrome",
+      "type": 0
+    },
+    {
+      "text": "Surgical repair of the eyelid",
+      "answer": "blepharoplasty",
+      "type": 0
+    },
+    {
+      "text": "complete separation of wastes from the blood",
+      "answer": "dialysis",
+      "type": 0
+    },
+    {
+      "text": "below the shoulder blades",
+      "answer": "infrascapular",
+      "type": 0
+    },
+    {
+      "text": "to cleanse so as to destroy or prevent the growth of disease-carrying microorganisms",
+      "answer": "disinfect",
+      "type": 0
+    },
+    {
+      "text": "abnormally rapid mental activity",
+      "answer": "tachyphrenia",
+      "type": 0
+    },
+    {
+      "text": "abnormally deep respiration",
+      "answer": "hyperventilation",
+      "type": 0
+    },
+    {
+      "text": "return of partly digested food from the stomach to the mouth/backward flow",
+      "answer": "regurgitation",
+      "type": 0
+    }]
   }]
 }
