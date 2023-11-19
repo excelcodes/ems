@@ -4394,6 +4394,200 @@
       ]
     },
     {
+      "name": "Dr.Myssan Quiz1 Fall 2023 (another section)",
+      "data": [
+        {
+          "answer": "bradycardia",
+          "text": "Abnormally slow heartbeat is termed",
+          "type": 0
+        },
+        {
+          "answer": "antibiotic",
+          "text": "An agent or a substance that helps the body fight foreign microorganisms or pathogens that might attack it is termed as an",
+          "type": 0
+        },
+        {
+          "answer": "thoracic",
+          "text": "The adjective form of the noun thorax is",
+          "type": 0
+        },
+        {
+          "answer": "coccygeal",
+          "text": "The adjective form of the noun Coccyx is",
+          "type": 0
+        },
+        {
+          "answer": "sigmoidoscopy",
+          "text": "Visual examination of the sigmoid colon is termed",
+          "type": 0
+        },
+        {
+          "answer": "acronym",
+          "text": "The expression EMS which refers to English for Medical Sciences is an example of an",
+          "type": 0
+        },
+        {
+          "answer": "psychology",
+          "text": "The study of the mind is termed",
+          "type": 0
+        },
+        {
+          "answer": "sign",
+          "text": "Objective evidence of sickness, injury, or a disease that a doctor can observe, measure, or test and prove is termed as a ___ of a disease, sickness, or injury.",
+          "type": 0
+        },
+        {
+          "answer": "dysmenorrhea",
+          "text": "Painful menstrual flow is termed",
+          "type": 0
+        },
+        {
+          "text": "Gingivitis is inflammation of the gums.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "A sigmoidoscopy is the visual examination of one part of the small intestine.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A thoracotomy is an incision into the chest.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Cardiomyopathy means disease of the heart muscle.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The words diagnosis and prognosis have the exact same meaning.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Doctors who examine patients with pseudoplegia cannot identify physical or neurological evidence that justifies the paralysis.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "An oncologist is a specialist in the study and treatment of diseases pertaining to the large intestine.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The suffix tomy can have two meanings depending on whether it is attached to one root or two roots.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A cytologist is an expert in the study of diseases of the urinary bladder.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Nerve pain is",
+          "answer": "Neuralgia",
+          "choices": [
+            "Neuropathy",
+            "Neuritis",
+            "Neurotomy",
+            "Neuralgia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that means abnormal enlargement of the liver.",
+          "answer": "hepatomegaly",
+          "choices": [
+            "cardiomegaly",
+            "hepatomegaly",
+            "renomegaly",
+            "cytomegaly"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that means abnormal condition of blood clotting.",
+          "answer": "Thrombosis",
+          "choices": [
+            "Thrombus",
+            "Hematuria",
+            "Thrombosis",
+            "Thrombolytic"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Completely watery stool or fecal matter is termed",
+          "answer": "diarrhea",
+          "choices": [
+            "diarrhea",
+            "dyspnea",
+            "panplegia",
+            "megacolon"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that refers to the internal lining of the uterus.",
+          "answer": "endometrium",
+          "choices": [
+            "endometriosis",
+            "retrouterine",
+            "hysterectomy",
+            "endometrium"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that refers to the small intestine in general.",
+          "answer": "enter/o",
+          "choices": [
+            "ileum/o",
+            "enter/o",
+            "jejun/o",
+            "duoden/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A specialist in the study of heart-related diseases is",
+          "answer": "a cardiologist",
+          "choices": [
+            "a trichologist",
+            "an oncologist",
+            "a cardiologist",
+            "a pulmonologist"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that does not mean 'uterus'.",
+          "answer": "Colp/o",
+          "choices": [
+            "Uter/o",
+            "Hyster/o",
+            "Colp/o",
+            "Metri/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that means 'bone'.",
+          "answer": "Oste/o",
+          "choices": [
+            "Ather/o",
+            "Myel/o",
+            "Oste/o",
+            "Arthr/o"
+          ],
+          "type": 1
+        }
+      ]
+    },
+    {
       "name": "Dr.Myssan Quiz2 Fall 2023 (another section)",
       "data": [
         {
