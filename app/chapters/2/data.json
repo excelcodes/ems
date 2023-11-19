@@ -31,6 +31,36 @@
       "name": "Practice10"
     },
     {
+      "name": "Practice1",
+      "data": [
+        {
+          "answer": "dermatologist",
+          "text": "specialist in the study of skin",
+          "type": 0
+        },
+        {
+          "answer": "orthopedics",
+          "text": "specialty in correcting joints and the skeleton",
+          "type": 0
+        },
+        {
+          "answer": "physician",
+          "text": "one who specializes in diagnosis and medical treatment.",
+          "type": 0
+        },
+        {
+          "answer": "gynecology",
+          "text": "study of women’s diseases",
+          "type": 0
+        },
+        {
+          "answer": "geriatrics",
+          "text": "care and treatment of older adults",
+          "type": 0
+        }
+      ]
+    },
+    {
       "data": [
         {
           "text": "instrument for recording many physiologic responses simultaneously",
