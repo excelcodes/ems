@@ -86,6 +86,41 @@
       "name": "Practice11"
     },
     {
+      "name": "Practice1",
+      "data": [
+        {
+          "answer": "adduct",
+          "text": "to move toward from the midline",
+          "type": 0
+        },
+        {
+          "answer": "percolate",
+          "text": "(of a liquid or gas) filter gradually through a porous surface or substance.",
+          "type": 0
+        },
+        {
+          "answer": "dialysis",
+          "text": "complete separation of wastes from the blood",
+          "type": 0
+        },
+        {
+          "answer": "adhere",
+          "text": "stick fast to (a surface or substance)",
+          "type": 0
+        },
+        {
+          "answer": "transurethral",
+          "text": "Pertaining to through the tube leading from the urinary bladder to the outside of the body",
+          "type": 0
+        },
+        {
+          "answer": "abnormal",
+          "text": "away from normal",
+          "type": 0
+        }
+      ]
+    },
+    {
       "data": [
         {
           "text": "an element that has one atom",
