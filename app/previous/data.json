@@ -4392,6 +4392,544 @@
           "type": 2
         }
       ]
+    },
+    {
+      "name": "Dr.Myssan Quiz1 Fall 2023 (another section)",
+      "data": [
+        {
+          "answer": "bradycardia",
+          "text": "Abnormally slow heartbeat is termed",
+          "type": 0
+        },
+        {
+          "answer": "antibiotic",
+          "text": "An agent or a substance that helps the body fight foreign microorganisms or pathogens that might attack it is termed as an",
+          "type": 0
+        },
+        {
+          "answer": "thoracic",
+          "text": "The adjective form of the noun thorax is",
+          "type": 0
+        },
+        {
+          "answer": "coccygeal",
+          "text": "The adjective form of the noun Coccyx is",
+          "type": 0
+        },
+        {
+          "answer": "sigmoidoscopy",
+          "text": "Visual examination of the sigmoid colon is termed",
+          "type": 0
+        },
+        {
+          "answer": "acronym",
+          "text": "The expression EMS which refers to English for Medical Sciences is an example of an",
+          "type": 0
+        },
+        {
+          "answer": "psychology",
+          "text": "The study of the mind is termed",
+          "type": 0
+        },
+        {
+          "answer": "sign",
+          "text": "Objective evidence of sickness, injury, or a disease that a doctor can observe, measure, or test and prove is termed as a ___ of a disease, sickness, or injury.",
+          "type": 0
+        },
+        {
+          "answer": "dysmenorrhea",
+          "text": "Painful menstrual flow is termed",
+          "type": 0
+        },
+        {
+          "text": "Gingivitis is inflammation of the gums.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "A sigmoidoscopy is the visual examination of one part of the small intestine.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A thoracotomy is an incision into the chest.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Cardiomyopathy means disease of the heart muscle.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The words diagnosis and prognosis have the exact same meaning.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Doctors who examine patients with pseudoplegia cannot identify physical or neurological evidence that justifies the paralysis.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "An oncologist is a specialist in the study and treatment of diseases pertaining to the large intestine.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The suffix tomy can have two meanings depending on whether it is attached to one root or two roots.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A cytologist is an expert in the study of diseases of the urinary bladder.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Nerve pain is",
+          "answer": "Neuralgia",
+          "choices": [
+            "Neuropathy",
+            "Neuritis",
+            "Neurotomy",
+            "Neuralgia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that means abnormal enlargement of the liver.",
+          "answer": "hepatomegaly",
+          "choices": [
+            "cardiomegaly",
+            "hepatomegaly",
+            "renomegaly",
+            "cytomegaly"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that means abnormal condition of blood clotting.",
+          "answer": "Thrombosis",
+          "choices": [
+            "Thrombus",
+            "Hematuria",
+            "Thrombosis",
+            "Thrombolytic"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Completely watery stool or fecal matter is termed",
+          "answer": "diarrhea",
+          "choices": [
+            "diarrhea",
+            "dyspnea",
+            "panplegia",
+            "megacolon"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that refers to the internal lining of the uterus.",
+          "answer": "endometrium",
+          "choices": [
+            "endometriosis",
+            "retrouterine",
+            "hysterectomy",
+            "endometrium"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that refers to the small intestine in general.",
+          "answer": "enter/o",
+          "choices": [
+            "ileum/o",
+            "enter/o",
+            "jejun/o",
+            "duoden/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A specialist in the study of heart-related diseases is",
+          "answer": "a cardiologist",
+          "choices": [
+            "a trichologist",
+            "an oncologist",
+            "a cardiologist",
+            "a pulmonologist"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that does not mean 'uterus'.",
+          "answer": "Colp/o",
+          "choices": [
+            "Uter/o",
+            "Hyster/o",
+            "Colp/o",
+            "Metri/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that means 'bone'.",
+          "answer": "Oste/o",
+          "choices": [
+            "Ather/o",
+            "Myel/o",
+            "Oste/o",
+            "Arthr/o"
+          ],
+          "type": 1
+        }
+      ]
+    },
+    {
+      "name": "Dr.Myssan Quiz2 Fall 2023 (another section)",
+      "data": [
+        {
+          "answer": "transurethral",
+          "text": "The word ___ means pertaining to through the hole or the opening of the body from where humans discharge urine.",
+          "type": 0
+        },
+        {
+          "answer": "hypoglycemia",
+          "text": "Condition of low blood sugar is termed",
+          "type": 0
+        },
+        {
+          "answer": "megacephaly",
+          "text": "A patient with an abnormally large head or abnormally large cranial cavity is diagnosed with",
+          "type": 0
+        },
+        {
+          "answer": "retroperitoneal",
+          "text": "The term ___ means pertaining to behind the membrane that surrounds the abdominal cavity.",
+          "type": 0
+        },
+        {
+          "answer": "epiglottis",
+          "text": "A cartilage that covers the trachea during swallowing is the",
+          "type": 0
+        },
+        {
+          "answer": "hypertension",
+          "text": "The technical term for high blood pressure is",
+          "type": 0
+        },
+        {
+          "answer": "pachyemia",
+          "text": "Condition of thickness of blood is termed",
+          "type": 0
+        },
+        {
+          "text": "You are supposed to be patient before you ___ to a particular situation, especially if you are upset.",
+          "answer": "react",
+          "choices": [
+            "fund",
+            "link",
+            "react",
+            "compensate"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Baking a cake is a ___ process. If you do not go step by step, it won't work.",
+          "answer": "sequential",
+          "choices": [
+            "outcome",
+            "alternative",
+            "sequential",
+            "criteria"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The word \"Premature\" means:",
+          "answer": "happening before its right time",
+          "choices": [
+            "a newborn that did not finish its term",
+            "an unrealistic idea or suggestion",
+            "an untimely death",
+            "happening before its right time"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the word that has a combining form that means \"shoulder blades\".",
+          "answer": "subscapular",
+          "choices": [
+            "intracranial",
+            "metacarpal",
+            "subdural",
+            "subscapular"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Condition of Having normal body temperature is termed",
+          "answer": "normothermia",
+          "choices": [
+            "regurgitation",
+            "pseudoreadson",
+            "poikilothermia",
+            "normothermia"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the prefix that does not mean \"same\".",
+          "answer": "hetero",
+          "choices": [
+            "homo",
+            "iso",
+            "equi",
+            "hetero"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the prefix that does NOT mean \"two\" or \"double\".",
+          "answer": "tetra-",
+          "choices": [
+            "diplo-",
+            "tetra-",
+            "bi-",
+            "di-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the combining form that means \"wrist bone\".",
+          "answer": "Carp/o",
+          "choices": [
+            "Crani/o",
+            "Cardi/o",
+            "Cost/o",
+            "Carp/o"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the word that means \"pertaining to outside the skull\".",
+          "answer": "extracranial",
+          "choices": [
+            "metacarpal",
+            "extracranial",
+            "meninges",
+            "congenital"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the suffix that does NOT mean \"first\" or \"one\".",
+          "answer": "hemi-",
+          "choices": [
+            "primi-",
+            "uni-",
+            "mono-",
+            "hemi-"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Strept/o refers to a \"grapelike cluster\".",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A person who is only right-handed is \"dextromanual\"; a person who is only left-handed is \"ambidextrous\".",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The word \"ectopic\" means abnormal pregnancy.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Oligodontia involves less than the normal number of teeth.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Monoatomic describes something made up of more than one atom.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The prefixes Supra- and Sub- have opposite meanings.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The word \"Endometrial\" means pertaining to inside the abdomen.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Xeroma is a dry mass of blood.",
+          "answer": false,
+          "type": 2
+        }
+      ]
+    },
+    {
+      "name": "Dr.Myssan Optional Quiz Fall 2023 (another section)",
+      "data": [
+        {
+          "answer": "oophorectomy",
+          "text": "Excision of an ovary is",
+          "type": 0
+        },
+        {
+          "answer": "arteriorrhexis",
+          "text": "The word that means rupture of an artery is",
+          "type": 0
+        },
+        {
+          "answer": "subscapular, infrascapular",
+          "text": "The word ___ means pertaining to below the shoulder blades",
+          "type": 0
+        },
+        {
+          "answer": "hypothermia",
+          "text": "Decreased body temperature is termed",
+          "type": 0
+        },
+        {
+          "text": "to carry out a particular activity or process, especially in order to get information or prove facts",
+          "answer": "conduct",
+          "choices": [
+            "seek",
+            "compute",
+            "maintain",
+            "conduct"
+          ],
+          "type": 1
+        },
+        {
+          "text": "to give special attention to one particular person or thing, or to make people do this",
+          "answer": "focus",
+          "choices": [
+            "affect",
+            "conclude",
+            "focus",
+            "normalize"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Sugar is ___ in different amounts per country/region, and companies adjust their product sugar accordingly",
+          "answer": "consumed",
+          "choices": [
+            "conducted",
+            "consumed",
+            "focused",
+            "maintained"
+          ],
+          "type": 1
+        },
+        {
+          "text": "-cele is a suffix that means hernia.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The term \"endocarditis\" means inflammation outside the heart.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A congenital disease is developed around puberty.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The word craniomalacia means the opposite of hardening of the skull.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Diplopia means condition of double vision.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Hypoproteinemia means the level of oxygen in the blood is lower than normal.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Anesthesia is defined as",
+          "answer": "condition of being without sensation",
+          "choices": [
+            "condition of having less than the normal number of digits on a finger or a toe",
+            "condition of having no sense of smell",
+            "condition of being without sensation",
+            "condition of having no sense of taste"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The term for surgical repair of the eyelid is",
+          "answer": "blepharoplasty",
+          "choices": [
+            "mastoplasty",
+            "tympanoplasty",
+            "valvuloplasty",
+            "blepharoplasty"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Lack of menstrual flow is called",
+          "answer": "amenorrhea",
+          "choices": [
+            "amenorrhea",
+            "menorrhagia",
+            "dysmenorrhea",
+            "menorrhea"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that means \"before birth\"",
+          "answer": "antepartum",
+          "choices": [
+            "pronatal",
+            "antepartum",
+            "neonatal",
+            "postmortem"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which word means 'inflammation of the lung'?",
+          "answer": "pneumonitis",
+          "choices": [
+            "laryngitis",
+            "hepatitis",
+            "pneumonitis",
+            "neuritis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What do we call the bones beyond the wrist?",
+          "answer": "metacarpals",
+          "choices": [
+            "dexterity",
+            "scapula",
+            "vertebrae",
+            "metacarpals"
+          ],
+          "type": 1
+        }
+      ]
     }
   ],
   "table": []
