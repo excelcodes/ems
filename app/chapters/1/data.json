@@ -83,7 +83,7 @@
           "answer": "cut",
           "type": 0
         }
-      ]      
+      ]
     },
     {
       "name": "Practice6",
@@ -138,7 +138,7 @@
           "answer": "sensitive skin",
           "type": 0
         }
-      ]      
+      ]
     },
     {
       "name": "Practice7",
@@ -229,7 +229,8 @@
           "roots": [
             "adren/o (adrenomegaly)",
             "adrenal/o (adrenal)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -237,7 +238,8 @@
           "roots": [
             "append/o (appendectomy)",
             "appendic/o (appendicitis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -272,7 +274,8 @@
           "roots": [
             "mamm/o (mammogram)",
             "mast/o (mastectomy)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -280,7 +283,8 @@
           "roots": [
             "col/o (colostomy)",
             "colon/o (colonoscopy)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -288,7 +292,8 @@
           "roots": [
             "xer/o (xeroderma)",
             "ichthy/o (ichthyosis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -296,7 +301,8 @@
           "roots": [
             "ot/o (otorhinolaryngology)",
             "aur/o (aural)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -304,7 +310,8 @@
           "roots": [
             "tympan/o (tympanic)",
             "myring/o (myringotomy)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -330,7 +337,8 @@
           "roots": [
             "ped/o (pedograph)",
             "pod/o (podiatry)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -338,7 +346,8 @@
           "roots": [
             "coron/o (coronary)",
             "cardi/o (cardiology)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -346,7 +355,8 @@
           "roots": [
             "ren/o (renal)",
             "nephr/o (nephritis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -363,7 +373,8 @@
           "roots": [
             "or/o (oral)",
             "stomat/o (stomatitis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -380,7 +391,8 @@
           "roots": [
             "onych/o (onychomalacia)",
             "ungu/o (ungual)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -388,7 +400,8 @@
           "roots": [
             "nas/o (nasal)",
             "rhin/o (rhinitis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -396,7 +409,8 @@
           "roots": [
             "ovari/o (ovarian)",
             "oophor/o (oophorectomy)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -404,7 +418,8 @@
           "roots": [
             "pituitary/o (hypopituitarism)",
             "hypophys/o (hypophysis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -412,7 +427,8 @@
           "roots": [
             "core/o (coreoplasty)",
             "pupill/o (iridopupillary)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -420,7 +436,8 @@
           "roots": [
             "rect/o (rectocele)",
             "proct/o (proctopexy)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -437,7 +454,8 @@
           "roots": [
             "hidr/o (hidradenitis)",
             "sudor/o (sudoresis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -445,7 +463,8 @@
           "roots": [
             "ten/o (tenodesis)",
             "tendin/o (tendinitis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -471,7 +490,8 @@
           "roots": [
             "gloss/o (glossoplegia)",
             "lingu/o (lingual)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -479,7 +499,8 @@
           "roots": [
             "vesic/o (vesical)",
             "cyst/ (cystitis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -496,7 +517,8 @@
           "roots": [
             "vagin/o (vaginal)",
             "colp/o (colposcopy)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -504,7 +526,8 @@
           "roots": [
             "ven/o (venous)",
             "phleb/o (phlebitis)",
-            "", ""
+            "",
+            ""
           ]
         },
         {
@@ -512,759 +535,452 @@
           "roots": [
             "episi/o (episiotomy)",
             "vulv/o (vulvitis)",
-            "", ""
+            "",
+            ""
           ]
         }
       ],
       "name": "Table3"
     },
     {
+      "name": "Table3 Words",
       "data": [
         {
-          "medical_term": "osteomyelitis",
-          "meaning": "inflammation of bone and bone marrow"
+          "answer": "abdominal",
+          "text": "pertaining to body cavity below diaphragm which contains stomach, intestines, liver, and other organs.",
+          "type": 0
         },
         {
-          "medical_term": "gastroenteritis",
-          "meaning": "inflammation of the stomach and small intestine"
+          "answer": "laparoscopy",
+          "text": "visual examination of the abdomen",
+          "type": 0
         },
         {
-          "medical_term": "cerebrovascular",
-          "meaning": "pertaining to the blood vessels of the largest part of the brain (cerebrum)"
+          "answer": "celiac",
+          "text": "pertaining to the abdominal cavity",
+          "type": 0
+        },
+        {
+          "answer": "adrenomegaly",
+          "text": "enlargement of the adrenal glands",
+          "type": 0
+        },
+        {
+          "answer": "adrenal",
+          "text": "pertaining to the adrenal glands",
+          "type": 0
+        },
+        {
+          "answer": "appendectomy",
+          "text": "excision of the appendix",
+          "type": 0
+        },
+        {
+          "answer": "appendicitis",
+          "text": "inflammation of the appendix",
+          "type": 0
+        },
+        {
+          "answer": "vertebral",
+          "text": "pertaining to the backbone",
+          "type": 0
+        },
+        {
+          "answer": "spondylitis",
+          "text": "inflammation of the backbone",
+          "type": 0
+        },
+        {
+          "answer": "spinal",
+          "text": "pertaining to the spine",
+          "type": 0
+        },
+        {
+          "answer": "hemoglobin",
+          "text": "protein in the blood",
+          "type": 0
+        },
+        {
+          "answer": "hematorrhachis",
+          "text": "hematorrhachis is hematorrhachis (idk)",
+          "type": 0
+        },
+        {
+          "answer": "uremia",
+          "text": "urine in the blood",
+          "type": 0
+        },
+        {
+          "answer": "angiogram",
+          "text": "record of blood vessels",
+          "type": 0
+        },
+        {
+          "answer": "vasoconstriction",
+          "text": "constriction of blood vessels",
+          "type": 0
+        },
+        {
+          "answer": "vascular",
+          "text": "pertaining to blood vessels",
+          "type": 0
+        },
+        {
+          "answer": "mammogram",
+          "text": "record of breast",
+          "type": 0
+        },
+        {
+          "answer": "mastectomy",
+          "text": "excision of breast",
+          "type": 0
+        },
+        {
+          "answer": "colostomy",
+          "text": "opening of the large intestine to the outside of the body",
+          "type": 0
+        },
+        {
+          "answer": "colonoscopy",
+          "text": "visual examination of the large intestine",
+          "type": 0
+        },
+        {
+          "answer": "xeroderma",
+          "text": "dryness of the skin",
+          "type": 0
+        },
+        {
+          "answer": "ichthyosis",
+          "text": "abnormal condition of dry skin",
+          "type": 0
+        },
+        {
+          "answer": "otorhinolaryngology",
+          "text": "study of the ear, nose, and larynx",
+          "type": 0
+        },
+        {
+          "answer": "aural",
+          "text": "pertaining to hearing",
+          "type": 0
+        },
+        {
+          "answer": "tympanic",
+          "text": "pertaining to the eardrum",
+          "type": 0
+        },
+        {
+          "answer": "myringotomy",
+          "text": "incision to the eardrum",
+          "type": 0
+        },
+        {
+          "answer": "ocular",
+          "text": "pertaining to the eye",
+          "type": 0
+        },
+        {
+          "answer": "ophthalmoscope",
+          "text": "instrument to visually examine the eyes",
+          "type": 0
+        },
+        {
+          "answer": "optician",
+          "text": "One who makes and fits corrective lenses for the eye",
+          "type": 0
+        },
+        {
+          "answer": "optical",
+          "text": "pertaining to sight",
+          "type": 0
+        },
+        {
+          "answer": "lipocele",
+          "text": "hernia containing fat",
+          "type": 0
+        },
+        {
+          "answer": "adiposis",
+          "text": "abnormal condition of fatty tissue in the body",
+          "type": 0
+        },
+        {
+          "answer": "steatosis",
+          "text": "the abnormal accumulation of fat within a cell or organ",
+          "type": 0
+        },
+        {
+          "answer": "pedograph",
+          "text": "instrument for recording the pressure exerted by the foot",
+          "type": 0
+        },
+        {
+          "answer": "podiatry",
+          "text": "study and treatment of the foot",
+          "type": 0
+        },
+        {
+          "answer": "coronary",
+          "text": "pertaining to the artery",
+          "type": 0
+        },
+        {
+          "answer": "cardiology",
+          "text": "study of the heart",
+          "type": 0
+        },
+        {
+          "answer": "renal",
+          "text": "pertaining to the kidney",
+          "type": 0
+        },
+        {
+          "answer": "nephritis",
+          "text": "inflammation of the kidney",
+          "type": 0
+        },
+        {
+          "answer": "pulmonary",
+          "text": "pulmonary is pulmonary (idk)",
+          "type": 0
+        },
+        {
+          "answer": "pneumonectomy",
+          "text": "excision of lungs",
+          "type": 0
+        },
+        {
+          "answer": "pulmoaortic",
+          "text": "pertaining to the pulmonary artery and aorta",
+          "type": 0
+        },
+        {
+          "answer": "oral",
+          "text": "pertaining to the mouth",
+          "type": 0
+        },
+        {
+          "answer": "stomatitis",
+          "text": "inflammation of the mouth",
+          "type": 0
+        },
+        {
+          "answer": "muscular",
+          "text": "pertaining to the muscles",
+          "type": 0
+        },
+        {
+          "answer": "myoma",
+          "text": "benign tumor of muscle",
+          "type": 0
+        },
+        {
+          "answer": "myositis",
+          "text": "inflammation of muscles",
+          "type": 0
+        },
+        {
+          "answer": "onychomalacia",
+          "text": "softening of nails",
+          "type": 0
+        },
+        {
+          "answer": "ungual",
+          "text": "pertaining to nails",
+          "type": 0
+        },
+        {
+          "answer": "nasal",
+          "text": "having to do with the nose",
+          "type": 0
+        },
+        {
+          "answer": "rhinitis",
+          "text": "inflammation of the nose",
+          "type": 0
+        },
+        {
+          "answer": "ovarian",
+          "text": "ovarian is ovarian (idk)",
+          "type": 0
+        },
+        {
+          "answer": "oophorectomy",
+          "text": "excision of the ovaries",
+          "type": 0
+        },
+        {
+          "answer": "hypopituitarism",
+          "text": "hypopituitarism is hypopituitarism (idk)",
+          "type": 0
+        },
+        {
+          "answer": "hypophysis",
+          "text": "pituitary gland",
+          "type": 0
+        },
+        {
+          "answer": "hypophyseal",
+          "text": "pertaining to the pituitary gland",
+          "type": 0
+        },
+        {
+          "answer": "coreoplasty",
+          "text": "surgical repair of the pupil",
+          "type": 0
+        },
+        {
+          "answer": "iridopupillary",
+          "text": "pertaining to the iris and the pupil",
+          "type": 0
+        },
+        {
+          "answer": "rectocele",
+          "text": "hernia of the rectum",
+          "type": 0
+        },
+        {
+          "answer": "proctopexy",
+          "text": "surgical fixation of the rectum",
+          "type": 0
+        },
+        {
+          "answer": "cutaneous",
+          "text": "pertaining to the skin",
+          "type": 0
+        },
+        {
+          "answer": "dermatitis",
+          "text": "inflammation of the skin",
+          "type": 0
+        },
+        {
+          "answer": "dermal",
+          "text": "pertaining to the dermis",
+          "type": 0
+        },
+        {
+          "answer": "epithelial",
+          "text": "above the skin",
+          "type": 0
+        },
+        {
+          "answer": "hidradenitis",
+          "text": "hidradenitis is hidradenitis (idk)",
+          "type": 0
+        },
+        {
+          "answer": "sudoresis",
+          "text": "profuse sweating",
+          "type": 0
+        },
+        {
+          "answer": "tenodesis",
+          "text": "binding of the tendon",
+          "type": 0
+        },
+        {
+          "answer": "tendinitis",
+          "text": "inflammation of the tendon",
+          "type": 0
+        },
+        {
+          "answer": "orchitis",
+          "text": "inflammation of the testis",
+          "type": 0
+        },
+        {
+          "answer": "orchidoplasty",
+          "text": "excision of the testis",
+          "type": 0
+        },
+        {
+          "answer": "orchiopexy",
+          "text": "fixation of the testis",
+          "type": 0
+        },
+        {
+          "answer": "thyrotoxic",
+          "text": "having excessive amounts of thyroid hormones",
+          "type": 0
+        },
+        {
+          "answer": "thyroid",
+          "text": "thyroid is thyroid (idk)",
+          "type": 0
+        },
+        {
+          "answer": "thyroadenitis",
+          "text": "inflammation of the thyroid gland",
+          "type": 0
+        },
+        {
+          "answer": "glossoplegia",
+          "text": "paralysis of the tongue",
+          "type": 0
+        },
+        {
+          "answer": "lingual",
+          "text": "pertaining to the tongue",
+          "type": 0
+        },
+        {
+          "answer": "vesical",
+          "text": "pertaining to the urinary bladder",
+          "type": 0
+        },
+        {
+          "answer": "cystitis",
+          "text": "inflammation of the urinary bladder",
+          "type": 0
+        },
+        {
+          "answer": "uterine",
+          "text": "pertaining to the uterus",
+          "type": 0
+        },
+        {
+          "answer": "hysterectomy",
+          "text": "excision of the uterus",
+          "type": 0
+        },
+        {
+          "answer": "endometrium",
+          "text": "innermost lining of the uterus",
+          "type": 0
+        },
+        {
+          "answer": "vaginal",
+          "text": "pertaining to the vagina",
+          "type": 0
+        },
+        {
+          "answer": "colposcopy",
+          "text": "visual examination of the vagina",
+          "type": 0
+        },
+        {
+          "answer": "venous",
+          "text": "pertaining to the vein",
+          "type": 0
+        },
+        {
+          "answer": "phlebitis",
+          "text": "inflammation of the vein",
+          "type": 0
+        },
+        {
+          "answer": "episiotomy",
+          "text": "incision into the perineum",
+          "type": 0
+        },
+        {
+          "answer": "vulvitis",
+          "text": "inflammation of the vulva",
+          "type": 0
         }
-      ],
-      "name": "Table10"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "dysentery",
-          "meaning": "painful intestine (disorder of a digestive tract)"
-        },
-        {
-          "medical_term": "bradycardia",
-          "meaning": "slow heart rate"
-        },
-        {
-          "medical_term": "bilateral",
-          "meaning": "pertaining to both sides"
-        },
-        {
-          "medical_term": "hemigastrectomy",
-          "meaning": "excision of half of the stomach"
-        },
-        {
-          "medical_term": "transdermal",
-          "meaning": "pertaining to across the skin"
-        }
-      ],
-      "name": "Table11"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "dysmenorrhea",
-          "meaning": "painful menstrual flow"
-        },
-        {
-          "medical_term": "amenorrhea",
-          "meaning": "lack of menstrual flow"
-        },
-        {
-          "medical_term": "antibiotic",
-          "meaning": "substances that are produced outside the body by microorganisms and primitive plants called molds"
-        }
-      ],
-      "name": "Table12"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "menorrhea",
-          "meaning": "normal menstrual flow or discharge"
-        },
-        {
-          "medical_term": "hemorrhage",
-          "meaning": "excessive bleeding"
-        },
-        {
-          "medical_term": "menorrhagia",
-          "meaning": "excessive bleeding during menstruation"
-        },
-        {
-          "medical_term": "arteriorrhaphy",
-          "meaning": "suture of an artery"
-        },
-        {
-          "medical_term": "myorrhexis",
-          "meaning": "rupture of a muscle"
-        }
-      ],
-      "name": "Table13"
-    },
-    {
-      "data": [
-        {
-          "word": "larynx",
-          "adjective": "laryngeal",
-          "noun": "laryngectomy",
-          "meaning": "excision of the larynx"
-        },
-        {
-          "word": "pharynx",
-          "adjective": "pharyngeal",
-          "noun": "pharyngotomy",
-          "meaning": "incision of the pharynx"
-        },
-        {
-          "word": "coccyx",
-          "adjective": "coccygeal",
-          "noun": "coccyges",
-          "meaning": "tailbone"
-        }
-      ],
-      "name": "Table14"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "dyspnea",
-          "meaning": "difficulty in breathing"
-        },
-        {
-          "medical_term": "pharmacy",
-          "meaning": "a place for dispensing medicine"
-        },
-        {
-          "medical_term": "xiphoid",
-          "meaning": "cartilage attached to the sternum"
-        },
-        {
-          "medical_term": "chronic",
-          "meaning": "pertaining to time (a disease that remains for a long period of time)"
-        }
-      ],
-      "name": "Table15"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "rhinoplasty",
-          "meaning": "plastic repair of the nose"
-        },
-        {
-          "medical_term": "ptosis",
-          "meaning": "drooping"
-        },
-        {
-          "medical_term": "pneumonia",
-          "meaning": "lung infection"
-        },
-        {
-          "medical_term": "gnathic",
-          "meaning": "pertaining to the jaw"
-        },
-        {
-          "medical_term": "psychiatrist",
-          "meaning": "specialist in the treatment of the mind"
-        },
-        {
-          "medical_term": "euthanasia",
-          "meaning": "painless killing of a patient suffering from an incurable disease"
-        }
-      ],
-      "name": "Table16"
-    },
-    {
-      "data": [
-        {
-          "suffix": {
-            "text": "-ia",
-            "meaning": "condition of"
-          },
-          "example": {
-            "text": "dementia",
-            "meaning": "lack of intellectual development"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ism",
-            "meaning": "state of / condition of"
-          },
-          "example": {
-            "text": "hyperthyroidism",
-            "meaning": "condition of having excessive secretion of the thyroid hormone"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-y",
-            "meaning": "condition of"
-          },
-          "example": {
-            "text": "tetany",
-            "meaning": "sustained muscle contraction"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-osis",
-            "meaning": "abnormal condition of"
-          },
-          "example": {
-            "text": "psychosis",
-            "meaning": "abnormal condition of the mind"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-iasis",
-            "meaning": "abnormal condition of"
-          },
-          "example": {
-            "text": "psoriasis",
-            "meaning": "skin disease"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-esis",
-            "meaning": "condition of"
-          },
-          "example": {
-            "text": "diuresis",
-            "meaning": "increased urination"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-asis",
-            "meaning": "condition of"
-          },
-          "example": {
-            "text": "menostasis",
-            "meaning": "stoppage of the menstrual flow"
-          }
-        }
-      ],
-      "name": "Table19"
-    },
-    {
-      "data": [
-        {
-          "suffix": {
-            "text": "-ac",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "cardiac",
-            "meaning": "pertaining to the heart"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ic",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "metric",
-            "meaning": "pertaining to measurement"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ical",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "anatomical",
-            "meaning": "pertaining to anatomy"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ar",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "vascular",
-            "meaning": "pertaining to blood vessels"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ary",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "dietary",
-            "meaning": "pertaining to the diet"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ory",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "respiratory",
-            "meaning": "pertaining to the respiratory system"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-al",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "neural",
-            "meaning": "pertaining to the nerve"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ile",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "febrile",
-            "meaning": "pertaining to fever"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-form",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "epileptiform",
-            "meaning": "pertaining to epilepsy"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ous",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "cutaneous",
-            "meaning": "pertaining to skin"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-oid",
-            "meaning": "pertaining to, or resembling"
-          },
-          "example": {
-            "text": "lymphoid",
-            "meaning": "pertaining to the lymph"
-          }
-        }
-      ],
-      "name": "Table20"
-    },
-    {
-      "data": [
-        {
-          "suffix": {
-            "text": "-tome",
-            "meaning": "instrument to incise (cutting into)"
-          },
-          "example": {
-            "text": "microtome",
-            "meaning": "instrument for cutting thin sections of tissues for microscopic study"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-tomy",
-            "meaning": "incision (the process of cutting into)"
-          },
-          "example": {
-            "text": "laparotomy",
-            "meaning": "incision into the abdomen"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-ectomy",
-            "meaning": "excision (the process of removal)"
-          },
-          "example": {
-            "text": "adenectomy",
-            "meaning": "excision of a gland"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-stomy (with one root)",
-            "meaning": "opening to the outside of the body"
-          },
-          "example": {
-            "text": "tracheostomy",
-            "meaning": "opening of the windpipe to the outside of the body"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-stomy (with more than one root)",
-            "meaning": "communication"
-          },
-          "example": {
-            "text": "colocolostomy",
-            "meaning": "communication between two unconnected parts of the large intestine (anastomosis)"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-scope",
-            "meaning": "instrument to visually examine"
-          },
-          "example": {
-            "text": "arthroscope",
-            "meaning": "instrument to visually examine joints"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-scopy",
-            "meaning": "visual examination"
-          },
-          "example": {
-            "text": "ophthalmoscopy",
-            "meaning": "visual examination of eyes"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-logy",
-            "meaning": "study of"
-          },
-          "example": {
-            "text": "gynecology",
-            "meaning": "study of women’s diseases"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-logist",
-            "meaning": "specialist in the study and treatment of"
-          },
-          "example": {
-            "text": "nephrologist",
-            "meaning": "specialist in the study of a kidney"
-          }
-        }
-      ],
-      "name": "Table4"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "bronchoscopy",
-          "meaning": "visual examination of the bronchial tubes"
-        },
-        {
-          "medical_term": "laryngoscopy",
-          "meaning": "visual examination of the larynx (voice box)"
-        },
-        {
-          "medical_term": "laparoscopy",
-          "meaning": "visual examination of the abdomen"
-        },
-        {
-          "medical_term": "gastroscopy",
-          "meaning": "visual examination of the stomach"
-        },
-        {
-          "medical_term": "arthroscopy",
-          "meaning": "visual examination of joints"
-        },
-        {
-          "medical_term": "cystoscopy",
-          "meaning": "visual examination of the urinary bladder"
-        },
-        {
-          "medical_term": "ophthalmoscopy",
-          "meaning": "visual examination of eyes"
-        },
-        {
-          "medical_term": "otoscopy",
-          "meaning": "visual examination of ears"
-        },
-        {
-          "medical_term": "sigmoidoscopy",
-          "meaning": "visual examination of the sigmoid colon"
-        },
-        {
-          "medical_term": "rhinoscopy",
-          "meaning": "visual examination of the nose"
-        },
-        {
-          "medical_term": "uroscopy",
-          "meaning": "visual examination of the urinary tract"
-        },
-        {
-          "medical_term": "colonoscopy",
-          "meaning": "visual examination of the large intestine"
-        },
-        {
-          "medical_term": "esophagoscopy",
-          "meaning": "visual examination of the esophagus (food tube)"
-        }
-      ],
-      "name": "Table5"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "cardiologist",
-          "meaning": "specialist in the study and treatment of heart diseases"
-        },
-        {
-          "medical_term": "dermatologist",
-          "meaning": "specialist in the study of skin"
-        },
-        {
-          "medical_term": "oncologist",
-          "meaning": "specialist in the study of tumors"
-        },
-        {
-          "medical_term": "nephrologist",
-          "meaning": "specialist in the study of the kidneys"
-        },
-        {
-          "medical_term": "gynecologist",
-          "meaning": "specialist in the study of women’s diseases"
-        },
-        {
-          "medical_term": "trichologist",
-          "meaning": "specialist in the study of hair"
-        },
-        {
-          "medical_term": "urologist",
-          "meaning": "specialist in the study of the urinary system"
-        },
-        {
-          "medical_term": "hematologist",
-          "meaning": "specialist in the study of the blood"
-        },
-        {
-          "medical_term": "biologist",
-          "meaning": "specialist in the study of living tissues"
-        },
-        {
-          "medical_term": "otorhinolaryngologist",
-          "meaning": "specialist in the study of the ear, nose, and larynx"
-        },
-        {
-          "medical_term": "ophthalmologist",
-          "meaning": "specialist in the study of eyes"
-        },
-        {
-          "medical_term": "endocrinologist",
-          "meaning": "specialist in the study of the endocrine system"
-        },
-        {
-          "medical_term": "gastroenterologist",
-          "meaning": "specialist in the study of the stomach and intestine"
-        }
-      ],
-      "name": "Table6"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "renal",
-          "meaning": "pertaining to a kidney"
-        },
-        {
-          "medical_term": "mastectomy",
-          "meaning": "excision of a breast"
-        },
-        {
-          "medical_term": "hepatitis",
-          "meaning": "inflammation of the liver"
-        },
-        {
-          "medical_term": "gastric",
-          "meaning": "pertaining to the stomach"
-        },
-        {
-          "medical_term": "neuralgia",
-          "meaning": "condition of having pain in the nerves"
-        }
-      ],
-      "name": "Table7"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "neurology",
-          "meaning": "study of the nervous system"
-        },
-        {
-          "medical_term": "arthroscope",
-          "meaning": "instrument to visually examine the joint"
-        },
-        {
-          "medical_term": "biopsy",
-          "meaning": "removal of a living tissue and viewing it under a microscope"
-        },
-        {
-          "medical_term": "dermatosis",
-          "meaning": "abnormal condition of the skin"
-        },
-        {
-          "medical_term": "cystoscopy",
-          "meaning": "visual examination of the urinary bladder"
-        }
-      ],
-      "name": "Table8"
-    },
-    {
-      "data": [
-        {
-          "medical_term": "adenocarcinoma",
-          "meaning": "cancerous tumor of a gland"
-        },
-        {
-          "medical_term": "electroencephalogram",
-          "meaning": "record of the electrical activity in the brain"
-        },
-        {
-          "medical_term": "duodenojejunostomy",
-          "meaning": "communication between the first and second part of the small intestine (anastomosis)"
-        }
-      ],
-      "name": "Table9"
-    },
-    {
-      "data": [
-        {
-          "word": "cervix",
-          "adjective": "cervical",
-          "meaning": "pertaining to the neck"
-        },
-        {
-          "word": "thorax",
-          "adjective": "thoracic",
-          "meaning": "pertaining to the chest"
-        }
-      ],
-      "name": "Adjectives"
-    },
-    {
-      "data": [
-        {
-          "answer": "Diagnosis",
-          "type": 0,
-          "text": "The act or process of identifying or determining the nature and cause of a disease or injury through evaluation of patient history, examination, and review of laboratory data (state of complete knowledge)."
-        },
-        {
-          "answer": "Prognosis",
-          "type": 0,
-          "text": "A prediction of the probable course and outcome of a disease (state of prior knowledge)."
-        },
-        {
-          "answer": "Sign",
-          "type": 0,
-          "text": "Objective evidence of disease or the physical manifestation of injury, illness, or disease. Objective means that the sign can be evaluated or measured by the patient or others."
-        },
-        {
-          "answer": "Symptoms",
-          "type": 0,
-          "text": "Subjective evidence of disease or what the patient experiences about the injury. Subjective means that it can be evaluated or measured only by the patient."
-        },
-        {
-          "answer": "Syndrome",
-          "type": 0,
-          "text": "A group of symptoms and signs that collectively indicate or characterize a disease, psychological disorder, or other abnormal condition."
-        },
-        {
-          "answer": "Acronym",
-          "type": 0,
-          "text": "A word formed by combining the initial letters of a multipart name or major parts of a compound term, such as GERD from Gastro Esophageal Reflux Disease."
-        },
-        {
-          "answer": "Abbreviation",
-          "type": 0,
-          "text": "A shortened form of a word or phrase used chiefly in writing to represent the complete form, such as such as AMI. for Acute Myocardial Infarction."
-        },
-        {
-          "answer": "Eponym",
-          "type": 0,
-          "text": "One whose name is or is thought to be the source of the name of something such as a disease, structure, operation, or procedure named for the person who discovered it first. For example, Marfan syndrome, Fallopian tube, Rinne test, Huntington disease, etc."
-        },
-        {
-          "answer": "Acute Disease",
-          "type": 0,
-          "text": "Rapid, severe and relatively short duration."
-        },
-        {
-          "answer": "Chronic Disease",
-          "type": 0,
-          "text": "Lasting for a long period of time or marked by frequent recurrence, as certain diseases, may be controlled but almost never cured."
-        },
-        {
-          "answer": "Relapse",
-          "type": 0,
-          "text": "A return of a disease or its symptoms after partial recovery from it."
-        },
-        {
-          "answer": "Exacerbation",
-          "type": 0,
-          "text": "An increase in the severity of the disease or any of its symptoms."
-        },
-        {
-          "answer": "Remission",
-          "type": 0,
-          "text": "The period during which the symptoms of a disease abate or subside without having achieved a cure."
-        },
-        {
-          "answer": "Differential Diagnosis",
-          "type": 0,
-          "text": "The differences between diseases in terms of clinical signs and epidemiological parameters; used as a basis for selecting as a diagnosis the one with the best fit to those seen in the subject. Also known as to rule out (R/O)."
-        },
-        {
-          "answer": "Sarcoma",
-          "type": 0,
-          "text": "A cancerous tumor of fleshy tissue."
-        },
-        {
-          "answer": "Carcinoma",
-          "type": 0,
-          "text": "A cancerous tumor of epithelial tissue."
-        },
-        {
-          "answer": "Malignant",
-          "type": 0,
-          "text": "Tending to become progressively worse and to result in death; having the properties of anaplasia, invasiveness, and metastasis; said of tumors. You can also simply define it by a cancerous tumor that spreads like fire."
-        },
-        {
-          "answer": "Benign",
-          "type": 0,
-          "text": "Not malignant; not recurrent; favorable for recovery. You can also define it by a non-cancerous tumor that does not spread."
-        },
-        {
-          "answer": "Myocardial Infarction (MI)",
-          "type": 0,
-          "text": "Death of the cells of an area of the heart muscle as a result of oxygen deprivation, which in turn is caused by obstruction of the blood supply; commonly referred to as a 'heart attack.'"
-        },
-        {
-          "answer": "Cerebrovascular Accident (CVA)",
-          "type": 0,
-          "text": "An abnormal condition of the brain characterized by occlusion by an embolus, thrombus, or cerebrovascular hemorrhage or vasospasm, resulting in ischemia of the brain tissues normally perfused by the damaged vessels; commonly referred to as a 'stroke.'"
-        },
-        {
-          "answer": "Ischemia",
-          "type": 0,
-          "text": "A condition in which blood supply is held back from a part of the body."
-        }
-      ],
-      "name": "Basic Medical Terms"
+      ]
     },
     {
       "data": [
@@ -1894,262 +1610,861 @@
     {
       "data": [
         {
-          "answer": "ilium",
-          "type": 0,
-          "text": "one of the bones of each half of the pelvis"
+          "medical_term": "osteomyelitis",
+          "meaning": "inflammation of bone and bone marrow"
         },
         {
-          "answer": "ileum",
-          "type": 0,
-          "text": "third part of the small intestine"
+          "medical_term": "gastroenteritis",
+          "meaning": "inflammation of the stomach and small intestine"
         },
         {
-          "answer": "intervertebral",
-          "type": 0,
-          "text": "pertaining to lying between two vertebrae"
-        },
-        {
-          "answer": "intravertebral",
-          "type": 0,
-          "text": "situated or occurring within a vertebra"
-        },
-        {
-          "answer": "peritoneum",
-          "type": 0,
-          "text": "membrane that surrounds the abdomen and holds the abdominal organs in place"
-        },
-        {
-          "answer": "perineum",
-          "type": 0,
-          "text": "the area between the anus and the scrotum (or vulva in females)"
-        },
-        {
-          "answer": "mucous",
-          "type": 0,
-          "text": "(adjective) pertaining to membrane that secretes mucus."
-        },
-        {
-          "answer": "mucus",
-          "type": 0,
-          "text": "(noun) secretion from mucous membrane"
-        },
-        {
-          "answer": "palpation",
-          "type": 0,
-          "text": "process of touching and feeling."
-        },
-        {
-          "answer": "palpitation",
-          "type": 0,
-          "text": "having the heart throb, a feeling that your heart is beating too hard or too fast"
-        },
-        {
-          "answer": "albumen",
-          "type": 0,
-          "text": "the white of an egg"
-        },
-        {
-          "answer": "albumin",
-          "type": 0,
-          "text": "protein molecule in the blood"
-        },
-        {
-          "answer": "humerus",
-          "type": 0,
-          "text": "(noun) bone of upper arm"
-        },
-        {
-          "answer": "humeral",
-          "type": 0,
-          "text": "pertaining to bone of upper arm (adjective)"
-        },
-        {
-          "answer": "humorous",
-          "type": 0,
-          "text": "(adjective) a general English word that means amusing or funny"
-        },
-        {
-          "answer": "humoral",
-          "type": 0,
-          "text": "pertaining to immunity to infection from antibodies in blood"
-        },
-        {
-          "answer": "contraction",
-          "type": 0,
-          "text": "normal tensing and shortening of muscle from nerve impulse"
-        },
-        {
-          "answer": "contracture",
-          "type": 0,
-          "text": "abnormal, fixed position of permanently flexed muscle"
-        },
-        {
-          "answer": "reflex",
-          "type": 0,
-          "text": "involuntary, automatic response of muscular-nervous pathway"
-        },
-        {
-          "answer": "reflux",
-          "type": 0,
-          "text": "backward flowing of fluid"
-        },
-        {
-          "answer": "ureter",
-          "type": 0,
-          "text": "(noun) tube that connects kidney to bladder"
-        },
-        {
-          "answer": "ureteral",
-          "type": 0,
-          "text": "(adjective) ureteral obstruction, ureteral stent, ureteral catheter"
-        },
-        {
-          "answer": "urethra",
-          "type": 0,
-          "text": "tube that connects bladder to outside of body"
-        },
-        {
-          "answer": "urethral",
-          "type": 0,
-          "text": "adjective of urethra"
-        },
-        {
-          "answer": "vesical",
-          "type": 0,
-          "text": "pertaining to the urinary bladder"
-        },
-        {
-          "answer": "vesicle",
-          "type": 0,
-          "text": "small fluid-filled blister on skin"
-        },
-        {
-          "answer": "prostate",
-          "type": 0,
-          "text": "gland that surrounds urethra in males"
-        },
-        {
-          "answer": "prostrate",
-          "type": 0,
-          "text": "lying in a face-down position"
-        },
-        {
-          "answer": "breath",
-          "type": 0,
-          "text": "(noun) air that flows in and out of lungs"
-        },
-        {
-          "answer": "breathe",
-          "type": 0,
-          "text": "(verb) action of inhaling and exhaling"
-        },
-        {
-          "answer": "arteri/o",
-          "type": 0,
-          "text": "artery"
-        },
-        {
-          "answer": "ather/o",
-          "type": 0,
-          "text": "plaque or fatty substance"
-        },
-        {
-          "answer": "arthr/o",
-          "type": 0,
-          "text": "joint"
-        },
-        {
-          "answer": "fissure",
-          "type": 0,
-          "text": "groove or crack-like sore of the skin. It also describes normal folds in the contour of the brain"
-        },
-        {
-          "answer": "fistula",
-          "type": 0,
-          "text": "abnormal passage between two internal organs"
-        },
-        {
-          "answer": "infection",
-          "type": 0,
-          "text": "the invasion of the body by a pathogenic organism"
-        },
-        {
-          "answer": "inflammation",
-          "type": 0,
-          "text": "localized response to an injury or destruction of tissues"
-        },
-        {
-          "answer": "laceration",
-          "type": 0,
-          "text": "torn, ragged wound"
-        },
-        {
-          "answer": "lesion",
-          "type": 0,
-          "text": "a pathologic change of the tissues to disease or injury"
-        },
-        {
-          "answer": "myc/o",
-          "type": 0,
-          "text": "fungus"
-        },
-        {
-          "answer": "myel/o",
-          "type": 0,
-          "text": "bone marrow or spinal cord"
-        },
-        {
-          "answer": "my/o",
-          "type": 0,
-          "text": "muscle"
-        },
-        {
-          "answer": "pyel/o",
-          "type": 0,
-          "text": "renal pelvis"
-        },
-        {
-          "answer": "py/o",
-          "type": 0,
-          "text": "pus"
-        },
-        {
-          "answer": "pyr/o",
-          "type": 0,
-          "text": "fever or fire"
-        },
-        {
-          "answer": "supination",
-          "type": 0,
-          "text": "the act of rotating the arm so that the palm of the hand is forward or upward"
-        },
-        {
-          "answer": "suppuration",
-          "type": 0,
-          "text": "the formation of discharge or pus"
-        },
-        {
-          "answer": "trauma",
-          "type": 0,
-          "text": "wound or injury"
-        },
-        {
-          "answer": "tumor",
-          "type": 0,
-          "text": "a swelling of a part of the body caused by an abnormal growth of tissue"
-        },
-        {
-          "answer": "viral",
-          "type": 0,
-          "text": "pertaining to a virus"
-        },
-        {
-          "answer": "virile",
-          "type": 0,
-          "text": "possessing masculine traits"
+          "medical_term": "cerebrovascular",
+          "meaning": "pertaining to the blood vessels of the largest part of the brain (cerebrum)"
         }
       ],
-      "name": "Confused Terms"
+      "name": "Table10"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "dysentery",
+          "meaning": "painful intestine (disorder of a digestive tract)"
+        },
+        {
+          "medical_term": "bradycardia",
+          "meaning": "slow heart rate"
+        },
+        {
+          "medical_term": "bilateral",
+          "meaning": "pertaining to both sides"
+        },
+        {
+          "medical_term": "hemigastrectomy",
+          "meaning": "excision of half of the stomach"
+        },
+        {
+          "medical_term": "transdermal",
+          "meaning": "pertaining to across the skin"
+        }
+      ],
+      "name": "Table11"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "dysmenorrhea",
+          "meaning": "painful menstrual flow"
+        },
+        {
+          "medical_term": "amenorrhea",
+          "meaning": "lack of menstrual flow"
+        },
+        {
+          "medical_term": "antibiotic",
+          "meaning": "substances that are produced outside the body by microorganisms and primitive plants called molds"
+        }
+      ],
+      "name": "Table12"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "menorrhea",
+          "meaning": "normal menstrual flow or discharge"
+        },
+        {
+          "medical_term": "hemorrhage",
+          "meaning": "excessive bleeding"
+        },
+        {
+          "medical_term": "menorrhagia",
+          "meaning": "excessive bleeding during menstruation"
+        },
+        {
+          "medical_term": "arteriorrhaphy",
+          "meaning": "suture of an artery"
+        },
+        {
+          "medical_term": "myorrhexis",
+          "meaning": "rupture of a muscle"
+        }
+      ],
+      "name": "Table13"
+    },
+    {
+      "data": [
+        {
+          "word": "larynx",
+          "adjective": "laryngeal",
+          "noun": "laryngectomy",
+          "meaning": "excision of the larynx"
+        },
+        {
+          "word": "pharynx",
+          "adjective": "pharyngeal",
+          "noun": "pharyngotomy",
+          "meaning": "incision of the pharynx"
+        },
+        {
+          "word": "coccyx",
+          "adjective": "coccygeal",
+          "noun": "coccyges",
+          "meaning": "tailbone"
+        }
+      ],
+      "name": "Table14"
+    },
+    {
+      "data": [
+        {
+          "word": "cervix",
+          "adjective": "cervical",
+          "meaning": "pertaining to the neck"
+        },
+        {
+          "word": "thorax",
+          "adjective": "thoracic",
+          "meaning": "pertaining to the chest"
+        }
+      ],
+      "name": "Adjectives"
+    },
+    {
+      "data": [
+        {
+          "answer": "Diagnosis",
+          "type": 0,
+          "text": "The act or process of identifying or determining the nature and cause of a disease or injury through evaluation of patient history, examination, and review of laboratory data (state of complete knowledge)."
+        },
+        {
+          "answer": "Prognosis",
+          "type": 0,
+          "text": "A prediction of the probable course and outcome of a disease (state of prior knowledge)."
+        },
+        {
+          "answer": "Sign",
+          "type": 0,
+          "text": "Objective evidence of disease or the physical manifestation of injury, illness, or disease. Objective means that the sign can be evaluated or measured by the patient or others."
+        },
+        {
+          "answer": "Symptoms",
+          "type": 0,
+          "text": "Subjective evidence of disease or what the patient experiences about the injury. Subjective means that it can be evaluated or measured only by the patient."
+        },
+        {
+          "answer": "Syndrome",
+          "type": 0,
+          "text": "A group of symptoms and signs that collectively indicate or characterize a disease, psychological disorder, or other abnormal condition."
+        },
+        {
+          "answer": "Acronym",
+          "type": 0,
+          "text": "A word formed by combining the initial letters of a multipart name or major parts of a compound term, such as GERD from Gastro Esophageal Reflux Disease."
+        },
+        {
+          "answer": "Abbreviation",
+          "type": 0,
+          "text": "A shortened form of a word or phrase used chiefly in writing to represent the complete form, such as such as AMI. for Acute Myocardial Infarction."
+        },
+        {
+          "answer": "Eponym",
+          "type": 0,
+          "text": "One whose name is or is thought to be the source of the name of something such as a disease, structure, operation, or procedure named for the person who discovered it first. For example, Marfan syndrome, Fallopian tube, Rinne test, Huntington disease, etc."
+        },
+        {
+          "answer": "Acute Disease",
+          "type": 0,
+          "text": "Rapid, severe and relatively short duration."
+        },
+        {
+          "answer": "Chronic Disease",
+          "type": 0,
+          "text": "Lasting for a long period of time or marked by frequent recurrence, as certain diseases, may be controlled but almost never cured."
+        },
+        {
+          "answer": "Relapse",
+          "type": 0,
+          "text": "A return of a disease or its symptoms after partial recovery from it."
+        },
+        {
+          "answer": "Exacerbation",
+          "type": 0,
+          "text": "An increase in the severity of the disease or any of its symptoms."
+        },
+        {
+          "answer": "Remission",
+          "type": 0,
+          "text": "The period during which the symptoms of a disease abate or subside without having achieved a cure."
+        },
+        {
+          "answer": "Differential Diagnosis",
+          "type": 0,
+          "text": "The differences between diseases in terms of clinical signs and epidemiological parameters; used as a basis for selecting as a diagnosis the one with the best fit to those seen in the subject. Also known as to rule out (R/O)."
+        },
+        {
+          "answer": "Sarcoma",
+          "type": 0,
+          "text": "A cancerous tumor of fleshy tissue."
+        },
+        {
+          "answer": "Carcinoma",
+          "type": 0,
+          "text": "A cancerous tumor of epithelial tissue."
+        },
+        {
+          "answer": "Malignant",
+          "type": 0,
+          "text": "Tending to become progressively worse and to result in death; having the properties of anaplasia, invasiveness, and metastasis; said of tumors. You can also simply define it by a cancerous tumor that spreads like fire."
+        },
+        {
+          "answer": "Benign",
+          "type": 0,
+          "text": "Not malignant; not recurrent; favorable for recovery. You can also define it by a non-cancerous tumor that does not spread."
+        },
+        {
+          "answer": "Myocardial Infarction (MI)",
+          "type": 0,
+          "text": "Death of the cells of an area of the heart muscle as a result of oxygen deprivation, which in turn is caused by obstruction of the blood supply; commonly referred to as a 'heart attack.'"
+        },
+        {
+          "answer": "Cerebrovascular Accident (CVA)",
+          "type": 0,
+          "text": "An abnormal condition of the brain characterized by occlusion by an embolus, thrombus, or cerebrovascular hemorrhage or vasospasm, resulting in ischemia of the brain tissues normally perfused by the damaged vessels; commonly referred to as a 'stroke.'"
+        },
+        {
+          "answer": "Ischemia",
+          "type": 0,
+          "text": "A condition in which blood supply is held back from a part of the body."
+        }
+      ],
+      "name": "Basic Medical Terms"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "dyspnea",
+          "meaning": "difficulty in breathing"
+        },
+        {
+          "medical_term": "pharmacy",
+          "meaning": "a place for dispensing medicine"
+        },
+        {
+          "medical_term": "xiphoid",
+          "meaning": "cartilage attached to the sternum"
+        },
+        {
+          "medical_term": "chronic",
+          "meaning": "pertaining to time (a disease that remains for a long period of time)"
+        }
+      ],
+      "name": "Table15"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "rhinoplasty",
+          "meaning": "plastic repair of the nose"
+        },
+        {
+          "medical_term": "ptosis",
+          "meaning": "drooping"
+        },
+        {
+          "medical_term": "pneumonia",
+          "meaning": "lung infection"
+        },
+        {
+          "medical_term": "gnathic",
+          "meaning": "pertaining to the jaw"
+        },
+        {
+          "medical_term": "psychiatrist",
+          "meaning": "specialist in the treatment of the mind"
+        },
+        {
+          "medical_term": "euthanasia",
+          "meaning": "painless killing of a patient suffering from an incurable disease"
+        }
+      ],
+      "name": "Table16"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-ia",
+            "meaning": "condition of"
+          },
+          "example": {
+            "text": "dementia",
+            "meaning": "lack of intellectual development"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ism",
+            "meaning": "state of / condition of"
+          },
+          "example": {
+            "text": "hyperthyroidism",
+            "meaning": "condition of having excessive secretion of the thyroid hormone"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-y",
+            "meaning": "condition of"
+          },
+          "example": {
+            "text": "tetany",
+            "meaning": "sustained muscle contraction"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-osis",
+            "meaning": "abnormal condition of"
+          },
+          "example": {
+            "text": "psychosis",
+            "meaning": "abnormal condition of the mind"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-iasis",
+            "meaning": "abnormal condition of"
+          },
+          "example": {
+            "text": "psoriasis",
+            "meaning": "skin disease"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-esis",
+            "meaning": "condition of"
+          },
+          "example": {
+            "text": "diuresis",
+            "meaning": "increased urination"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-asis",
+            "meaning": "condition of"
+          },
+          "example": {
+            "text": "menostasis",
+            "meaning": "stoppage of the menstrual flow"
+          }
+        }
+      ],
+      "name": "Table19"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-ac",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "cardiac",
+            "meaning": "pertaining to the heart"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ic",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "metric",
+            "meaning": "pertaining to measurement"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ical",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "anatomical",
+            "meaning": "pertaining to anatomy"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ar",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "vascular",
+            "meaning": "pertaining to blood vessels"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ary",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "dietary",
+            "meaning": "pertaining to the diet"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ory",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "respiratory",
+            "meaning": "pertaining to the respiratory system"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-al",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "neural",
+            "meaning": "pertaining to the nerve"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ile",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "febrile",
+            "meaning": "pertaining to fever"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-form",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "epileptiform",
+            "meaning": "pertaining to epilepsy"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ous",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "cutaneous",
+            "meaning": "pertaining to skin"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-oid",
+            "meaning": "pertaining to, or resembling"
+          },
+          "example": {
+            "text": "lymphoid",
+            "meaning": "pertaining to the lymph"
+          }
+        }
+      ],
+      "name": "Table20"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-tome",
+            "meaning": "instrument to incise (cutting into)"
+          },
+          "example": {
+            "text": "microtome",
+            "meaning": "instrument for cutting thin sections of tissues for microscopic study"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-tomy",
+            "meaning": "incision (the process of cutting into)"
+          },
+          "example": {
+            "text": "laparotomy",
+            "meaning": "incision into the abdomen"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ectomy",
+            "meaning": "excision (the process of removal)"
+          },
+          "example": {
+            "text": "adenectomy",
+            "meaning": "excision of a gland"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-stomy (with one root)",
+            "meaning": "opening to the outside of the body"
+          },
+          "example": {
+            "text": "tracheostomy",
+            "meaning": "opening of the windpipe to the outside of the body"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-stomy (with more than one root)",
+            "meaning": "communication"
+          },
+          "example": {
+            "text": "colocolostomy",
+            "meaning": "communication between two unconnected parts of the large intestine (anastomosis)"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-scope",
+            "meaning": "instrument to visually examine"
+          },
+          "example": {
+            "text": "arthroscope",
+            "meaning": "instrument to visually examine joints"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-scopy",
+            "meaning": "visual examination"
+          },
+          "example": {
+            "text": "ophthalmoscopy",
+            "meaning": "visual examination of eyes"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-logy",
+            "meaning": "study of"
+          },
+          "example": {
+            "text": "gynecology",
+            "meaning": "study of women’s diseases"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-logist",
+            "meaning": "specialist in the study and treatment of"
+          },
+          "example": {
+            "text": "nephrologist",
+            "meaning": "specialist in the study of a kidney"
+          }
+        }
+      ],
+      "name": "Table4"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "bronchoscopy",
+          "meaning": "visual examination of the bronchial tubes"
+        },
+        {
+          "medical_term": "laryngoscopy",
+          "meaning": "visual examination of the larynx (voice box)"
+        },
+        {
+          "medical_term": "laparoscopy",
+          "meaning": "visual examination of the abdomen"
+        },
+        {
+          "medical_term": "gastroscopy",
+          "meaning": "visual examination of the stomach"
+        },
+        {
+          "medical_term": "arthroscopy",
+          "meaning": "visual examination of joints"
+        },
+        {
+          "medical_term": "cystoscopy",
+          "meaning": "visual examination of the urinary bladder"
+        },
+        {
+          "medical_term": "ophthalmoscopy",
+          "meaning": "visual examination of eyes"
+        },
+        {
+          "medical_term": "otoscopy",
+          "meaning": "visual examination of ears"
+        },
+        {
+          "medical_term": "sigmoidoscopy",
+          "meaning": "visual examination of the sigmoid colon"
+        },
+        {
+          "medical_term": "rhinoscopy",
+          "meaning": "visual examination of the nose"
+        },
+        {
+          "medical_term": "uroscopy",
+          "meaning": "visual examination of the urinary tract"
+        },
+        {
+          "medical_term": "colonoscopy",
+          "meaning": "visual examination of the large intestine"
+        },
+        {
+          "medical_term": "esophagoscopy",
+          "meaning": "visual examination of the esophagus (food tube)"
+        }
+      ],
+      "name": "Table5"
+    },
+    {
+      "data": [
+        {
+          "suffix": {
+            "text": "-al",
+            "meaning": "pertaining to"
+          },
+          "example": {
+            "text": "renal",
+            "meaning": "pertaining to the kidney"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ac",
+            "meaning": "pertaining to"
+          },
+          "example": {
+            "text": "cardiac",
+            "meaning": "pertaining to the heart"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-algia",
+            "meaning": "pain"
+          },
+          "example": {
+            "text": "otalgia",
+            "meaning": "condition of pain in the ears"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-algesia",
+            "meaning": "pain"
+          },
+          "example": {
+            "text": "analgesia",
+            "meaning": "inability to feel pain"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-cyte",
+            "meaning": "cell"
+          },
+          "example": {
+            "text": "erythrocyte",
+            "meaning": "red blood cells"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-emia",
+            "meaning": "blood condition"
+          },
+          "example": {
+            "text": "uremia",
+            "meaning": "condition of having urea in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-globin",
+            "meaning": "protein"
+          },
+          "example": {
+            "text": "hemoglobin",
+            "meaning": "protein in red blood cells"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-gram",
+            "meaning": "record of"
+          },
+          "example": {
+            "text": "mammogram",
+            "meaning": "record of the breast"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ia",
+            "meaning": "condition of"
+          },
+          "example": {
+            "text": "myalgia",
+            "meaning": "condition of having pain in the muscle"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ic",
+            "meaning": "pertaining to"
+          },
+          "example": {
+            "text": "metric",
+            "meaning": "pertaining to measurement"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ics",
+            "meaning": "medical specialty"
+          },
+          "example": {
+            "text": "orthopedics",
+            "meaning": "specialty in correcting joints and the skeleton"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ist",
+            "meaning": "medical specialist"
+          },
+          "example": {
+            "text": "anesthetist",
+            "meaning": "specialist who removes all feeling or sensation"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-ism",
+            "meaning": "state of"
+          },
+          "example": {
+            "text": "hypothyroidism",
+            "meaning": "condition of low secretion of thyroid hormone in the neck"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-itis",
+            "meaning": "inflammation"
+          },
+          "example": {
+            "text": "encephalitis",
+            "meaning": "inflammation of the brain"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-megaly",
+            "meaning": "enlargement"
+          },
+          "example": {
+            "text": "hepatomegaly",
+            "meaning": "enlarged liver"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-oma",
+            "meaning": "tumor/mass"
+          },
+          "example": {
+            "text": "hepatoma",
+            "meaning": "tumor of the liver"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-oma",
+            "meaning": "tumor/mass"
+          },
+          "example": {
+            "text": "hematoma",
+            "meaning": "mass in the blood"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-oma",
+            "meaning": "tumor/mass"
+          },
+          "example": {
+            "text": "nephroma",
+            "meaning": "tumor of the kidney"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-opsy",
+            "meaning": "viewing"
+          },
+          "example": {
+            "text": "autopsy",
+            "meaning": "viewing of a dead body"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-osis",
+            "meaning": "abnormal condition of"
+          },
+          "example": {
+            "text": "stenosis",
+            "meaning": "narrowing"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-pathy",
+            "meaning": "disease"
+          },
+          "example": {
+            "text": "cardiomyopathy",
+            "meaning": "disease of the heart muscle"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-pnea",
+            "meaning": "breathing"
+          },
+          "example": {
+            "text": "eupnea",
+            "meaning": "normal breathing"
+          }
+        },
+        {
+          "suffix": {
+            "text": "-sis",
+            "meaning": "state of"
+          },
+          "example": {
+            "text": "diagnosis",
+            "meaning": "state of complete knowledge"
+          }
+        }
+      ],
+      "name": "Suffixes"
     },
     {
       "data": [
@@ -2175,241 +2490,6 @@
         }
       ],
       "name": "plegia"
-    },
-    {
-      "data": [
-        {
-          "singular": "diagnosis",
-          "plural": "diagnoses",
-          "meaning": "determination of the cause of the disease (condition of complete knowledge)"
-        },
-        {
-          "singular": "analysis",
-          "plural": "analyses",
-          "meaning": "separation of substances into their component parts"
-        },
-        {
-          "singular": "metastasis",
-          "plural": "metastases",
-          "meaning": "spreading of the cancer"
-        },
-        {
-          "singular": "psychosis",
-          "plural": "psychoses",
-          "meaning": "abnormal condition of the mind"
-        },
-        {
-          "singular": "prosthesis",
-          "plural": "prostheses",
-          "meaning": "artificial part attached to the body"
-        },
-        {
-          "singular": "calculus",
-          "plural": "calculi",
-          "meaning": "stone"
-        },
-        {
-          "singular": "bronchus",
-          "plural": "bronchi",
-          "meaning": "bronchial tubes"
-        },
-        {
-          "singular": "nucleus",
-          "plural": "nuclei",
-          "meaning": "nucleus"
-        },
-        {
-          "singular": "bacillus",
-          "plural": "bacilli",
-          "meaning": "rod-shaped bacteria"
-        },
-        {
-          "singular": "stimulus",
-          "plural": "stimuli",
-          "meaning": "something that evokes a response or a reaction"
-        },
-        {
-          "singular": "fetus",
-          "plural": "fetuses",
-          "meaning": "baby (second month of gestation)"
-        },
-        {
-          "singular": "sinus",
-          "plural": "sinuses",
-          "meaning": "hollow cavity"
-        },
-        {
-          "singular": "virus",
-          "plural": "viruses",
-          "meaning": "an ultramicroscopic infectious agent"
-        },
-        {
-          "singular": "viscus",
-          "plural": "viscera",
-          "meaning": "an internal body organ"
-        },
-        {
-          "singular": "corpus",
-          "plural": "corpora",
-          "meaning": "body"
-        },
-        {
-          "singular": "apex",
-          "plural": "apices",
-          "meaning": "pointed ends of an organ"
-        },
-        {
-          "singular": "appendix",
-          "plural": "appendices",
-          "meaning": "a supplementary part of an organ"
-        },
-        {
-          "singular": "cortex",
-          "plural": "cortices",
-          "meaning": "outer part of an organ"
-        },
-        {
-          "singular": "varix",
-          "plural": "varices",
-          "meaning": "swollen veins"
-        },
-        {
-          "singular": "matrix",
-          "plural": "matrices",
-          "meaning": "background substance mold"
-        },
-        {
-          "singular": "bacterium",
-          "plural": "bacteria",
-          "meaning": "bacteria"
-        },
-        {
-          "singular": "omentum",
-          "plural": "omenta",
-          "meaning": "abdominal membrane"
-        },
-        {
-          "singular": "ovum",
-          "plural": "ova",
-          "meaning": "egg cells"
-        },
-        {
-          "singular": "serum",
-          "plural": "sera",
-          "meaning": "liquid"
-        },
-        {
-          "singular": "ilium",
-          "plural": "ilia",
-          "meaning": "hip bone"
-        },
-        {
-          "singular": "vertebra",
-          "plural": "vertebrae",
-          "meaning": "backbone"
-        },
-        {
-          "singular": "conjunctiva",
-          "plural": "conjunctivae",
-          "meaning": "membrane over the front of the eye"
-        },
-        {
-          "singular": "bursa",
-          "plural": "bursae",
-          "meaning": "sacs of fluid near a joint"
-        },
-        {
-          "singular": "patella",
-          "plural": "patellae",
-          "meaning": "kneecap"
-        },
-        {
-          "singular": "pleura",
-          "plural": "pleurae",
-          "meaning": "one of the two membranes around the lungs"
-        },
-        {
-          "singular": "adenoma",
-          "plural": "adenomata",
-          "meaning": "benign tumor of a gland"
-        },
-        {
-          "singular": "carcinoma",
-          "plural": "carcinomata",
-          "meaning": "a cancer arising in the epithelial tissue of the skin"
-        },
-        {
-          "singular": "fibroma",
-          "plural": "fibromata",
-          "meaning": "benign tumor of fibrous tissue"
-        },
-        {
-          "singular": "sarcoma",
-          "plural": "sarcomata",
-          "meaning": "cancerous tumor of fleshy tissue"
-        },
-        {
-          "singular": "angioma",
-          "plural": "angiomata",
-          "meaning": "a tumor composed chiefly of lymph and blood vessels"
-        },
-        {
-          "singular": "spermatozoon",
-          "plural": "spermatozoa",
-          "meaning": "sperm cells"
-        },
-        {
-          "singular": "ganglion",
-          "plural": "ganglia",
-          "meaning": "group of nerve cells"
-        },
-        {
-          "singular": "protozoon",
-          "plural": "protozoa",
-          "meaning": "single-celled animals"
-        },
-        {
-          "singular": "pharynx",
-          "plural": "pharynges",
-          "meaning": "throat"
-        },
-        {
-          "singular": "larynx",
-          "plural": "larynges",
-          "meaning": "voice box"
-        },
-        {
-          "singular": "phalanx",
-          "plural": "phalanges",
-          "meaning": "bone of fingers or toes"
-        },
-        {
-          "singular": "thorax",
-          "plural": "thoraces",
-          "meaning": "chest"
-        },
-        {
-          "singular": "foramen",
-          "plural": "foramina",
-          "meaning": "opening passageways"
-        },
-        {
-          "singular": "lumen",
-          "plural": "lumina",
-          "meaning": "central opening"
-        },
-        {
-          "singular": "meningitis",
-          "plural": "meningitides",
-          "meaning": "inflammation of the membrane surrounding the brain and spinal cord"
-        },
-        {
-          "singular": "arthritis",
-          "plural": "arthritides",
-          "meaning": "inflammation of the joint"
-        }
-      ],
-      "name": "plural"
     },
     {
       "data": [
@@ -2739,237 +2819,621 @@
     {
       "data": [
         {
-          "suffix": {
-            "text": "-al",
-            "meaning": "pertaining to"
-          },
-          "example": {
-            "text": "renal",
-            "meaning": "pertaining to the kidney"
-          }
+          "medical_term": "cardiologist",
+          "meaning": "specialist in the study and treatment of heart diseases"
         },
         {
-          "suffix": {
-            "text": "-ac",
-            "meaning": "pertaining to"
-          },
-          "example": {
-            "text": "cardiac",
-            "meaning": "pertaining to the heart"
-          }
+          "medical_term": "dermatologist",
+          "meaning": "specialist in the study of skin"
         },
         {
-          "suffix": {
-            "text": "-algia",
-            "meaning": "pain"
-          },
-          "example": {
-            "text": "otalgia",
-            "meaning": "condition of pain in the ears"
-          }
+          "medical_term": "oncologist",
+          "meaning": "specialist in the study of tumors"
         },
         {
-          "suffix": {
-            "text": "-algesia",
-            "meaning": "pain"
-          },
-          "example": {
-            "text": "analgesia",
-            "meaning": "inability to feel pain"
-          }
+          "medical_term": "nephrologist",
+          "meaning": "specialist in the study of the kidneys"
         },
         {
-          "suffix": {
-            "text": "-cyte",
-            "meaning": "cell"
-          },
-          "example": {
-            "text": "erythrocyte",
-            "meaning": "red blood cells"
-          }
+          "medical_term": "gynecologist",
+          "meaning": "specialist in the study of women’s diseases"
         },
         {
-          "suffix": {
-            "text": "-emia",
-            "meaning": "blood condition"
-          },
-          "example": {
-            "text": "uremia",
-            "meaning": "condition of having urea in the blood"
-          }
+          "medical_term": "trichologist",
+          "meaning": "specialist in the study of hair"
         },
         {
-          "suffix": {
-            "text": "-globin",
-            "meaning": "protein"
-          },
-          "example": {
-            "text": "hemoglobin",
-            "meaning": "protein in red blood cells"
-          }
+          "medical_term": "urologist",
+          "meaning": "specialist in the study of the urinary system"
         },
         {
-          "suffix": {
-            "text": "-gram",
-            "meaning": "record of"
-          },
-          "example": {
-            "text": "mammogram",
-            "meaning": "record of the breast"
-          }
+          "medical_term": "hematologist",
+          "meaning": "specialist in the study of the blood"
         },
         {
-          "suffix": {
-            "text": "-ia",
-            "meaning": "condition of"
-          },
-          "example": {
-            "text": "myalgia",
-            "meaning": "condition of having pain in the muscle"
-          }
+          "medical_term": "biologist",
+          "meaning": "specialist in the study of living tissues"
         },
         {
-          "suffix": {
-            "text": "-ic",
-            "meaning": "pertaining to"
-          },
-          "example": {
-            "text": "metric",
-            "meaning": "pertaining to measurement"
-          }
+          "medical_term": "otorhinolaryngologist",
+          "meaning": "specialist in the study of the ear, nose, and larynx"
         },
         {
-          "suffix": {
-            "text": "-ics",
-            "meaning": "medical specialty"
-          },
-          "example": {
-            "text": "orthopedics",
-            "meaning": "specialty in correcting joints and the skeleton"
-          }
+          "medical_term": "ophthalmologist",
+          "meaning": "specialist in the study of eyes"
         },
         {
-          "suffix": {
-            "text": "-ist",
-            "meaning": "medical specialist"
-          },
-          "example": {
-            "text": "anesthetist",
-            "meaning": "specialist who removes all feeling or sensation"
-          }
+          "medical_term": "endocrinologist",
+          "meaning": "specialist in the study of the endocrine system"
         },
         {
-          "suffix": {
-            "text": "-ism",
-            "meaning": "state of"
-          },
-          "example": {
-            "text": "hypothyroidism",
-            "meaning": "condition of low secretion of thyroid hormone in the neck"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-itis",
-            "meaning": "inflammation"
-          },
-          "example": {
-            "text": "encephalitis",
-            "meaning": "inflammation of the brain"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-megaly",
-            "meaning": "enlargement"
-          },
-          "example": {
-            "text": "hepatomegaly",
-            "meaning": "enlarged liver"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-oma",
-            "meaning": "tumor/mass"
-          },
-          "example": {
-            "text": "hepatoma",
-            "meaning": "tumor of the liver"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-oma",
-            "meaning": "tumor/mass"
-          },
-          "example": {
-            "text": "hematoma",
-            "meaning": "mass in the blood"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-oma",
-            "meaning": "tumor/mass"
-          },
-          "example": {
-            "text": "nephroma",
-            "meaning": "tumor of the kidney"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-opsy",
-            "meaning": "viewing"
-          },
-          "example": {
-            "text": "autopsy",
-            "meaning": "viewing of a dead body"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-osis",
-            "meaning": "abnormal condition of"
-          },
-          "example": {
-            "text": "stenosis",
-            "meaning": "narrowing"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-pathy",
-            "meaning": "disease"
-          },
-          "example": {
-            "text": "cardiomyopathy",
-            "meaning": "disease of the heart muscle"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-pnea",
-            "meaning": "breathing"
-          },
-          "example": {
-            "text": "eupnea",
-            "meaning": "normal breathing"
-          }
-        },
-        {
-          "suffix": {
-            "text": "-sis",
-            "meaning": "state of"
-          },
-          "example": {
-            "text": "diagnosis",
-            "meaning": "state of complete knowledge"
-          }
+          "medical_term": "gastroenterologist",
+          "meaning": "specialist in the study of the stomach and intestine"
         }
       ],
-      "name": "Suffixes"
+      "name": "Table6"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "renal",
+          "meaning": "pertaining to a kidney"
+        },
+        {
+          "medical_term": "mastectomy",
+          "meaning": "excision of a breast"
+        },
+        {
+          "medical_term": "hepatitis",
+          "meaning": "inflammation of the liver"
+        },
+        {
+          "medical_term": "gastric",
+          "meaning": "pertaining to the stomach"
+        },
+        {
+          "medical_term": "neuralgia",
+          "meaning": "condition of having pain in the nerves"
+        }
+      ],
+      "name": "Table7"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "neurology",
+          "meaning": "study of the nervous system"
+        },
+        {
+          "medical_term": "arthroscope",
+          "meaning": "instrument to visually examine the joint"
+        },
+        {
+          "medical_term": "biopsy",
+          "meaning": "removal of a living tissue and viewing it under a microscope"
+        },
+        {
+          "medical_term": "dermatosis",
+          "meaning": "abnormal condition of the skin"
+        },
+        {
+          "medical_term": "cystoscopy",
+          "meaning": "visual examination of the urinary bladder"
+        }
+      ],
+      "name": "Table8"
+    },
+    {
+      "data": [
+        {
+          "medical_term": "adenocarcinoma",
+          "meaning": "cancerous tumor of a gland"
+        },
+        {
+          "medical_term": "electroencephalogram",
+          "meaning": "record of the electrical activity in the brain"
+        },
+        {
+          "medical_term": "duodenojejunostomy",
+          "meaning": "communication between the first and second part of the small intestine (anastomosis)"
+        }
+      ],
+      "name": "Table9"
+    },
+    {
+      "data": [
+        {
+          "answer": "ilium",
+          "type": 0,
+          "text": "one of the bones of each half of the pelvis"
+        },
+        {
+          "answer": "ileum",
+          "type": 0,
+          "text": "third part of the small intestine"
+        },
+        {
+          "answer": "intervertebral",
+          "type": 0,
+          "text": "pertaining to lying between two vertebrae"
+        },
+        {
+          "answer": "intravertebral",
+          "type": 0,
+          "text": "situated or occurring within a vertebra"
+        },
+        {
+          "answer": "peritoneum",
+          "type": 0,
+          "text": "membrane that surrounds the abdomen and holds the abdominal organs in place"
+        },
+        {
+          "answer": "perineum",
+          "type": 0,
+          "text": "the area between the anus and the scrotum (or vulva in females)"
+        },
+        {
+          "answer": "mucous",
+          "type": 0,
+          "text": "(adjective) pertaining to membrane that secretes mucus."
+        },
+        {
+          "answer": "mucus",
+          "type": 0,
+          "text": "(noun) secretion from mucous membrane"
+        },
+        {
+          "answer": "palpation",
+          "type": 0,
+          "text": "process of touching and feeling."
+        },
+        {
+          "answer": "palpitation",
+          "type": 0,
+          "text": "having the heart throb, a feeling that your heart is beating too hard or too fast"
+        },
+        {
+          "answer": "albumen",
+          "type": 0,
+          "text": "the white of an egg"
+        },
+        {
+          "answer": "albumin",
+          "type": 0,
+          "text": "protein molecule in the blood"
+        },
+        {
+          "answer": "humerus",
+          "type": 0,
+          "text": "(noun) bone of upper arm"
+        },
+        {
+          "answer": "humeral",
+          "type": 0,
+          "text": "pertaining to bone of upper arm (adjective)"
+        },
+        {
+          "answer": "humorous",
+          "type": 0,
+          "text": "(adjective) a general English word that means amusing or funny"
+        },
+        {
+          "answer": "humoral",
+          "type": 0,
+          "text": "pertaining to immunity to infection from antibodies in blood"
+        },
+        {
+          "answer": "contraction",
+          "type": 0,
+          "text": "normal tensing and shortening of muscle from nerve impulse"
+        },
+        {
+          "answer": "contracture",
+          "type": 0,
+          "text": "abnormal, fixed position of permanently flexed muscle"
+        },
+        {
+          "answer": "reflex",
+          "type": 0,
+          "text": "involuntary, automatic response of muscular-nervous pathway"
+        },
+        {
+          "answer": "reflux",
+          "type": 0,
+          "text": "backward flowing of fluid"
+        },
+        {
+          "answer": "ureter",
+          "type": 0,
+          "text": "(noun) tube that connects kidney to bladder"
+        },
+        {
+          "answer": "ureteral",
+          "type": 0,
+          "text": "(adjective) ureteral obstruction, ureteral stent, ureteral catheter"
+        },
+        {
+          "answer": "urethra",
+          "type": 0,
+          "text": "tube that connects bladder to outside of body"
+        },
+        {
+          "answer": "urethral",
+          "type": 0,
+          "text": "adjective of urethra"
+        },
+        {
+          "answer": "vesical",
+          "type": 0,
+          "text": "pertaining to the urinary bladder"
+        },
+        {
+          "answer": "vesicle",
+          "type": 0,
+          "text": "small fluid-filled blister on skin"
+        },
+        {
+          "answer": "prostate",
+          "type": 0,
+          "text": "gland that surrounds urethra in males"
+        },
+        {
+          "answer": "prostrate",
+          "type": 0,
+          "text": "lying in a face-down position"
+        },
+        {
+          "answer": "breath",
+          "type": 0,
+          "text": "(noun) air that flows in and out of lungs"
+        },
+        {
+          "answer": "breathe",
+          "type": 0,
+          "text": "(verb) action of inhaling and exhaling"
+        },
+        {
+          "answer": "arteri/o",
+          "type": 0,
+          "text": "artery"
+        },
+        {
+          "answer": "ather/o",
+          "type": 0,
+          "text": "plaque or fatty substance"
+        },
+        {
+          "answer": "arthr/o",
+          "type": 0,
+          "text": "joint"
+        },
+        {
+          "answer": "fissure",
+          "type": 0,
+          "text": "groove or crack-like sore of the skin. It also describes normal folds in the contour of the brain"
+        },
+        {
+          "answer": "fistula",
+          "type": 0,
+          "text": "abnormal passage between two internal organs"
+        },
+        {
+          "answer": "infection",
+          "type": 0,
+          "text": "the invasion of the body by a pathogenic organism"
+        },
+        {
+          "answer": "inflammation",
+          "type": 0,
+          "text": "localized response to an injury or destruction of tissues"
+        },
+        {
+          "answer": "laceration",
+          "type": 0,
+          "text": "torn, ragged wound"
+        },
+        {
+          "answer": "lesion",
+          "type": 0,
+          "text": "a pathologic change of the tissues to disease or injury"
+        },
+        {
+          "answer": "myc/o",
+          "type": 0,
+          "text": "fungus"
+        },
+        {
+          "answer": "myel/o",
+          "type": 0,
+          "text": "bone marrow or spinal cord"
+        },
+        {
+          "answer": "my/o",
+          "type": 0,
+          "text": "muscle"
+        },
+        {
+          "answer": "pyel/o",
+          "type": 0,
+          "text": "renal pelvis"
+        },
+        {
+          "answer": "py/o",
+          "type": 0,
+          "text": "pus"
+        },
+        {
+          "answer": "pyr/o",
+          "type": 0,
+          "text": "fever or fire"
+        },
+        {
+          "answer": "supination",
+          "type": 0,
+          "text": "the act of rotating the arm so that the palm of the hand is forward or upward"
+        },
+        {
+          "answer": "suppuration",
+          "type": 0,
+          "text": "the formation of discharge or pus"
+        },
+        {
+          "answer": "trauma",
+          "type": 0,
+          "text": "wound or injury"
+        },
+        {
+          "answer": "tumor",
+          "type": 0,
+          "text": "a swelling of a part of the body caused by an abnormal growth of tissue"
+        },
+        {
+          "answer": "viral",
+          "type": 0,
+          "text": "pertaining to a virus"
+        },
+        {
+          "answer": "virile",
+          "type": 0,
+          "text": "possessing masculine traits"
+        }
+      ],
+      "name": "Confused Terms"
+    },
+    {
+      "data": [
+        {
+          "singular": "diagnosis",
+          "plural": "diagnoses",
+          "meaning": "determination of the cause of the disease (condition of complete knowledge)"
+        },
+        {
+          "singular": "analysis",
+          "plural": "analyses",
+          "meaning": "separation of substances into their component parts"
+        },
+        {
+          "singular": "metastasis",
+          "plural": "metastases",
+          "meaning": "spreading of the cancer"
+        },
+        {
+          "singular": "psychosis",
+          "plural": "psychoses",
+          "meaning": "abnormal condition of the mind"
+        },
+        {
+          "singular": "prosthesis",
+          "plural": "prostheses",
+          "meaning": "artificial part attached to the body"
+        },
+        {
+          "singular": "calculus",
+          "plural": "calculi",
+          "meaning": "stone"
+        },
+        {
+          "singular": "bronchus",
+          "plural": "bronchi",
+          "meaning": "bronchial tubes"
+        },
+        {
+          "singular": "nucleus",
+          "plural": "nuclei",
+          "meaning": "nucleus"
+        },
+        {
+          "singular": "bacillus",
+          "plural": "bacilli",
+          "meaning": "rod-shaped bacteria"
+        },
+        {
+          "singular": "stimulus",
+          "plural": "stimuli",
+          "meaning": "something that evokes a response or a reaction"
+        },
+        {
+          "singular": "fetus",
+          "plural": "fetuses",
+          "meaning": "baby (second month of gestation)"
+        },
+        {
+          "singular": "sinus",
+          "plural": "sinuses",
+          "meaning": "hollow cavity"
+        },
+        {
+          "singular": "virus",
+          "plural": "viruses",
+          "meaning": "an ultramicroscopic infectious agent"
+        },
+        {
+          "singular": "viscus",
+          "plural": "viscera",
+          "meaning": "an internal body organ"
+        },
+        {
+          "singular": "corpus",
+          "plural": "corpora",
+          "meaning": "body"
+        },
+        {
+          "singular": "apex",
+          "plural": "apices",
+          "meaning": "pointed ends of an organ"
+        },
+        {
+          "singular": "appendix",
+          "plural": "appendices",
+          "meaning": "a supplementary part of an organ"
+        },
+        {
+          "singular": "cortex",
+          "plural": "cortices",
+          "meaning": "outer part of an organ"
+        },
+        {
+          "singular": "varix",
+          "plural": "varices",
+          "meaning": "swollen veins"
+        },
+        {
+          "singular": "matrix",
+          "plural": "matrices",
+          "meaning": "background substance mold"
+        },
+        {
+          "singular": "bacterium",
+          "plural": "bacteria",
+          "meaning": "bacteria"
+        },
+        {
+          "singular": "omentum",
+          "plural": "omenta",
+          "meaning": "abdominal membrane"
+        },
+        {
+          "singular": "ovum",
+          "plural": "ova",
+          "meaning": "egg cells"
+        },
+        {
+          "singular": "serum",
+          "plural": "sera",
+          "meaning": "liquid"
+        },
+        {
+          "singular": "ilium",
+          "plural": "ilia",
+          "meaning": "hip bone"
+        },
+        {
+          "singular": "vertebra",
+          "plural": "vertebrae",
+          "meaning": "backbone"
+        },
+        {
+          "singular": "conjunctiva",
+          "plural": "conjunctivae",
+          "meaning": "membrane over the front of the eye"
+        },
+        {
+          "singular": "bursa",
+          "plural": "bursae",
+          "meaning": "sacs of fluid near a joint"
+        },
+        {
+          "singular": "patella",
+          "plural": "patellae",
+          "meaning": "kneecap"
+        },
+        {
+          "singular": "pleura",
+          "plural": "pleurae",
+          "meaning": "one of the two membranes around the lungs"
+        },
+        {
+          "singular": "adenoma",
+          "plural": "adenomata",
+          "meaning": "benign tumor of a gland"
+        },
+        {
+          "singular": "carcinoma",
+          "plural": "carcinomata",
+          "meaning": "a cancer arising in the epithelial tissue of the skin"
+        },
+        {
+          "singular": "fibroma",
+          "plural": "fibromata",
+          "meaning": "benign tumor of fibrous tissue"
+        },
+        {
+          "singular": "sarcoma",
+          "plural": "sarcomata",
+          "meaning": "cancerous tumor of fleshy tissue"
+        },
+        {
+          "singular": "angioma",
+          "plural": "angiomata",
+          "meaning": "a tumor composed chiefly of lymph and blood vessels"
+        },
+        {
+          "singular": "spermatozoon",
+          "plural": "spermatozoa",
+          "meaning": "sperm cells"
+        },
+        {
+          "singular": "ganglion",
+          "plural": "ganglia",
+          "meaning": "group of nerve cells"
+        },
+        {
+          "singular": "protozoon",
+          "plural": "protozoa",
+          "meaning": "single-celled animals"
+        },
+        {
+          "singular": "pharynx",
+          "plural": "pharynges",
+          "meaning": "throat"
+        },
+        {
+          "singular": "larynx",
+          "plural": "larynges",
+          "meaning": "voice box"
+        },
+        {
+          "singular": "phalanx",
+          "plural": "phalanges",
+          "meaning": "bone of fingers or toes"
+        },
+        {
+          "singular": "thorax",
+          "plural": "thoraces",
+          "meaning": "chest"
+        },
+        {
+          "singular": "foramen",
+          "plural": "foramina",
+          "meaning": "opening passageways"
+        },
+        {
+          "singular": "lumen",
+          "plural": "lumina",
+          "meaning": "central opening"
+        },
+        {
+          "singular": "meningitis",
+          "plural": "meningitides",
+          "meaning": "inflammation of the membrane surrounding the brain and spinal cord"
+        },
+        {
+          "singular": "arthritis",
+          "plural": "arthritides",
+          "meaning": "inflammation of the joint"
+        }
+      ],
+      "name": "plural"
     }
   ]
 }
