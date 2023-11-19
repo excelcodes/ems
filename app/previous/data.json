@@ -2381,7 +2381,7 @@
         },
         {
           "text": "The correct spelling for a disease that is globally spread is pandemic.",
-          "answer": false,
+          "answer": true,
           "type": 2
         },
         {
