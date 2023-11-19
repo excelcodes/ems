@@ -1531,6 +1531,16 @@
           },
           "example": {
             "text": "sacrum",
+            "meaning": "lower back"
+          }
+        },
+        {
+          "combiningForm": {
+            "text": "sacr/o",
+            "meaning": "lower back"
+          },
+          "example": {
+            "text": "sacral",
             "meaning": "pertaining to the lower back"
           }
         },
