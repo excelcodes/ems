@@ -4776,6 +4776,160 @@
           "type": 2
         }
       ]
+    },
+    {
+      "name": "Dr.Myssan Optional Quiz Fall 2023 (another section)",
+      "data": [
+        {
+          "answer": "oophorectomy",
+          "text": "Excision of an ovary is",
+          "type": 0
+        },
+        {
+          "answer": "arteriorrhexis",
+          "text": "The word that means rupture of an artery is",
+          "type": 0
+        },
+        {
+          "answer": "subscapular, infrascapular",
+          "text": "The word ___ means pertaining to below the shoulder blades",
+          "type": 0
+        },
+        {
+          "answer": "hypothermia",
+          "text": "Decreased body temperature is termed",
+          "type": 0
+        },
+        {
+          "text": "to carry out a particular activity or process, especially in order to get information or prove facts",
+          "answer": "conduct",
+          "choices": [
+            "seek",
+            "compute",
+            "maintain",
+            "conduct"
+          ],
+          "type": 1
+        },
+        {
+          "text": "to give special attention to one particular person or thing, or to make people do this",
+          "answer": "focus",
+          "choices": [
+            "affect",
+            "conclude",
+            "focus",
+            "normalize"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Sugar is ___ in different amounts per country/region, and companies adjust their product sugar accordingly",
+          "answer": "consumed",
+          "choices": [
+            "conducted",
+            "consumed",
+            "focused",
+            "maintained"
+          ],
+          "type": 1
+        },
+        {
+          "text": "-cele is a suffix that means hernia.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "The term \"endocarditis\" means inflammation outside the heart.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "A congenital disease is developed around puberty.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "The word craniomalacia means the opposite of hardening of the skull.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Diplopia means condition of double vision.",
+          "answer": true,
+          "type": 2
+        },
+        {
+          "text": "Hypoproteinemia means the level of oxygen in the blood is lower than normal.",
+          "answer": false,
+          "type": 2
+        },
+        {
+          "text": "Anesthesia is defined as",
+          "answer": "condition of being without sensation",
+          "choices": [
+            "condition of having less than the normal number of digits on a finger or a toe",
+            "condition of having no sense of smell",
+            "condition of being without sensation",
+            "condition of having no sense of taste"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The term for surgical repair of the eyelid is",
+          "answer": "blepharoplasty",
+          "choices": [
+            "mastoplasty",
+            "tympanoplasty",
+            "valvuloplasty",
+            "blepharoplasty"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Lack of menstrual flow is called",
+          "answer": "amenorrhea",
+          "choices": [
+            "amenorrhea",
+            "menorrhagia",
+            "dysmenorrhea",
+            "menorrhea"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Choose the term that means \"before birth\"",
+          "answer": "antepartum",
+          "choices": [
+            "pronatal",
+            "antepartum",
+            "neonatal",
+            "postmortem"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which word means 'inflammation of the lung'?",
+          "answer": "pneumonitis",
+          "choices": [
+            "laryngitis",
+            "hepatitis",
+            "pneumonitis",
+            "neuritis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What do we call the bones beyond the wrist?",
+          "answer": "metacarpals",
+          "choices": [
+            "dexterity",
+            "scapula",
+            "vertebrae",
+            "metacarpals"
+          ],
+          "type": 1
+        }
+      ]
     }
   ],
   "table": []
