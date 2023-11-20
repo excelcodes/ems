@@ -1,494 +1,641 @@
 {
   "table": [],
   "review": [],
-  "practice": [{
-    "name": "difficult questions",
-    "data": [
-      {
-        "text": "painful intestine (disorder of a digestive tract)",
-        "answer": "dysentery",
-        "type": 0
-      },
-      {
-        "text": "painless killing of a patient suffering from an incurable disease",
-        "answer": "euthanasia",
-        "type": 0
-      },
-      {
-        "text": "skin disease",
-        "answer": "psoriasis",
-        "type": 0
-      },
-      {
-        "text": "increased urination",
-        "answer": "diuresis",
-        "type": 0
-      },
-      {
-        "text": "pertaining to fever",
-        "answer": "febrile",
-        "type": 0
-      },
-      {
-        "text": "abnormally large colon",
-        "answer": "megacolon",
-        "type": 0
-      },
-      {
-        "text": "early symptoms indicating illness",
-        "answer": "prodrome",
-        "type": 0
-      },
-      {
-        "text": "behind uterus",
-        "answer": "retrouterine",
-        "type": 0
-      },
-      {
-        "text": "introduction of blood into bloodstream",
-        "answer": "transfusion",
-        "type": 0
-      },
-      {
-        "text": "specialty in correcting joints and the skeleton",
-        "answer": "orthopedics",
-        "type": 0
-      },
-      {
-        "text": "discharge of pus",
-        "answer": "pyorrhea",
-        "type": 0
-      },
-      {
-        "text": "narrowing of an artery",
-        "answer": "arteriostenosis",
-        "type": 0
-      },
-      {
-        "text": "inflammation of a muscle",
-        "answer": "myositis",
-        "type": 0
-      },
-      {
-        "text": "Pertaining to the new development or growth of abnormal tissue is",
-        "answer": "neoplastic",
-        "type": 0
-      },
-      {
-        "text": "Surgical puncture to remove fluid from the sac surrounding the embryo is",
-        "answer": "amniocentesis",
-        "type": 0
-      },
-      {
-        "text": "communication between the second and third parts of the small intestine",
-        "answer": "jejunoileostomy",
-        "type": 0
-      },
-      {
-        "text": "communication between the first and second part of the small intestine (anastomosis)",
-        "answer": "duodenojejunostomy",
-        "type": 0
-      },
-      {
-        "text": "instrument to measure sound",
-        "answer": "phonoscope",
-        "type": 0
-      },
-      {
-        "text": "An imaging method that uses sound waves to produce images of structures within the body",
-        "answer": "ultrasonography",
-        "type": 0
-      },
-      {
-        "text": "Binding of pleural membranes is called",
-        "answer": "Pleurodesis",
-        "type": 0
-      },
-      {
-        "text": "instrument for incising a valve",
-        "answer": "valvotome",
-        "type": 0
-      },
-      {
-        "text": "dilatation of a vein",
-        "answer": "phlebectasia",
-        "type": 0
-      },
-      {
-        "text": "tumor of lymphatic vessels",
-        "answer": "lymphangioma",
-        "type": 0
-      },
-      {
-        "text": "a drug that induces sleep",
-        "answer": "hypnotic",
-        "type": 0
-      },
-      {
-        "text": "the irresistible urge to start a fire",
-        "answer": "pyromania",
-        "type": 0
-      },
-      {
-        "text": "compulsive use of obscene words",
-        "answer": "coprolalia",
-        "type": 0
-      },
-      {
-        "text": "tumor of fat cells",
-        "answer": "lipoma",
-        "type": 0
-      },
-      {
-        "text": "disease of the heart muscle",
-        "answer": "cardiomyopathy",
-        "type": 0
-      },
-      {
-        "text": "splitting of the retina",
-        "answer": "retinoschisis",
-        "type": 0
-      },
-      {
-        "text": "describing a colony derived from one cell is",
-        "answer": "Monoclonal",
-        "type": 0
-      },
-      {
-        "text": "A mass of blood above the membrane surrounding the brain is",
-        "answer": "epidural hematoma",
-        "type": 0
-      },
-      {
-        "text": "To separate tissues for anatomical study is called",
-        "answer": "Dissect",
-        "type": 0
-      },
-      {
-        "text": "Pertaining to behind the membrane that surrounds the abdominal cavity",
-        "answer": "retroperitoneal",
-        "type": 0
-      },
-      {
-        "text": "__ used to reduce fever",
-        "answer": "antipyretic",
-        "type": 0
-      },
-      {
-        "text": "increased pressure",
-        "answer": "hyperbaric",
-        "type": 0
-      },
-      {
-        "text": "difficulty in breathing unless upright",
-        "answer": "Orthopnea",
-        "type": 0
-      },
-      {
-        "text": "one half of the tongue",
-        "answer": "hemiglossal",
-        "type": 0
-      },
-      {
-        "text": "(of a liquid or gas) filter gradually through a porous surface or substance.",
-        "answer": "percolate",
-        "type": 0
-      },
-      {
-        "text": "stick fast to (a surface or substance)",
-        "answer": "adhere",
-        "type": 0
-      },
-      {
-        "text": "half solid",
-        "answer": "semisolid",
-        "type": 0
-      },
-      {
-        "text": "make two or more in one parts",
-        "answer": "unify",
-        "type": 0
-      },
-      {
-        "text": "before a fever (the time preceding the development of fever)",
-        "answer": "antefebrile",
-        "type": 0
-      },
-      {
-        "text": "after the cessation or stoppage of menstruation in women",
-        "answer": "postmenopause",
-        "type": 0
-      },
-      {
-        "text": "abnormally rapid mental activity",
-        "answer": "tachyphrenia",
-        "type": 0
-      },
-      {
-        "text": "originating outside the body",
-        "answer": "exogenous",
-        "type": 0
-      },
-      {
-        "text": "junction between two nerve cells",
-        "answer": "synapse",
-        "type": 0
-      },
-      {
-        "text": "abnormally deep respiration",
-        "answer": "hyperventilation",
-        "type": 0
-      },
-      {
-        "text": "high increase of cells in size",
-        "answer": "hypertrophy",
-        "type": 0
-      },
-      {
-        "text": "high increase of cells in numbers",
-        "answer": "hyperplasia",
-        "type": 0
-      },
-      {
-        "text": "composed of different materials",
-        "answer": "heterogeneous",
-        "type": 0
-      },
-      {
-        "text": "false response",
-        "answer": "pseudoreaction",
-        "type": 0
-      },
-      {
-        "text": "correcting deformity",
-        "answer": "orthotic",
-        "type": 0
-      },
-      {
-        "text": "return of partly digested food from the stomach to the mouth/backward flow",
-        "answer": "regurgitation",
-        "type": 0
-      },
-      {
-        "text": "normal production of thyroid hormone",
-        "answer": "euthyroidism",
-        "type": 0
-      },
-      {
-        "text": "tissue transplanted to another of the same species",
-        "answer": "homograft",
-        "type": 0
-      },
-      {
-        "text": "normal blood volume",
-        "answer": "normovolemia",
-        "type": 0
-      },
-      {
-        "text": "irregular condition of the skin",
-        "answer": "poikiloderma",
-        "type": 0
-      }, {
-        "text": "an organism that has two sets of chromosome",
-        "answer": "diploid",
-        "type": 0
-      }
-    ]
-  }, {
-    "name": "more practice",
-    "data": [  {
-      "text": "pertaining to the artery",
-      "answer": "coronary",
-      "type": 0
+  "practice": [
+    {
+      "name": "difficult questions",
+      "data": [
+        {
+          "text": "painful intestine (disorder of a digestive tract)",
+          "answer": "dysentery",
+          "type": 0
+        },
+        {
+          "text": "painless killing of a patient suffering from an incurable disease",
+          "answer": "euthanasia",
+          "type": 0
+        },
+        {
+          "text": "skin disease",
+          "answer": "psoriasis",
+          "type": 0
+        },
+        {
+          "text": "increased urination",
+          "answer": "diuresis",
+          "type": 0
+        },
+        {
+          "text": "pertaining to fever",
+          "answer": "febrile",
+          "type": 0
+        },
+        {
+          "text": "abnormally large colon",
+          "answer": "megacolon",
+          "type": 0
+        },
+        {
+          "text": "early symptoms indicating illness",
+          "answer": "prodrome",
+          "type": 0
+        },
+        {
+          "text": "behind uterus",
+          "answer": "retrouterine",
+          "type": 0
+        },
+        {
+          "text": "introduction of blood into bloodstream",
+          "answer": "transfusion",
+          "type": 0
+        },
+        {
+          "text": "specialty in correcting joints and the skeleton",
+          "answer": "orthopedics",
+          "type": 0
+        },
+        {
+          "text": "discharge of pus",
+          "answer": "pyorrhea",
+          "type": 0
+        },
+        {
+          "text": "narrowing of an artery",
+          "answer": "arteriostenosis",
+          "type": 0
+        },
+        {
+          "text": "inflammation of a muscle",
+          "answer": "myositis",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to the new development or growth of abnormal tissue is",
+          "answer": "neoplastic",
+          "type": 0
+        },
+        {
+          "text": "Surgical puncture to remove fluid from the sac surrounding the embryo is",
+          "answer": "amniocentesis",
+          "type": 0
+        },
+        {
+          "text": "communication between the second and third parts of the small intestine",
+          "answer": "jejunoileostomy",
+          "type": 0
+        },
+        {
+          "text": "communication between the first and second part of the small intestine (anastomosis)",
+          "answer": "duodenojejunostomy",
+          "type": 0
+        },
+        {
+          "text": "instrument to measure sound",
+          "answer": "phonoscope",
+          "type": 0
+        },
+        {
+          "text": "An imaging method that uses sound waves to produce images of structures within the body",
+          "answer": "ultrasonography",
+          "type": 0
+        },
+        {
+          "text": "Binding of pleural membranes is called",
+          "answer": "Pleurodesis",
+          "type": 0
+        },
+        {
+          "text": "instrument for incising a valve",
+          "answer": "valvotome",
+          "type": 0
+        },
+        {
+          "text": "dilatation of a vein",
+          "answer": "phlebectasia",
+          "type": 0
+        },
+        {
+          "text": "tumor of lymphatic vessels",
+          "answer": "lymphangioma",
+          "type": 0
+        },
+        {
+          "text": "a drug that induces sleep",
+          "answer": "hypnotic",
+          "type": 0
+        },
+        {
+          "text": "the irresistible urge to start a fire",
+          "answer": "pyromania",
+          "type": 0
+        },
+        {
+          "text": "compulsive use of obscene words",
+          "answer": "coprolalia",
+          "type": 0
+        },
+        {
+          "text": "tumor of fat cells",
+          "answer": "lipoma",
+          "type": 0
+        },
+        {
+          "text": "disease of the heart muscle",
+          "answer": "cardiomyopathy",
+          "type": 0
+        },
+        {
+          "text": "splitting of the retina",
+          "answer": "retinoschisis",
+          "type": 0
+        },
+        {
+          "text": "describing a colony derived from one cell is",
+          "answer": "Monoclonal",
+          "type": 0
+        },
+        {
+          "text": "A mass of blood above the membrane surrounding the brain is",
+          "answer": "epidural hematoma",
+          "type": 0
+        },
+        {
+          "text": "To separate tissues for anatomical study is called",
+          "answer": "Dissect",
+          "type": 0
+        },
+        {
+          "text": "Pertaining to behind the membrane that surrounds the abdominal cavity",
+          "answer": "retroperitoneal",
+          "type": 0
+        },
+        {
+          "text": "__ used to reduce fever",
+          "answer": "antipyretic",
+          "type": 0
+        },
+        {
+          "text": "increased pressure",
+          "answer": "hyperbaric",
+          "type": 0
+        },
+        {
+          "text": "difficulty in breathing unless upright",
+          "answer": "Orthopnea",
+          "type": 0
+        },
+        {
+          "text": "one half of the tongue",
+          "answer": "hemiglossal",
+          "type": 0
+        },
+        {
+          "text": "(of a liquid or gas) filter gradually through a porous surface or substance.",
+          "answer": "percolate",
+          "type": 0
+        },
+        {
+          "text": "stick fast to (a surface or substance)",
+          "answer": "adhere",
+          "type": 0
+        },
+        {
+          "text": "half solid",
+          "answer": "semisolid",
+          "type": 0
+        },
+        {
+          "text": "make two or more in one parts",
+          "answer": "unify",
+          "type": 0
+        },
+        {
+          "text": "before a fever (the time preceding the development of fever)",
+          "answer": "antefebrile",
+          "type": 0
+        },
+        {
+          "text": "after the cessation or stoppage of menstruation in women",
+          "answer": "postmenopause",
+          "type": 0
+        },
+        {
+          "text": "abnormally rapid mental activity",
+          "answer": "tachyphrenia",
+          "type": 0
+        },
+        {
+          "text": "originating outside the body",
+          "answer": "exogenous",
+          "type": 0
+        },
+        {
+          "text": "junction between two nerve cells",
+          "answer": "synapse",
+          "type": 0
+        },
+        {
+          "text": "abnormally deep respiration",
+          "answer": "hyperventilation",
+          "type": 0
+        },
+        {
+          "text": "high increase of cells in size",
+          "answer": "hypertrophy",
+          "type": 0
+        },
+        {
+          "text": "high increase of cells in numbers",
+          "answer": "hyperplasia",
+          "type": 0
+        },
+        {
+          "text": "composed of different materials",
+          "answer": "heterogeneous",
+          "type": 0
+        },
+        {
+          "text": "false response",
+          "answer": "pseudoreaction",
+          "type": 0
+        },
+        {
+          "text": "correcting deformity",
+          "answer": "orthotic",
+          "type": 0
+        },
+        {
+          "text": "return of partly digested food from the stomach to the mouth/backward flow",
+          "answer": "regurgitation",
+          "type": 0
+        },
+        {
+          "text": "normal production of thyroid hormone",
+          "answer": "euthyroidism",
+          "type": 0
+        },
+        {
+          "text": "tissue transplanted to another of the same species",
+          "answer": "homograft",
+          "type": 0
+        },
+        {
+          "text": "normal blood volume",
+          "answer": "normovolemia",
+          "type": 0
+        },
+        {
+          "text": "irregular condition of the skin",
+          "answer": "poikiloderma",
+          "type": 0
+        },
+        {
+          "text": "an organism that has two sets of chromosome",
+          "answer": "diploid",
+          "type": 0
+        }
+      ]
     },
     {
-      "text": "excision of lungs",
-      "answer": "pneumonectomy",
-      "type": 0
+      "name": "more practice",
+      "data": [
+        {
+          "text": "pertaining to the artery",
+          "answer": "coronary",
+          "type": 0
+        },
+        {
+          "text": "excision of lungs",
+          "answer": "pneumonectomy",
+          "type": 0
+        },
+        {
+          "text": "inflammation of the mouth",
+          "answer": "stomatitis",
+          "type": 0
+        },
+        {
+          "text": "softening of nails",
+          "answer": "onychomalacia",
+          "type": 0
+        },
+        {
+          "text": "pertaining to nails",
+          "answer": "ungual",
+          "type": 0
+        },
+        {
+          "text": "having to do with the nose",
+          "answer": "nasal",
+          "type": 0
+        },
+        {
+          "text": "pituitary gland",
+          "answer": "hypophysis",
+          "type": 0
+        },
+        {
+          "text": "pertaining to the pituitary gland",
+          "answer": "hypophyseal",
+          "type": 0
+        },
+        {
+          "text": "surgical repair of the pupil",
+          "answer": "coreoplasty",
+          "type": 0
+        },
+        {
+          "text": "pertaining to the iris and the pupil",
+          "answer": "iridopupillary",
+          "type": 0
+        },
+        {
+          "text": "hernia of the rectum",
+          "answer": "rectocele",
+          "type": 0
+        },
+        {
+          "text": "surgical fixation of the rectum",
+          "answer": "proctopexy",
+          "type": 0
+        },
+        {
+          "text": "inflammation of the sweat glands",
+          "answer": "hidradenitis",
+          "type": 0
+        },
+        {
+          "text": "profuse sweating",
+          "answer": "sudoresis",
+          "type": 0
+        },
+        {
+          "text": "binding of the tendon",
+          "answer": "tenodesis",
+          "type": 0
+        },
+        {
+          "text": "inflammation of the tendon",
+          "answer": "tendinitis",
+          "type": 0
+        },
+        {
+          "text": "inflammation of the testis",
+          "answer": "orchitis",
+          "type": 0
+        },
+        {
+          "text": "surgical repair of the testis",
+          "answer": "orchidoplasty",
+          "type": 0
+        },
+        {
+          "text": "fixation of the testis",
+          "answer": "orchiopexy",
+          "type": 0
+        },
+        {
+          "text": "inflammation of the thyroid gland",
+          "answer": "thyroadenitis",
+          "type": 0
+        },
+        {
+          "text": "visual examination of the vagina",
+          "answer": "colposcopy",
+          "type": 0
+        },
+        {
+          "text": "incision into the perineum",
+          "answer": "episiotomy",
+          "type": 0
+        },
+        {
+          "text": "inflammation of the vulva",
+          "answer": "vulvitis",
+          "type": 0
+        },
+        {
+          "text": "below the kneecap",
+          "answer": "subpatellar",
+          "type": 0
+        },
+        {
+          "text": "backbone",
+          "answer": "sacrum",
+          "type": 0
+        },
+        {
+          "text": "pertaining to the backbone",
+          "answer": "sacral",
+          "type": 0
+        },
+        {
+          "text": "pertaining to the jaw",
+          "answer": "gnathic",
+          "type": 0
+        },
+        {
+          "text": "painless killing",
+          "answer": "euthanasia",
+          "type": 0
+        },
+        {
+          "text": "sustained muscle contraction",
+          "answer": "tetany",
+          "type": 0
+        },
+        {
+          "text": "pain on urination",
+          "answer": "urodynia",
+          "type": 0
+        },
+        {
+          "text": "A vague feeling of bodily discomfort",
+          "answer": "malaise",
+          "type": 0
+        },
+        {
+          "text": "early symptoms indicating illness",
+          "answer": "prodrome",
+          "type": 0
+        },
+        {
+          "text": "Surgical repair of the eyelid",
+          "answer": "blepharoplasty",
+          "type": 0
+        },
+        {
+          "text": "complete separation of wastes from the blood",
+          "answer": "dialysis",
+          "type": 0
+        },
+        {
+          "text": "below the shoulder blades",
+          "answer": "infrascapular",
+          "type": 0
+        },
+        {
+          "text": "to cleanse so as to destroy or prevent the growth of disease-carrying microorganisms",
+          "answer": "disinfect",
+          "type": 0
+        },
+        {
+          "text": "abnormally rapid mental activity",
+          "answer": "tachyphrenia",
+          "type": 0
+        },
+        {
+          "text": "abnormally deep respiration",
+          "answer": "hyperventilation",
+          "type": 0
+        },
+        {
+          "text": "return of partly digested food from the stomach to the mouth/backward flow",
+          "answer": "regurgitation",
+          "type": 0
+        }
+      ]
     },
     {
-      "text": "inflammation of the mouth",
-      "answer": "stomatitis",
-      "type": 0
-    },
-    {
-      "text": "softening of nails",
-      "answer": "onychomalacia",
-      "type": 0
-    },
-    {
-      "text": "pertaining to nails",
-      "answer": "ungual",
-      "type": 0
-    },
-    {
-      "text": "having to do with the nose",
-      "answer": "nasal",
-      "type": 0
-    },
-    {
-      "text": "pituitary gland",
-      "answer": "hypophysis",
-      "type": 0
-    },
-    {
-      "text": "pertaining to the pituitary gland",
-      "answer": "hypophyseal",
-      "type": 0
-    },
-    {
-      "text": "surgical repair of the pupil",
-      "answer": "coreoplasty",
-      "type": 0
-    },
-    {
-      "text": "pertaining to the iris and the pupil",
-      "answer": "iridopupillary",
-      "type": 0
-    },
-    {
-      "text": "hernia of the rectum",
-      "answer": "rectocele",
-      "type": 0
-    },
-    {
-      "text": "surgical fixation of the rectum",
-      "answer": "proctopexy",
-      "type": 0
-    },
-    {
-      "text": "inflammation of the sweat glands",
-      "answer": "hidradenitis",
-      "type": 0
-    },
-    {
-      "text": "profuse sweating",
-      "answer": "sudoresis",
-      "type": 0
-    },
-    {
-      "text": "binding of the tendon",
-      "answer": "tenodesis",
-      "type": 0
-    },
-    {
-      "text": "inflammation of the tendon",
-      "answer": "tendinitis",
-      "type": 0
-    },
-    {
-      "text": "inflammation of the testis",
-      "answer": "orchitis",
-      "type": 0
-    },
-    {
-      "text": "surgical repair of the testis",
-      "answer": "orchidoplasty",
-      "type": 0
-    },
-    {
-      "text": "fixation of the testis",
-      "answer": "orchiopexy",
-      "type": 0
-    },
-    {
-      "text": "inflammation of the thyroid gland",
-      "answer": "thyroadenitis",
-      "type": 0
-    },
-    {
-      "text": "visual examination of the vagina",
-      "answer": "colposcopy",
-      "type": 0
-    },
-    {
-      "text": "incision into the perineum",
-      "answer": "episiotomy",
-      "type": 0
-    },
-    {
-      "text": "inflammation of the vulva",
-      "answer": "vulvitis",
-      "type": 0
-    },  {
-      "text": "below the kneecap",
-      "answer": "subpatellar",
-      "type": 0
-    },
-    {
-      "text": "backbone",
-      "answer": "sacrum",
-      "type": 0
-    },
-    {
-      "text": "pertaining to the backbone",
-      "answer": "sacral",
-      "type": 0
-    },
-    {
-      "text": "pertaining to the jaw",
-      "answer": "gnathic",
-      "type": 0
-    },
-    {
-      "text": "painless killing",
-      "answer": "euthanasia",
-      "type": 0
-    },
-    {
-      "text": "sustained muscle contraction",
-      "answer": "tetany",
-      "type": 0
-    },
-    {
-      "text": "pain on urination",
-      "answer": "urodynia",
-      "type": 0
-    },
-    {
-      "text": "A vague feeling of bodily discomfort",
-      "answer": "malaise",
-      "type": 0
-    },
-    {
-      "text": "early symptoms indicating illness",
-      "answer": "prodrome",
-      "type": 0
-    },
-    {
-      "text": "Surgical repair of the eyelid",
-      "answer": "blepharoplasty",
-      "type": 0
-    },
-    {
-      "text": "complete separation of wastes from the blood",
-      "answer": "dialysis",
-      "type": 0
-    },
-    {
-      "text": "below the shoulder blades",
-      "answer": "infrascapular",
-      "type": 0
-    },
-    {
-      "text": "to cleanse so as to destroy or prevent the growth of disease-carrying microorganisms",
-      "answer": "disinfect",
-      "type": 0
-    },
-    {
-      "text": "abnormally rapid mental activity",
-      "answer": "tachyphrenia",
-      "type": 0
-    },
-    {
-      "text": "abnormally deep respiration",
-      "answer": "hyperventilation",
-      "type": 0
-    },
-    {
-      "text": "return of partly digested food from the stomach to the mouth/backward flow",
-      "answer": "regurgitation",
-      "type": 0
-    }]
-  }]
+      "name": "even more practice",
+      "data": [
+        {
+          "text": "instrument for recording many physiologic responses simultaneously",
+          "answer": "polygraph",
+          "type": 0
+        },
+        {
+          "text": "middle portion of the brain",
+          "answer": "mesencephalon",
+          "type": 0
+        },
+        {
+          "text": "congestion of the liver",
+          "answer": "hepatohemia",
+          "type": 0
+        },
+        {
+          "text": "Blood infection",
+          "answer": "septicemia",
+          "type": 0
+        },
+        {
+          "text": "abdominal membrane",
+          "answer": "omentum",
+          "type": 0
+        },
+        {
+          "text": "pain in a gland",
+          "answer": "adenodynia",
+          "type": 0
+        },
+        {
+          "text": "breaking of a nucleus",
+          "answer": "karyoclasis",
+          "type": 0
+        },
+        {
+          "text": "fear of being in a public place",
+          "answer": "agoraphobia",
+          "type": 0
+        },
+        {
+          "text": "uttering words that are different from those intended",
+          "answer": "heterophasia",
+          "type": 0
+        },
+        {
+          "text": "formation of cells",
+          "answer": "Cytogenesis",
+          "type": 0
+        },
+        {
+          "text": "a cell with a large nucleus",
+          "answer": "megakaryocyte",
+          "type": 0
+        },
+        {
+          "text": "fibrous tumor of a gland",
+          "answer": "fibroadenoma",
+          "type": 0
+        },
+        {
+          "text": "large body",
+          "answer": "Macrosomia",
+          "type": 0
+        },
+        {
+          "text": "instrument that records chest sounds",
+          "answer": "phonostethograph",
+          "type": 0
+        },
+        {
+          "text": "instrument to measure sound",
+          "answer": "phonoscope",
+          "type": 0
+        },
+        {
+          "text": "instrument used to visually examine body cavity",
+          "answer": "endoscope",
+          "type": 0
+        },
+        {
+          "text": "Inflammation of the windpipe",
+          "answer": "tracheitis",
+          "type": 0
+        },
+        {
+          "text": "fungus",
+          "answer": "myc/o",
+          "type": 0
+        },
+        {
+          "text": "renal pelvis",
+          "answer": "pyel/o",
+          "type": 0
+        },
+        {
+          "text": "specialist who examines biopsies and dead bodies",
+          "answer": "pathologist",
+          "type": 0
+        },
+        {
+          "text": "Record of the spinal cord",
+          "answer": "myelogram",
+          "type": 0
+        },
+        {
+          "text": "left-handed",
+          "answer": "sinistromanual",
+          "type": 0
+        },
+        {
+          "text": "two dissimilar organisms living together",
+          "answer": "symbiosis",
+          "type": 0
+        },
+        {
+          "text": "the condition of having straight jaws",
+          "answer": "orthognathism",
+          "type": 0
+        },
+        {
+          "text": "throwing or extending toward",
+          "answer": "projectile",
+          "type": 0
+        },
+        {
+          "text": "a pathologic change of the tissues due to disease or injury",
+          "answer": "lesion",
+          "type": 0
+        },
+        {
+          "text": "torn, ragged wound",
+          "answer": "laceration",
+          "type": 0
+        }
+      ]
+    }
+  ]
 }
