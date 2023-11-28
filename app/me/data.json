@@ -167,12 +167,11 @@
         },
         {
           "text": "Which statements of the following will best define 'Adult Learning'?",
-          "answer": "A. Intellectual and psychological maturity, C. Intellectual and psychological maturity",
+          "answer": "A. Intellectual and psychological maturity",
           "choices": [
             "A. Intellectual and psychological maturity",
             "B. Intellectual and emotional maturity",
-            "C. Intellectual and psychological maturity",
-            "D. Intellectual and biological maturity"
+            "C. Intellectual and biological maturity"
           ],
           "type": 1
         },
