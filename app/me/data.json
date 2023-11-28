@@ -1,0 +1,781 @@
+{
+  "table": [],
+  "review": [],
+  "practice": [
+    {
+      "name": "Quiz",
+      "data": [
+        {
+          "text": "Which of the following best describes the process of learning?",
+          "answer": "b. Relatively permanent change in the behavior of the learner.",
+          "choices": [
+            "a. Knowledge acquisition",
+            "b. Relatively permanent change in the behavior of the learner.",
+            "c. Skill acquisition"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following defines a student-centered learning approach?",
+          "answer": "d. Emphasis on collaboration and work",
+          "choices": [
+            "a. Teacher determines the learning activities and pace.",
+            "b. Structure and expectation",
+            "c. The passive role of students as recipients of knowledge",
+            "d. Emphasis on collaboration and work"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following processes will help you in long-term memory retention?",
+          "answer": "c. Both a and b",
+          "choices": [
+            "a. Rehearsal",
+            "b. Attention",
+            "c. Both a and b"
+          ],
+          "type": 1
+        },
+        {
+          "text": "In which of the following stages do members of a group start to communicate their feelings but still view themselves as individuals rather than part of the team?",
+          "answer": "d. Storming",
+          "choices": [
+            "a. Forming",
+            "b. Adjourning",
+            "c. Norming",
+            "d. Storming",
+            "e. Performing"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following represents the third stage of constructing a concept map?",
+          "answer": "a. Layout Stage",
+          "choices": [
+            "a. Layout Stage",
+            "b. Linking Stage",
+            "c. Brainstorming Stage",
+            "d. Organizing Stage",
+            "e. Finalizing Stage",
+            "f. Revising Stage"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Medical Professionalism is the cornerstone of the medical profession, which of the following best defines professionalism?",
+          "answer": "d. The set of values, behaviors and relationships that underpins the trust public health has on doctors.",
+          "choices": [
+            "a. The rules you abide by to remain within a community or profession",
+            "b. The personal values that run to the core of your very being",
+            "c. The internal, subjective, and flexible beliefs that people hold regarding ideas or issues.",
+            "d. The set of values, behaviors and relationships that underpins the trust public health has on doctors."
+          ],
+          "type": 1
+        }
+      ]
+    },
+    {
+      "name": "Previous 48 Questions",
+      "data": [
+        {
+          "text": "The best way to forming groups for Team-Based Learning is:",
+          "answer": "D. Ensure that the group has a right mix of students with different academic strength",
+          "choices": [
+            "A. Randomly assign students to the tutorial group before the first class",
+            "B. Leave it to the students to select their preferred students",
+            "C. Ensure that the group has the right mix of students from different nationalities",
+            "D. Ensure that the group has a right mix of students with different academic strength"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A student at the college level would like to improve his academic performance he was advised to start with improving his time management skills. Which one of the following actions is more important to do?",
+          "answer": "A. Have a plan for his/her",
+          "choices": [
+            "A. Have a plan for his/her",
+            "B. Disconnect from social",
+            "C. Focus on one activity at a time",
+            "D. Develop a routine to study"
+          ],
+          "type": 1
+        },
+        {
+          "text": "All of the following instances are considered plagiarism EXCEPT:",
+          "answer": "B. Presenting a paraphrase with correcting reference",
+          "choices": [
+            "A. Copying from others work without indicating it",
+            "B. Presenting a paraphrase with correcting reference",
+            "C. Presenting of ideas, without correctly referencing",
+            "D. Presenting a paraphrase without indicating it"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Time management refers to",
+          "answer": "A. Prioritize actions",
+          "choices": [
+            "A. Prioritize actions",
+            "B. Doing your activities under pressure",
+            "C. Delaying working on the important task",
+            "D. Management of your activities by the crisis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The Johari window is a technique used to help people better understand their relationship with themselves and others. In Johari window model blind area. denotes information about you that you",
+          "answer": "B. Don't know, but others know",
+          "choices": [
+            "A. Know, but others don't know",
+            "B. Don't know, but others know",
+            "C. Neither know nor the other know",
+            "D. Both you and others know"
+          ],
+          "type": 1
+        },
+        {
+          "text": "In group dynamics; when there is a conflict between team members' natural working styles. This refers to which of the following stages?",
+          "answer": "B. Norming",
+          "choices": [
+            "A. Forming",
+            "B. Norming",
+            "C. Storming",
+            "D. Performing"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What is the importance of the reflection process in Learning?",
+          "answer": "C. Help define the deficiency",
+          "choices": [
+            "A. Help to be a passive learner",
+            "B. Development of a critical learner",
+            "C. Help define the deficiency",
+            "D. Help enjoy the learner's success"
+          ],
+          "type": 1
+        },
+        {
+          "text": "During the period between the first and second tutorial session of Problem-Based Learning students",
+          "answer": "C. Refreshing and establishing the knowledge within the group",
+          "choices": [
+            "A. Discuss what has been studied by asking questions",
+            "B. Select knowledge from appropriate sources with sufficient depth",
+            "C. Refreshing and establishing the knowledge within the group",
+            "D. Give constructive and useful feedback learning to fellow students"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which statements of the following will best define 'Adult Learning'?",
+          "answer": "A. Intellectual and psychological maturity, C. Intellectual and psychological maturity",
+          "choices": [
+            "A. Intellectual and psychological maturity",
+            "B. Intellectual and emotional maturity",
+            "C. Intellectual and psychological maturity",
+            "D. Intellectual and biological maturity"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The concept map is useful as a study strategy which helps the students",
+          "answer": "A. Structure knowledge for use in the clinical context",
+          "choices": [
+            "A. Structure knowledge for use in the clinical context",
+            "B. Develop valuable self-directed learning skills",
+            "C. Improve the value of teamwork by using computer-generated",
+            "D. Create links between different concepts in a health problem"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following is considered a positive feedback experience?",
+          "answer": "C. Active listening",
+          "choices": [
+            "A. Public Humiliation",
+            "B. Comments about personality",
+            "C. Active listening",
+            "D. One-way discussion"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Optimally effective small group work occurs when:",
+          "answer": "C. Students practice group dynamic",
+          "choices": [
+            "A. The number of students in the group increases",
+            "B. There is small number of students in the group",
+            "C. Students practice group dynamic",
+            "D. The number of students is dictated by the tutor"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The part of the Problem-Based Learning process that needs member's effort",
+          "answer": "A. Searching for learning needs",
+          "choices": [
+            "A. Searching for learning needs",
+            "B. Defining learning objectives",
+            "C. Defining the problem",
+            "D. Scribing during the session"
+          ],
+          "type": 1
+        },
+        {
+          "text": "In giving feedback, the sandwich technique is referring to:",
+          "answer": "A. Every bit of criticism between two heavy layers praise",
+          "choices": [
+            "A. Every bit of criticism between two heavy layers praise",
+            "B. Every bit of praise between two heavy layers of criticism",
+            "C. Using of I instead of you in giving the feedback",
+            "D. Using of you instead of In giving the feedback"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The Kolb's learning cycle basically involves four stages, namely: concrete experience, reflective observation, abstract conceptualization, and active experimentation, In which of the following stage, the learner trying to plan how to test a mode or theory....",
+          "answer": "D. Abstract conceptualization",
+          "choices": [
+            "A. Active experimentation",
+            "B. Concrete experience",
+            "C. Reflective observation",
+            "D. Abstract conceptualization"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following is the essential advantage of Team-Based Learning?",
+          "answer": "C. Group-accountability",
+          "choices": [
+            "A. Teacher-centered",
+            "B. Self-accountability",
+            "C. Group-accountability",
+            "D. Group-work"
+          ],
+          "type": 1
+        },
+        {
+          "text": "If you would like to conduct a research about the relationship between obesity and heart disease. If You write 'Obesity' AND 'Heart disease' Your results will include the items that contain which of the following?",
+          "answer": "A. Obesity and heart disease",
+          "choices": [
+            "A. Obesity and heart disease",
+            "B. Neither obesity or heart disease",
+            "C. Obesity",
+            "D. Heart disease"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Learning in Problem-Based Learning process follows a specific approach, which one of the following approach describe it",
+          "answer": "B. Seven-step approach",
+          "choices": [
+            "A. Team-Based Approach",
+            "B. Seven-step approach",
+            "C. Study group learning approach",
+            "D. Learning preference approach"
+          ],
+          "type": 1
+        },
+        {
+          "text": "What is the benefit of adopting Problem Based learning for students?",
+          "answer": "A. Help them define their learning needs",
+          "choices": [
+            "A. Help them define their learning needs",
+            "B. Help them to be interested in medical subject",
+            "C. Make them feel as doctor",
+            "D. Help them make friend"
+          ],
+          "type": 1
+        },
+        {
+          "text": "If you would like to retrieve a specific number of results when searching a database, for smokng. Which of the following is the proper Boolean logic you will use?",
+          "answer": "B. 'Smoking' AND 'Cancer' OR 'Nicotine'",
+          "choices": [
+            "A. 'Smoking' OR 'Cancer' OR 'Nicotine'",
+            "B. 'Smoking' AND 'Cancer' OR 'Nicotine'",
+            "C. 'Smoking' OR 'Cancer' AND 'Nicotine'",
+            "D. 'Smoking' NOT 'Cancer' NOT 'Nicotine'"
+          ],
+          "type": 1
+        },
+        {
+          "text": "As a university student, reflection is an important skill to support student-centred Leaming. Which of the following processes facilitate reflection?",
+          "answer": "C. Keeping a learning journal",
+          "choices": [
+            "A. Studying in small groups",
+            "B. Developing a mind map",
+            "C. Keeping a learning journal",
+            "D. Summarizing acquired knowledge"
+          ],
+          "type": 1
+        },
+        {
+          "text": "In group formation, when conflict and disagreements resolve, and a spirit of co-operation emerges. this refers to",
+          "answer": "C. Performing",
+          "choices": [
+            "A. Forming",
+            "B. Storming",
+            "C. Performing",
+            "D. Norming"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Small group learning is one of the educational methods to enhance student learning. Which of the following is the top advantage of using this teaching and learning methods?",
+          "answer": "C. Promote deep Learning",
+          "choices": [
+            "A. Encourage self-esteem",
+            "B. Improve search skills",
+            "C. Promote deep Learning",
+            "D. Encourage social activities"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Reflection is a good strategy that helps learners. Which of the following is the best role of the in learning?",
+          "answer": "B. Self-directed of learning gaps",
+          "choices": [
+            "A. Helping to refine the learning goals",
+            "B. Self-directed of learning gaps",
+            "C. Documentation of your work",
+            "D. Help linking the studies concepts"
+          ],
+          "type": 1
+        },
+        {
+          "text": "In Problem-Based Learning, the tutor's roles",
+          "answer": "A. Facilitating Learning",
+          "choices": [
+            "A. Facilitating Learning",
+            "B. Providing information",
+            "C. Evaluating individual student",
+            "D. Providing session objective"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following is recommended while preparing your presentation using MS PowerPoint?",
+          "answer": "C. Be consistent with the background that you use",
+          "choices": [
+            "A. Using colour for decoration.",
+            "B. Using a different colour for each point",
+            "C. Be consistent with the background that you use",
+            "D. Using Intricate or ultra-contemporary font"
+          ],
+          "type": 1
+        },
+        {
+          "text": "To have a long-term motivation for your study, which one of the following strategies is best to follow?",
+          "answer": "B. Remind your Self with your goals",
+          "choices": [
+            "A. Good time management",
+            "B. Remind your Self with your goals",
+            "C. Study with exam in mind",
+            "D. Promise yourself with a journey if you pass the exam"
+          ],
+          "type": 1
+        },
+        {
+          "text": "One of your colleagues gave a presentation. He introduced the topic very well and summarized the end very well. His body language and eye contact, Which of the following is the best way to give him effective feedback?",
+          "answer": "B. Thank him for his presentation, advise him about his slides, and thank him for his body language",
+          "choices": [
+            "A. Just provide comments about these slides that he should improve",
+            "B. Thank him for his presentation, advise him about his slides, and thank him for his body language",
+            "C. Comments about the slides then thanks him",
+            "D. Just thanks him, without detailed feedback"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Regarding the Johari window model, receiving feedback increase which of the following areas?",
+          "answer": "A. Open Self",
+          "choices": [
+            "A. Open Self",
+            "B. Behind Self",
+            "C. Hidden Self",
+            "D. Unknown Self"
+          ],
+          "type": 1
+        },
+        {
+          "text": "A university student is famous for her ability to explain complicated things in simple illustrations. What is best described learning style?",
+          "answer": "D. Visual",
+          "choices": [
+            "A. Kinesthetic",
+            "B. Writing/reading",
+            "C. Auditory",
+            "D. Visual"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The acronym 'VARK' is used to describe four modalities of student learning styles. The acronym refers to which of the following?",
+          "answer": "C. Visual, Auditory, Read/Write preferences and Kinesthetic",
+          "choices": [
+            "A. Verbal, Auditory, Read/Write preferences and Kinesthetic",
+            "B. Vocal, Auditory, Read/Write preferences and Kinesthetic",
+            "C. Visual, Auditory, Read/Write preferences and Kinesthetic",
+            "D. Versatile, Auditory, Read/Write preferences and Kinesthetic"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Following analysis of a student's response to VARK learning styles, she found that her preferred learning style is kinesthetic. That means",
+          "answer": "C. Having a practical session where she handles things",
+          "choices": [
+            "A. The teacher provides clear handouts",
+            "B. She listens to audio tapes",
+            "C. Having a practical session where she handles things",
+            "D. Information is presented in pictures or diagrams"
+          ],
+          "type": 1
+        },
+        {
+          "text": "When using an asterisk (*) as a truncation system for searching in the database, if you type ... execute the search you will retrieve documents that contain the following words:",
+          "answer": "B. Smoke, Smokers, Smoking",
+          "choices": [
+            "A. Smoke, Health, Smoking",
+            "B. Smoke, Smokers, Smoking",
+            "C. Smoke, Nicotine, Smoking",
+            "D. Smoke, cancer, Smoking"
+          ],
+          "type": 1
+        },
+        {
+          "text": "The aim of medical education is to graduate which type of health practitioner?",
+          "answer": "A. Safe",
+          "choices": [
+            "A. Safe",
+            "B. Scholar",
+            "C. Manager",
+            "D. Communicator"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following is considered as one of the best searching engines for health professionals?",
+          "answer": "C. PubMed",
+          "choices": [
+            "A. Wikipedia",
+            "B. Google",
+            "C. PubMed",
+            "D. Yahoo"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following statements best define the process of Learning?",
+          "answer": "B. The process that leads to change in practice",
+          "choices": [
+            "A. The process of Acquiring new knowledge",
+            "B. The process that leads to change in practice",
+            "C. The process that leads to understanding",
+            "D. The process of knowledge analysis"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following is the main characteristic of academic writing?",
+          "answer": "A. It is Formal",
+          "choices": [
+            "A. It is Formal",
+            "B. There is exaggeration",
+            "C. Authors use personal pronouns",
+            "D. Include final judgment"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following is a correct sequence in Team-based Learning?",
+          "answer": "B. Pre class preparation, iRAT, tRAT, tAPP",
+          "choices": [
+            "A. iRAT, Pre work, tRAT, tAPP",
+            "B. Pre class preparation, iRAT, tRAT, tAPP",
+            "C. tRAT, iRAT, Pre work, tAPP",
+            "D. Pre work, tAPP, tRAT, iRAT"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following is the best way to search for a topic?",
+          "answer": "C. Keywords",
+          "choices": [
+            "A. The full title of the item",
+            "B. Author name",
+            "C. Keywords",
+            "D. ISSN"
+          ],
+          "type": 1
+        },
+        {
+          "text": "In the first tutorial session of Problem-Based Learning, the students perform which of the following?",
+          "answer": "D. Identifying the learning issues",
+          "choices": [
+            "A. Listen carefully to the information provided by the tutor",
+            "B. Individually read the health problem",
+            "C. Take an individual readiness assurance test",
+            "D. Identifying the learning issues"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Literature about available treatments of Epilepsy would be retrieved using the search",
+          "answer": "C. Epilepsy AND treatment",
+          "choices": [
+            "A. Epilepsy OR treatment",
+            "B. Epilepsy * OR treatment",
+            "C. Epilepsy AND treatment",
+            "D. Epilepsy NOT treatment"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Failure to give credit or to cite your resources is called?",
+          "answer": "C. Plagiarism",
+          "choices": [
+            "A. Copyright",
+            "B. Abstracting",
+            "C. Plagiarism",
+            "D. Searching"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Problem-Based Learning is a learning method that allows students to:",
+          "answer": "D. Critical think",
+          "choices": [
+            "A. Pass examinations",
+            "B. Recall information",
+            "C. Give a good presentation",
+            "D. Critical think"
+          ],
+          "type": 1
+        },
+        {
+          "text": "In group formation, when conflict arises between team members as power and status are",
+          "answer": "B. Storming",
+          "choices": [
+            "A. Forming",
+            "B. Storming",
+            "C. Performing",
+            "D. Norming"
+          ],
+          "type": 1
+        },
+        {
+          "text": "In time management, for tasks that are both urgent and important, we sh...",
+          "answer": "B. Manage",
+          "choices": [
+            "A. Avoid",
+            "B. Manage",
+            "C. Focus",
+            "D. Ignore"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Body language is a significant part of the key elements of communication skills. How much does it comprise in successful communication?",
+          "answer": "D. 55%",
+          "choices": [
+            "A. 7%",
+            "B. 28%",
+            "C. 38%",
+            "D. 55%"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following roles is a key one for students in Problem-Based Learning?",
+          "answer": "B. Solving the problem",
+          "choices": [
+            "A. Generating learning objectives",
+            "B. Solving the problem",
+            "C. Providing the diagnosis for the case",
+            "D. Resolving conflicts between group members"
+          ],
+          "type": 1
+        },
+        {
+          "text": "Which of the following phases should be followed to develop a good concept map?",
+          "answer": "B. Brainstorming, organizing, layout, and linking phase",
+          "choices": [
+            "A. Organizing, brainstorming, layout, and linking phase",
+            "B. Brainstorming, organizing, layout, and linking phase",
+            "C. Brainstorming, layout, organizing, and linking phase",
+            "D. Linking phase brainstorming, layout, and organizing"
+          ],
+          "type": 1
+        }
+      ]
+    },
+    {
+      "name": "IRAT GRAT",
+      "data": [
+        {
+          "text": "1. Advantages of small group learning include which of the following statements:",
+          "answer": "C. Encouragement of self-learning, critical thinking and awareness of group members' views.",
+          "choices": [
+            "A. Increase knowledge coverage of the subject",
+            "B. Test personal knowledge against group members",
+            "C. Encouragement of self-learning, critical thinking and awareness of group members' views.",
+            "D. Increase probability of passing examination."
+          ],
+          "type": 1
+        },
+        {
+          "text": "2. Successful small groups are based on!",
+          "answer": "C. Creating of trust, collaboration, and achievement",
+          "choices": [
+            "A. Previously knowing each other.",
+            "B. Having the same culture and beliefs.",
+            "C. Creating of trust, collaboration, and achievement",
+            "D. Having a strong leadership."
+          ],
+          "type": 1
+        },
+        {
+          "text": "3. Tuckman's stages of group development are:",
+          "answer": "D. Forming, storming, norming, and performing.",
+          "choices": [
+            "A. Forming, performing, and adjusting.",
+            "B. Discussing, informing, and storming.",
+            "C. Reviewing, norming, and discussing.",
+            "D. Forming, storming, norming, and performing."
+          ],
+          "type": 1
+        },
+        {
+          "text": "4. In small group learning, the tutor's most important role is to:",
+          "answer": "B. Facilitate learning.",
+          "choices": [
+            "A. Provide information.",
+            "B. Facilitate learning.",
+            "C. Evaluate individual student.",
+            "D. Provide session objective."
+          ],
+          "type": 1
+        },
+        {
+          "text": "5. Good small group learning is characterized by:",
+          "answer": "C. Student participation and interaction.",
+          "choices": [
+            "A. Good teaching by a knowledgeable teacher.",
+            "B. Students are good listeners and take notes.",
+            "C. Student participation and interaction.",
+            "D. Students come prepared."
+          ],
+          "type": 1
+        },
+        {
+          "text": "6. Which of the following is an important advantage of small group learning?",
+          "answer": "C. Promotes deeper understanding of the task.",
+          "choices": [
+            "A. Recall of information.",
+            "B. Develop competitive skills.",
+            "C. Promotes deeper understanding of the task.",
+            "D. Develop clinical skills."
+          ],
+          "type": 1
+        },
+        {
+          "text": "7. Characteristics of a small-group work involve:",
+          "answer": "B. Student interaction and group work.",
+          "choices": [
+            "A. Small number of students only taking part in the discussion.",
+            "B. Student interaction and group work.",
+            "C. Tutor dominates the discussion.",
+            "D. Reflection is done at the beginning of work."
+          ],
+          "type": 1
+        },
+        {
+          "text": "8. Optimally effective small group work occurs when:",
+          "answer": "B. There is a small number of students in the group.",
+          "choices": [
+            "A. The number of student in the group increases.",
+            "B. There is a small number of students in the group.",
+            "C. A few students dominate the discussion.",
+            "D. The number of student is dictated by the tutor."
+          ],
+          "type": 1
+        },
+        {
+          "text": "9. Advantages of using small group teaching include all of the following EXCEPT:",
+          "answer": "D. Encourages independent learner.",
+          "choices": [
+            "A. Familiarizes students with an adult approach to learning.",
+            "B. Encourages problem-solving skills.",
+            "C. Encourages participation.",
+            "D. Encourages independent learner."
+          ],
+          "type": 1
+        },
+        {
+          "text": "10. Small group sessions include:",
+          "answer": "D. All of the above.",
+          "choices": [
+            "A. Seminars.",
+            "B. Workshops.",
+            "C. Problem-based learning tutorials.",
+            "D. All of the above."
+          ],
+          "type": 1
+        },
+        {
+          "text": "11. Issues of importance during group work include all of the following EXCEPT:",
+          "answer": "C. Participation of tutors.",
+          "choices": [
+            "A. Control of dominant students and encouragement of quieter ones.",
+            "B. Interpretation and synthesis of information.",
+            "C. Participation of tutors.",
+            "D. Development of time management skills."
+          ],
+          "type": 1
+        },
+        {
+          "text": "12. Role of students in small group work includes all of the following EXCEPT:",
+          "answer": "C. No involvement in assessment and evaluation.",
+          "choices": [
+            "A. Undertaking prior reading.",
+            "B. Reflecting effectively on the issues raised.",
+            "C. No involvement in assessment and evaluation.",
+            "D. Active contribution to the conduct of the session."
+          ],
+          "type": 1
+        },
+        {
+          "text": "13. Which of the following best describes 'Storming' stage of small group development?",
+          "answer": "B. Conflict, dissatisfaction, and competition.",
+          "choices": [
+            "A. Setting up rules and norms of behavior.",
+            "B. Conflict, dissatisfaction, and competition.",
+            "C. Clarity regarding roles and responsibilities.",
+            "D. All of the above."
+          ],
+          "type": 1
+        },
+        {
+          "text": "14. Which of the following best describes 'Forming' stage of small group development?",
+          "answer": "D. All of the above.",
+          "choices": [
+            "A. Determining each member's strengths and weaknesses.",
+            "B. Developing a sense of group identity and ways of behaving.",
+            "C. Form of trust within the group.",
+            "D. All of the above."
+          ],
+          "type": 1
+        },
+        {
+          "text": "15. The recent trend to small group work is indicative of the movement from a student-centered approach to a more teacher-centered approach to education. However, the reasons for choosing small groups should be dictated by the educational objectives of the session.",
+          "answer": "B. The first statement is false, the second statement is true.",
+          "choices": [
+            "A. The first statement is true, the second statement is false.",
+            "B. The first statement is false, the second statement is true.",
+            "C. Both statements are true.",
+            "D. Both statements are false."
+          ],
+          "type": 1
+        }
+      ]
+    }
+  ]
+}
