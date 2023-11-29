@@ -287,7 +287,7 @@
         },
         {
           "text": "If you would like to retrieve a specific number of results when searching a database, for smokng. Which of the following is the proper Boolean logic you will use?",
-          "answer": "B. 'Smoking' AND 'Cancer' OR 'Nicotine'",
+          "answer": "D. 'Smoking' NOT 'Cancer' NOT 'Nicotine'",
           "choices": [
             "A. 'Smoking' OR 'Cancer' OR 'Nicotine'",
             "B. 'Smoking' AND 'Cancer' OR 'Nicotine'",
