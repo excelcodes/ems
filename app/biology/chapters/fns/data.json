@@ -6,17 +6,6 @@
       "name": "Challenging Questions",
       "data": [
         {
-          "text": "A thirsty person seeing and then lifting a glass of water is an example of which function of the nervous system?",
-          "choices": [
-            "Sensory input",
-            "Integration",
-            "Motor output",
-            "Sensory processing"
-          ],
-          "answer": "Integration",
-          "type": 1
-        },
-        {
           "text": "While driving, you see a red light ahead. Which division of the nervous system is responsible for interpreting this information and dictating the motor output?",
           "choices": [
             "Peripheral nervous system",
