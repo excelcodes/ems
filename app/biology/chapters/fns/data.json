@@ -292,17 +292,6 @@
           "type": 1
         },
         {
-          "text": "What is the exception to the rule of neurons being amitotic?",
-          "choices": [
-            "Olfactory epithelium",
-            "Spinal cord",
-            "Peripheral nerves",
-            "Hippocampal regions"
-          ],
-          "answer": "Olfactory epithelium",
-          "type": 1
-        },
-        {
           "text": "Which part of the nervous system loses the ability to divide as neurons assume their roles as communicating links?",
           "choices": [
             "Spinal cord",
