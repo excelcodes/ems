@@ -1418,10 +1418,10 @@
           "choices": [
             "Electrical synapses are faster than chemical synapses.",
             "Electrical synapses have a synaptic cleft, while chemical synapses do not.",
-            "Chemical synapses allow direct ion flow between neurons, while electrical synapses rely on neurotransmitters.",
+            "Chemical synapses rely on neurotransmitters for communication between neurons, while electrical synapses allow direct ion flow through gap junctions.",
             "Chemical synapses convert electrical signals to chemical signals, while electrical synapses convert chemical signals to electrical signals."
           ],
-          "answer": "Chemical synapses allow direct ion flow between neurons, while electrical synapses rely on neurotransmitters.",
+          "answer": "Chemical synapses rely on neurotransmitters for communication between neurons, while electrical synapses allow direct ion flow through gap junctions.",
           "type": 1
         },
         {
