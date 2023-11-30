@@ -1394,12 +1394,12 @@
         {
           "text": "What is the postsynaptic neuron?",
           "choices": [
-            "The neuron conducting impulses away from the synapse",
+            "The neuron transmitting the electrical signal away from the synapse",
             "The neuron transmitting the electrical signal across the synapse",
-            "The neuron receiving the information",
+            "The neuron that releases neurotransmitters at the synapse",
             "The neuron conducting impulses toward the synapse"
           ],
-          "answer": "The neuron transmitting the electrical signal across the synapse",
+          "answer": "The neuron transmitting the electrical signal away from the synapse",
           "type": 1
         },
         {
