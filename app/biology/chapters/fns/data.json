@@ -163,11 +163,11 @@
           "text": "In the PNS, which cell type supports nerve fibers and forms myelin sheaths around axons?",
           "choices": [
             "Astrocytes",
+            "Schwann cells",
             "Satellite cells",
-            "Microglial cells",
             "Oligodendrocytes"
           ],
-          "answer": "Satellite cells",
+          "answer": "Schwann cells",
           "type": 1
         },
         {
