@@ -572,7 +572,7 @@
             "Multipolar neuron",
             "Bipolar neuron",
             "Unipolar neuron",
-            "Pseudounipolar neuron"
+            "Tetrahydrounipolar neuron"
           ],
           "answer": "Unipolar neuron",
           "type": 1
