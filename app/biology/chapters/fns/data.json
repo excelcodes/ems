@@ -589,20 +589,9 @@
           "type": 1
         },
         {
-          "text": "What is the function of the outer collar of perinuclear cytoplasm in Schwann cells?",
-          "choices": [
-            "Forming myelin sheaths",
-            "Conducting nerve impulses",
-            "Regulating neurotransmitter release",
-            "Storing genetic material"
-          ],
-          "answer": "Regulating neurotransmitter release",
-          "type": 1
-        },
-        {
           "text": "What distinguishes the myelin sheaths in the CNS from those in the PNS?",
           "choices": [
-            "Presence of perinuclear cytoplasm",
+            "Color of the myelin sheaths",
             "Lack of nodes of Ranvier",
             "Formation by oligodendrocytes",
             "Insufficient electrical insulation"
