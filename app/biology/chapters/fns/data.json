@@ -1108,12 +1108,12 @@
         {
           "text": "At what membrane potential does depolarization become self-generating?",
           "choices": [
-            "270 mV",
-            "255 mV to 250 mV",
-            "0 mV",
-            "100 mV"
+            "-270 mV",
+            "between -255 mV and -250 mV",
+            "between -55 mV and -50 mV",
+            "-100 mV"
           ],
-          "answer": "255 mV to 250 mV",
+          "answer": "between -55 mV and -50 mV",
           "type": 1
         },
         {
