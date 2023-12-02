@@ -1130,12 +1130,12 @@
         {
           "text": "What happens during the repolarization phase of an action potential?",
           "choices": [
-            "Na⁺ channels open",
+            "Na⁺ channels are deactivated",
             "Na⁺ influx increases",
             "Voltage-gated K⁺ channels close",
             "Membrane permeability to Na⁺ increases"
           ],
-          "answer": "Voltage-gated K⁺ channels close",
+          "answer": "Na⁺ channels are deactivated",
           "type": 1
         },
         {
