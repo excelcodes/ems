@@ -18,7 +18,9 @@ export default function App({ children }) {
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=.6" />
       </head>
-      <body>{children}</body>
+  {
+    /* <body>{children}</body> */
+  }
     <body>see you next semester &#60;3</body>
     </html>
   )
